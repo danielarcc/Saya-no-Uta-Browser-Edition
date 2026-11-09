@@ -44,7 +44,6 @@ O preparador deverá escrever um arquivo `public/content/index.json` e copiar os
 
 ## Fluxo previsto
 
-1. O futuro `preparar.py` analisa os arquivos, monta e valida referências e cria `public/content/index.json`.
 2. Você executa `npm run dev` (ou `npm run build` para gerar a versão compilada).
 3. O navegador carrega o manifesto automaticamente. **Start** usa `entry`; **Continue** usa saves daquele conteúdo.
 
