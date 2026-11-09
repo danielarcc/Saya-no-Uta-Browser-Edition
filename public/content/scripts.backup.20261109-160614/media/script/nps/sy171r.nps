@@ -1,0 +1,54 @@
+//凉子に電話
+<MARKER NAME="#凉子">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="media/sound/涼子携帯音.ogg" mode="normal" loop="off">
+<BACKGROUND SRC="media/cg/bf04no0.png">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+
+  The ringing of her cell phone interrupts Ryoko's labors.<K> When she sees that the caller is Tonoh Koji, she unwittingly breathes a sigh of relief.<se id="1" src="media/sound/携帯ボタン.ogg" mode="normal" loop="off"><k>
+<voice name="凉子" SRC="media/voice/36/000106.ogg">  "This is Tanbo. What is it?"<K>
+<voice name="耕司" SRC="media/voice/36/000202.ogg">  "I've searched Fuminori's house."<K>
+  Even over the phone, Ryoko can hear the change in Koji's tone. His is the dull, flat voice of someone who has had all the energy beaten out of him.
+
+<voice name="耕司" SRC="media/voice/36/000302.ogg">  "Fuminori has... murdered people.<k><voice name="耕司" SRC="media/voice/36/000302_2.ogg"> He's killed too many people to count, and he's... eating them."<K>
+<voice name="凉子" SRC="media/voice/36/000406.ogg">  "......"<K>
+  His first steps into Ryoko's world have already brought him face-to-face with something particularly gruesome.<K> In consideration of his probable state of mind, she decides to say nothing.<K>
+<voice name="耕司" SRC="media/voice/36/000502.ogg">  "Omi is dead," Koji continues. "Tsukuba too, probably.<k><voice name="耕司" SRC="media/voice/36/000502_2.ogg"> Doctor... I was wrong."
+
+<voice name="凉子" SRC="media/voice/36/000606.ogg">  "The fact that you're still alive to make this call means you haven't made a fatal mistake yet," Ryoko says, praising Koji in her own way. Whether he is comforted or not is up to him.<K> <voice name="凉子" SRC="media/voice/36/000706.ogg">"Anyway, don't screw up this time. Do nothing until I return.<k> <voice name="凉子" SRC="media/voice/36/000706_2.ogg">What we're dealing with here... isn't going down easy." With her understanding of Saya deepening by the hour, Ryoko is able to make this declaration with new confidence.
+
+<voice name="耕司" SRC="media/voice/36/000802.ogg">  "Fuminori already knows I'm alive. I didn't tell him who rescued me, but he's definitely on guard."<K>
+<voice name="凉子" SRC="media/voice/36/000906.ogg">  "I see."<K>
+  Koji's actions were rash, but there's no point regretting them now. The more proactive approach would be to use the pressure that he's placed on Fuminori.<K>
+  Ryoko's involvement is still a secret. That makes her a wild card. Depending on how she plays it, this advantage could be decisive.
+
+<voice name="耕司" SRC="media/voice/36/001002.ogg">  "Have you found anything?"<K>
+<voice name="凉子" SRC="media/voice/36/001106.ogg">  "Not enough yet," Ryoko answers, glancing sidelong at the looseleaf pages still scattered across the table.<K><voice name="凉子" SRC="media/voice/36/001206.ogg"> "Let's see... I'll wrap this up by evening and return to Tokyo around midnight.<k><voice name="凉子" SRC="media/voice/36/001206_2.ogg"> You stay out of trouble until then. Got it?"
+
+<voice name="耕司" SRC="media/voice/36/001302.ogg">  "Yes."<K>
+  The lack of emotion in Koji's voice is actually reassuring to Ryoko.<K> He's a machine now, able to do whatever it takes to accomplish a single goal―the extermination of Sakisaka Fuminori.<K>
+  He is even willing to accept help from Ryoko, whose principles hardly mesh with his. A praiseworthy change, indeed.
+
+<se id="1" src="media/sound/携帯ボタン.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/35.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  After Ryoko hangs up, she gloomily counts the stacks of looseleaf that still need to be restored.<K>
+  There's no time left. She'll only be able to get the general picture.<K>
+  If she has to go into battle with only fragmentary knowledge, then there's one thing that she absolutely must decipher―Ogai's biological reports, which should contain information on the strengths and weaknesses of the organism called "Saya."
+
+<clear>
+<BACKGROUND SRC="media/cg/bf04no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  All she can do now is pray for luck as she dives back into the mountains of paper.
+
+//<A HREF="#合流" OPERATOR="">
+<A HREF="media/script/nps/sy172.nps" OPERATOR="">

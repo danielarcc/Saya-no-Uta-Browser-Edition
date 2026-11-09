@@ -1,0 +1,431 @@
+//凉子に電話した場合
+<MARKER NAME="#20">
+<MARKER NAME="#madend">
+  Koji is certain that this is the end, but just as his vision begins to dim, <se id="1" src="media/sound/ショットガン1.ogg" mode="normal" loop="off">an explosion brings him back to his senses.
+
+
+<se id="1" src="media/sound/沙耶ダメージ.ogg" mode="normal" loop="off">
+<voice name="沙耶" SRC="media/voice/43/000101.ogg">  "GYAAAAAAA!"<K>
+  With a horrifying, inhuman scream, the creature releases Koji and retracts its tentacles.<K>
+<se id="1" src="media/sound/女駆け寄り2.ogg" mode="normal" loop="off">
+  The first thing he sees after regaining his mobility is Ryoko running down the hall with a smoking shotgun in one hand and a silver tube in the other.<K>
+<voice name="耕司" SRC="media/voice/43/000202.ogg">  "Doctor!"<K>
+  Ryoko responds by tossing him the tube. Though still lying on the floor, he manages to snatch it out of the air.<K>
+<se id="1" src="media/sound/投げる2.ogg" mode="normal" loop="off">
+  It's the thermos she showed him at the restaurant, the one she called her secret weapon!
+
+<BUSTUP NAME="怖凉子" face="怒り3" MODE="on" zoom="" ALIGN="left" SRC="media/cg/怖凉子_怒り3.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="凉子" SRC="media/voice/43/000306.ogg">  "Pour it on that thing!" Ryoko shouts to Koji. At the same time, she aims her gun at Fuminori, who's still on his knees five paces away. The double-barreled shotgun still has one shot loaded.
+
+<BUSTUP NAME="怖凉子" face="怒り3" MODE="off" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="5">
+  The monster that attacked Koji is writhing in agony. It hasn't yet recovered from Ryoko's shot.<K>
+  But he's already seen that bullets aren't enough to kill these creatures. Now is his only chance.
+
+<voice name="郁紀" SRC="media/voice/43/000400.ogg">  "What are you doing!?" Fuminori growls, gritting his teeth against the pain of his broken ribs.<K>
+  Forcing himself to be calm, Koji stands and carefully unscrews the lid of the thermos. There's no question in his mind that something extremely potent is inside.
+
+<se id="1" src="media/sound/魔法瓶開け.ogg" mode="normal" loop="off">
+  As soon as it is unsealed, a thick white mist pours out of the thermos and the surrounding air turns freezing cold.<K> 
+  Instantly guessing what's inside, Koji lobs the thermos at the pile of flesh convulsing on the floor.
+
+<se id="1" src="media/sound/投げる.ogg" mode="normal" loop="off">
+  The thermos sails through the air, spewing white fog, and like a baptismal font showers its liquid contents upon the hellish creature.<K>
+<se id="1" src="media/sound/液体窒素.ogg" mode="normal" loop="off">
+<voice name="沙耶" SRC="media/voice/43/000501.ogg">  "GYAAAAAAA!!"<K>
+  Its scream this time is incomparable to before.
+
+<voice name="沙耶" SRC="media/voice/43/000601.ogg">  The monster thrashes in agony, wreathed in white smoke. Its screams are joined by Ryoko's cackling.<K>
+<BUSTUP NAME="怖凉子" face="狂い目口2" MODE="on" zoom="" ALIGN="left" SRC="media/cg/怖凉子_狂い目口2.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="凉子" SRC="media/voice/43/000706.ogg">  "Ahahahaha! That's minus 197 degrees, you fucking monster! How's it feel!? Cold? Hot? Not so tough now, are you!?"<K>
+  Perhaps the joy of vaniquishing her nightmare was worth the last remnants of her sanity. The manic glee blazing in her eyes can belong only to a shattered mind.
+
+
+<BUSTUP NAME="怖凉子" face="怒り3" MODE="off" zoom="" ALIGN="left">
+<BUSTUP NAME="郁紀" face="斧怒り" MODE="on" zoom="" ALIGN="right" SRC="media/cg/郁紀_斧怒り.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="郁紀" SRC="media/voice/43/000800.ogg">  "Monsters! I'll kill you!!"<K>
+  Fuminori staggers to his feet, roaring black curses. His rage seems to have drowned out the pain of his broken bones.<K>
+<BUSTUP NAME="郁紀" face="斧怒り" MODE="off" zoom="" ALIGN="right">
+<BUSTUP NAME="怖凉子" face="通常狂笑1" MODE="on" zoom="" ALIGN="left" SRC="media/cg/怖凉子_通常狂笑1.png">
+<WIPE EFFECT="fade" TIME="5">
+  Ryoko is not one to underestimate the threat posed by his axe. Her mad laughter fades away, leaving only a cold smile as she pulls the trigger.
+
+<se id="1" src="media/sound/ショットガン不発.ogg" mode="normal" loop="off">
+<BUSTUP NAME="怖凉子" face="通常無表情" MODE="on" zoom="" ALIGN="left" SRC="media/cg/怖凉子_通常無表情.png">
+<WIPE EFFECT="fade" TIME="5">
+  With a short burst of dark flame, Ryoko's gun sputters and dies.<K>
+<BUSTUP NAME="怖凉子" face="怒り3" MODE="on" zoom="" ALIGN="left" SRC="media/cg/怖凉子_怒り3.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="凉子" SRC="media/voice/43/000906.ogg">  "Tch!"<K>
+  Ryoko is not an expert on firearms; it never occured to her that shotgun shells need proper storage. And besides, she always expected that any situation where her gun would be necessary would also be one that she would not survive.
+
+<BUSTUP NAME="怖凉子" face="怒り3" MODE="off" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="5">
+  Cursing in anger and dismay, Ryoko breaks the shotgun open and awkwardly pulls the dud out. <se id="1" src="media/sound/斧引きずり.ogg" mode="normal" loop="off">Meanwhile, Fuminori stalks toward her like a vengeful demon, the head of his axe screeching as it drags along the floor.
+
+  <I>I have to stop him!</I><K>
+  Koji tries to charge Fuminori, but only succeeds at sending himself sprawling. One of his shoes is stuck to the floor, frozen by the liquid nitrogen.<K>
+  As Ryoko fumbles in her pocket for a new shell, Fuminori closes the distance and raises his axe in both hands.<K>
+<voice name="耕司" SRC="media/voice/43/001002.ogg">  "Damn!"<K>
+  Koji curses and rips his shoe free of the frozen concrete, but he knows that he'll never make it in time.
+
+  Ryoko thrusts a new shell into the chamber of her shotgun and snaps it closed, then looks up to find her target.
+
+  Fuminori is right before her, too close to evade, <se id="1" src="media/sound/斧風切り1.ogg" mode="normal" loop="off">and his axe is already crashing down with the wind howling in its wake.
+
+<voice name="耕司" SRC="media/voice/43/001102.ogg">  "Stop!!"<K>
+<se id="1" src="media/sound/涼子ダメージ.ogg" mode="normal" loop="off">
+  The sounds of bones shattering, tendons snapping, and flesh tearing blend together in foul harmony. 
+
+<voice name="凉子" SRC="media/voice/43/001206.ogg">  "Guh!"<K>
+  The thick blade enters through Ryoko's left shoulder, plowing through her collarbone and shoulder blade, smashing several ribs, and popping her lung like a balloon before stopping in the center of her chest.<K>
+  Her expression frozen in shock by the impact, she sprays a geyser of blood from her mouth.
+
+<clear>
+<LAYER SRC="media/cg/45.png" TRANSPARENT="100" NUM="0" X="0" Y="0" ZOOM="100">
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  She should have died instantly, but through some unimaginable force of will, Ryoko clings to life for a few seconds more.<K> <se id="1" src="media/sound/ショットガン構え.ogg" mode="normal" loop="off">Grinning through bloodstained lips, she raises her shotgun.
+
+<scroll num="0" x="800" time="10" count="40">
+  Not to the front, but to the side.<K>
+  Beyond the barrel of her gun, wearing the 77-degree Kelvin mist like a white cloak of death, is the weakly wriggling Saya.
+
+<voice name="郁紀" SRC="media/voice/43/001300.ogg">  "NO!"
+
+<se id="1" src="media/sound/ショットガン2.ogg" mode="normal" loop="off">
+<bgm src="" mode="normal" loop="on">
+<clear>
+<BACKGROUND SRC="media/cg/45_2.png">//
+<WIPE EFFECT="fade" TIME="0">
+  Fuminori's scream vanishes into the roar of the shotgun.
+
+<se id="2" src="media/sound/沙耶砕け散り.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<clear>
+<BACKGROUND SRC="media/cg/bg04ni0.png">//
+<WIPE EFFECT="fade" TIME="10">
+  The destruction is absolute. The impact of the shotgun pellets obliterates the half of Saya's body that fell prey to the liquid nitrogen.<K>
+  The frozen particles of Saya's shattered flesh drift to the floor like snow.<K>
+<se id="1" src="media/sound/沙耶瀕死.ogg" mode="normal" loop="off">
+  Even the creature's special biology is insufficient to seal a wound of this size.<K> From the opening pour its internal organs, a tide of liquid, slime, and fat whose color is far too foul to belong to any living creature.<K>
+<voice name="沙耶" SRC="media/voice/43/001401.ogg">  "...aH...aH...AhHh..."<K>
+  The monster convulses, wailing in a weak, pitiful voice.
+
+<bgm src="media/sound/s11.ogg" mode="fadein" old="fadeout" time="30" COUNT="1;-1" LOOP="on">
+<clear>
+<BACKGROUND SRC="media/cg/46.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="郁紀" SRC="media/voice/43/001500.ogg">  "Saya..."<K>
+  With his axe still buried in Ryoko's body, Fuminori stares at the dying creature, his expression utterly devoid of emotion.
+
+  Koji grabs his pipe and prepares to attack Fuminori from behind, but freezes when he sees the emptiness on the face of the man he hated.<K>
+  Fuminori pulls his axe out of Ryoko's corpse, then looks at Koji with glazed eyes. There is no recognition in them, nor hate, nor rage.<K>
+  When Koji meets Fuminori's blank stare, he knows.<K>
+  There is nothing left in him to kill.
+
+<clear>
+<BACKGROUND SRC="media/cg/bg04ni0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Fuminori grips the axe closer to its head and raises it high, the blade toward his face.<K>
+<voice name="耕司" SRC="media/voice/43/001602.ogg">  "......"<K>
+  Koji doesn't know whether he should interfere―but even if he wanted to, what could he say to stop Fuminori?
+
+  Fuminori pulls his head back slowly... then drives his face into the blade of the axe like a spring-loaded toy.<K>
+<se id="1" src="media/sound/郁紀自殺1.ogg" mode="normal" loop="off">
+  <I>Crunch.</I> His skull caves in with a dull, wet sound, and the spray of blood catches Koji in the face.
+
+  Despite Fuminori's utter lack of hesitation, his first attempt at suicide succeeds only in transforming his face into a hash of crimson.<K>
+  Fuminori pulls his head back one more time, even slower than before. Then, with every ounce of strength still left in his body, he slams it into the bloodstained axe.
+
+<se id="1" src="media/sound/郁紀自殺2.ogg" mode="normal" loop="off">
+//　ゴシャッ。<k>
+  The sound is wetter than before.<K>
+  Fuminori's body goes limp, <se id="1" src="media/sound/倒れる.ogg" mode="normal" loop="off">then tumbles face-first to the floor.
+
+  Koji stares at the two mangled corpses for a while. He feels completely left behind, like he can't remember why he's standing in this place with a steel pipe in his hand.<K>
+  The stale air filling the ruined building becomes choked with the stench of blood, and the crimson puddles gradually spread across the snow-covered floor―yet the tranquility of the scene makes it seem like a painting.
+
+<se id="1" src="media/sound/沙耶移動3.ogg" mode="normal" loop="off">
+  A soft, slimy sound breaks the silence.<K> Koji looks at the mortally wounded monster. The creature is on death's door, but even so, it moves. Slowly, feebly, it drags its broken body through the sea of blood.<K>
+  It's coming for Fuminori.
+
+  Koji had forgotten his anger, but now it comes surging back at full 
+force.<K>
+<BUSTUP NAME="耕司" face="戦闘険しく怯え" MODE="on" zoom="" ALIGN="left" SRC="media/cg/耕司_戦闘険しく怯え.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="耕司" SRC="media/voice/43/001702.ogg">  "Die."<K>
+  He growls and stabs the monster with the end of his pipe. It convulses in agony, but keeps crawling toward Fuminori.<K>
+  Koji explodes into a frenzy of rage.<K>
+<BUSTUP NAME="耕司" face="戦闘怒り2" MODE="on" zoom="" ALIGN="left" SRC="media/cg/耕司_戦闘怒り2.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="耕司" SRC="media/voice/43/001802.ogg">  "Die, you monster! Just die already! Stay the hell away from him!"
+　
+<se id="1" src="media/sound/耕司攻撃2.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="media/cg/bg04ni0.png">//
+<WIPE EFFECT="fade" TIME="0">
+  Again and again, he smashes the helpless flesh-beast with his pipe. Something tells him that if he does not stop it here, he will truly have lost.
+
+<se id="1" src="media/sound/耕司攻撃2.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="media/cg/bg04ni0.png">//
+<WIPE EFFECT="fade" TIME="0">
+  The monster, however, never succumbs.<K> It struggles on beneath his blows, until finally it reaches Fuminori's corpse.
+
+<se id="1" src="media/sound/耕司攻撃2.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="media/cg/bg04ni0.png">//
+<BUSTUP NAME="耕司" face="戦闘怒り2" MODE="on" zoom="" ALIGN="left" SRC="media/cg/耕司_戦闘怒り2.png">
+<WIPE EFFECT="fade" TIME="0">
+<voice name="耕司" SRC="media/voice/43/001902.ogg">  "Don't touch him! Don't touch him, damn you! What gives you the right!?"
+
+<se id="1" src="media/sound/耕司攻撃2.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="media/cg/bg04ni0.png">//
+<WIPE EFFECT="fade" TIME="0">
+  Koji keeps swinging, his fury unabated even as tears start to pool in his eyes. The monster's slime flies through the air, joining with the blood already covering his face.
+
+<se id="1" src="" mode="normal" loop="off">
+  The creature extends one thin, trembling tentacle to touch Fuminori's shoulder, then lovingly caresses his blood-stained cheek.<K>
+  And then it stops moving.
+
+  Even in its final moments, the monster would not let Fuminori go. It died joined with him.<K>
+  At last, Koji knows that the world he loved is gone forever.
+
+//エンディング：耕司
+<bgm src="s11" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="2700">
+<bgm src="media/sound/s01.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<se id="1" src="media/sound/カフェテリア.ogg" mode="normal" loop="off">
+<BACKGROUND SRC="media/cg/16_2.png">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+<voice name="青海" SRC="media/voice/44/000104.ogg">"Hey," Omi says enthusiastically, the exposed bones of her face clattering, "why don't we go somewhere we can skate for this year's ski trip?"<K>
+  Chunks of her body are missing, as though something's been nibbling on her. It makes her look a lot thinner. She's been worried about her weight recently, but now she shouldn't need to diet.
+
+<clear>
+<BACKGROUND SRC="media/cg/ba01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="郁紀" SRC="media/voice/44/000200.ogg">  Fuminori laughs at Omi's crazy suggestion. "That's right. You just started skating recently, didn't you?"<K>
+<BUSTUP NAME="郁紀" face="血まみれ" MODE="on" zoom="" ALIGN="right" SRC="media/cg/郁紀_血まみれ.png">
+<WIPE EFFECT="fade" TIME="5">
+  He sounds amused, but it's hard to tell from his expression, since his face has been cleaved in two by an axe.
+
+<voice name="郁紀" SRC="media/voice/44/000300.ogg">  "Not many people start skating in their twenties, you know."<K>
+<voice name="青海" SRC="media/voice/44/000404.ogg">  "I was scared when I was little. Those shoes looked like big knives!"<K>
+<voice name="郁紀" SRC="media/voice/44/000500.ogg">  "Yeah, I know. If someone kicked you in the face with one of those on, you'd probably end up like me."
+
+<BUSTUP NAME="瑶" face="目閉じ笑い" MODE="on" zoom="" ALIGN="left" SRC="media/cg/瑶_目閉じ笑い.png">
+<WIPE EFFECT="fade" TIME="5">
+  Omi and Yoh laugh at Fuminori's dumb joke. Yoh never used to laugh with such exuberance. She seems truly happy now that she and Fuminori are officially together.
+
+<BUSTUP NAME="瑶" face="通常" MODE="on" zoom="" ALIGN="left" SRC="media/cg/瑶_通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="瑶" SRC="media/voice/44/000605.ogg">  "But you were able to kill him on your first try? That's amazing, Omi."<K>
+<voice name="郁紀" SRC="media/voice/44/000700.ogg">  "It's a lot like playing baseball. You swing hard and let the weight of the axe do the damage."
+
+<clear>
+<BACKGROUND SRC="media/cg/16_2.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="青海" SRC="media/voice/44/000804.ogg">  "He made killing him sound so easy, I figured I'd give it a try. And it was fun!"
+
+  What is this feeling? Something is wrong, though Koji can't put his finger on what.
+
+<clear>
+<BACKGROUND SRC="media/cg/ba01me0.png" shade="4">//
+<BUSTUP NAME="瑶" face="困り笑い" MODE="on" zoom="" ALIGN="left" SRC="media/cg/瑶_困り笑い.png">
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="瑶" SRC="media/voice/44/000905.ogg">  "Oh... well, I want to try eating Omi too."<K>
+  Ah, that's it.<K>
+  When he sees Yoh's envious smile, Koji finally realizes what's bothering him.<K>
+<voice name="耕司" SRC="media/voice/44/001002.ogg">  "Hey, Tsukuba..."
+
+<BUSTUP NAME="瑶" face="通常" MODE="on" zoom="" ALIGN="left" SRC="media/cg/瑶_通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="瑶" SRC="media/voice/44/001105.ogg">  "Hm? What's wrong?"<K>
+<voice name="耕司" SRC="media/voice/44/001202.ogg">  "Why are you... normal?"<K>
+  Yoh tilts her head quizzically, like she doesn't understand what he means.
+
+<voice name="瑶" SRC="media/voice/44/001305.ogg">  "Normal? I'm always normal."<K>
+<voice name="耕司" SRC="media/voice/44/001402.ogg">  "But, back then, you were..."<K>
+<BUSTUP NAME="瑶" face="目閉じ笑い" MODE="on" zoom="" ALIGN="left" SRC="media/cg/瑶_目閉じ笑い.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="瑶" SRC="media/voice/44/001505.ogg">  "Oh, I get it," Yoh nods in understanding.<K> <voice name="瑶" SRC="media/voice/44/001605.ogg">"You're talking about when I looked different from you? That was such a long time ago."
+
+<voice name="耕司" SRC="media/voice/44/001702.ogg">  "It... was?"<K>
+<voice name="瑶" SRC="media/voice/44/001805.ogg">  "Of course!" she replies, deflecting Koji's confusion with that uncannily cheerful smile.
+
+<BUSTUP NAME="瑶" face="通常" MODE="on" zoom="" ALIGN="left" SRC="media/cg/瑶_通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="瑶" SRC="media/voice/44/001905.ogg">  "After all, you're one of us now."<K>
+<voice name="耕司" SRC="media/voice/44/002002.ogg">  "......"
+
+<se id="1" src="media/sound/くちゃくちゃ5.ogg" mode="normal" loop="off">
+<bgm src="s01" mode="fadeout" time="20" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bp03me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Oh, of course.<K>
+  Koji looks down and is satisfied to see wriggling tentacles where his arms and legs should be.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<se id="1" src="" mode="normal" loop="off">
+<BACKGROUND SRC="media/cg/bi03da0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  When he opens his eyes, his mattress and pillow are soaked in sweat.<K>
+<bgm src="media/sound/s04.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+  It's always the same nightmare. He doesn't know how many times he's had it, but at least he's not leaping out of bed screaming anymore.<K>
+<se id="1" src="media/sound/ベット立ち上がり.ogg" mode="normal" loop="off">
+  He sits up, clutching his throbbing head.
+
+  It's four in the morning.<K>
+  He hasn't had nearly enough rest, but he probably won't be able to get back to sleep tonight.<K>
+  Time for a smoke. A full pack will last him until dawn. Now, where did he put the pack he bought yesterday?
+
+<clear>
+<BACKGROUND SRC="media/cg/bi01da0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Koji wanders sleepily into the den, where yet another old friend is waiting for him.<K>
+<voice name="凉子" SRC="media/voice/44/002106.ogg">  "You look like hell."<K>
+<voice name="耕司" SRC="media/voice/44/002202.ogg">  "Doctor. You're here too?"<K>
+  Ryoko's chopped-up corpse is sitting at his dining table, looking as deathly pale as ever as she sips coffee from a mug.
+
+<voice name="凉子" SRC="media/voice/44/002306.ogg">  "You can't be getting much sleep, tossing and turning like that every night."<K>
+<voice name="耕司" SRC="media/voice/44/002402.ogg">  "It's not always like this," Koji says amicably as he sits down across from her. "If I take some pills, it usually helps. For now."<K>
+  Hallucinations like these are easier to deal with than elaborate nightmares like the one he just had. They should probably worry him more, though.<K>
+<voice name="凉子" SRC="media/voice/44/002506.ogg">  "If you'd listened to my warnings back then, you wouldn't be in such bad shape now."<K>
+<voice name="耕司" SRC="media/voice/44/002602.ogg">  "Let's stop talking about that. What's done is done."
+
+  Ryoko chuckles, smiling the same cruel, manic smile that she used to when she was alive. Her left arm hangs from her half-severed shoulder, dangling like a forgotten wind chime.<K>
+<voice name="凉子" SRC="media/voice/44/002706.ogg">  "Sounds like you've come to terms with it."<K>
+<voice name="耕司" SRC="media/voice/44/002802.ogg">  "You were the same, weren't you? You managed to pass yourself off as an elite neurosurgeon most of the time."<K>
+<voice name="凉子" SRC="media/voice/44/002906.ogg">  "It's not that hard keeping up appearances, when you have to."<K> The corpse shrugs her intact right shoulder <se id="1" src="media/sound/コーヒー飲む.ogg" mode="normal" loop="off">and grimaces in disgust as she takes another sip of her coffee.<K><voice name="凉子" SRC="media/voice/44/003006.ogg"> "But it's only going to get worse, you know.<k><voice name="凉子" SRC="media/voice/44/003006_2.ogg"> Time heals emotional wounds, but with you, it's more like you've been poisoned."
+
+  She's probably right.<K>
+  Everyone dreams at night. No matter how dim the memories may get, the nightmares will always be there to tear into Koji with fresh fangs.<K>
+  The insanity that has taken root in his heart will grow, eventually consuming everything that's left inside of him.
+
+<voice name="耕司" SRC="media/voice/44/003102.ogg">  "In my case, I've had you to learn from. I'm ready for anything."<K>
+<voice name="凉子" SRC="media/voice/44/003206.ogg">  "Is that so?"
+
+<clear>
+<BACKGROUND SRC="media/cg/bi02da0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Koji nods, smiling confidently, then stands and walks to the bathroom, where he retrieves the weapon that he keeps hidden behind the mirror.<K>
+<se id="1" src="media/sound/拳銃受け取り.ogg" mode="normal" loop="off">
+  Ogai's revolver, the one souvenir that Koji brought back from the other world that night.<K>
+<voice name="耕司" SRC="media/voice/44/003302.ogg">  "It was tough, but I finally found someone who deals in these things.<k><voice name="耕司" SRC="media/voice/44/003302_2.ogg"> I bought bullets for it. Can you believe that ammunition is more expensive than the gun itself?"<K>
+<voice name="凉子" SRC="media/voice/44/003406.ogg">  "How about that."<K>
+  In the mirror, Koji sees Ryoko with her axe-inflicted gash reversed. She raises her mug in a toast to Koji's resourcefulness.
+
+<voice name="凉子" SRC="media/voice/44/003506.ogg">  "So, how many shots did you buy?"<K>
+<voice name="耕司" SRC="media/voice/44/003602.ogg">  "Just one."<K>
+  This time, it's Koji who shrugs his shoulders. He uses both, exercising his privilege as the survivor.<K>
+<voice name="耕司" SRC="media/voice/44/003702.ogg">  "You see... I never want to be in a situation where I'll need more."<K>
+<voice name="凉子" SRC="media/voice/44/003806.ogg">  "Oh?"<K>
+  The corpse in the mirror nods sagely, her smile approving.<K>
+<voice name="凉子" SRC="media/voice/44/003906.ogg">  "You really do get it."
+
+  There is a brief silence.<K>
+  Koji doesn't really feel like getting all melancholy with a dead woman.
+
+<clear>
+<BACKGROUND SRC="media/cg/bi01da0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="耕司" SRC="media/voice/44/004002.ogg">  "Hey, Doctor, let's give the diner coffee a rest. If you want, I'll put on a new pot of――"<K>
+<bgm src="s04" mode="fadeout" time="20" loop="off">
+  When Koji turns around halfway through his sentence, he realizes that the room is empty but for the silence of the night.<K>
+<voice name="耕司" SRC="media/voice/44/004102.ogg">  "......"<K>
+  And so, Koji returns to the world of the sane.
+
+<se id="1" src="media/sound/ライター.ogg" mode="normal" loop="off">
+<bgm src="media/sound/s07.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+  He lights his first cigarette of the night and takes a deep drag. While sitting alone in his den, puffing on his smoke, he stares at the gun in his hand.<K>
+  He knows just how precarious a cliff he's standing on.
+
+  The final line of which Ryoko spoke is now one step behind him. Koji no longer has anything to protect his soul.<K>
+  Now that Ogai Masahiko's fantasies and Tanbo Ryoko's delusions have all become tangible horrors, he knows what insanity and despair truly are.
+
+  Back in the real world, Sakisaka Fuminori is wanted for several gruesome murders.<K>
+  It didn't take long for someone to discover the stockpiles of human meat in the empty Sakisaka and Suzumi homes. In the two refrigerators were found the remains of Suzumi Yosuke, his wife and daughter, and Takahata Omi.<K>
+  They found the clothes and other effects of Tsukuba Yoh, but were unable to locate any trace of her among the various body parts―a fact that made Koji's nightmares all the more vivid.
+
+  Doctor Tanbo Ryoko of the T University Hospital vanished mysteriously around the same time. Because she was Fuminori's chief physician, the police have been investigating her connection to his crimes.<K>
+  As for the two corpses secretly buried in the backyard of a certain ruin―well, they'll probably never be found, and this incident will become just another cold case.<K>
+  Koji alone knows what really happened, and he has no intention of revealing it―not now, and not ever.
+
+  Ogai's writings were not nonsense, which means that everything else was.<K> What fool was it who said that men are the lords of Creation? Those who can believe in paltry things like human wisdom and valor... are those lucky innocents who have not looked into the abyss.<K>
+  Koji can no longer share in their blessed ignorance.<K>
+  He knows. He has been defiled by the insanity called truth, and he will never believe again.
+
+  If he has been poisoned, as Ryoko's ghost said, then that poison is none other than the truth itself.<K>
+  Just as pure oxygen is harmful to the body, the naked truth has the power to destroy men's minds.<K> Only by diluting it with lies and taking it in small doses can humans maintain a healthy soul.
+
+<clear>
+<BACKGROUND SRC="media/cg/bi02da1.png">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="9">
+<voice name="凉子" SRC="media/voice/44/004206.ogg">  "No matter what horrors the world might hold..."<K>
+  Words once spoken by the living Tanbo Ryoko pass through Koji's mind.<K>
+<voice name="凉子" SRC="media/voice/44/004306.ogg">  "I still had some power against the madness."<K>
+<bgm src="s07" mode="fadeout" time="20" loop="off">
+  That, without a doubt, was the comfort that she kept hidden in her bosom―the only thing that allowed her to face her dreams each night.
+
+<clear>
+<BACKGROUND SRC="media/cg/bi02da0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="9">
+  Koji has taken his predecessor's lessons to heart. He's prepared for anything.<K>
+ 
+  One bullet is always behind the bathroom mirror, promising him salvation.
+
+<CALC WORKNAME="ENDING" OPERATOR="1" MODE="global">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<bgm src="media/sound/ガラスの靴.ogg" mode="normal" loop="off">
+<SYSTEM MENU="#FFE">
+<SYSTEM CMD="ending" ROLL="staff">
+<END>
+

@@ -1,0 +1,303 @@
+//カフェテリア：郁紀
+<MARKER NAME="#1">
+<bgm src="media/sound/s01.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<clear>
+<BACKGROUND SRC="media/cg/bp01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<se id="2" src="media/sound/郁紀イメージ1.ogg" mode="normal" loop="on">
+<wait time="200">
+<box type="9">
+
+<voice name="青海" SRC="media/voice/2/000104.ogg">  "H#Y," the wriggling mass of flesh burbles, "*G$Hsy%3whY&Xtr1p%3?"<K>
+<voice name="瑶" SRC="media/voice/2/000205.ogg">  "SK%guj!%~? &YGo^#1sGjisKIREs5#%0sK473?"<k>
+<voice name="耕司" SRC="media/voice/2/000302.ogg">  "H#H#. K$5GiVe52fdf%^#TSU+BA. HI#~TG^Sk5tI#GR3NSTLY."<k>
+  Three such creatures sit around the table in front of me, slurping filthy sludge from their cups as they trade whines, growls, and sounds that I cannot describe.
+
+<clear>
+<BACKGROUND SRC="media/cg/bp02me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="青海" SRC="media/voice/2/000404.ogg">  "H#YiST50ST3rngTHzTOVEN#V4rBNSK1^pkzb4?#?!"<k>
+<voice name="耕司" SRC="media/voice/2/000502.ogg">  "AdN.tTH79HRRM3N1S&8$RZ20SnoW$dyZ??!?$$"<k>
+<voice name="青海" SRC="media/voice/2/000604.ogg">  "L1ttKnD6FScRed.;k'azS8L135ffff^$@$%kn1JZ."
+
+<clear>
+<BACKGROUND SRC="media/cg/ba01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  By listening carefully, I am able to grasp the gist of their conversation and respond when it is required of me. This is necessary to avoid arousing their suspicion.<K>
+  However these creatures look, they are my friends, apparently.
+
+<clear>
+<BACKGROUND SRC="media/cg/03_1.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  I wish that I could still deny it, but I gave up on that a long time ago.<K>
+  Night after night, I went to sleep praying for an end to this nightmare, only to wake each morning to the same twisted hellscape as the day before.<K>
+  I know now that I have to blend in, that I have to act like one of them. Such has been my life these past three months, and so it will remain until the day I die.
+
+<clear>
+<BACKGROUND SRC="media/cg/bp03me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="瑶" SRC="media/voice/2/000705.ogg">  "B&UWRbl;;/tO2jUtS7RtSK#N6@@@"<k>
+<voice name="耕司" SRC="media/voice/2/000802.ogg">  "NTv9yd1ff:*fMS76;4%73#411&^#anG2St!@@"<k>
+  Judging by its tone, this one must be Koji. And the one next to him, squealing more than the others, is probably Omi.<K> Which means that the one next to me is Yoh, though I can no longer see any trace of her once-attractive features. I try my best to ignore the rotten stench of excrement that issues from her quivering flesh.
+
+
+<clear>
+<BACKGROUND SRC="media/cg/bp01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice NAME="青海" SRC="media/voice/2/000904.ogg">  "MVFKNfgda#@%mf@*Fmckxvzm#@SDFzxcv32!!!!"<k>
+<voice NAME="瑶" SRC="media/voice/2/001005.ogg">  "GRGHRGWn6Td2Ca15#0m3cHnSkT888###"<k>
+<voice NAME="青海" SRC="media/voice/2/001104.ogg">  "W#BTT?IfW6MKN3LTsk62bFN%@%#$%#!GDF"<k>
+  Everything has changed.<k> Or almost everything.<k> By some cruel trick of fate, my relationship to the world alone remains the same, as if an insane architect took the blueprints of my life and rebuilt it out of blood and gore.<K> These monsters and I were part of the same college club. We studied together, ate together―we even went skiing together every winter break.
+
+<clear>
+<BACKGROUND SRC="media/cg/03_1.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Now these are but painful memories of days that will never return.<K> If only no one recognized me, I might have been able to disconnect myself from the world. It would have been comforting, in comparison, to believe that I had been abducted by aliens, or that I had stumbled through a gateway to hell.<K>
+  But no, this is beyond a doubt the city where I was born and raised, the society that I was part of for twenty years. Save that I, and I alone, can no longer see it that way.<K>
+  The world as I knew it is gone. I have no place to call home.
+
+<clear>
+<BACKGROUND SRC="media/cg/ba01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice NAME="瑶" SRC="media/voice/2/001205.ogg">  "SDJsdafj3t493074t34t#$T#(fjdkfa###"<k>
+<voice NAME="青海" SRC="media/voice/2/001304.ogg">  "TYK#^t3m4T34,Rg4534j&lg45uje@@@"<k>
+<voice NAME="瑶" SRC="media/voice/2/001405.ogg">  "F$Gf43HG#*$G#G3G#G834g43g8FM^^^"<k>
+  Anyway, I can tell that whatever they're discussing is of no importance to me. I decide to keep quiet while pretending to listen.<K>
+  But just then...
+
+<clear>
+<BACKGROUND SRC="media/cg/bp02me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice NAME="耕司" SRC="media/voice/2/001502.ogg">  "hEy FuMInoRi," one of the flesh-beasts says as it swivels its bloodshot eyes toward me. "WhAt dO yOU THinK?"<K>
+<voice NAME="郁紀" SRC="media/voice/3/001700.ogg">  "...About what?"<K>
+  I try desperately to suppress my loathing and behave normally, but my hoarse voice ruins the attempt.
+
+<voice NAME="耕司" SRC="media/voice/2/001702.ogg">  "UH, wE'rE TAlkING abOUt THIs YEar'S skI TRiP. YOu'Re COMiNG TOo... RiGHt?"<K>
+<se id="1" src="media/sound/くちゃくちゃ1.ogg" mode="normal" loop="off">
+  A slimy hole near the top of the creature writhes nauseatingly as it vomits some semblance of words. That must be Koji's face―or what I would have seen as such three months ago. Unable to stomach the sight of it, I avert my eyes and give a neutral answer.<K>
+<voice NAME="郁紀" SRC="media/voice/3/001900.ogg">  "I don't know."
+
+<voice NAME="耕司" SRC="media/voice/2/001902.ogg">  "YoU haVe oThEr pLAns?"<K>
+<voice NAME="郁紀" SRC="media/voice/3/002100.ogg">  "Not really."<K>
+  These were my closest companions. One of them had even wished to be more.<K>
+  How many nights have I spent crying in loneliness, lamenting the friends who no longer exist?
+
+<clear>
+<BACKGROUND SRC="media/cg/ba01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  In three months my tears ran dry, and now there is only loathing left in me. Surrounded by hideous creatures that I can only assume are Koji, Omi, and Yoh, I spend each day trying to act as I always have. If I fail at this, I'll surely be sent back to the hospital.<K>
+  Only this time, I'll be locked away forever.<K> No matter what, I won't let that happen.
+
+<voice NAME="耕司" SRC="media/voice/2/002102.ogg">  "I mEAn... iT's NOt liKe phYSIcAL acTiVItY COulD AFfect YoUR InJuRIeS, RIght?"<K>
+<voice NAME="郁紀" SRC="media/voice/3/002300.ogg">  "I'm not sure. I'll ask the doctor during my check-up."<K>
+  That's it. I can't look at them or bear their screeching any longer.<K>
+  I jump to my feet, desperate to escape.
+
+<clear>
+<BACKGROUND SRC="media/cg/bp03me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice NAME="耕司" SRC="media/voice/2/002302.ogg">  "hEy, fUmINoRi!"<K>
+<se id="1" src="media/sound/粘液1.ogg" mode="normal" loop="off">
+  A spray of stringy slime from the cilia around its voicebox flies at me. I try to cover myself, but too late to keep the slime from splattering across my face like the yolk of a rotten egg.<K> I'm about to lose it. I want to grab a chair, a desk―anything within reach―and use it to smash the life out of this creature, ending it all.
+
+<clear>
+<BACKGROUND SRC="media/cg/ba01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  I barely suppress the impulse.<K>
+  I mustn't let on that something is wrong. However they look to me, this is their world. I'm the outsider here.<K>
+<voice NAME="郁紀" SRC="media/voice/3/002500.ogg">  "Like I said, today's my check-up. I've got to go."<K>
+  Struggling to put on a smile, I reach into my wallet, pull out the first bill I find, and put it on the table without even looking at it. I don't care about the change. I just need to get out of here―now.<K>
+<voice NAME="郁紀" SRC="media/voice/3/002600.ogg">  "Later," I mutter hastily, and flee the cafeteria.<se id="1" src="media/sound/男立ち去り1.ogg" mode="normal" loop="off">
+<wait time="200">
+//CHECK
+<se id="1" src="media/sound/喫茶ベル.ogg" mode="normal" loop="off">
+
+<bgm src="s01" mode="fadeout" time="20" loop="off">
+<se id="2" src="郁紀イメージ1" mode="fadeout" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="10">
+<box type="5">
+ 
+ 
+                I'm not crazy.
+
+//カフェテリア：瑶
+<wait time="1800">
+<bgm src="media/sound/s02.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<BACKGROUND SRC="media/cg/06.png">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+
+<voice NAME="青海" SRC="media/voice/3/000104.ogg"> "Hey," says Takahata Omi, "why don't we go somewhere we can skate for this year's ski trip?"<K>
+  Tsukuba Yoh frowns at the suggestion.<K>
+<voice NAME="瑶" SRC="media/voice/3/000205.ogg"> "Skate? But why go to a ski resort to skate?"<K>
+<voice NAME="耕司" SRC="media/voice/3/000302.ogg">  "Haha. Give her a break, Tsukuba. It's all she talks about these days."<K>
+  Tonoh Koji supports Omi with a laugh. Her impromptu suggestions are nothing new, and it's Koji's role as her boyfriend to provide backup.<K>
+  They're a good match for each other, Yoh thinks. Sometimes it makes her jealous.
+
+<voice NAME="耕司" SRC="media/voice/3/000402.ogg">  "I mean, she'd seriously never gone skating before I took her the other day."<K>
+<voice NAME="青海" SRC="media/voice/3/000504.ogg">  "Hey! Is it really that strange?"<K>
+<voice NAME="耕司" SRC="media/voice/3/000602.ogg">  "Not many people start skating in their twenties, you know."<K>
+<voice NAME="青海" SRC="media/voice/3/000704.ogg">  "I was scared when I was little. Those shoes looked like big knives!"
+
+<clear>
+<BACKGROUND SRC="media/cg/ba01no0.png">//
+<BUSTUP NAME="瑶" face="通常" MODE="on" zoom="" ALIGN="left" SRC="media/cg/瑶_通常.png">
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice NAME="瑶" SRC="media/voice/3/000805.ogg">  "But you picked it up just like that? That's pretty amazing, Omi."<K>
+<voice NAME="耕司" SRC="media/voice/3/000902.ogg">  "It's a lot like skiing. You keep your weight forward and use the angle of the shoes to steer."<K>
+<voice NAME="青海" SRC="media/voice/3/001004.ogg"> "He made it sound so easy, I figured I should give it a try. And it was
+fun!"<K>
+<BUSTUP NAME="瑶" face="困り通常" MODE="on" zoom="" ALIGN="left" SRC="media/cg/瑶_困り通常.png">
+<WIPE EFFECT="fade" TIME="5">
+  So it was a date. Yoh feels a stab of envy.<K>
+  Koji and Omi enjoy their time together, as normal lovers do. That's certainly not something that should make her jealous. It's just that her luck in love has been bad.
+
+<BUSTUP NAME="瑶" face="目閉じ笑い" MODE="on" zoom="" ALIGN="left" SRC="media/cg/瑶_目閉じ笑い.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice NAME="瑶" SRC="media/voice/3/001105.ogg">  "Oh... well, I want to see Omi skate too."<K>
+  Yoh keeps her voice upbeat, trying to cover up her disquiet.
+
+<BUSTUP NAME="瑶" face="通常" MODE="on" zoom="" ALIGN="left" SRC="media/cg/瑶_通常.png">
+<WIPE EFFECT="fade" TIME="5">
+  She knows that it's wrong to envy her friends. She too would be spending time with the man she admires, if not for the terrible tragedy that befell him. His is true misfortune. Her "bad luck" doesn't begin to compare.
+
+<BUSTUP NAME="青海" face="通常" MODE="on" zoom="" ALIGN="right" SRC="media/cg/青海_通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice NAME="青海" SRC="media/voice/3/001204.ogg">  "So, how 'bout it? If we make the next ski trip a skating trip too, it'll be twice as fun!"<K>
+<BUSTUP NAME="瑶" face="困り笑い" MODE="on" zoom="" ALIGN="left" SRC="media/cg/瑶_困り笑い.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice NAME="瑶" SRC="media/voice/3/001305.ogg">  "But you can skate at a skating rink, can't you? Why go all the way to a ski resort?"<K>
+<voice NAME="青海" SRC="media/voice/3/001404.ogg">  "I don't want to skate indoors. I want to skate outside, on a lake or something."<K>
+<voice NAME="瑶" SRC="media/voice/3/001505.ogg">  "That sounds fun, but won't it be crowded?"<K>
+  While speaking, Yoh sneaks a sideways glance at the young man sitting next to her.
+
+<bgm src="s02" mode="fadeout" time="20" loop="off">
+<BUSTUP NAME="瑶" face="通常" MODE="off" zoom="" ALIGN="left">
+<BUSTUP NAME="青海" face="通常" MODE="off" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+  Although the conversation has involved only three people so far, there are in fact two couples at the cafeteria table. Yoh's boyfriend―though there's still some doubt over whether he could be called that―is beside her, as silent and expressionless as a statue.
+
+<BUSTUP NAME="耕司" face="通常" MODE="on" zoom="" ALIGN="left" SRC="media/cg/耕司_通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice NAME="耕司" SRC="media/voice/3/001602.ogg">  "Hey, Fuminori. What do you think?"<K>
+<bgm src="media/sound/s03.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+  Perhaps Koji sensed Yoh's pain, in his usual quiet and considerate way.
+
+<clear>
+<BACKGROUND SRC="media/cg/03_1.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice NAME="郁紀" SRC="media/voice/3/001700.ogg">  "...About what?"<K>
+  The cause of Yoh's distress―Sakisaka Fuminori―responds to Koji's sudden query with a vague, mumbled question of his own.
+
+<clear>
+<BACKGROUND SRC="media/cg/ba01no0.png">//
+<BUSTUP NAME="耕司" face="通常ムス" MODE="on" zoom="" ALIGN="left" SRC="media/cg/耕司_通常ムス.png">
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<voice NAME="耕司" SRC="media/voice/3/001802.ogg">  "Um, we're talking about this winter's ski trip. You're coming too... 
+right?"<K>
+  Koji speaks gingerly, as though probing a tumor. A few months ago, he would not have hesitated to rebuke Fuminori for his attitude. Their long acquaintance had forged a strong and honest friendship. But now...<K>
+<voice NAME="郁紀" SRC="media/voice/3/001900.ogg">  "I don't know," Fuminori responds bluntly, his downcast eyes and sullen demeanor making it clear that he has no desire to break his silence.
+
+<voice NAME="耕司" SRC="media/voice/3/002002.ogg">  "You have plans?"<K>
+<voice NAME="郁紀" SRC="media/voice/3/002100.ogg">  "Not really."<K>
+  Even Koji, Fuminori's best friend, cannot communicate with him as before. What hope does Yoh have of breaking through his shell?<K>
+  The scars left by the events of that late-summer day are still deep all these months later. Each one of the four bears them, not only Fuminori.
+
+<voice NAME="耕司" SRC="media/voice/3/002202.ogg">  "I mean... it's not like physical activity could affect your injuries, right?"<K>
+<voice NAME="郁紀" SRC="media/voice/3/002300.ogg">  "Not sure. I'll ask the doctor during my check-up."<K>
+<se id="1" src="media/sound/席立ち.ogg" mode="normal" loop="off">
+  As though that answer drained the last of his patience, Fuminori bolts out of his chair.<K>
+<voice NAME="耕司" SRC="media/voice/3/002402.ogg">  "Hey, Fuminori!"<K>
+  Even Koji can't keep his voice from rising as he tries to stop Fuminori from leaving.<K>
+  Fuminori reacts swiftly, throwing his hand over his face as though to shield himself from something terrifying.<K> Maybe some spit flew inadvertently from Koji's mouth, but that happens sometimes. Fuminori's reaction is beyond the pale.
+
+<clear>
+<BACKGROUND SRC="media/cg/03_1.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice NAME="郁紀" SRC="media/voice/3/002500.ogg">  "Like I said," Fuminori snaps, making no attempt to relieve the discomfort of his friends, "today's my check-up. I have to go."<K>
+  Even as he tosses money on the table to pay for his coffee, he acts like he's touching something filthy.<K>
+<voice NAME="郁紀" SRC="media/voice/3/002600.ogg">  "Later."<K>
+<se id="1" src="media/sound/男立ち去り1.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/ba01no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="9">
+  Fuminori stalks out of the cafeteria, almost as if he's running away.
+<se id="1" src="media/sound/喫茶ベル.ogg" mode="normal" loop="off">
+
+  Cloaked in heavy silence, the remaining three lower their gaze to the table, where the abandoned ten thousand yen bill sways forlornly. Fuminori's coffee is untouched.<K>
+<BUSTUP NAME="青海" face="通常ムス" MODE="on" zoom="" ALIGN="right" SRC="media/cg/青海_通常ムス.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice NAME="青海" SRC="media/voice/3/002704.ogg">  "I can't take this anymore," Omi says with a sigh, but Koji shakes his head reproachfully.
+
+<BUSTUP NAME="耕司" face="困惑ムス" MODE="on" zoom="" ALIGN="left" SRC="media/cg/耕司_困惑ムス.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice NAME="耕司" SRC="media/voice/3/002802.ogg">  "Fuminori just needs a little more time."<K>
+<voice NAME="青海" SRC="media/voice/3/002904.ogg">  "But it's been three months! What's with his attitude!? I feel like I'm going crazy hanging around him!"<K>
+<BUSTUP NAME="耕司" face="困惑" MODE="on" zoom="" ALIGN="left" SRC="media/cg/耕司_困惑.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice NAME="耕司" SRC="media/voice/3/003002.ogg">  "Hey, I don't understand what he's going through either. I don't think any of us can.<k><voice NAME="耕司" SRC="media/voice/3/003002_2.ogg"> Can you imagine losing your whole family like that? That'd screw anyone up."
+
+  It could have happened to anyone.<K> A tractor trailer flipped over on the highway, crushing the Sakisaka family car into twisted scrap. They said it had been difficult to tell the bodies of Fuminori's parents apart.<K>
+  For a while, it had looked as if there was no hope for Fuminori either. It was nothing short of a miracle that he was able to leave the hospital and return to a normal life.
+
+
+<BUSTUP NAME="耕司" face="困惑ムス" MODE="on" zoom="" ALIGN="left" SRC="media/cg/耕司_困惑ムス.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice NAME="耕司" SRC="media/voice/3/003102.ogg">  "He was worse when we went to see him in the hospital, remember? He was terrified of us, like he didn't know who we were. He even had to be tied to the bed, he freaked out so bad.<K><voice NAME="耕司" SRC="media/voice/3/003102_2.ogg"> I'm just glad he's made it this far."<K>
+<voice NAME="青海" SRC="media/voice/3/003204.ogg">  "There's still something strange about him. What's with the way he looks at us? It's like we're not even human!"<K>
+<BUSTUP NAME="耕司" face="険しい困惑" MODE="on" zoom="" ALIGN="left" SRC="media/cg/耕司_険しい困惑.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice NAME="耕司" SRC="media/voice/3/003302.ogg">  "Cut it out, Omi," Koji says forcefully, probably less out of empathy for his friend than out of consideration for Yoh.
+
+<clear>
+<BACKGROUND SRC="media/cg/13.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  While Koji's kindness makes her happy, Yoh also knows that she mustn't take advantage of it.<K>
+  Fuminori is the victim, just as Koji said. He's the one who most deserves sympathy.
+
+  Yoh's feelings for Fuminori are her problem, and no one else's. She doesn't blame Fuminori for not giving her an answer after she worked up the courage to ask him out.<K>
+  In fact, she thinks even more fondly of him for taking the time to consider than she would have had he treated their relationship casually.
+
+  Apparently, the fact that Fuminori did not reject her was enough to make them a couple in Koji and Omi's eyes. They've had plenty of fun at Yoh and Fuminori's expense since. The truth of it, though... is that he still hasn't given her an answer.<K>
+  After revealing her feelings to him, Yoh didn't see Fuminori again until a week later, and then she could only stare at his broken body through the window of the ICU.
+
+  And when he was finally released, after fifty days that seemed an eternity, he was somehow different.<K>
+  She's starting to doubt that he even remembers what she confessed to him before the accident.
+
+  Now winter is coming, and her feelings hang forgotten in the cold, lonely air.
+
+<A HREF="media/script/nps/sy020.nps" OPERATOR="">

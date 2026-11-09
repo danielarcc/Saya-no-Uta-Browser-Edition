@@ -1,0 +1,345 @@
+//匂坂邸：青海
+<MARKER NAME="#4">
+<bgm src="s11" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="media/cg/bc01re0.png">//
+<WIPE EFFECT="fade" TIME="20">
+<bgm src="media/sound/s07.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+<wait time="200">
+<box type="9">
+<se id="1" src="media/sound/青梅一歩.ogg" mode="normal" loop="off">
+  When she arrives at the Sakisaka house, Omi first takes a deep breath to calm herself.<K>
+  Her anger does not vanish entirely, of course, but at least now she can hear herself think.
+
+  While waiting for a response from the intercom, she looks over the patch of yard that she can see from outside the gate.<K>
+  Even Omi isn't normally one to complain about other people's housekeeping, but this is going too far.<K>
+  The grass is growing wild, and there are piles of dead leaves scattered everywhere. It doesn't just look untended. It looks like an uninhabited ruin.
+
+  It's still light out, but every window has its storm shutters tightly sealed. Omi guesses that they've been closed since morning.<K>
+  What kind of life is Fuminori leading? Even if he's living alone, he can't neglect his housework forever.<K>
+  And is it just her imagination, or does something stink like rotten meat? It couldn't be coming from the yard, could it?
+
+  There's still no response, so she presses the buzzer a second time, and a third, and a fourth. Finally, after this has gone on for over ten minutes, Omi loses her patience and opens the cover of the intercom.<se id="1" src="media/sound/カバー開け.ogg" mode="normal" loop="off">
+
+  As she expected, the power has been disconnected.<K>
+  Perhaps Fuminori has a good reason for shutting out the world, but Omi can only see it as a lack of respect for others. Her anger rekindled, she pushes the gate open <se id="1" src="media/sound/門開け.ogg" mode="normal" loop="off">and stomps through the yard to the front door.
+
+<se id="1" src="media/sound/女足音.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bc07re0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Given the state of his intercom, she doubts that Fuminori will respond to a knock, so Omi decides to just open the door and go in shouting. And if the door is locked, she'll just have to...
+
+  Surprisingly, the doorknob turns easily in her hand, and the enraged Omi finds herself throwing the door open wider than she intended.
+
+<bgm src="s07" mode="fadeout" time="20" loop="off">
+<se id="1" src="media/sound/郁紀家ドア開け2.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/12.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Her nostrils are instantly assaulted by a choking stench.<K>
+<voice name="青海" SRC="media/voice/8/000104.ogg">  <I>What is that smell!?</I><K>
+  As Omi stands petrified on the threshold, the cowbell hanging on the inside of the door chimes loudly. A moment later...
+
+<box type="5">
+<voice name="沙耶" SRC="media/voice/8/000201.ogg">  "WeLCoMe HOMe!"
+
+<box type="9">
+  Omi can't believe her ears. The voice she just heard could not have been human, yet its intonations were too complex for any animal she can imagine.<K>
+<voice name="青海" SRC="media/voice/8/000304.ogg">  "Is someone there?" she calls out to the end of the hallway from which the voice came.<K>
+  There is no response.<K><se id="1" src="media/sound/沙耶移動1.ogg" mode="normal" loop="off">Instead, she hears the sound of something soft and wet flopping its way deeper into the house.<K>
+<voice name="青海" SRC="media/voice/8/000404.ogg">  "......"
+
+
+<se id="1" src="media/sound/暗闇a.ogg" mode="normal" loop="off">
+  Finding it difficult to place a meaningful image to the voice she just heard, Omi stares blankly at the empty vestibule. There's nothing there―not even Fuminori's shoes, which can only mean that he's still outside somewhere, wearing them.<K>
+  The house should be empty.<K> But then what was that voice just now?
+
+<bgm src="media/sound/s09.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<clear>
+<BACKGROUND SRC="media/cg/bc03re0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Her anger has vanished as if it were never there. Nevertheless, Omi sets foot into the hallway, leaving the door open so that the cowbell won't ring.<K>
+<se id="1" src="media/sound/廊下きしみ.ogg" mode="normal" loop="off">
+  The floor creaks, setting her nerves on edge. Omi isn't sure why she's acting like a burglar, but something tells her to make as little noise as possible.
+
+  The potency of the stink inside the house makes the whiff she caught outside pale in comparison. It's sickening, like rotten fish guts. Has food been left to spoil in the kitchen?<K> <se id="1" src="media/sound/煮込み.ogg" mode="FADEIN" TIME="10" loop="off" vol="50">She hears a bubbling sound up ahead.<K>
+  Stepping gingerly on the creaking floorboards, Omi makes her way to the end of the hallway. She finds rooms to both sides of her―one lit, the other dark―and chooses to look into the lit room.
+
+<se id="1" src="media/sound/煮込み.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="600">
+<clear>
+<BACKGROUND SRC="media/cg/bc04re0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  It's the kitchen, lit by what must be the only window in the house not covered by a storm shutter.<K>
+  The sound she heard was the pot boiling on the stove, and on the chopping board next to it lie a butcher's knife and some half-diced carrots. A perfectly normal household scene, with the light of the setting sun making everything the color of decomposing fruit.<K>
+  Something is wrong. Who was cooking here? And where did they go?
+
+<voice name="青海" SRC="media/voice/8/000504.ogg">  "Is anyone here?" Omi calls, regretting it immediately as she realizes that her voice is shaking.<K> As her words echo vainly through the silent house, she begins to feel foolish and defenseless.
+
+
+<se id="1" src="media/sound/粘液3.ogg" mode="normal" loop="off">
+  Suddenly she feels something cold seeping through her pantyhose.<K>
+  She timidly reaches down to touch her feet. Her fingertips come away covered with a viscous, olive green slime, like the filthy water from a tank long clogged with algae and dead fish. The whole floor is covered with it. It must be the source of the stench.<K>
+  Omi now wishes that she had worn her shoes inside, manners be damned.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<clear>
+<BACKGROUND SRC="media/cg/11_1.png">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="9">
+  When she looks back ruefully the way she came, she realizes that her current position is not visible from the entrance. This kitchen must be where that strange voice came from.
+
+<se id="1" src="media/sound/沙耶変化.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/11_2.png">//
+<WIPE EFFECT="fade" TIME="10">
+
+<clear>
+<BACKGROUND SRC="media/cg/11_3.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  The next room is probably the den. As she expected from the closed storm shutters, it's pitch black inside.<K>
+  Omi wants nothing more than to flee this house, but that would mean turning her back to the darkness. And that, she simply cannot bring herself to do.
+
+<bgm src="s09" mode="fadeout" time="40" loop="off">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="600">
+<clear>
+<BACKGROUND SRC="media/cg/bc05da0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Moved by some irrational compulsion, Omi sets foot into the den.<K>
+<se id="1" src="media/sound/廊下きしみ.ogg" mode="normal" loop="off">
+  It is too dark to see anything, and the stink is far worse than before.<K>
+  She slides her hand along the wall, feeling for the light switch. Finding it much sooner than she expected,<se id="1" src="media/sound/スイッチ.ogg" mode="normal" loop="off"> she flips it on like it's her last hope.
+
+<se id="1" src="media/sound/出現2d.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bc05re0.png">//
+<WIPE EFFECT="fade" TIME="0">
+<wait time="200">
+<box type="9">
+  The colors.<K>
+  The <I>colors</I>. So many colors.<K>
+  The purple of entrails, the brown of rotten meat, the crimson of fresh blood, the yellow of fat―these colors, and more that cannot be described, cover every inch of the room in maddening array. The colors say all that needs to be said about the painter's hatred, malice, and insanity.
+
+<voice name="青海" SRC="media/voice/8/000604.ogg">  Omi's legs give out from the shock, sending her to the floor. <se id="1" src="media/sound/粘液4.ogg" mode="normal" loop="off">Slime immediately soaks through her jeans, its cold tendrils creeping up her legs, crotch, and...
+
+<se id="1" src="media/sound/粘液2.ogg" mode="normal" loop="off" vol="50">
+<bgm src="media/sound/s09_2.ogg" mode="normal" time="10" loop="on">
+  Her neck.<K>
+  Her hand flies to her neck, where it is greeted by another drop of chilly slime.<K>
+  Above her. Something is dripping down on her head.
+
+<clear>
+<BACKGROUND SRC="media/cg/16.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Making perhaps the worst decision of her life, Omi looks up.<K>
+<se id="1" src="media/sound/沙耶鳴き声.ogg" mode="normal" loop="off">
+  The predator clinging to the ceiling, poised to leap upon its prey―she sees it in every detail.
+
+<se id="1" src="media/sound/沙耶攻撃.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="#ff0000">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="media/cg/16_2.png">//
+<WIPE EFFECT="fade" TIME="0">
+<bgm src="s09_2" mode="fadeout" time="20" loop="off">
+  Her mouth and nose are sealed before she can scream, and her belly is torn open as something enters to feast on her innards.<K>
+  But by the time she feels any of this, Omi has already gone mad.
+
+//匂坂邸：郁紀
+<bgm src="s09_2" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="media/cg/bc01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+  I bit the bullet and tried to take the train, but the rush hour crowds were so bad that I had to get off halfway and walk.<K>
+  I'm running pretty late. Is Saya worried? I hope she's not mad.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<BACKGROUND SRC="media/cg/bc07me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  When I enter the yard, I realize that the front door has been left wide open.<K>
+<se id="1" src="media/sound/沙耶食事.ogg" mode="normal" loop="off" vol="50">
+  Light from the living room is seeping out into the hallway, and I hear what sounds like someone smacking their lips. There's also a tantalizing fragrance in the air.<K>
+  Is it Saya? I consider calling out to her, but decide to enter in silence instead.
+
+<clear>
+<BACKGROUND SRC="media/cg/bc03me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Something smells strange, though not unpleasant. The aroma is quite soothing, in fact. It reminds me of Saya's hair.
+
+<bgm src="media/sound/s06.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+<clear>
+<BACKGROUND SRC="media/cg/bc05me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  At first, I am surprised by what I see in the living room.<K>
+  The floor is covered with what looks to be some kind of grass―probably the source of the herblike smell―and there are fruit or vegetable-like balls of varying size scattered everywhere.
+
+<clear>
+<BACKGROUND SRC="media/cg/02.png" EX="1">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="郁紀" SRC="media/voice/9/000100.ogg">  "Saya?"<K>
+<voice name="沙耶" SRC="media/voice/9/000201.ogg">  "Ah!"<K>
+  Saya turns around, her eyes wide with surprise. She then looks away sheepishly, like a child caught at some prank.<K>
+<voice name="郁紀" SRC="media/voice/9/000300.ogg">  "What are you eating?"<K>
+<voice name="沙耶" SRC="media/voice/9/000401.ogg">  "This is, um, well," she stammers, so flustered that I suddenly feel bad for sneaking up on her.<K>
+  Remembering that she has never eaten in front of me before, I realize that she must be quite embarassed. 
+
+<clear>
+<BACKGROUND SRC="media/cg/bc05me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="郁紀" SRC="media/voice/9/000500.ogg">  "Can I have one?"<K>
+  I scoop up the closest fruit-thing and pop it into my mouth, ignoring Saya's attempt to wave me off.<K>
+<se id="1" src="media/sound/郁紀食事2.ogg" mode="normal" loop="off">
+  It has a strange texture, soft and pliable, like a peach or a pear. When I bite into it with my back teeth, a succulent juice fills my mouth, combined with a sharp, strong fragrance. It's unlike anything I've ever tasted.<K>
+<voice name="郁紀" SRC="media/voice/9/000600.ogg">  "How did you make this? What did you use?"
+
+<BUSTUP NAME="沙耶" face="目逸らし困り" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_目逸らし困り.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/9/000701.ogg">  "It wasn't hard... I just took it apart and melted it a little to make it easier to eat. It's practically raw."<K>
+<voice name="郁紀" SRC="media/voice/9/000800.ogg">  "Oh?"<K>
+  I pick up a different lump, this one consisting of fruity flesh around a hard core.<k><se id="1" src="media/sound/郁紀食事3.ogg" mode="normal" loop="off"> Tearing a chunk off in my mouth, I find that it has a similar taste to the last one.
+
+<BUSTUP NAME="沙耶" face="困り" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_困り.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/9/000901.ogg">  "Hey, are you okay? That's a..."<K>
+<voice name="郁紀" SRC="media/voice/9/001000.ogg">  "Yeah, even I can eat this. In fact, it's good!"<K>
+<BUSTUP NAME="沙耶" face="きょとん" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_きょとん.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/9/001101.ogg">  "Really?"
+
+  At first Saya looks dumbstruck, but then she bursts out laughing.<K>
+<BUSTUP NAME="沙耶" face="にっこり笑顔" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_にっこり笑顔.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/9/001201.ogg">  "So this is what you like! Now I feel stupid for going to all that trouble."<K>
+<voice name="郁紀" SRC="media/voice/9/001300.ogg">  "Is this what you always eat, Saya?"<K>
+<BUSTUP NAME="沙耶" face="通常" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/9/001401.ogg">  "Yeah, though it's been a while since I've had one so big. I usually catch them in the nearby park."<K>
+  There's an impressive nature preserve not too far from here. I've never heard about fruits like these growing there, but―well, of course. They only look like fruits to me. They're really something else.
+
+<BUSTUP NAME="沙耶" face="困り笑い2" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_困り笑い2.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/9/001501.ogg">  "Sorry, I already ate the best parts."<K>
+<voice name="郁紀" SRC="media/voice/9/001600.ogg">  "That's okay. There's always next time, and now we can eat together."<K>
+<BUSTUP NAME="沙耶" face="にっこり" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_にっこり.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/9/001701.ogg">  "Yeah!"<K>
+  Saya seems really happy. I'm happy too, of course. Eating with someone is much more fun than eating alone, and it makes the food taste better too.
+
+<BUSTUP NAME="沙耶" face="通常笑顔2" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_通常笑顔2.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/9/001801.ogg">  "There's still plenty left. It'll keep chilled for two or three days, though it won't taste as good."<K>
+<voice name="郁紀" SRC="media/voice/9/001900.ogg">  "Then we'd better start putting it away."<K>
+<BUSTUP NAME="沙耶" face="通常" MODE="off" zoom="" ALIGN="center">
+<WIPE EFFECT="fade" TIME="5">
+  Sealing the small fruits in tupperware and the large ones in pots and bowls, Saya and I store the remaining food in the refrigerator. Thinking of tomorrow's dinner fills me with anticipation.
+
+  I feel that, little by little, I'm starting to regain the joy of living.<K>
+  Saya will guide me. With her, I can live on.
+
+
+//病院の怪談
+<bgm src="s06" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="media/cg/bb02da0.png">//
+<WIPE EFFECT="fade" TIME="20">
+<bgm src="media/sound/s08.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+<wait time="200">
+<box type="5">
+
+<I>True Scary Stories: Hospital Edition</I>
+
+Chapter 4: The Monster in the Hospital
+
+A medical student relates his shocking experiences! Will you believe him or not!?
+
+
+
+<box type="9">
+  Strange things started happening at the hospital around the end of last spring.<K>
+  It began with patients waking up in the middle of the night, screaming. They all spoke of terrifying nightmares, and many of them had to be sedated. Some patients even transferred to other hospitals because of it.
+
+  The weird thing was that they'd all had exactly the same dream―a dream about some horribly disgusting monster staring down at them from their bedside.
+
+<clear>
+<BACKGROUND SRC="media/cg/bb01da0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  But the really strange stuff started happening after that.<K>
+  There used to be a lot of stray cats around campus, looking for scraps from the students.<K>
+  One day, the cats suddenly disappeared, and it wasn't that they'd stopped coming. It was more like they'd vanished from the area entirely.<K>
+  And then people stopped walking their dogs around. According to rumors, the dogs were refusing to go anywhere near the school.
+
+  Eventually, things started going missing in the hospital.<K>
+  Organs, to be precise.<K>
+  Transplant organs kept disappearing from storage. People came close to losing their jobs over it. And it wasn't just two or three times that it happened. They tried to keep it from the students, but we heard it was a lot worse than that.
+
+<clear>
+<BACKGROUND SRC="media/cg/28.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  People started saying that there was something living in the hospital.<K>
+  The janitors would find strange messes that could only have been made in the middle of the night―traces of something that had crawled down the hallway, or weird stains caused by something dripping through the ceiling.<K>
+  The late-shift nurses talked about hearing strange noises on the same nights that patients woke screaming.
+
+  There's one last story, one you can never mention inside the hospital.<K>
+  One day, the obstetrics department went crazy.<K>
+  They said that a newborn had disappeared in the night.
+
+  If that were true, the police would've come and it would've been all over the news, but they say the big shots managed to make it all go away. It's just a rumor, of course.
+
+  These strange incidents suddenly stopped toward the end of summer.<K>
+  Now there are almost no patients complaining of nightmares, and the cats have started coming back to campus.<K>
+  But still, what happened in the hospital that summer? Even now, just thinking about it gives me the creeps.
+
+<A HREF="media/script/nps/sy050.nps" OPERATOR="">

@@ -1,0 +1,22 @@
+// Menu authored for the generic engine, with original UI positions.
+<SYSTEM CMD="savemode" MODE="off">
+<BACKGROUND SRC="menu/title">
+<WIPE EFFECT="normal" TIME="0">
+<BGM SRC="s02" MODE="fadein" TIME="20" LOOP="on">
+<MARKER NAME="#menu">
+<CLEAR>
+<CHOICE HREF="cafeteria.nps" X="94" Y="261" TEXT="Iniciar" FILE="data/start01.png;data/start02.png;data/start03.png;data/start04.png;data/start05.png;data/start04.png;data/start03.png;data/start02.png;data/start01.png;data/startover.png;data/startover.png">
+<CHOICE HREF="#load" X="219" Y="419" TEXT="Carregar" FILE="data/load01.png;data/load02.png;data/load03.png;data/load04.png;data/load05.png;data/load04.png;data/load03.png;data/load02.png;data/load01.png;data/loadover.png;data/loadover.png">
+<CHOICE HREF="#config" X="962" Y="341" TEXT="Configurações" FILE="data/config01.png;data/config02.png;data/config03.png;data/config04.png;data/config05.png;data/config04.png;data/config03.png;data/config02.png;data/config01.png;data/configover.png;data/configover.png">
+<CHOICE HREF="#credits" X="1029" Y="915" TEXT="Créditos originais" FILE="data/staff01.png;data/staff02.png;data/staff03.png;data/staff04.png;data/staff05.png;data/staff04.png;data/staff03.png;data/staff02.png;data/staff01.png;data/staff.png;data/staff.png">
+<CHOICE HREF="#exit" X="1106" Y="747" TEXT="Encerrar roteiro" FILE="data/exit01.png;data/exit02.png;data/exit03.png;data/exit04.png;data/exit05.png;data/exit04.png;data/exit03.png;data/exit02.png;data/exit01.png;data/exitover.png;data/exitover.png">
+<CHOICE HREF="#gallery" X="922" Y="520" TEXT="Galeria" FILE="data/cgl01.png;data/cgl02.png;data/cgl03.png;data/cgl04.png;data/cgl05.png;data/cgl04.png;data/cgl03.png;data/cgl02.png;data/cgl01.png;data/cglover.png;data/cglover.png">
+<CHOICE HREF="#music" X="61" Y="730" TEXT="Músicas" FILE="data/sl01.png;data/sl02.png;data/sl03.png;data/sl04.png;data/sl05.png;data/sl04.png;data/sl03.png;data/sl02.png;data/sl01.png;data/slover.png;data/slover.png">
+<SELECT>
+<MARKER NAME="#load"><LOAD><A HREF="#menu">
+<MARKER NAME="#config"><SYSTEM CMD="config"><A HREF="#menu">
+<MARKER NAME="#credits"><SYSTEM CMD="credits"><A HREF="#menu">
+<MARKER NAME="#exit"><END>
+
+<MARKER NAME="#gallery"><SYSTEM CMD="cgmode"><A HREF="#menu">
+<MARKER NAME="#music"><SYSTEM CMD="music"><A HREF="#menu">

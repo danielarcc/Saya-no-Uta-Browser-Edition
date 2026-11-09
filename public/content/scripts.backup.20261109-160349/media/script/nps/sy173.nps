@@ -1,0 +1,73 @@
+<MARKER NAME="#合流2">
+<BUSTUP NAME="沙耶" face="困り笑い2" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_困り笑い2.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/37/003801.ogg">  "We're finally going to get more human meat. Too bad it's just going to rot without a refrigerator."<K>
+<voice name="郁紀" SRC="media/voice/37/003900.ogg">  "Why don't we use it to trap other animals? It could be bait for stray cats or crows."<K>
+<BUSTUP NAME="沙耶" face="弱気目きょとん" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_弱気目きょとん.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/37/004001.ogg">  "That's too dangerous. If an animal gets away with the meat, someone might find it and wonder where it came from."<K>
+<voice name="郁紀" SRC="media/voice/37/004100.ogg">  "Good point."<K>
+  Humans are extremely dangerous, and their filthy, stinking bodies make me sick just by being nearby. Ironically, however, nothing tastes better than their meat. I truly regret having to abandon our well-stocked fridge.
+
+<BUSTUP NAME="沙耶" face="横見思案寂しげ" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_横見思案寂しげ.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/37/004201.ogg">  "The forest around here is full of animals. I don't think we'll have any trouble finding food."<K>
+<voice name="郁紀" SRC="media/voice/37/004300.ogg">  "We have three mouths to feed. Are you sure?"<K>
+<BUSTUP NAME="沙耶" face="楽し目笑い" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_楽し目笑い.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/37/004401.ogg">  "Leave it to me! I may not look it, but I'm a pretty good hunter. I'll be sure to keep us well fed."<K>
+<voice name="郁紀" SRC="media/voice/37/004500.ogg">  "Okay. Looks like you're going to be the breadwinner of this family."<K>
+<BUSTUP NAME="沙耶" face="にっこり" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_にっこり.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/37/004601.ogg">  Saya giggles happily at my praise. I find these childish qualities of hers adorable.
+
+<BUSTUP NAME="沙耶" face="目逸らし笑い2" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_目逸らし笑い2.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/37/004701.ogg">  "I wonder how long we'll be able to relax this time."<K>
+  Because of the casual way she says it, I almost miss the emptiness to which her question leads.<K>
+<voice name="郁紀" SRC="media/voice/37/004800.ogg">  "Yeah..."<K>
+<BUSTUP NAME="沙耶" face="通常" MODE="off" zoom="" ALIGN="center">
+<WIPE EFFECT="fade" TIME="5">
+  Saya's right. This won't last forever.<K>
+  No matter how safe this hideout might seem, we will have to abandon it eventually. The slightest mistake could put our life together in jeopardy―just like when I failed to silence Koji.
+
+  Some dumb kids might decide that this old ruin is a good place to test their courage, or this land might be targeted for new development.<K>
+  In order to be together with Saya, I have chosen to live apart from society. We will never find lasting peace in this world teeming with humans―not unless we can somehow escape from it.
+
+<voice name="郁紀" SRC="media/voice/37/004900.ogg">  "Think of it like going on a journey, just the two of us."<K>
+<se id="1" src="media/sound/抱き寄せ.ogg" mode="normal" loop="off">
+  I pull Saya into my arms and fold my hands around her slender shoulders, then whisper,<K><voice name="郁紀" SRC="media/voice/37/005000.ogg"> "Life is like a journey anyway. Nothing stays the same forever.<k> <voice name="郁紀" SRC="media/voice/37/005000_2.ogg">The only difference is whether time passes you by or sweeps you up in its flow."
+
+<BUSTUP NAME="沙耶" face="寂しげB1" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_寂しげb1.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/37/005101.ogg">  "I guess you're right."<K>
+  Saya smiles softly, perhaps in resignation, perhaps in sadness―either way, there is peace and contentment in her expression.
+
+<BUSTUP NAME="沙耶" face="困り笑い1" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_困り笑い1.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/37/005201.ogg">  "But we'll be together, so I'm not lonely. You're not lonely either, are you?"<K>
+<voice name="郁紀" SRC="media/voice/37/005300.ogg">  "No."<K>
+  I have no regrets.<K>
+  As long as I can hold Saya in my arms, I will gladly pay any price.
+
+<BUSTUP NAME="沙耶" face="通常にっこり" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_通常にっこり.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/37/005401.ogg">  "And besides," she adds brightly, trying to cheer me up.<K><voice name="沙耶" SRC="media/voice/37/005501.ogg"> "One day, we won't have to hide anymore. I can promise you that."<K>
+  It sounds like a fairytale, but for some reason, she seems absolutely certain.<K>
+<BUSTUP NAME="沙耶" face="楽し笑い2" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_楽し笑い2.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/37/005601.ogg">  "That day might be tomorrow, or it might be far off in the future.<k> <voice name="沙耶" SRC="media/voice/37/005601_2.ogg">It's my first time, so even I don't know when the sign will come.<k><voice name="沙耶" SRC="media/voice/37/005601_3.ogg"> I'm a little scared."
+
+  I have no idea what Saya's prophetic words mean, but this isn't the first time that she's said or done something mysterious. She's performed any number of miracles already.<K>
+<voice name="郁紀" SRC="media/voice/37/005700.ogg">  "So there's hope for us too?"<K>
+<BUSTUP NAME="沙耶" face="にっこり" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_にっこり.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/37/005801.ogg">  "Yeah," she says with a cheerful nod.<K>
+<BUSTUP NAME="沙耶" face="寂しげ1" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_寂しげ1.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/37/005901.ogg">  "It will be my last present to you, Fuminori. My first and final duty."
+
+//<A HREF="#郁紀3" OPERATOR="badend=1">
+//<A HREF="#凉子3" OPERATOR="">
+<A HREF="media/script/nps/sy173f.nps" OPERATOR="badend=1">
+<A HREF="media/script/nps/sy173r.nps" OPERATOR="">

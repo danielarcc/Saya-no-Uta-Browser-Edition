@@ -1,0 +1,84 @@
+//匂坂邸前：郁紀
+<MARKER NAME="#6">
+<bgm src="s04" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="media/sound/s01.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<BACKGROUND SRC="media/cg/bc01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+  What a nuisance.<K> Why does he insist on interfering?<K>
+  If he only spoke with me to exchange pleasantries, even I could bear it. But now he's sticking his nose into my business just to satisfy his curiosity.<K>
+  Koji is a perfect example of someone who thinks that it's always good to take an interest in other people's affairs. He probably thinks that he's doing me a favor by prying into my life.<K>
+  He couldn't be more wrong.
+
+  If he keeps this up, I might have to find some way to deal with him.<K>
+  Like Saya said, I have to keep my search for Dr. Ogai a secret. Koji could ruin everything.
+
+  I didn't have time to fully investigate the Ogai residence today. At this rate, it will probably take several days just to go through the study.<K> Saya didn't believe that I'd find anything to help with the search, but I think there's still a lot to explore. Who knows what I'll discover? 
+
+  The problem is Koji. He knows about the house now. Will he make things difficult? 
+
+<voice name="洋佑" SRC="media/voice/13/000103.ogg">  "ExCusE ME," a hair-raising voice calls as I'm about to pass through my gate.<K>
+  Suppressing a shudder, I put on a fake smile and turn to face the writhing mass of rotten flesh that is staring at me with bulging eyes.
+
+<clear>
+<BACKGROUND SRC="media/cg/bp02me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="洋佑" SRC="media/voice/13/000203.ogg">  "GOOD EVeniNg. aRE YOu just GeTtIng hOME?"
+
+<clear>
+<BACKGROUND SRC="media/cg/bc01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="郁紀" SRC="media/voice/13/000300.ogg">  "Yes, I am."<K>
+  Ah, of course. This is my next door neighbor Suzumi, a middle-aged painter―I think―who spends all day at home while his wife works.<K>
+  I haven't had much contact with him since the accident. Why is he suddenly talking to me now?
+
+<clear>
+<BACKGROUND SRC="media/cg/bp03me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="洋佑" SRC="media/voice/13/000403.ogg">  "HaVE yoU gOttEN usED to lIVIng alOne?"<K>
+<voice name="郁紀" SRC="media/voice/13/000500.ogg">  "Yes. Thank you for your help."<K>
+<voice name="洋佑" SRC="media/voice/13/000603.ogg">  "I knOW it mUSt be vEry dIFFicUlt, bUT yoU'rE stIll YOuNg. YOU HAVe To tRY to MoVE oN WIth YOuR lIfE."<K>
+<voice name="郁紀" SRC="media/voice/13/000700.ogg">  "Yeah..."<K>
+  What is this? Did he stop me just to deliver a lecture?
+
+<clear>
+<BACKGROUND SRC="media/cg/bc01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="洋佑" SRC="media/voice/13/000803.ogg">  "WIth suCh a BIG HOusE, it MUst bE hARd To tAKe CaRe of EVErytHiNg bY yoUrsELf."<K>
+<voice name="郁紀" SRC="media/voice/13/000900.ogg">  "Yes, I suppose it is rather difficult."<K>
+<voice name="洋佑" SRC="media/voice/13/001003.ogg">  "WhY noT hIRE A carEaKEr? DIDn'T yoUr faThER have onE?"<K>
+<voice name="郁紀" SRC="media/voice/13/001100.ogg">  "I'm still a student. I can't really afford the expense."<K>
+<voice name="洋佑" SRC="media/voice/13/001203.ogg">  "I SEe..."<K>
+  The flesh-beast undulates foully, as though it still has something to say. The sight of it is driving me close to the edge.
+
+<clear>
+<BACKGROUND SRC="media/cg/bp01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="洋佑" SRC="media/voice/13/001303.ogg">  "EvEN SO, doN't YOu ThiNk yoU sHOuLd at LEasT tEnd TO yoUR yArD? i'd bE hAPpy tO HELp."<K>
+<voice name="郁紀" SRC="media/voice/13/001400.ogg">  "No, thank you. I'll manage on my own."<K>
+  Now I get it. He's worried that the unsightliness of my house might diminish the image of his own. Damned snob.
+
+<clear>
+<BACKGROUND SRC="media/cg/bc01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  I flash a token smile, then retreat behind the safety of my gate.<K> I can feel Suzumi's eyes boring into my back all the way to the front door.
+
+  Why won't everyone stay out of my life!? I just want to live together with Saya, alone where no one will ever bother us.
+
+<A HREF="media/script/nps/sy070.nps" OPERATOR="">

@@ -1,0 +1,461 @@
+//匂坂邸：郁紀
+<MARKER NAME="#16">
+<bgm src="s07" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="media/sound/s03.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<BACKGROUND SRC="media/cg/bc06me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="1" NAME="瑶" SRC="media/voice/32/000105.ogg" mode="normal" loop="on">
+<wait time="200">
+<box type="9">
+
+//<voice NAME="瑶" SRC="32\000105">（フェラチオの舌音、ループ再生するため、長めに収録）
+  I stare at the silent phone in my hand.<K> There is anger, of course, but something cold and heavy holds my emotions in check.<K>
+  The sense of danger.<K> To be honest, I'm surprised at how calm I am.
+
+<clear>
+<BACKGROUND SRC="media/cg/h05.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<se id="1" src="" mode="normal" loop="off">
+<voice name="瑶" SRC="media/voice/32/000205.ogg">  "Master?"<K>
+
+
+  The remaining fragments of her memory seem to have joined together, as she has regained some degree of speech. Upon realizing this last night, Saya began to teach her language once more. I assume she finds our pet's efforts amusing.
+
+<voice name="瑶" SRC="media/voice/32/000305.ogg">  "Don't... be mad. Yoh will... try harder."<K>
+
+
+
+  At first, I consider making her stop. When I gaze into her puppy-dog eyes, however, I begin to think differently.
+
+  Thanks to Saya, I have a family once again. For the first time, I am becoming aware of the responsibility that places on me.<K>
+  I am now the head of a new Sakisaka household, as well as its only male member. It is my duty to protect, comfort, and ensure the happiness of the women living under my roof.<K>
+  With that in mind, I know that I mustn't show fear or confusion. That would only cause them distress.
+
+<voice name="郁紀" SRC="media/voice/32/000400.ogg">  "Continue."<K>
+<se id="1" src="" mode="normal" loop="off">
+<voice name="瑶" SRC="media/voice/32/000505.ogg">  "Yes, Master."<K>
+
+
+  It is clear that I made a grave error when I failed to finish Koji off two days ago. Right now, I need to set my frustration and anger aside and deal with this problem logically.
+
+  It's time to leave.<K>
+  I have no way of knowing when Koji escaped from the well, or how much he has learned, or how many people he has had contact with since then.<K> Now that it is impossible to know how far the problem has spread, merely disposing of Koji won't guarantee our safety.<K>
+  When the enemy has poisoned your water supply, you can't take the risk that even one drop might remain. Your only choice is to stop drinking the water.
+
+<clear>
+<BACKGROUND SRC="media/cg/bc06me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<BUSTUP NAME="沙耶" face="楽し目笑い" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_楽し目笑い.png">
+<WIPE EFFECT="fade" TIME="5">
+<box type="9">
+<voice name="沙耶" SRC="media/voice/32/000601.ogg">  "Fuminori? Who were you talking to?"<K>
+  Saya returns from the kitchen, where she'd gone in search of a midnight snack. She's munching on her favorite―spare ribs.<K>
+  Purging myself of unease and impatience, I respond with a casual shrug.<K>
+<voice name="郁紀" SRC="media/voice/32/000700.ogg">  "It looks like we have a little problem. That bastard Koji is still alive."
+
+<BUSTUP NAME="沙耶" face="きょとん" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_きょとん.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/32/000801.ogg">  "Oh dear."<K>
+  By breaking the news suddenly and without any trace of anxiety, I am able to avoid frightening Saya. Instead, she is merely surprised. I knew that remaining calm would work.<K>
+
+
+<voice name="郁紀" SRC="media/voice/32/000900.ogg">  "Saya... it might be best if we leave this house."<K>
+<BUSTUP NAME="沙耶" face="横見思案" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_横見思案.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/32/001001.ogg">  "Hmm..."<K>
+  Saya lowers her eyes and strokes her chin thoughtfully.<K>
+<voice name="郁紀" SRC="media/voice/32/001100.ogg">  "This was bound to happen sooner or later. Even without Koji, it's only a matter of time before someone reports the Suzumi family missing."<K>
+<BUSTUP NAME="沙耶" face="目逸らし困り" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_目逸らし困り.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/32/001201.ogg">  "Yeah," Saya nods. I can tell that she's reluctant to leave, but at least there is no sadness in her expression.<K>
+  Everything will be fine.<K> I will protect my life with Saya just as I have up until now. I have that power.<K> Knowing that we've overcome one problem fills me with new confidence.
+
+  The conversation is interrupted by a private moment. Afterwards, Fuminori and Saya prepare to leave.<K>
+<BUSTUP NAME="沙耶" face="弱気目慄き" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_弱気目慄き.png">
+<WIPE EFFECT="fade" TIME="5">
+
+
+
+
+<BUSTUP NAME="沙耶" face="横見思案きょとん" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_横見思案きょとん.png">
+<WIPE EFFECT="fade" TIME="5">
+
+
+
+<clear>
+<BACKGROUND SRC="media/cg/h04_2.png">
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+
+
+
+
+
+
+
+
+
+<clear>
+<BACKGROUND SRC="media/cg/51.png">
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+
+
+
+
+
+
+<voice name="郁紀" SRC="media/voice/32/002700.ogg">  "Don't worry. I won't. Now then, we'd better get ready."<K>
+<voice name="沙耶" SRC="media/voice/32/002801.ogg">  "Okay."
+
+<clear>
+<BACKGROUND SRC="media/cg/bc06me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  We can travel light and take the Suzumi family car.<K> I'd better withdraw everything that's left in my bank account and carry it as cash. I'll also need a weapon, something more reliable than a butcher's knife.<K>
+  Koji will most likely follow. He thinks that Yoh can still be saved. However, I'm not abandoning this house just to run away.<K> As long as Koji knows our location, we're stuck on the defensive. Leaving gives me the chance to regain the initiative and deal with him at a place of my choosing.
+
+  The next time we meet, I'll kill him with my own two hands. I'll make sure to wring every last drop of life out of his body.<K>
+  A shiver runs through me as I anticipate the battle ahead, and my bloodlust burns fiercely.
+
+//別荘：凉子
+<bgm src="s03" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="media/sound/朝.ogg" mode="normal" loop="off">
+<BACKGROUND SRC="media/cg/bf04no0.png">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+  When Ryoko looks up, the morning sun is already streaming in through the window.<K>
+  Tired from hours of poring over files, she removes her glasses and massages her aching eyes.<K>
+<bgm src="media/sound/s07.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+  Her dreams are always filled with horror, yet the night she just spent was more nightmarish than them all―and it's not over yet. She has only just set foot on the threshold.
+
+  As expected, the files left by Ogai Masahiko were not the sort that Ryoko could simply pick up and read.<K>
+  Fortunately, Ogai had been too old-fashioned to put his trust in electronic media. If he'd encrypted his files on a computer, she'd have had to find a hacker to decipher them.<K>
+  In fact, he had not employed any kind of code in his writing. That would have been too time-consuming by hand. The method of obfuscation he did use was quite simple.
+
+<clear>
+<BACKGROUND SRC="media/cg/35.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Of the files Ryoko pulled from his underground lab, the majority turned out to be notes and theses from Ogai's days as a student. The important papers were the diaries and research notes that had been scattered throughout the piles of worthless scrap.<K>
+  At first, she was unable to understand the documents that she had found. Each sheet was covered with text on one side and blank on the other; each line was completely unrelated to the next, making it impossible to glean any meaning from the whole.<K>
+  The trick revealed itself, however, while she was sorting the pages that made no sense. She found that each line continued on the same line of a different page.
+
+  In Ogai's diary, for example, the first day began on the first line, then continued not with the next line, but with the first line on the next page.<K>
+  Similarly, the second day was the second line, the third day was the third line, and so on and so forth. After filling all the lines on one set of pages, Ogai had torn them out and scattered them among his other files.<K>
+  There was no regularity to how the pages were numbered, of course. Unable to locate any sort of key or legend, Ryoko had no choice but to figure out the page order manually.
+
+  Despite knowing that the task would be exhausting, Ryoko set to it valiantly. After separating all of the looseleaf sheets from the jumbled files, she began the painstaking process of linking pages together according to the contents of their first line.<K>
+  She found that Ogai had dismantled and scattered his diary each time he completed a number of days equal to the lines on one page, and had done the same with his research notes every thirty pages or so.<K>
+  The diary was much easier to restore. Because the entries varied in length, later pages had a larger number of blank lines. The page with only one line, therefore, was the last page of the diary, and those with the most blank spaces could be considered closer to the end. 
+
+<bgm src="s07" mode="fadeout" time="20" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bf04no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Ryoko's perseverance has paid off, for she has already succeeded in restoring several volumes of Ogai's diary.<K>
+  As she reads them, she feels despair draining her spirit, as it has so many times before.
+
+  This cursed feeling of powerlessness that comes with knowing hidden truths―those who have tasted it once shall be beaten down by it again and again, until the day they die.<K>
+  All secrets are connected, after all. Once you have glimpsed even the tiniest fraction of the world's true face, you have no choice but to watch in horror as the veil rolls itself back inch by inch.<K>
+  All that remains is to wait for the day when insanity will crush your reason under its ever-mounting weight.
+
+<bgm src="media/sound/s08.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+<clear>
+<BACKGROUND SRC="media/cg/35.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  "I have succeeded in communicating with the organism. It shows enormous curiosity, and its intelligence is beyond doubt. See research notes for confirmed vocal patterns and body language."
+
+<se id="1" src="media/sound/本めくり.ogg" mode="normal" loop="off">
+  "Its appetite for knowledge is insatiable, and its learning speed is off the charts. However, it exhibits absolutely no desire to be recognized as an individual.<K>
+  Its ego appears to be quite weak, suggesting a psyche wholly unlike that of a human."
+
+<se id="1" src="media/sound/本めくり.ogg" mode="normal" loop="off">
+  "The speed of the organism's linguistic development is astounding. When I laughed at its mispronunciations, it immediately picked up the concept of puns.<K>
+  Ever since, it has been employing its entire vocabulary in an attempt to find puns that will 'make me laugh.' Perhaps, in a few days' time, it will have learned enough language for us to communicate freely."
+
+<se id="1" src="media/sound/本めくり.ogg" mode="normal" loop="off">
+  "The organism's command of spoken language is now sufficient to facilitate higher-level discourse, but although it has regaled me with questions all day, it remains unable to answer any of mine.<K>
+  Its replies suggest that it gained awareness only after materializing in this universe. It has no knowledge of where it came from.<K>
+  While I am disappointed, the fact that it has reached this level of intelligence only one week after starting to think tells me that there is no end to what I can learn from it."
+
+  "Hypothesis. It is not a naturally-occurring organism, but was created by an even more sophisticated sentient lifeform. This would explain why it has no ego yet possesses such a hunger for knowledge. It might be some sort of reconnaissance 'drone' that was sent here from another world."
+
+<clear>
+<BACKGROUND SRC="media/cg/bf04no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Ryoko smiles humorlessly for the umpteenth time since she started reading.<K>
+  How wonderful it would be if she could laugh the diary off as the delusions of a madman or the work of a science-fiction author.<K>
+  Alas, she knows far too much.<K>
+  When she thinks back to the many horrors that Ogai brought into her life, the words before her take on chilling credibility.
+
+<se id="1" src="media/sound/本めくり.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/35.png">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="9">
+  "I have confirmed that the organism's brainpower far surpasses any human's.<K>
+  This morning, I taught it about prime numbers. After I explained the Lucas-Lehmer test for Mersenne primes, it immediately began to list examples that it had calculated in its head.<K>
+  I was only able to confirm by memory up to number 10, M89, but it continued to list further examples without any trouble.<K>
+  I left it to its calculations, and when I returned a few hours later, I discovered that it had written down more than 70 of them.<K>
+  Computers all over the world are currently working to calculate Mersenne primes, but the last one I remember being found was the 39th back in 2001."
+
+  "When I entered several of the results into my laptop and ran the Lucas-Lehmer test on them, I found that every one was correct. The same is no doubt true of the rest.<K>
+  After all, the organism has never shown the pathological need for respect that would lead it to lie about its accomplishments. I see no reason to doubt its veracity.<K>
+  If I could reveal to the world an expedient method for discovering Mersenne primes, the prize money would make me a billionaire. Of course, my current research is worth far more than any sum of money. I must keep it secret.<K>
+  The organism's computational speed exceeds that of even the most powerful supercomputers. I can only conclude that its cognitive faculties are beyond anything humanity can imagine."
+
+<se id="1" src="media/sound/本めくり.ogg" mode="normal" loop="off">
+  "At the organism's request, we have begun a new field of study.<K>
+  Despite its immeasurable aptitude for mathematics, it now desires to concentrate on sociology and the natural sciences. Perhaps our math problems are simply too elementary for it.<K>
+  It has shown especially keen interest in the means by which organisms reproduce and multiply. As it possesses nothing that could be called emotion, I hesitate to use this description, but when it learned about DNA, it seemed somehow 'excited.'"
+
+  "In fact, the organism itself seemed surprised by its reaction. When asked about the nature of the impulse, the organism decided to label it 'instinct.' If this description is indeed accurate, then this is an extremely significant development.<K>
+  It would mean that there is a deeper level to its psyche than just the knowledge it has acquired since coming to this world. If I can use this discovery to trace its roots, I might be able to learn what it truly is.<K>
+  Note. Candidates for the plane and world of the organism's origin are discussed in my writings on the Silver Key, filed separately."
+
+<se id="1" src="media/sound/本めくり.ogg" mode="normal" loop="off">
+  "I spent the whole day carrying books into its room.<K>
+  Apparently, the organism is no longer satisfied by the knowledge I am able to impart. It should come as no surprise, considering its linguistic prowess, but the speed at which it consumes texts is astounding."
+
+<clear>
+<BACKGROUND SRC="media/cg/bf04no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  The diary continues for some time, chronicling the intimate relationship between Ogai and "the organism."<K>
+  In the back of her mind, Ryoko imagines the old doctor climbing down the well in the middle of the night to hold congress with some inhuman creature in that bizarre laboratory.<K>
+  The image is disturbingly similar to the nightmares that have shattered the silence of many nights with her screams.<K>
+  What follows, however, makes even her worst nightmares pale in comparison.
+
+<se id="1" src="media/sound/本めくり.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/35.png">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="9">
+  "The organism has made a very strange request. This is the first time it has asked for anything other than food and reading materials.<K>
+  I can hardly believe it, but it wants to consume the sperm of living creatures. This is separate from its desire for food. Once again, it is describing this impulse as 'instinctive.'<K>
+  Now that it has declared itself a 'lifeform that requires the seed of males,' it has begun to identify itself as 'female.' After today, I suppose I shall have to start calling the organism a 'she.'"
+
+<se id="1" src="media/sound/本めくり.ogg" mode="normal" loop="off">
+  "Is the personality that she has begun to exhibit really just an imitation created for her amusement?<K>
+  Ever since she started to immerse herself in our literature, she has been acting astonishingly human. She identifies herself as female, and already possesses an enormous store of cultural knowledge. Is she trying to create a human identity for herself based on these?<K>
+  I have seen her laugh, grow angry, and today... she cried.<K>
+  Is she just copying our emotional displays? If not, then she is already..."
+
+  "Is the 'soul' something that any intelligent lifeform can acquire?<K>
+  I feel that I am witnessing something more mysterious than the genesis of life itself."
+
+<se id="1" src="media/sound/本めくり.ogg" mode="normal" loop="off">
+  "Today is her birthday. Although it is a year late, I want to give her a special gift.<K>
+  'Saya' was the name of my mother's cat. In childhood, she was my sole friend and my beloved. I decided long ago that if I were ever blessed with children, I would give this name to my daughter.<K>
+  Happy birthday, Saya.<K>
+  Let this be the name of your soul. You have earned it."
+
+<se id="1" src="media/sound/本めくり.ogg" mode="normal" loop="off">
+  "The ability that Saya has discovered in herself is showing more extraordinary results each day.<K>
+  I have no doubt that she is a kind of artist. What exactly is it that she created in her body from the rat semen I gave her?<K>
+  At this point, I can only surmise that it is a type of retrovirus―a reverse transcriptase enzyme that creates exactly what she desires."
+
+  "The rats that have been transformed by her art are so very beautiful now.<K>
+  The many enzymes secreted by her body and the various appendages she uses are discussed in detail in my biological observations, filed separately. Here, I will say this.<K> By witnessing Saya perform her operations on several rats, I have gained much confidence in my theory that her body is designed specifically to manipulate the biology of other organisms."
+
+<clear>
+<BACKGROUND SRC="media/cg/bf04no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Ryoko looks grimly at the still-unsorted mountain of research notes. When she finally manages to separate those papers, she will probably find the many other files mentioned in the diary.<K>
+  Ogai's biological observations―at the very least, she wants to look through those before facing the thing called "Saya." Under no circumstances does she want to go into battle unprepared.<K>
+  She looks at her watch and sees that it's already seven in the morning. Assuming Tonoh Koji made no stops, he should be arriving in Tokyo about now.<K>
+  Now that it's too late, she wishes she'd stopped that stubborn fool from leaving―even if she'd had to shoot him in the leg to do it.
+
+//匂坂邸：耕司
+<bgm src="s08" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="media/cg/bo04mo0.png">//
+<WIPE EFFECT="fade" TIME="20">
+<bgm src="media/sound/s04.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<wait time="200">
+<box type="9">
+  Koji pulls up two blocks away from the Sakisaka house and stares at the silent building.<K>
+  In the bright light of morning, the house seems shrouded in a dark miasma, like a black hole torn out of the landscape. Is it just a figment of Koji's imagination?<K>
+  Every window is closed, offering no glimpse of the inside. Koji has no way of knowing whether Fuminori is home.
+
+  A pedestrian walks his dog down the street, glancing back at Koji through the windshield after he passes by.<K>
+  Koji isn't surprised by the attention. He hasn't bathed or changed clothes since spending the night buried in mud, so he must look like a vagrant even inside his car.<K>
+  When he looks into the rearview mirror, he sees the haggard visage of a man with one foot in the grave staring back at him. It's hard to believe that the tired, unshaven face is really his.
+
+<clear>
+<BACKGROUND SRC="media/cg/bc01no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  If he stays here for too long, someone might report him to the police. He'd better pull himself together and get moving.<K>
+<se id="1" src="media/sound/車停止2.ogg" mode="normal" loop="off">
+  He drives slowly up to the front of Fuminori's house, quickly checks to make sure no one is around, and gets out of the car.<K>
+  Anyone who might be in the house probably heard the sound of the engine, but there's no point in worrying about that now.
+
+<clear>
+<BACKGROUND SRC="media/cg/bc07no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Koji walks swiftly through the gate and yard to the front door. He puts his hand on the doorknob, forgoing the bell. The time for such pleasantries has passed.<K>
+  The door is unlocked, and the knob turns easily in his hand.<K>
+<bgm src="s04" mode="fadeout" time="20" loop="off">
+  He puts his ear to the door and listens for any sign of life. He's acting like a thief, he realizes with some shame, but that is the least of his worries now.<K>
+  No sound from within. After checking the street again to make sure no one is looking, <se id="1" src="media/sound/郁紀家ドア開け1.ogg" mode="normal" loop="off">he quickly opens the door and disappears inside.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="media/sound/臭気.ogg" mode="normal" loop="off">
+<bgm src="media/sound/郁紀光景.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<BACKGROUND SRC="media/cg/bc02no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  An indescribable stink immediately assaults his nostrils. He is already prepared for anything, however, so rather than discourage him, the stench only sharpens his caution to a razor's edge.<K>
+  He has crossed this threshold many times in the past, and his memories of days spent here are still bright.<K>
+  So why? Why does he feel the same ominous, blood-chilling aura that permeated Ogai's home and cabin?<K>
+  Anger and sorrow seize Koji's heart, as though a dear friend's grave has been defiled.
+
+<clear>
+<BACKGROUND SRC="media/cg/bc03no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Koji doesn't remove his shoes before entering. He knows why he's here, and it's not to be polite.<K>
+  Every storm shutter is closed, filling the house with gloom, and he can see nothing but pitch black darkness through the open doors in the hallway.<K>
+  He should have brought his flashlight from the car, he thinks ruefully, then remembers that he dropped the light when Fuminori attacked him. It's still lying in the backyard of the cabin in Tochigi.
+
+  The house might be empty; then again, it might not. Each particle of the air seems charged with silent menace.<K>
+  Is his enemy lurking somewhere in the darkness? It's not hard to imagine Fuminori waiting for a chance to take him by surprise and finish what the well failed to.
+
+<se id="1" src="media/sound/耕司足音階段2.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<BACKGROUND SRC="media/cg/bc03no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Koji walks down the first floor hallway, then climbs the stairs and checks the second floor too. He moves slowly and carefully, keeping his senses sharp, but feels nothing watching him from the shadows.<K>
+  After completing his rounds safely, he is convinced that the house is empty.
+
+  He suddenly realizes that his right hand is touching the cold steel of the gun in his pocket. Did he intend to draw the weapon upon encountering Fuminori?<K>
+  Now that Koji thinks about it, his own actions seem mysterious to him.<K>
+  What is he planning to do when he meets Fuminori? Will he lay into him with curses and epithets? Will he force him to turn himself in? Or will he...<K>
+  Koji shakes his head. This isn't the time for such hopeless questions.
+
+  If he keeps thinking, he'll stop moving; if he stops moving, fear will paralyze him forever.<K>
+  His only choice is to keep marching on. He has to close the distance to his prey.
+
+  In any case, Fuminori isn't home. What form their reunion takes will probably be decided at the moment of their meeting. All Koji has to do is not hesitate when the time comes.<K>
+  Still, why does the whole house smell like stagnant water?<K>
+  It's been three months since Fuminori distanced himself from his friends. Just what kind of life has he been leading all this time?
+
+<clear>
+<BACKGROUND SRC="media/cg/bc05da0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Koji enters the living room and feels along the wall for the light switch. The moment he flips it on, the answer to his question is revealed.
+
+<se id="1" src="media/sound/スイッチ.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bc05mo0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+//<se id="1" src="恐怖イメージ1" mode="normal" loop="off">
+<box type="9">
+<voice name="耕司" SRC="media/voice/34/000102.ogg">  "Wha..."<K>
+  How far has Fuminori gone?<K> Koji realizes that this is the first time he has encountered Fuminori's insanity in visible form.<K>
+  From the dust piled in the corners of the room, it is clear that the paint was not applied recently.<K> How many nights has Fuminori spent surrounded by this maddening array of color?<K>
+  Why, if such obvious signs were available―why didn't Koji realize that something was wrong before it got this bad?
+
+  Was he deaf to the dying screams of Fuminori's sanity? Was their friendship really so worthless?<K>
+  As he stands petrified in the unfamiliar living room, Koji directs his anger entirely at himself. If he could, he would like nothing more than to apologize to Fuminori for failing to help him through his suffering.<K>
+  Koji feels that he might have been able to save his friend. Perhaps he is arrogant to think so―but if so, it is arrogance born of kindness.
+
+<clear>
+<BACKGROUND SRC="media/cg/bc04no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Koji passes through the living room and opens the sliding door that leads to the kitchen.<K>
+  When he enters, he finds that the most disturbing of the house's many stenches is strongest here.<K>
+  Blood. The room is redolent with the smell of countless layers of blood grown stale over time.
+
+  He peers into the well-used sink.<K>
+  Around the rim, he sees faint, brownish-red blotches that water alone couldn't rinse off.<K>
+  Even more obvious are the stains on the dishrag.<K> Such stains are proof that the rag has been used and reused countless times―but what could it have been used on to make it that sickening burgundy color?
+
+  Koji stares at the refrigerator next to the counter as though it were a monster waiting to swallow him whole.<K>
+  He stands motionless until he is able to work up the courage simply to touch it.<K>
+  Then he steels himself, grabs the thick handle, and opens the door.<se id="1" src="media/sound/冷蔵庫.ogg" mode="normal" loop="off"><K> First he'll check the freezer, then the refrigerator.
+
+<bgm src="郁紀光景" mode="fadeout" time="20" loop="off">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  The freezer is packed with frozen meat of varying shapes and sizes. As each piece is wrapped tightly in frosted-over plastic, he can't tell what kind of meat it is.<K>
+<bgm src="media/sound/s01.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+  The meat in the refrigerator, however, has already been thawed for consumption.
+
+<clear>
+<BACKGROUND SRC="media/cg/40.png" EX="1">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  For a while, he can only stare in disbelief at the five fingers beckoning to him from the back of the compartment.<K>
+  They are the long, slender fingers of a woman, their bluish tinge giving them the appearance of waxworks.<K>
+  Koji is unable to remember what Omi's hands looked like, even though he has kissed her fingers countless times.
+
+  When he finished crying after his conversation with Fuminori, Koji promised himself that he would not cry again―and in fact, he does not.<K>
+  He regrets his decision, however. He indulged himself too early.<K>
+  He should have saved his soothing tears for this moment, for now he knows that truly, nothing is sacred. At last, his doubts about Fuminori have been utterly obliterated.
+
+<clear>
+<BACKGROUND SRC="media/cg/bc04no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Koji pulls Ogai's revolver out of his pocket and wraps his hands around its grip like he would a charm.<K>
+  Its definite presence―its promise of merciful annihilation―is the only thing keeping his sanity intact.
+
+  He will surely use it to kill Sakisaka Fuminori.<K>
+  Not for revenge.<K>
+  Not for justice.<K>
+  But to make this world once more a place governed by reason. For that purpose alone, he must eliminate the anomaly.
+
+  He breathes deep, exhales, then lifts his hand before his face and stares at his spread fingers.<K>
+  Alright, he's not shaking. He is prepared to face his new objective.<K>
+  Koji sticks the revolver back into his pocket and pulls out his phone.
+
+<A HREF="media/script/nps/sy170sl.nps" OPERATOR="">

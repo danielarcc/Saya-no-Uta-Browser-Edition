@@ -1,0 +1,413 @@
+//別荘：耕司
+<MARKER NAME="#13">
+<bgm src="s01" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="media/sound/s07.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+<se id="1" src="media/sound/車通過.ogg" mode="normal" loop="off">
+<BACKGROUND SRC="media/cg/bo01no0.png">//
+<BACKGROUND SRC="media/cg/bo08no0.png">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+  It has begun to snow by the time they pass Utsunomiya on the Tohoku Expressway.
+
+<clear>
+<BACKGROUND SRC="media/cg/bo01no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="耕司" SRC="media/voice/27/000102.ogg">  "I hope the roads aren't snowed out," Koji says.<K>
+  In the passenger seat, Fuminori is gazing out of the frosted window in silence. He's been in this trancelike state for almost an hour now.
+
+  Taking advantage of his inattention, Koji stares unabashedly at Fuminori from the corner of his eye.<K> He still doesn't understand the danger signals that he's been getting from the man.<K>
+  Fuminori has stopped avoiding Koji, and he's even looking him in the eye when he talks. So why does he seem even more distant now than he did when he was trying to push his friends away?
+
+  Fuminori's posture is noticeably relaxed, but his gaze never wavers, not even for a moment. It's as though he is focused on a clearly-defined future that he has chosen to bring about, one that has no place for the needs or wants of others.<K>
+  Right now, Fuminori is complete. Koji cannot help but feel that beneath his bland exterior is a core of solid steel that no one can touch.
+
+<voice name="耕司" SRC="media/voice/27/000202.ogg">  "About Omi," Koji says suddenly, trying to gauge Fuminori's reaction.<K> <voice name="耕司" SRC="media/voice/27/000302.ogg">"It's been a week since she disappeared, and we still haven't heard from her."<K>
+<voice name="郁紀" SRC="media/voice/27/000400.ogg">  "Oh," Fuminori replies curtly, still staring into the distance.<K><voice name="郁紀" SRC="media/voice/27/000500.ogg"> "That's not good. I wonder what happened to her."<K>
+<voice name="耕司" SRC="media/voice/27/000602.ogg">  "......"
+
+  Fuminori's tone is completely emotionless. Koji might as well have asked him about the weather or the condition of the mountain roads near their destination.<K>
+<voice name="耕司" SRC="media/voice/27/000702.ogg">  "I asked you this before, but you're sure you don't have any idea what happened to her?"<K>
+<voice name="郁紀" SRC="media/voice/27/000800.ogg">  "Not a clue," Fuminori answers, in exactly the same tone that he used when Koji first questioned him following Omi's disappearance.<K>
+<voice name="耕司" SRC="media/voice/27/000902.ogg">  Koji's eyes narrow. "It's like you don't give a damn."<K>
+<voice name="郁紀" SRC="media/voice/27/001000.ogg">  "That's not true."<K> Finally Fuminori shows some emotion. He sounds hurt, like he can't believe Koji could think such a thing.<K><voice name="郁紀" SRC="media/voice/27/001100.ogg"> "She disappeared on the way to my place, didn't she? Of course I'm worried."
+
+
+<clear>
+<BACKGROUND SRC="media/cg/bo08no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Sudden frustration wells up inside Koji. If possible, he'd like nothing more than to beat the secrets out of Fuminori's head.<K>
+  Koji is worried sick about Omi. To have his concern brushed off so coldly would be unbearable coming from a complete stranger; but from Fuminori, who was his best friend, it's...
+
+  Fuminori never used to be this callous. Even if Koji tried to interrogate him, he'd probably never find out what changed him so.<K>
+  If Fuminori were still just hiding inside the shell he'd erected around himself after the accident, Koji might have been able to get some answers out of him. With this sly, evasive Fuminori, however, there's nothing Koji can do. Fuminori will never reveal his true intentions―not to anyone.<K>
+  All that's left, then, is for Koji to discover the truth on his own.
+
+<clear>
+<BACKGROUND SRC="media/cg/bo01no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="耕司" SRC="media/voice/27/001202.ogg">  "Omi was going to talk to you about Tsukuba, you know."<K>
+<voice name="郁紀" SRC="media/voice/27/001300.ogg">  "Oh?"<K>
+  Fuminori smiles bitterly at the mention of Tsukuba's name, perhaps feeling sympathy for her pain. To Koji, however, it seems like pity, the sort one directs at an ant or a worm.<K>
+<voice name="郁紀" SRC="media/voice/27/001400.ogg">  "I wouldn't know what to say. To be honest, it's been hard to talk to her after what happened."<K>
+<voice name="耕司" SRC="media/voice/27/001502.ogg">  "......"
+
+  Unbelievable.<K>
+  If Fuminori's feelings for Yoh were really this cold, then he would have rejected her when she first confessed to him. But he didn't―or at least, the Fuminori before the accident didn't.<K>
+  Once again, Koji can't help but wonder if this man who looks like his friend is really a different person who only possesses the memories of Sakisaka Fuminori.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="media/sound/車山道走行1.ogg" mode="normal" loop="off">
+<BACKGROUND SRC="media/cg/bo08no1.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  The snow has stopped falling when they get off the West Nasu Flats Interchange. This area must already be getting a lot of snow, however, as the nearby mountains are covered in white beneath the trees.
+
+<clear>
+<BACKGROUND SRC="media/cg/bo02tw0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  By the time they turn off the highway and enter the mountains, road conditions are already bad enough for Koji to regret having forgotten tire chains.<K>
+  Nevertheless, he continues to power his car up the precarious slopes with only a road map to guide him.<K>
+  In places like this, an address isn't enough to pinpoint a location. His only choice is to drive down every road, including private roads that aren't even on the map, while searching for something that matches the photograph.
+
+<voice name="耕司" SRC="media/voice/27/001602.ogg">  "Who would buy a home in a place like this?"<K>
+<voice name="郁紀" SRC="media/voice/27/001700.ogg">  "It's far from prying eyes. That must be why Dr. Ogai chose it."<K>
+<voice name="耕司" SRC="media/voice/27/001802.ogg">  "......"<K>
+  The more he hears about Ogai, the less Koji wants to meet him.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<BACKGROUND SRC="media/cg/bo03tw0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Fuminori is the one who spots the narrow road half-hidden in the trees.<K>
+  It's practically an animal trail, overgrown with weeds that are tall and strong enough to withstand the weight of the snow.<K>
+<voice name="耕司" SRC="media/voice/27/001902.ogg">  "Is this really a road?"<K>
+  Koji stops the car and sticks his head out of the window to stare into the dark forest, but he can't see where the path leads through the tightly-packed trees.
+
+<voice name="郁紀" SRC="media/voice/27/002000.ogg">  "How does it look to you?"<K>
+  Fuminori hands Koji the photo, which he compares to the mountain ridges visible beyond the trees.<K>
+<voice name="耕司" SRC="media/voice/27/002102.ogg">  "Yeah, it's definitely the right angle."<K>
+<voice name="郁紀" SRC="media/voice/27/002200.ogg">  "Let's check it out."<K>
+  Fuminori's tone is as flat as always, but there is a quiet intensity in his voice that leaves no room for argument.
+
+  Although Koji is worried that his car's suspension won't be able to handle the terrain, there's no turning back now. He shifts into second gear and starts down the frozen road.
+<se id="1" src="media/sound/車山道走行3.ogg" mode="normal" loop="off">
+
+<bgm src="s07" mode="fadeout" time="20" loop="off">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<BACKGROUND SRC="media/cg/bu01xx0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  The sun sets early at high altitudes. As the car creeps up the mountain path, Koji catches glimpses through the trees of the gradually darkening sky.<K>
+  The forest is completely still, with no sound save for the rumble of the car's engine and the crackle of snow and brush beneath its tires. Fuminori is once again staring silently through the front window.<K>
+  In the ominous silence, Koji feels the same faint chill that he felt when standing before Ogai's suburban home. It feels wrong, as though he is traveling deeper and deeper into a world not his own.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+  After some time, a blocky shape suddenly appears amid the trees, standing out against the twilight sky.
+
+<se id="2" src="media/sound/暗闇c.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bf01no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="耕司" SRC="media/voice/27/002302.ogg">  "......"<K>
+<se id="1" src="media/sound/車停止.ogg" mode="normal" loop="off">
+  Koji turns off the engine and compares the structure in front of him to the picture in his hand―a perfect match.<K>
+  Before he can tell Fuminori, however, his friend is already out of the car.<K>
+<voice name="耕司" SRC="media/voice/27/002402.ogg">  "Hey!"
+
+<se id="1" src="media/sound/雪道足音.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/29.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Realizing that it's pointless to call out to him, Koji shakes his head, grabs the flashlight from the glove compartment, and follows Fuminori across the snow-covered yard.<K>
+  The photo must not have been taken recently, as the old, run-down cabin before them has clearly been left to the mercy of the elements for some time.<K>
+<se id="1" src="media/sound/別荘ドア蹴破り1.ogg" mode="normal" loop="off">
+  The front door appears to be locked, but Fuminori kicks it down without a second thought. Koji just watches, knowing that nothing he could say now would matter.
+
+<se id="1" src="media/sound/出現1a.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="600">
+<box type="9">
+<clear>
+<BACKGROUND SRC="media/cg/bf03tw0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  All of the windows are shut with heavy curtains, and the gloom inside is thick and stifling.<K>
+  Fuminori turns on his own flashlight and starts rummaging through the cabin without regard for its owner's privacy.<K>
+  Koji is reluctant to do the same, but it is obvious that this mountain retreat has been abandoned for a long time, just like the house in Tokyo. There's no point in being considerate now. He goes to search a different room.
+
+<bgm src="media/sound/郁紀光景.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<clear>
+<BACKGROUND SRC="media/cg/bf04tw0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Soon after entering the cabin, however, he realizes that their search is meaningless.<K>
+  There's nothing inside but the bare necessities of life. Some rooms are even completely empty, save for a thick layer of dust on the floor.<K>
+  Of what few pieces of furniture are present, more than half appear to have never been used. There's an empty chest of drawers without a single scratch or handprint, but bearing the telltale signs of mold and moisture damage.
+
+  The condition of the cabin is eerie, though in a different way than the filthiness of the house in the city. It's like someone put together a mockup of a home and then left it to decay.<K>
+  The only signs that anyone lived here are found in the toilet, the bath, the kitchen, and the bedroom.<K>
+  It appears that the cabin was never used for anything but eating and sleeping.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="600">
+<clear>
+<BACKGROUND SRC="media/cg/bf01tw0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Beneath the darkened sky, the snow itself seems to glow with a cold, white light. The scene is like something out of a fairytale, but to Koji it serves only as an unpleasant reminder that he has stepped outside of the reality that he knows.<K>
+  Next to the front porch is a plain wooden door half buried in the ground. It's locked, of course, but Koji sees no reason for restraint after what Fuminori did to the front door.<K>
+<se id="1" src="media/sound/別荘ドア蹴破り2.ogg" mode="normal" loop="off">
+  The door offers surprisingly little resistance to Koji's heavy kick, breaking open to reveal a set of concrete stairs leading down into a pitch-black basement.
+
+<clear>
+<BACKGROUND SRC="media/cg/26.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="耕司" SRC="media/voice/27/002502.ogg">  "......"<K>
+  Koji would prefer to leave such a forbidding place to Fuminori, but it's not like he can just ask him to take his place.<K>
+  He descends into the chilly darkness, the beam of his flashlight leading the way.
+
+//CHECK
+
+<se id="1" src="media/sound/男地下階段.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="600">
+<box type="9">
+  There turns out to be nothing in the basement but a storage room and a boiler, exactly what one would expect to find in an isolated mountain cabin.<K>
+  The few packages of preserved food sitting on the shelves have long since passed their expiration dates, and the boiler doesn't appear to have been used in years.<K>
+  Koji guesses that Ogai's mountain home has been abandoned longer than the house in Tokyo.
+
+<clear>
+<BACKGROUND SRC="media/cg/bf01tw0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Was Fuminori simply mistaken when he said that Ogai might be here? Or was he lying from the beginning?<K>
+  Not sure what to do next, Koji goes back up the stairs and walks around the outside of the cabin―and there he finds the backyard.
+
+<clear>
+<BACKGROUND SRC="media/cg/bf02tw0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  It's in much worse condition than the front yard, having been mostly reclaimed by the forest. It must have been neglected even when the cabin was still in use.<K>
+  The remnants of a woodshed lie in the yard, the mushrooms growing on it speaking to how much time has passed since its collapse. Next to the rotten logs, however, stands a circle of stone that has not yet succumbed to the elements.<K>
+  A well.
+
+  The well has no bucket or pulley, and when Koji peers carefully into it, he sees that the water is no longer flowing. It's probably less than ten meters deep, depending on how much mud is piled up inside.<K>
+  Koji's search of the cabin has revealed nothing of interest, inside or out.<K> 
+  Leaning against the edge of the well, Koji wonders why Ogai bought this remote home deep in the mountains, and what he was doing here.<K>
+  As far as Koji can tell, there's no sign that more than one person ever stayed here.
+
+<voice name="郁紀" SRC="media/voice/27/002600.ogg">  "It's far from prying eyes."<K>
+  Fuminori's words play back in Koji's head. Could this have been some sort of secret refuge, a place to remain hidden from the world? That would explain why there's nothing to suggest that whoever lived here did anything more than eat and sleep.
+
+  Koji suddenly remembers the doctor he met yesterday at T University. Maybe she'd know something.<K>
+  He takes out his phone and calls up the number.<se id="1" src="media/sound/携帯ボタン.ogg" mode="normal" loop="off"> There's barely a signal, but it manages to get through.<K>
+<se id="1" src="media/sound/携帯メッセージ2.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bt01xx0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Koji's hopes are soon dashed, however, when his call goes straight to Dr. Tanbo's voice mail.<K>
+  He considers calling back later, but realizes that it would be hard to talk to her with Fuminori around. Fuminori would not at all be pleased to learn that Koji and Yoh went to see his doctor.<K>
+  Koji decides that he'd better tell the doctor what he can while he's still alone.
+
+<se id="1" src="" mode="normal" loop="off">
+<voice name="耕司" SRC="media/voice/27/002702.ogg">  "Hello, this is Tonoh Koji. Thank you for your help yesterday."<K>
+  Koji leaves a clear and concise message, explaining that he went with Fuminori to Ogai's mountain retreat, giving the address, and asking for confirmation that the property belongs to Ogai.<K>
+<voice name="耕司" SRC="media/voice/27/002802.ogg">  "I'll call again when I get back to Tokyo. Goodbye."
+
+<se id="1" src="media/sound/携帯ボタン.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bf02tw0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  After hanging up, Koji thinks back to their visit to the hospital. Is Dr. Tanbo actually investigating like she said she would? Her reluctance to speak of Dr. Ogai is weighing on his mind.<K>
+  He talked to Yoh about it on the way home, but they were unable to decide whether the doctor could really be trusted.
+
+<bgm src="郁紀光景" mode="fadeout" time="20" loop="off">
+  Speaking of which, how is Yoh doing? Koji hasn't seen her today.<K>
+  He didn't say a word to her about his trip to Tochigi. She might be worried, especially so soon after Omi's disappearance.
+
+<se id="1" src="media/sound/携帯かける.ogg" mode="normal" loop="off">
+  Thinking to check up on her, Koji dials Yoh's number... and is surprised when it rings longer than it usually does.<K>
+  Did she forget her phone somewhere?<K>
+<se id="1" src="media/sound/携帯出る.ogg" mode="normal" loop="off">
+  Just as he's about to give up, the call connects.
+
+<clear>
+<BACKGROUND SRC="media/cg/bt01xx0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+//<voice NAME="瑶" SRC="27\002905">『……ぅ……ぅ……』<k>
+
+<se id="1" src="media/sound/瑶啜り泣き1.ogg" mode="normal" loop="off">
+  The first thing Koji hears is a strange sound. It's not signal interference, but some kind of wet, distorted noise―like the voiceless groans, or perhaps sobs, of someone far away.<K>
+<bgm src="media/sound/s09.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+<se id="2" NAME="瑶" SRC="media/voice/27/002905.ogg" mode="normal" loop="off">
+  No, that's exactly what they are. The person on the other side is crying.<K>
+<voice name="耕司" SRC="media/voice/27/003002.ogg">  "Ts- Tsukuba? Is that you!?"<K>
+<se id="2" src="" mode="normal" loop="off">
+<voice name="瑶" SRC="media/voice/27/003105.ogg">  "Who's... there..."<K>
+  There's a response, but is it really Tsukuba's voice? It's too twisted with agony for Koji to tell.
+
+  Panic surges through Koji as he realizes that something is terribly wrong.<K>
+<voice name="耕司" SRC="media/voice/27/003202.ogg">  "It's Koji, Tonoh Koji! Is that you, Tsukuba? Where are you!?"<K>
+<se id="2" NAME="瑶" SRC="media/voice/27/002905.ogg" mode="normal" loop="off">
+  After a short period of nothing but pained moans, words start coming through the speaker one by one, as though each takes an act of will.<K>
+<se id="2" src="" mode="normal" loop="off">
+<voice name="瑶" SRC="media/voice/27/003305.ogg">  "I was... attacked... by a monster... and now...<K><voice name="瑶" SRC="media/voice/27/003305_2.ogg"> there's... something wrong... with my... body..."
+
+<voice name="耕司" SRC="media/voice/27/003402.ogg">  "What!? What happened!? Are you alright!?"<K>
+<se id="1" src="media/sound/瑶啜り泣き1.ogg" mode="normal" loop="off">
+  Yoh must be delirious, because Koji can't understand a thing she's saying. Her gasps and wheezes, however, are enough to tell him that she's in unimaginable pain.<K>
+<voice name="瑶" SRC="media/voice/27/003505.ogg">  "I'm... rotting away... my skin... is melting...<K><voice name="瑶" SRC="media/voice/27/003505_2.ogg"> my... ear just... came off..."<K>
+  She's not making any sense! Koji feels despair seize his heart in an iron grip.
+
+  What is happening to Yoh now, a hundred kilometers away?<K>
+  Only her voice gives any hint of what she's going through. There's nothing he can do for her.<K>
+<voice name="瑶" SRC="media/voice/27/003605.ogg">  "Help me... Koji... This...<K><voice name="瑶" SRC="media/voice/27/003605_2.ogg"> this isn't... how my... fingers... are supposed... to look..."<K>
+<voice name="耕司" SRC="media/voice/27/003702.ogg">  "Call the cops, Tsukuba! Call for help!"
+
+<voice name="瑶" SRC="media/voice/27/003805.ogg">  "No! I can't... let anyone... see me... like this..."<K>
+  Yoh suddenly breaks into a violent hacking cough, as though trying to expel something filling her throat.<K>
+<voice name="耕司" SRC="media/voice/27/003902.ogg">  "Tsukuba!!"
+
+<clear>
+<BACKGROUND SRC="media/cg/bf02tw0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Koji screams into the phone, his reason overwhelmed by unimaginable horror.<K>
+<se id="1" src="media/sound/携帯叩き落し.ogg" mode="normal" loop="off">
+<FLASH SRC="#ffffff" WAIT="1" COUNT="1" EFFECT="normal" TIME="0">
+  Which is why he is unable to react when the phone is suddenly knocked from his hand, and also why he didn't notice Fuminori sneaking up on him until it was too late.
+
+<voice name="耕司" SRC="media/voice/27/004002.ogg">  "Wha―"<K>
+  Fuminori seizes Koji's lower jaw with his right hand, cutting off Koji's angry shout. Koji can hardly believe the strength of the smaller man's grip.<K> His biggest mistake was leaning back against the well. There is nothing to grab onto as Fuminori pushes him backward over the edge. He can only flail his arms vainly against the air.
+
+<bgm src="s09" mode="fadeout" time="20" loop="off">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="9">
+  Koji soon loses his balance entirely.<K>
+<FLASH SRC="#ffffff" WAIT="1" COUNT="1" EFFECT="normal" TIME="0">
+  He feels a terrifying weightlessness as the world spins before his eyes.<K> Before he can realize what has happened, his back strikes something with tremendous force.<K>
+<se id="1" src="media/sound/井戸落下.ogg" mode="normal" loop="off">
+<FLASH SRC="#ffffff" WAIT="1" COUNT="1" EFFECT="normal" TIME="0">
+  He thrashes wildly as cold, dirty water fills his mouth and freezes him to the core. Only when his fingers find the wall of the well is he able to regain his sense of direction and right himself.
+
+<bgm src="media/sound/s01.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<se id="1" src="media/sound/井戸落下2.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bf07no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  On his hands and knees in the mud, Koji vomits filthy water out of his lungs.<K>
+<se id="1" src="media/sound/耕司井戸水音1.ogg" mode="normal" loop="off">
+<voice name="耕司" SRC="media/voice/27/004102.ogg">  "Fuminori..." he tries to shout, but it comes out as a hoarse groan, distorted by the echo in the cramped space.<K>
+<voice name="郁紀" SRC="media/voice/27/004200.ogg">  Fuminori's laughter, on the other hand, is as clear as a bell.<K>
+<voice name="郁紀" SRC="media/voice/27/004300.ogg">  "Sorry for interrupting your call," he says scornfully. "Here, I'll return this."
+
+  Fuminori tosses Koji's phone into the well. Koji catches it just before it hits him in the face, but finds that the battery pack has been removed, rendering it useless.
+
+<voice name="耕司" SRC="media/voice/27/004402.ogg">  "What the hell are you doing!?"<K>
+  This is no joke. It's a miracle that Koji is uninjured. He could easily have broken his neck.<K>
+  And just because he's not hurt doesn't mean that he's safe.<K>
+<se id="1" src="media/sound/耕司井戸水音2.ogg" mode="normal" loop="off">
+  Koji feels around the inside of the well, searching for something to hold on to, but the mud-covered stone offers no purchase. It's obvious that he won't be able to get out without help.
+
+<voice name="郁紀" SRC="media/voice/27/004500.ogg">  "Too bad the fall didn't kill you. Now you have to freeze to death. You really have no luck, Koji."<K>
+<voice name="耕司" SRC="media/voice/27/004602.ogg">  "You can't be serious..." Koji starts to say, but trails off as the pieces finally come together in his head.<K>
+  Today's sudden change in Fuminori's attitude―that smile that always seemed somehow malevolent. Fuminori hadn't been smiling at Koji, but at the thought of his friend's death.
+
+<voice name="耕司" SRC="media/voice/27/004702.ogg">  "Why!?"<K>
+  He can't wrap his head around this turn of events.<K> Why would Fuminori try to kill him?<K>
+  True, Fuminori had wanted Koji to stay out of his business, but is that really a motive for murder?<K>
+<voice name="郁紀" SRC="media/voice/27/004800.ogg">  "It's not that I needed you dead right now, exactly, but you might have become trouble later on.<K><voice name="郁紀" SRC="media/voice/27/004900.ogg"> So I figured I might as well take advantage of this remote location to, well..."
+
+
+<clear>
+<BACKGROUND SRC="media/cg/30.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="耕司" SRC="media/voice/27/005002.ogg">  "Might as well? You're doing this on a whim!?"<K>
+<voice name="郁紀" SRC="media/voice/27/005100.ogg">  "Do you really need a reason to die?" Fuminori replies coldly. He sounds truly amazed that Koji would ask such a thing.<K><voice name="郁紀" SRC="media/voice/27/005200.ogg"> "What makes you so special, Koji? People die for no reason at all. My parents did, and I almost followed them."<K>
+<voice name="耕司" SRC="media/voice/27/005302.ogg">  "You're crazy!"<K>
+<voice name="郁紀" SRC="media/voice/27/005400.ogg">  "Come up with your own reason, why don't you? You'll have plenty of time down there."
+
+<clear>
+<BACKGROUND SRC="media/cg/bf07no1.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Fuminori disappears from view, leaving Koji alone in the darkness with nothing to connect him to the outside world.<K>
+<voice name="耕司" SRC="media/voice/27/005502.ogg">  "Fuminori! Hey! Fuminori!!"<K>
+  Koji shouts at the top of his lungs, knowing beyond a doubt that if Fuminori leaves, all hope of rescue will vanish with him. No one will ever hear him calling for help from the bottom of this mountain well.
+
+<clear>
+<BACKGROUND SRC="media/cg/30.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<voice name="耕司" SRC="media/voice/27/005602.ogg">  "It's Tsukuba! She's in trouble! Hey, Fuminori! Listen! Get me out of here!!"<K>
+  In his desperation, Koji no longer comprehends the futility of begging for mercy.<K>
+  No god or devil will answer him. His only hope is that Fuminori will have a change of heart. Praying for a miracle, he keeps calling Fuminori's name.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<clear>
+<BACKGROUND SRC="media/cg/bf07tw1.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Eventually, the sky grows as dark as the bottom of the well. Koji can no longer make out the edge of the opening, and he has long since lost track of how many hours he has been screaming.<K>
+  Nevertheless, he continues to scream, for he knows that the despair silence brings will kill him.
+
+<A HREF="media/script/nps/sy140.nps" OPERATOR="">

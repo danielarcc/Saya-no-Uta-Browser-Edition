@@ -1,0 +1,9 @@
+//＜＜郁紀に電話ルート＞＞
+<MARKER NAME="#郁紀2">
+<voice name="郁紀" SRC="media/voice/37/003500.ogg">  "I got a call from him this morning. For now, I've sent him on a wild goose chase. I'm thinking I should shake him up a little."<K>
+<BUSTUP NAME="沙耶" face="楽し目笑い" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_楽し目笑い.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/37/003601.ogg">  "It'd be best to take care of him after it's dark, don't you think?"<K>
+<voice name="郁紀" SRC="media/voice/37/003700.ogg">  "Yeah. When the time is right, I'll lure him here and finish him. We won't have to worry about witnesses here."
+
+<A HREF="media/script/nps/sy173.nps" OPERATOR="">

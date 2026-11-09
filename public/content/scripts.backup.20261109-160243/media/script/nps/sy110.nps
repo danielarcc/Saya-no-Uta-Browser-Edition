@@ -1,0 +1,200 @@
+//匂坂邸：郁紀
+<MARKER NAME="#11">
+<bgm src="s05" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="media/cg/bc06me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="20">
+<bgm src="media/sound/s03.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<wait time="200">
+<box type="9">
+
+<voice name="沙耶" SRC="media/voice/23/000101.ogg">  "I think I recognize this picture."<K>
+  After we finish our labors and get into bed, I show Saya what I found in Ogai's house.<K>
+<voice name="沙耶" SRC="media/voice/23/000201.ogg">  "It looks familiar. Yeah, I've definitely been there."<K>
+  The photograph that Saya has selected is the one with a Tochigi Prefecture address on the back.
+
+<voice name="郁紀" SRC="media/voice/23/000300.ogg">  "That's... a house, right? I see trees and... mountains?"<K>
+<voice name="沙耶" SRC="media/voice/23/000401.ogg">  "Yeah. Wow, Fuminori, you can see pictures now?"<K>
+<voice name="郁紀" SRC="media/voice/23/000500.ogg">  "A little."<K>
+  At the outset of my ordeal, I had to depend entirely on my sense of distance to decipher what I saw. The houses in front of me, the mountains far behind them, the clouds high above―only distance and scale told me what they were.<K>
+  Photographs and other flat images used to be nearly impossible to make out. Recently, however, I've gotten better at understanding what things are by their shape. I know what the mountains and sky look like, for instance, and how to tell them apart from buildings.
+
+  Each of the three pictures shows a similar scene―a lone house in the middle of a thick forest.<K>
+<voice name="沙耶" SRC="media/voice/23/000601.ogg">  "Dad called it his retreat. He said that no one would find us there."<K>
+<voice name="郁紀" SRC="media/voice/23/000700.ogg">  "Hmm..."<K>
+  Judging by the address on the back of each photo, they probably are excellent places to hide from prying eyes. But why three?
+
+  The dates are pretty old, and it seems odd that they were all taken within a few days of each other. Maybe he was scouting properties, looking for the perfect location for his hideaway.<K>
+  Saya recognizes only one of the houses, so that must be the one Ogai picked.<K> Checking the location on a roadmap of the Kanto area, I find that it's about three hours out of Tokyo by car.
+
+<voice name="郁紀" SRC="media/voice/23/000800.ogg">  "Do you think your father will be there?"<K>
+<voice name="沙耶" SRC="media/voice/23/000901.ogg">  "I tried calling him, but he didn't answer. I don't think he's there."<K>
+<voice name="郁紀" SRC="media/voice/23/001000.ogg">  "But he might have stopped by recently."<K>
+  The way I see it, our only hope of finding Ogai is to follow whatever lead we have, no matter how small. The probability that his hideout will yield useful information may be low... but it's not zero.
+
+<clear>
+<BACKGROUND SRC="media/cg/51.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="郁紀" SRC="media/voice/23/001100.ogg">  "I think I'll check this place out tomorrow."<K>
+<voice name="沙耶" SRC="media/voice/23/001201.ogg">  "Do you have to?" Saya pouts. I wasn't expecting her to object.<K><voice name="沙耶" SRC="media/voice/23/001301.ogg"> "Isn't it far?"<K>
+<voice name="郁紀" SRC="media/voice/23/001400.ogg">  "It'll only take about half a day to go there, check it out, and come
+back."<K>
+<voice name="沙耶" SRC="media/voice/23/001501.ogg">  "I have to stay home by myself while you're gone?"<K>
+  So that's what it is. Slightly exasperated, I smile and rub Saya's head.
+
+<voice name="郁紀" SRC="media/voice/23/001700.ogg">  "Be a little patient, okay? You want to find your father too, don't you?"<K>
+<voice name="沙耶" SRC="media/voice/23/003601.ogg">  "......"<K>
+  After a brief silence, during which her expression is hard to decipher, Saya looks up at me and says,<K><voice name="沙耶" SRC="media/voice/23/001801.ogg"> "Hey, Fuminori... let's forget about Dad."<K>
+<voice name="郁紀" SRC="media/voice/23/001900.ogg">  "Huh?"<K>
+  That's the last thing I expected her to say.
+
+<voice name="郁紀" SRC="media/voice/23/002000.ogg">  "Forget about him? But he's your father. Aren't you worried?"<K>
+<voice name="沙耶" SRC="media/voice/23/002101.ogg">  "Not anymore," Saya says, coming closer to feel my warmth. "I have you now."
+
+<voice name="沙耶" SRC="media/voice/23/002201.ogg">  "I call him Dad, but he's not really my father.<k><voice name="沙耶" SRC="media/voice/23/002201_2.ogg"> He taught me a lot, and probably loved me in his own way... but you're kinder and warmer."<K>
+  Saya's words make me happy, but I also hear the loneliness in them.
+
+<voice name="郁紀" SRC="media/voice/23/002300.ogg">  "Are you really alright with that?"<K>
+<voice name="沙耶" SRC="media/voice/23/002401.ogg">  "Yeah. You don't like it being just the two of us?"<K>
+<voice name="郁紀" SRC="media/voice/23/002500.ogg">  "I do... but I also want to meet Dr. Ogai."<K> Having finally figured out how to explain my feelings, I continue,<K><voice name="郁紀" SRC="media/voice/23/002600.ogg"> "I want to get to know you better. If there's someone who knows more about you than I do, I have to meet them."<K>
+<voice name="沙耶" SRC="media/voice/23/002701.ogg">  "Oh..."<K>
+  Saya doesn't seem upset, but she does tilt her head quizzically, as though my thoughts are strange to her.
+
+<voice name="郁紀" SRC="media/voice/23/002800.ogg">  "And I also want to... Yeah, I'm going to check it out tomorrow."<K>
+  Another plan has started to form in my head, one separate from the search for Dr. Ogai.<K>
+  If I find the doctor there, great; if I don't, well... I think I can find another use for his mountain retreat.
+
+<voice name="郁紀" SRC="media/voice/23/002900.ogg">  "I know you'll be lonely, but try to bear it for a little while."<K>
+<voice name="沙耶" SRC="media/voice/23/003001.ogg">  "Okay," she nods, then looks questioningly into my eyes.<K><voice name="沙耶" SRC="media/voice/23/003101.ogg"> "Fuminori... You really want a family and friends, don't you? More people you can spend time with?"<K>
+<voice name="郁紀" SRC="media/voice/23/003200.ogg">  "Well, that would be more fun, yeah..."<K> Fearing that Saya will start sulking, I hurriedly add,<K><voice name="郁紀" SRC="media/voice/23/003300.ogg"> "But don't get me wrong. Even if I could have lots of friends, you'll always be special to me."
+
+<voice name="沙耶" SRC="media/voice/23/003401.ogg">  "I know. Hehehe, thanks."<K> Giggling, Saya rubs her cheek against mine.<K> <voice name="沙耶" SRC="media/voice/23/003501.ogg">"I'll find something to make you happy―something just for you."
+
+</PRE>
+</BODY>
+
+</HTML>
+//大学：耕司
+<bgm src="s03" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="media/sound/s02.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<BACKGROUND SRC="media/cg/ba03no1.png">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="1" src="media/sound/教室.ogg" mode="normal" loop="off">
+<wait time="200">
+<box type="9">
+
+  Today, all of Koji's classes were in the morning.<K>
+<se id="1" src="media/sound/耕司携帯音.ogg" mode="normal" loop="on">
+<clear>
+<BACKGROUND SRC="media/cg/ba02no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+  On his way to meet Yoh for lunch after his final lecture, Koji suddenly gets a call in the middle of the hallway.<K>
+  Without thinking, he reaches to his belt for his new camera-phone, but curses when he realizes that the ringtone is coming from the old phone in his bag. He hasn't transferred his contacts list yet, and calls still come to his old phone from people who don't know the new number.<K>
+  When he finally fishes the phone from his bag, the name he sees on the display sends a chill up his spine.<K>
+  Fuminori.
+
+  Why now? What does he want?<K>
+  It's hard to be happy about a call from Fuminori after the incident at the Ogai house.
+
+<se id="1" src="media/sound/携帯ボタン.ogg" mode="normal" loop="off">
+<voice name="耕司" SRC="media/voice/24/000102.ogg">  "Hello?"<K>
+<voice name="郁紀" SRC="media/voice/24/000200.ogg">  "Hey, Koji. You're done with class for today, right?"<K>
+<voice name="耕司" SRC="media/voice/24/000302.ogg">  "...Yeah."<K>
+  Of course Fuminori would know that Koji is free on Thursday afternoons.<K>
+<voice name="郁紀" SRC="media/voice/24/000400.ogg">  "I need to talk to you about something. Can you come to the parking 
+lot?"<K>
+<voice name="耕司" SRC="media/voice/24/000502.ogg">  "Now?"<K>
+<voice name="郁紀" SRC="media/voice/24/000600.ogg">  "Yeah, I'll be waiting."<K>
+<se id="1" src="media/sound/携帯切れる.ogg" mode="normal" loop="off">
+  Fuminori hangs up without another word.
+
+  What's gotten into him? What does he want? Koji wonders as he sticks the phone into his jacket pocket.<K>
+  This sudden change is disturbing after a week of Fuminori avoiding both Koji and Yoh.<K>
+  Maybe he's finally ready to talk―in which case, Koji should probably consider this a good thing.<K>
+<se id="1" src="media/sound/男立ち去り1.ogg" mode="normal" loop="off">
+  However, he can't shake the feeling that something is wrong.
+
+<bgm src="s02" mode="fadeout" time="20" loop="off">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<BACKGROUND SRC="media/cg/ba04no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="耕司" SRC="media/voice/24/000702.ogg">  "Did I keep you waiting?"<K>
+<voice name="郁紀" SRC="media/voice/24/000800.ogg">  "Nah."<K>
+<bgm src="media/sound/s03.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+  In the parking lot, Koji finds Fuminori leaning against the fender of Koji's car.<K>
+  The last time they met was in the darkness of an abandoned house. This is the first time in over a week that they've spoken face-to-face in the light. Perhaps that is why Koji senses something strange in Fuminori's expression.<K>
+  He's not sure what, exactly, but something has changed.
+
+<clear>
+<BACKGROUND SRC="media/cg/03_2.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="郁紀" SRC="media/voice/24/000900.ogg">  "I think I told you before that I'm looking for information on a man named Ogai."<K>
+<voice name="耕司" SRC="media/voice/24/001002.ogg">  "Yeah, I got that."<K>
+<voice name="郁紀" SRC="media/voice/24/001100.ogg">  "Well, it's starting to get more complicated. It looks like I can't handle it by myself after all."<K>
+  Fuminori seems more relaxed than before. He used to be tense all the time, like he was terrified of something, but now his expression is calm. He's even wearing what resembles a sheepish grin.<K>
+<voice name="郁紀" SRC="media/voice/24/001200.ogg">  "I need your help, Koji."<K>
+  Nevertheless, some instinct is telling Koji that Fuminori's changes are not for the better.
+
+<clear>
+<BACKGROUND SRC="media/cg/26.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="耕司" SRC="media/voice/24/001302.ogg">  "Why the sudden change of heart?" Koji asks, keeping his expression neutral to conceal his suspicion.<K>
+<voice name="郁紀" SRC="media/voice/24/001400.ogg">  "You're curious, aren't you?" Fuminori responds coolly. His smile, unreadable as ever, offers no glimpse of his true motives.<K><voice name="郁紀" SRC="media/voice/24/001500.ogg"> "You searched Dr. Ogai's house after me.<k><voice name="郁紀" SRC="media/voice/24/001500_2.ogg"> It's a waste of time for us to look for him separately. We should team up."<K>
+<voice name="耕司" SRC="media/voice/24/001602.ogg">  "......"<K>
+  Why?<K> Why does he sense malice, thick and viscous, lurking behind Fuminori's smile?
+
+<voice name="郁紀" SRC="media/voice/24/001700.ogg">  "Anyway, I need your car today. Mind driving?"<K>
+<voice name="耕司" SRC="media/voice/24/001802.ogg">  "...I guess not."<K>
+  Fuminori's car was destroyed in the accident, so Koji isn't surprised that he needs a lift.
+
+<clear>
+<BACKGROUND SRC="media/cg/bo07no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Koji unlocks his car and gestures for Fuminori to take the passenger seat, then gets behind the wheel and starts the engine.<K>
+<se id="1" src="media/sound/車エンジン.ogg" mode="normal" loop="off">
+<voice name="耕司" SRC="media/voice/24/001902.ogg">  "Well? Where are we going?"<K>
+<voice name="郁紀" SRC="media/voice/24/002000.ogg">  "North Tochigi, near the Nasu Heights."<K>
+<voice name="耕司" SRC="media/voice/24/002102.ogg">  "Tochigi!?" Koji can't believe his ears.<K>
+<voice name="郁紀" SRC="media/voice/24/002200.ogg">  "Here's the address," Fuminori says, handing Koji a photo with an address on the back. "We need to find this building."<K>
+  He seriously expects to be driven over a hundred kilometers and back? Koji doesn't know whether to be angry or impressed.
+
+<voice name="郁紀" SRC="media/voice/24/002300.ogg">  "If we leave now, we should get there by evening, right?"<K>
+<voice name="耕司" SRC="media/voice/24/002402.ogg">  "...Yeah, maybe."<K>
+  Koji sighs heavily, tapping the steering wheel as he calms himself down. Now that he's come this far, the only thing he can do is see his friend's craziness through to the end.
+
+<voice name="耕司" SRC="media/voice/24/002502.ogg">  "Is this a vacation home or something?"<K>
+<voice name="郁紀" SRC="media/voice/24/002600.ogg">  "Probably. Dr. Ogai should be there."<K>
+  Koji isn't looking forward to meeting the owner of that creepy house, but he's even more uneasy about letting Fuminori go alone.<K>
+  It looks like he just has to grin and bear it.
+
+<voice name="耕司" SRC="media/voice/24/002702.ogg">  "We might not get back until night."<K>
+<voice name="郁紀" SRC="media/voice/24/002800.ogg">  "Sorry for the trouble."<K>
+<voice name="耕司" SRC="media/voice/24/002902.ogg">  "...Don't mention it."<K>
+  Koji drives out of the parking lot,<se id="1" src="media/sound/車発進1.ogg" mode="normal" loop="off"> leaving the rest of what he'd thought to say unspoken.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Fuminori's smile seems <I>wrong</I> somehow, like a mask hiding his true face.
+
+<A HREF="media/script/nps/sy120.nps" OPERATOR="">

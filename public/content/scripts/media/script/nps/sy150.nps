@@ -1,0 +1,655 @@
+//別荘：耕司
+<MARKER NAME="#15">
+<bgm src="s03" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="media/sound/s04.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<BACKGROUND SRC="media/cg/bf07tw0.png">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+  He has been buried alive.<K>
+  His world is the silence and cold of the grave.<K>
+  Ever since his voice gave out and he lost the strength to scream, no coherent thought has passed through Koji's mind.<K> Perhaps this is his brain's way of protecting him from despair.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Instead, he dreams.<K>
+  Images flash before his eyes. Random, unconnected scenes from his twenty years of life. Not all are of happy times; there are sad, painful memories as well, but even these are pleasantly warm compared to the death that is now encroaching upon him.
+
+  He dreams of mountains.<K>
+  His older brother once took him hunting for insects when he was a child. They sealed their caught butterflies in a plastic bag, only to later find themselves holding a bag of tiny corpses.
+
+  He dreams of his lover.<K>
+  They met at a mixer, where he'd been the only one to realize that she couldn't hold her liquor. After she'd had too much to drink, he looked after her while she vomited in the back alley. They toasted each other with canned juice, and then...
+
+<clear>
+<LAYER SRC="#000099" TRANSPARENT="80" NUM="1">
+<BACKGROUND SRC="media/cg/bf07no1.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  He dreams that he is diving into a black sea.<K>
+  When he reaches the bottom, he looks up to see the moon shining through the surface of the water. As he gazes up at the circle of light, entranced by its roundness and brilliance, the distant rumbling of an engine reaches his ears.<K>
+  Something still conscious within him tells him that this dream is wrong.<K>
+  <I>Have I ever gone diving... at night before?</I><K>
+  The dots begin to connect in his mind, forming a barrier to separate his dreams from reality.
+
+<se id="1" src="media/sound/車近付き.ogg" mode="normal" loop="off">
+  What is bothering him?<K> Of course, the sound.<K> The engine noise gradually fades to a low idling, then abruptly gives way to silence, followed by the sound of a door opening and closing.
+
+<bgm src="s04" mode="fadeout" time="20" loop="off">
+  This isn't a dream. These sounds are real.
+
+<clear>
+<BACKGROUND SRC="media/cg/bf07no1.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Understanding comes like a sudden blow.<K>
+  This isn't the bottom of the sea, and that circle of light isn't the moon.<K>
+  It's the mouth of the well. The sun has already risen, and someone is right outside with a car.
+
+<bgm src="media/sound/s07.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+  The last piece falls into place, and he becomes Tonoh Koji once more.
+
+<voice name="耕司" SRC="media/voice/30/000102.ogg">  "Help!" Koji shouts, surprised by how easily his voice emerges. His desperation blocks out the pain of his raw throat.<K><voice name="耕司" SRC="media/voice/30/000202.ogg"> "Hey! I'm down here in the well! Help me!"<K>
+  He keeps screaming with all of his might. Soon, the echoes in the cramped well become deafening, and he is no longer certain if his screams have meaning or if he is just howling wordlessly.<K>
+  Nevertheless, he continues. His only desire is to be heard, lest he die forgotten at the bottom of this well.
+
+<clear>
+<BACKGROUND SRC="media/cg/bf07no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Koji's wait is not long, but even a minute feels like eternity on the edge of despair.<K>
+  Soon, the circle of light above him is partially eclipsed by the silhouette of a person staring down into the well.<K>
+<voice name="凉子" SRC="media/voice/30/000306.ogg">  "Tonoh? You alive down there?"<K>
+  A woman's voice. Koji has heard it somewhere before, but for some reason cannot remember to whom it belongs.<K>
+<voice name="凉子" SRC="media/voice/30/000406.ogg">  "Just hold on. I'll get you out."<K>
+  The silhouette vanishes, restoring the light to a perfect circle. Fear of being left alone again threatens to send Koji into a panic, but his reason has recovered enough to resist.<K>
+  <I>She said she's going to get me out. I haven't been abandoned.</I>
+
+  While waiting, he gingerly tests his body, which he had forgotten all about until now.<K>
+  His joints ache, and his fingers and toes are numb, but though exhausted, he's still in one piece.<K>
+  After some time, the silhouette reappears at the top of the well.<K>
+<voice name="凉子" SRC="media/voice/30/000506.ogg">  "Are you hurt? Can you climb a rope on your own?"
+
+<voice name="耕司" SRC="media/voice/30/000602.ogg">  "No... I don't think so."<K>
+  Koji lacks the confidence to attempt such a feat. His frozen fingers can barely move.<K>
+<voice name="凉子" SRC="media/voice/30/000706.ogg">  "Hmm... oh well. I'm coming down!"<K>
+  After a brief pause, the owner of the voice tosses a knotted climbing rope into the well.<K>
+  He grabs the rope as soon as it reaches him. The rough threads bite into his palm, and relief nearly overwhelms him at the sensation. This is really happening. He's really safe.
+
+  Now that he's free from despair, questions leap to the forefront of his mind. First among them, who is his savior?<K>
+<se id="1" src="media/sound/ザイル.ogg" mode="normal" loop="off">
+  The rope shakes as the woman climbs carefully down, the beam from the floodlight slung over her shoulder pushing back the shadow cast by her body.<K>
+  Soon she is standing in the same mud as Koji, and he finds himself face to face with...<K>
+<voice name="耕司" SRC="media/voice/30/000802.ogg">  "Doctor!?"
+
+<clear>
+<BACKGROUND SRC="media/cg/38.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="凉子" SRC="media/voice/30/000906.ogg">  "Were you expecting someone else?"<K>
+  Koji indeed had not imagined that his savior would turn out to be Dr. Tanbo Ryoko.<K> Of course, it took him a moment to recognize her. Instead of a white gown and tight skirt, she is wearing a heavy leather coat, denim jeans, and boots with no heel. She must have expected a hike through the mountains.<K> Her light is a blocky all-purpose type featuring side-mounted flourescent runners in addition to the main floodlight―survival gear, and professional-grade by the look of it.
+
+<voice name="凉子" SRC="media/voice/30/001006.ogg">  "You look awful," Dr. Tanbo says wryly as she gives Koji a once-over. "Here, drink this."<K>
+  She pulls a flask out of her pocket and hands it to him.<K>
+<voice name="凉子" SRC="media/voice/30/001106.ogg">  "Go slow. Take small sips. It should help a little."<K>
+<voice name="耕司" SRC="media/voice/30/001202.ogg">  "T- Thank you."<K>
+   She walks around with a flask? Maybe Koji's just old-fashioned, but it doesn't seem appropriate for a young woman, and a doctor at that.
+
+<clear>
+<BACKGROUND SRC="media/cg/bf07no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Nevertheless, he unscrews the cap and takes a swig―and struggles to keep from coughing as the potent liquid sears his tongue.<K>
+<voice name="耕司" SRC="media/voice/30/001302.ogg">  "W- What is this!?"<K>
+<BUSTUP NAME="凉子戦闘" face="通常にや" MODE="on" zoom="" ALIGN="left" SRC="media/cg/凉子戦闘_通常にや.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="凉子" SRC="media/voice/30/001406.ogg">  "Spirytus vodka. Good for disinfecting wounds in a pinch, and also does a fine job of setting things on fire."<K>
+  Her tone is straightforward and quite serious. Koji can only gape at the doctor, the dark smile on her face doing little to ease his confusion.
+
+  Is this really Dr. Tanbo?<K>
+  There's no trace of the bookish, mild-mannered woman Koji met at the hospital. Her expression is now set in a hard mask, and her eyes are sharp and wary.<K>
+  In the darkness at the bottom of the well, it is possible―however unlikely―that the change in her features is due to the ominous shadows cast by her lamp. It's not so easy, however, to explain the change in her demeanor.
+
+<voice name="耕司" SRC="media/voice/30/001502.ogg">  "Um... why are you here?"<K>
+<BUSTUP NAME="凉子戦闘" face="険しい目2通常" MODE="on" zoom="" ALIGN="left" SRC="media/cg/凉子戦闘_険しい目2通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="凉子" SRC="media/voice/30/001606.ogg">  "You called me, didn't you?" Ryoko replies brusquely, glaring at Koji like an annoyed professor.<K><voice name="凉子" SRC="media/voice/30/001706.ogg"> "I tried calling back, but you didn't answer. Neither did your friend Tsukuba. Am I supposed to think everything's fine?"<K>
+<voice name="耕司" SRC="media/voice/30/001802.ogg">  "N- No, but..."<K>
+  Koji still doesn't understand why she acted so quickly, but it's a different part of what she just said that seizes his attention.
+
+<voice name="耕司" SRC="media/voice/30/001902.ogg">  "Wait, Tsukuba!? You called her too?"<K>
+<BUSTUP NAME="凉子戦闘" face="目逸らし通常" MODE="on" zoom="" ALIGN="left" SRC="media/cg/凉子戦闘_目逸らし通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="凉子" SRC="media/voice/30/002006.ogg">  "Like I said, she didn't pick up either. To be honest, I figured you were both dead already."
+
+<voice name="耕司" SRC="media/voice/30/002102.ogg">  "......"<K>
+  That's right. He almost died, and at the hands of the man he thought was his best friend.<K>
+  Anger and frustration well up inside of him. He can't forgive Fuminori's betrayal; nor can he forgive himself for his foolishness.<K>
+  And now he has no idea if Tsukuba is safe. Fuminori tried to kill Koji. Could he have done the same to her?
+
+<voice name="凉子" SRC="media/voice/30/002206.ogg">  "Calm down, why don't you?" Ryoko says irritably, turning away to examine the inside of the well. "There's nothing you can do from here."<K>
+<voice name="耕司" SRC="media/voice/30/002302.ogg">  "If you thought something was wrong," Koji says to her back, "then you must have called the police, right?"<K>
+<BUSTUP NAME="凉子戦闘" face="困惑にや" MODE="on" zoom="" ALIGN="left" SRC="media/cg/凉子戦闘_困惑にや.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="凉子" SRC="media/voice/30/002406.ogg">  "The police?"<K>
+  Still engrossed in her examination of the walls, Ryoko laughs scornfully at the idea.
+
+
+<voice name="凉子" SRC="media/voice/30/002506.ogg">  "So you still think that's the way out, do you?"<K>
+<voice name="耕司" SRC="media/voice/30/002602.ogg">  "What's that supposed to mean?"<K>
+<BUSTUP NAME="凉子戦闘" face="目逸らし通常" MODE="on" zoom="" ALIGN="left" SRC="media/cg/凉子戦闘_目逸らし通常.png">
+<WIPE EFFECT="fade" TIME="5">
+  Annoyed by her condescending attitude, Koji is about to demand answers when she cuts him off with a gesture and shines her light at a corner of the well.
+
+<voice name="凉子" SRC="media/voice/30/002706.ogg">  "You didn't notice this?"<K>
+<voice name="耕司" SRC="media/voice/30/002802.ogg">  "Huh?"<K>
+  In the light of the lamp, Koji sees that some of the stones are a different shade than the rest of the wall. This must be what Ryoko was looking for.<K>
+<voice name="耕司" SRC="media/voice/30/002902.ogg">  "Huh... No, there wasn't enough light."<K>
+<voice name="凉子" SRC="media/voice/30/003006.ogg">  "Hmm..."<K>
+  Ryoko's gaze moves slowly along the wall, finally coming to rest on a gap between two of the stones. The hole is just wide enough for an adult to reach into open-handed.
+
+<BUSTUP NAME="凉子戦闘" face="険しい目2にや" MODE="on" zoom="" ALIGN="left" SRC="media/cg/凉子戦闘_険しい目2にや.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="凉子" SRC="media/voice/30/003106.ogg">  "You sure picked the right well to fall down," Ryoko says with a grim smile. "Like they say, it's always the last place you look."<K>
+<BUSTUP NAME="凉子戦闘" face="通常にや" MODE="off" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="5">
+  She wastes no time thrusting her hand into the opening.<K> After she feels around for a few seconds, <se id="1" src="media/sound/石壁1.ogg" mode="normal" loop="off">Koji hears the thunk of something solid coming together behind the wall.<K>
+<voice name="耕司" SRC="media/voice/30/003202.ogg">  "Doctor?"<K>
+  Ryoko pulls her hand out and gives the different-colored stones a gentle push.<se id="1" src="media/sound/石壁2.ogg" mode="normal" loop="off"> With the rumble of weights shifting, the stones slide smoothly back into the wall.
+
+<BUSTUP NAME="凉子戦闘" face="険しい目2にや" MODE="on" zoom="" ALIGN="left" SRC="media/cg/凉子戦闘_険しい目2にや.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="凉子" SRC="media/voice/30/003306.ogg">  "So that's how he fooled me. I had no idea this was here the last time I came."<K>
+<voice name="耕司" SRC="media/voice/30/003402.ogg">  "You've been here before?"<K>
+  Koji wants answers, but Ryoko ignores him and peers into the opening. In the beam of her floodlight, Koji can see a concrete tunnel leading into the mountain.
+
+<clear>
+<BACKGROUND SRC="media/cg/38.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="凉子" SRC="media/voice/30/003506.ogg">  "I'm going on ahead. You'd better stay here." Her warning is utterly devoid of warmth. <K>
+  Considering his options, Koji looks from the tunnel to the rope and back again.<K>
+  He's practically sweating now, thanks to the 190-proof vodka he just drank, but although feeling has returned to his fingers, he still doesn't have the strength to climb.<K>
+  That said, the thought of being alone in the well again makes him shiver.
+
+<voice name="耕司" SRC="media/voice/30/003602.ogg">  "I'll go too. Please take me with you."<K>
+<voice name="凉子" SRC="media/voice/30/003706.ogg">  "Heh, have it your way."<K>
+  Ryoko steps into the tunnel without looking back, and Koji doesn't hesitate to follow.<se id="1" src="media/sound/男立ち去り3.ogg" mode="normal" loop="off">
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<BACKGROUND SRC="media/cg/bf09li0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="耕司" SRC="media/voice/30/003802.ogg">  "You were pretty different the last time we met," Koji says sarcastically, following Ryoko as she moves cautiously down the tunnel with her light leading the way.<K>
+<BUSTUP NAME="凉子戦闘" face="通常" MODE="on" zoom="" ALIGN="left" SRC="media/cg/凉子戦闘_通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="凉子" SRC="media/voice/30/003906.ogg">  "This isn't the hospital, and you're not my patient. This service doesn't come with a smile."<K>
+<voice name="耕司" SRC="media/voice/30/004002.ogg">  "So this is who you really are?"<K>
+<voice name="凉子" SRC="media/voice/30/004106.ogg">  "I wonder. Does it matter?"
+
+<BUSTUP NAME="凉子戦闘" face="険しい目2にや" MODE="off" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="5">
+  Ryoko suddenly stops and stares at the floor. When Koji looks over her shoulder, he sees a dust-covered rope lying coiled up in the middle of the path.<K>
+<voice name="耕司" SRC="media/voice/30/004202.ogg">  "What is it?"<K>
+<voice name="凉子" SRC="media/voice/30/004306.ogg">  "Something left by the last guy who came down that well."<K>
+  Ryoko picks up the rope, examines it, and hands it to Koji.<K>
+<BUSTUP NAME="凉子戦闘" face="目逸らし通常" MODE="on" zoom="" ALIGN="left" SRC="media/cg/凉子戦闘_目逸らし通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="凉子" SRC="media/voice/30/004406.ogg">  "It's about twice as long as my rope. It has a knot in it, and both ends have been severed. They were connected before to make a circle."<K>
+<voice name="耕司" SRC="media/voice/30/004502.ogg">  "Huh?"
+
+<voice name="凉子" SRC="media/voice/30/004606.ogg">  "You loop one end of the circle around something topside, then use the rest to climb down into the well.<k><voice name="凉子" SRC="media/voice/30/004606_2.ogg"> When you're at the bottom, you cut the circle open and pull the whole rope in with you. That way, there's nothing to show where you went."
+
+<clear>
+<BACKGROUND SRC="media/cg/bf09li0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Ryoko shines her light down the tunnel, revealing that it ends in a closed wooden door about ten meters ahead.<K>
+<voice name="凉子" SRC="media/voice/30/004706.ogg">  "That's how he avoided detection. Really got me good."<K>
+<voice name="耕司" SRC="media/voice/30/004802.ogg">  "You said you've been here before?"<K>
+<voice name="凉子" SRC="media/voice/30/004906.ogg">  "Yeah, you and Sakisaka aren't the only ones," Ryoko says dryly. "I checked Ogai's cabin a while back."
+
+<se id="1" src="media/sound/ショットガン構え2.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/39.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  As Ryoko speaks, she opens her coat and pulls out what she had hanging underneath it.<K>
+<voice name="凉子" SRC="media/voice/30/005006.ogg">  "If there aren't any other exits... then he's still behind that door."<K>
+  At first, Koji thinks that she is holding a steel pipe. Amazed that she would be carrying a weapon, Koji looks closer―and is appalled when he realizes what it really is.
+
+  A gun.<K>
+  And not one of those sleek handguns that he's seen in the movies, but a double-barreled shotgun. The stock and barrels have been sawed down for easier concealment, enhancing its aura of brutal efficiency.
+
+<voice name="耕司" SRC="media/voice/30/005102.ogg">  "What is that!?"<K>
+<voice name="凉子" SRC="media/voice/30/005206.ogg">  "A twelve-gauge," Ryoko replies blandly, as though naming a brand of cigarettes.<K><voice name="凉子" SRC="media/voice/30/005306.ogg"> "I don't have a permit, and cutting it down would be illegal even if I did. Any other questions?"<K>
+<voice name="耕司" SRC="media/voice/30/005402.ogg">  "What are you planning to do with that thing?"
+
+<clear>
+<BACKGROUND SRC="media/cg/bf09li0.png">//
+<WIPE EFFECT="fade" TIME="10">
+  Ryoko looks over her shoulder and gives Koji her most chilling smile
+yet.<K>
+<BUSTUP NAME="怖凉子" face="通常無表情" MODE="on" zoom="" ALIGN="left" SRC="media/cg/怖凉子_通常無表情.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="凉子" SRC="media/voice/30/005506.ogg">  "When I first learned what Ogai was doing, I was a model citizen. Never even gotten a ticket."<K>
+  The woman whom Koji believed was just a normal doctor waves her sawed-off shotgun menacingly as she continues, her tone sharp and bitter.<K>
+<voice name="凉子" SRC="media/voice/30/005606.ogg">  "If I'd had this back then, I could've killed Ogai before he got away.<k> <voice name="凉子" SRC="media/voice/30/005606_2.ogg">Maybe then none of this would have happened. I feel bad about that, really."
+
+<voice name="耕司" SRC="media/voice/30/005702.ogg">  "......"<K>
+  Koji listens in silence, helpless to do anything but watch as understanding moves farther and farther out of his grasp.<K>
+<BUSTUP NAME="怖凉子" face="通常狂笑1" MODE="on" zoom="" ALIGN="left" SRC="media/cg/怖凉子_通常狂笑1.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="凉子" SRC="media/voice/30/005806.ogg">  "In other words, everything I do from here on out is to clean up this mess that you and your friends have stepped in.<k><voice name="凉子" SRC="media/voice/30/005806_2.ogg"> Remember that, and don't ask any unnecessary questions. Got it?"<K>
+  Koji can only nod weakly in response.
+
+<se id="1" src="media/sound/女足音地下.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bf09li0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="9">
+  With the light in her left hand and the shotgun in her right, Ryoko walks up to the door and takes a deep breath.<K>
+  Then she kicks the door open, putting her full weight behind the blow.
+
+<se id="1" src="media/sound/別荘ドア蹴破り3.ogg" mode="normal" loop="off">
+<bgm src="" mode="normal" time="20" loop="on">
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="media/cg/bf08li0.png">//
+<WIPE EFFECT="fade" TIME="0">
+<wait time="200">
+<box type="9">
+  With a disappointingly feeble sound, the door breaks off of its hinges and falls into the room. Dust billows like white smoke in the beam of Ryoko's light.<K>
+<se id="1" src="media/sound/臭気.ogg" mode="normal" loop="off">
+<bgm src="media/sound/s08.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+  The room is large, at least thirty-five meters square. The tiled floor is set with drainage grates, and there's no mistaking the operating table sitting in the middle of the room. Cabinets full of enamelware and drugs line one side of the space, and against the opposite wall stand a writing desk and bookshelves.
+
+  Those things, Koji recognizes. The mysterious objects cluttering the tables and shelves, however, are beyond his comprehension.<K>
+  Mirrors delicately engraved with complex patterns, grotesque statues and masks that must have been left by a race of savages, tapestries woven in nauseating arrays of color, a crystal ball the size of an infant's head...<K>
+  Any would fetch a hefty price at an antique store, if not for the one thing they all have in common. Every last piece is so loathsome and foul that Koji feels sick just looking at it. It's as though each was designed for the sole sinister purpose of immortalizing its creator's hatred of the world.
+
+  Rare-looking books of the sort that he found in Ogai's home are piled here and there, and on one shelf are stacked some scrolls that look to be made of some kind of sheepskin or papyrus―whatever it is, it's not paper.<K>
+  Finally, there are the indecipherable chalk patterns and symbols filling every available space on the walls. Even the two sliding blackboards are covered in strange, unreadable scribblings. Just looking at them is making Koji dizzy. 
+
+<BUSTUP NAME="凉子戦闘" face="険しい目3喋り" MODE="on" zoom="" ALIGN="left" SRC="media/cg/凉子戦闘_険しい目3喋り.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="凉子" SRC="media/voice/30/005906.ogg">  "Don't look!" Ryoko snaps at him.<K>
+<BUSTUP NAME="凉子戦闘" face="通常" MODE="on" zoom="" ALIGN="left" SRC="media/cg/凉子戦闘_通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="凉子" SRC="media/voice/30/006006.ogg"> "Listen. Don't move, and whatever you do, don't touch anything. Even if something draws your attention, don't look at it.<K><voice name="凉子" SRC="media/voice/30/006006_2.ogg"> If you see something that feels wrong, stare at your shoes. Got it?"<K>
+<voice name="耕司" SRC="media/voice/30/006102.ogg">  "Y- Yeah."
+
+<BUSTUP NAME="凉子" face="通常" MODE="off" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="5">
+  Ryoko switches her light's flourescent runners on and sets it on a nearby table where it can illuminate the whole room. She then holsters her shotgun, only to pull out an even more confusing set of tools―a digital camera and a can of spraypaint.<K>
+  She gives the can in her left hand a good shake, switches the camera in her right hand on, and steps up to the blackboard while looking at the camera's side-mounted screen.<K> After recording one set of symbols, <se id="1" src="media/sound/スプレー.ogg" mode="normal" loop="off">she covers it with a thick layer of paint, then moves on to the next.
+
+<voice name="耕司" SRC="media/voice/30/006202.ogg">  "Um... Doctor?"<K>
+<se id="1" src="media/sound/スプレー.ogg" mode="normal" loop="off">
+<voice name="凉子" SRC="media/voice/30/006306.ogg">  "Lesson one. Never look at strange symbols or read anything written in unusual languages like Latin.<k><voice name="凉子" SRC="media/voice/30/006306_2.ogg"> Use a camera to record them for later, then paint over the original."<K>
+<se id="1" src="media/sound/スプレー.ogg" mode="normal" loop="off">
+  Now that she mentions it, Koji realizes that she's only looking at the screen of her camera―even then, only in short glimpses―and never directly at any of the drawings.<K>
+  He understands what she's saying, but it still doesn't make any sense.
+
+<voice name="耕司" SRC="media/voice/30/006402.ogg">  "Why do you have to..."<K>
+<voice name="凉子" SRC="media/voice/30/006506.ogg">  "Now that you've come this far, you'd better shut up and listen for your own good.<k><voice name="凉子" SRC="media/voice/30/006506_2.ogg"> Things like crystal balls and mirrors are dangerous. Anything can happen if you break them, so it's best to cover them with a cloth or paint over them for the time being."<K>
+<se id="1" src="media/sound/スプレー.ogg" mode="normal" loop="off">
+  Koji begins to fear that this doctor might be even crazier than Fuminori.
+
+  Despite the burst of energy he received from the vodka, Koji is still exhausted from his night in the well.<K>
+  The fear is affecting his body, making him dizzy and nauseous.
+
+  Soon, the walls are covered in black paint and the stale air is thick with the smell of turpentine.<K>
+<voice name="凉子" SRC="media/voice/30/006606.ogg">  "That should do for now," Ryoko says with relief, then tosses the empty can aside and puts away her video camera.<K>
+<voice name="耕司" SRC="media/voice/30/006702.ogg">  "What happened to Ogai?" Koji asks, supporting himself against a nearby table.<K>
+<voice name="凉子" SRC="media/voice/30/006806.ogg">  "Hm? Oh, he was over there."
+
+  Without stopping her examination of the papers on the writing table, Ryoko points nonchalantly to a Chinese-style screen standing in one corner of the room.<K>
+  He "was" there. Her clinical choice of tense makes her meaning instantly obvious.<K>
+<voice name="耕司" SRC="media/voice/30/006902.ogg">  "......"
+
+  The urge to see for himself is irresistible.<K><se id="1" src="media/sound/男近寄り.ogg" mode="normal" loop="off"> Koji staggers across the room to the screen, taking the utmost care not to look at the scaly octopus-thing that is painted on it.<K>
+  Behind the screen is a large easy chair. Although he's never met the man before, Koji is fairly certain that the person sitting in it is Ogai Masahiko.
+
+<clear>
+<BACKGROUND SRC="media/cg/36.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Ogai's corpse must have shrunk significantly while drying in this sealed chamber. The body is barely the size of a child's, with only the business suit hanging from the bones offering any hint of Ogai's former stature.<K>
+  His empty eye sockets and wide-open jaw are filled with darkness―the same darkness that surrounded Koji at the bottom of the well.<K>
+  Compared to those gaping voids, the tiny hole in Ogai's right temple is almost demure.
+
+  The revolver that he presumably used to kill himself is still clenched in his dangling right hand. It looks like a child's toy compared to Ryoko's shotgun.<K>
+  Ryoko must have noticed Ogai's corpse while she was spray-painting the walls, and still she kept working without batting an eyelash. Impressive, though not exactly suprising after what he's been through. It's getting difficult to remember the last time he spoke to someone sane.<K>
+  But if not for her, Koji reminds himself with a bitter smirk, he would have ended up joining this mummified corpse here―and no one would ever have found him.
+
+<LAYER SRC="#000000" TRANSPARENT="50" NUM="1">
+<WIPE EFFECT="fade" TIME="10">
+  Koji's vision suddenly dims.<K>
+  He's pushed himself too hard, and the Spirytus vodka can't help him anymore.<K>
+  He collapses to the floor, unable to hang on to his slipping consciousness, and the last thing he sees are Ogai Masahiko's gaping eye sockets staring at him.<se id="1" src="media/sound/倒れる.ogg" mode="normal" loop="off">
+
+//別荘：耕司
+<bgm src="s08" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="media/sound/s04.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<BACKGROUND SRC="media/cg/bf04ca0.png">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+  When he wakes, Koji finds himself lying on something dry and soft.<K> A bed is a bed, he thinks to himself, even one that smells of mold and dust, and especially after sleeping in cold mud all night.<K> There are no lights hanging from the ceiling, but the soft, warm light of a lamp fills the room.<K>
+  Simple furnishings, nonexistent decor―Koji realizes that he's in Ogai's cabin, in the bedroom that he searched before Fuminori pushed him into the well.
+
+<clear>
+<BACKGROUND SRC="media/cg/42.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="凉子" SRC="media/voice/31/000106.ogg">  "You awake?"<K>
+  Ryoko is sitting in a chair against the wall, her expression blank as she studies the pile of documents on the table in front of her. She must have brought them up from Ogai's underground lab.
+
+  She turns a page, then takes a bite from the sandwich in her free hand.<K>
+<voice name="凉子" SRC="media/voice/31/000206.ogg">  "If you feel up to eating, there's food over there."<K>
+  Without looking up from the files, she gestures toward the convenience store bag sitting on the nightstand.<K>
+<voice name="耕司" SRC="media/voice/31/000302.ogg">  "How did I get here?"<K>
+  Koji can't imagine that a woman―even a woman like Ryoko―could have climbed out of the well with him on her back.
+
+
+<voice name="凉子" SRC="media/voice/31/000406.ogg">  "There was a door behind one of the bookshelves down there," Ryoko mutters, taking care not to let the explanation interfere with her reading or eating.<K><voice name="凉子" SRC="media/voice/31/000506.ogg"> "When I finally got it open, it led to the boiler room underneath the cabin. The other side was hidden with a thin layer of mortar.<k> <voice name="凉子" SRC="media/voice/31/000506_2.ogg">I figure that's how he got most of his supplies down there. Once he had everything he needed, he could seal it up and use the well instead. Pretty thorough."<K>
+<voice name="耕司" SRC="media/voice/31/000602.ogg">  "Was there really something in there that he needed to hide?"<K>
+<voice name="凉子" SRC="media/voice/31/000706.ogg">  "There used to be. This is the last of it."
+
+
+  Having finished her sandwich, Ryoko picks up some unsorted papers with her free hand and waves them in the air.<K>
+<voice name="凉子" SRC="media/voice/31/000806.ogg">  "Not all scholars want to get on stage at a symposium and show their research to the world, you know.<k><voice name="凉子" SRC="media/voice/31/000806_2.ogg"> Some nutcases get their kicks by learning secrets no one else knows, and by being buried with those secrets in hidden tombs that no one'll ever find."<K>
+  Koji still hasn't the slightest idea what Ogai's secret might have been. From what Ryoko said in that tunnel, however, he can guess that Fuminori is somehow involved.
+
+<voice name="耕司" SRC="media/voice/31/000902.ogg">  "What happened to Fuminori?" Koji asks desperately, no longer caring who he gets answers from.<K><voice name="耕司" SRC="media/voice/31/001002.ogg"> "What does he have to do with that body down there? Just what is it that you're after?"<K>
+<voice name="凉子" SRC="media/voice/31/001106.ogg">  "That's what I'm trying to find out," Ryoko replies coldly, as though Koji's concerns are none of hers.<K><voice name="凉子" SRC="media/voice/31/001206.ogg"> "Sakisaka told me that he was acting on behalf of one of Ogai's relatives."<K>
+<voice name="耕司" SRC="media/voice/31/001302.ogg">  "Yes, he told me the same thing."<K>
+<voice name="凉子" SRC="media/voice/31/001406.ogg">  "Oh? Well, at least that's consistent."<K>
+<se id="1" src="media/sound/本めくり.ogg" mode="normal" loop="off">
+  Ryoko pulls several sheets of looseleaf paper from a different file.<K>
+<voice name="凉子" SRC="media/voice/31/001506.ogg">  "The truth is that Ogai has no relatives. I thought that Sakisaka was simply lying.<k><voice name="凉子" SRC="media/voice/31/001506_2.ogg"> However, there was another possibility I should have considered. He might have been tricked by someone claiming to be Ogai's family."
+
+  Ryoko pauses, then looks sidelong at Koji.<K>
+<voice name="凉子" SRC="media/voice/31/001606.ogg">  "Does the name 'Saya' ring a bell?"<K>
+<voice name="耕司" SRC="media/voice/31/001702.ogg">  "Saya? No, who is that?"<K>
+<voice name="凉子" SRC="media/voice/31/001806.ogg">  "Who―or what―is the question, but the more I read, the less I understand."<K>
+<se id="1" src="media/sound/本めくり.ogg" mode="normal" loop="off">
+  She sighs bitterly, then returns her attention to the papers in her hand.<K>
+<voice name="凉子" SRC="media/voice/31/001906.ogg">  "All I can say for sure is that it appears to have been the focus of Ogai's research.<k><voice name="凉子" SRC="media/voice/31/001906_2.ogg"> If Sakisaka is involved with whatever 'Saya' is, then he's already past the point of no return."
+
+  The icy certainty in Ryoko's voice sends a chill down Koji's spine.<K>
+<voice name="耕司" SRC="media/voice/31/002002.ogg">  "If so... then what will you do?"<K>
+  He has to ask, even though he already knows the answer.<K>
+<voice name="凉子" SRC="media/voice/31/002106.ogg">  "It's like I said," Ryoko replies, smirking at the tension in Koji's voice. "I have no idea how many times I've wished I'd killed Ogai when I had the chance.<K><voice name="凉子" SRC="media/voice/31/002106_2.ogg"> I won't make the same mistake twice."
+
+<voice name="耕司" SRC="media/voice/31/002202.ogg">  "If I go to the police, it'll all be over!"<K>
+  Ryoko doesn't respond, as though she didn't even hear what Koji just said.<K>
+<voice name="耕司" SRC="media/voice/31/002302.ogg">  "Fuminori tried to kill me," Koji continues persistently. "If I report him, he'll be arrested and..."<K>
+<voice name="凉子" SRC="media/voice/31/002406.ogg">  Ryoko cuts him off harshly. "You have witnesses? Proof? What was Sakisaka's motive?<K> <voice name="凉子" SRC="media/voice/31/002506.ogg">You know, Tonoh, you're completely misunderstanding what the police do.<k><voice name="凉子" SRC="media/voice/31/002506_2.ogg"> Their job isn't to fight for justice, or even to keep people safe."<K>
+<voice name="耕司" SRC="media/voice/31/002602.ogg">  "W- What are you saying?"
+
+<voice name="凉子" SRC="media/voice/31/002706.ogg">  "Finding reasonable explanations for unreasonable events―that's what the police are for.<k><voice name="凉子" SRC="media/voice/31/002706_2.ogg"> They will always choose to believe the simplest, most logical explanation.<k><voice name="凉子" SRC="media/voice/31/002706_3.ogg"> Just like how water always flows downhill.<K><voice name="凉子" SRC="media/voice/31/002706a.ogg"> They aren't interested in the truth. They don't know, or care, that the truth is often stranger than fiction."<K>
+<voice name="耕司" SRC="media/voice/31/002802.ogg">  "They can't all be like that! I won't know until I try!"
+
+
+<voice name="凉子" SRC="media/voice/31/002906.ogg">  "Exactly," Ryoko states, as she pulls another sandwich out of the bag. "That's the problem."<K>
+  She hasn't spared Koji a second glance since looking at him earlier. Even while talking, her attention is always focused on the papers in front of her.<K>
+<voice name="凉子" SRC="media/voice/31/003006.ogg">  "Let's say you accuse your friend of pushing you into a well.<k> <voice name="凉子" SRC="media/voice/31/003006_2.ogg">In addition to your statement, the police will consider two alternate versions of the truth. Maybe you're making it all up to frame your friend.<k> <voice name="凉子" SRC="media/voice/31/003006_3.ogg">Or―even simpler―it was an accident. You fell into the well by yourself, and the shock has made you paranoid or delusional.<K>
+<voice name="凉子" SRC="media/voice/31/003006a.ogg">  These three possibilities will compete to see which comes out with the most convincing evidence. No one knows which will be the winner.<K><voice name="凉子" SRC="media/voice/31/003006a_2.ogg"> Are you willing to bet everything you have on your truth?"
+
+<voice name="耕司" SRC="media/voice/31/003102.ogg">  "......"<K>
+  Koji has no response.<K>
+  Can he really explain with cold, clear logic what drove Fuminori to do what he did? How can he convince anyone else when he doesn't even understand it himself?
+
+
+<voice name="凉子" SRC="media/voice/31/003206.ogg">  "And here's the biggest problem." Ryoko says calmly, cutting into Koji's thoughts.<K><voice name="凉子" SRC="media/voice/31/003306.ogg"> "While you're raising hell with the police, we'll lose our chance to corner Sakisaka.<k><voice name="凉子" SRC="media/voice/31/003306_2.ogg"> If he sees trouble coming, he'll go into hiding. And then we'll be right back at square one."<K>
+  She pauses to take a bite of her sandwich before finishing.<K>
+<voice name="凉子" SRC="media/voice/31/003406.ogg">  "Just like when I let Ogai get away."<K>
+<voice name="耕司" SRC="media/voice/31/003502.ogg">  "......"
+
+
+<se id="1" src="media/sound/本めくり.ogg" mode="normal" loop="off">
+  A heavy silence falls upon them, with only the soft rustle of pages turning in Ryoko's hands to mark the passage of time.
+
+<voice name="耕司" SRC="media/voice/31/003602.ogg">  "Please tell me, Doctor," Koji says, his hushed voice breaking through the quiet.<K><voice name="耕司" SRC="media/voice/31/003702.ogg"> "What crime is so unforgivable that you're determined to take justice into your own hands? What exactly did Ogai do in that room down there?"<K>
+  Once again, Ryoko ignores Koji's question. This time, however, Koji doesn't back down. His silent glare demands her attention as she pores through the documents before her.
+
+<se id="1" src="media/sound/本めくり.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bf04ca0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  After some time, Ryoko rearranges the papers in her hands and sets them aside, as though having come to some conclusion.<K> <se id="1" src="media/sound/椅子2.ogg" mode="normal" loop="off">She then turns her chair to face Koji for the first time since he awoke.<K>
+<BUSTUP NAME="凉子戦闘" face="険しい目2通常" MODE="on" zoom="" ALIGN="left" SRC="media/cg/凉子戦闘_険しい目2通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="凉子" SRC="media/voice/31/003806.ogg">  "Listen, Tonoh." Her hard stare belies the calmness of her voice.<K><voice name="凉子" SRC="media/voice/31/003906.ogg"> "You need to get out of this while you still can. There are a lot of fine hot springs around here. Go relax, and don't return to Tokyo until you're ready to forget any of this ever happened."<K>
+<voice name="耕司" SRC="media/voice/31/004002.ogg">  "Forget?"<K> Koji feels anger rise within him.<K> <voice name="耕司" SRC="media/voice/31/004102.ogg">"Omi was my girlfriend. Fuminori was my best friend. And you're telling me to forget about 
+them?"<K>
+<BUSTUP NAME="凉子戦闘" face="険しい目3喋り" MODE="on" zoom="" ALIGN="left" SRC="media/cg/凉子戦闘_険しい目3喋り.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="凉子" SRC="media/voice/31/004206.ogg">  "Yeah, forget about them," Ryoko replies, coolly rebuffing Koji's anger. "This isn't a suggestion. It's a warning.<K><voice name="凉子" SRC="media/voice/31/004306.ogg"> Whatever they were to you, that's all over now. You'll never see them again. I guarantee it."
+
+<voice name="耕司" SRC="media/voice/31/004402.ogg">  "Then what about Tsukuba!?" Koji shouts, unable to control himself.<K> <voice name="耕司" SRC="media/voice/31/004502.ogg">"She begged me for help on the phone! Something terrible was happening to her!"<K> 
+<BUSTUP NAME="凉子戦闘" face="険しい目2通常" MODE="on" zoom="" ALIGN="left" SRC="media/cg/凉子戦闘_険しい目2通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="凉子" SRC="media/voice/31/004606.ogg">  "And how many hours ago was that?"<K>
+<voice name="耕司" SRC="media/voice/31/004702.ogg">  "......"<K>
+<voice name="凉子" SRC="media/voice/31/004806.ogg">  "Do you know how much time has passed since I saved you? How much longer do you think you would have lasted down there if I hadn't?"
+
+<BUSTUP NAME="凉子戦闘" face="目逸らし通常" MODE="on" zoom="" ALIGN="left" SRC="media/cg/凉子戦闘_目逸らし通常.png">
+<WIPE EFFECT="fade" TIME="5">
+  She shakes her head, then declares coldly, <voice name="凉子" SRC="media/voice/31/004906.ogg">"It's too late. She's already dead. Don't expect everyone to be as lucky as you."<K>
+<voice name="耕司" SRC="media/voice/31/005002.ogg">  "You heartless..." Koji growls, unable to suppress his anger.<K><voice name="耕司" SRC="media/voice/31/005102.ogg"> "If you'd found me dead in that well, you wouldn't have thought anything of it, would you?"
+
+<BUSTUP NAME="凉子戦闘" face="通常" MODE="on" zoom="" ALIGN="left" SRC="media/cg/凉子戦闘_通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="凉子" SRC="media/voice/31/005206.ogg">  "I was prepared for that, of course," Ryoko says with a shrug, unfazed by Koji's ire. "I hardly expected to find you alive."<K>
+<voice name="耕司" SRC="media/voice/31/005302.ogg">  "......"<K>
+  It is futile to argue with this woman, Koji realizes. Her values are fundamentally different from his own. Nothing he can say will ever move her.
+
+<se id="1" src="media/sound/ベット立ち上がり.ogg" mode="normal" loop="off">
+<BUSTUP NAME="凉子戦闘" face="険しい目2通常" MODE="off" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="5">
+  Koji gets out of bed and stands on shaky legs.<K>
+<BUSTUP NAME="耕司" face="険しいムス" MODE="on" zoom="" ALIGN="right" SRC="media/cg/耕司_険しいムス.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="耕司" SRC="media/voice/31/005402.ogg">  "How long have I been asleep?"<K>
+<voice name="凉子" SRC="media/voice/31/005506.ogg">  "About half a day. I envy your ability to recover so quickly. It's a privilege of youth, so enjoy it while it lasts."
+
+  Koji looks at his watch and sees that it's four in the morning, which means that it was already early evening when Ryoko rescued him. He can't believe that he survived in that well for almost two days.<K>
+  Now that the gaps in his memory have been filled and his sense of time has returned, he realizes that it's already Sunday morning. Ryoko's right―a lot of time has passed since he spoke to Yoh on the phone.
+
+<se id="1" src="media/sound/カバンまさぐり.ogg" mode="normal" loop="off">
+  Koji grabs a sports drink and two jelly packs from the bag of food that Ryoko brought, then heads for the door. His legs are still a little unsteady, but he can compensate for that with sheer willpower.<K>
+<voice name="凉子" SRC="media/voice/31/005606.ogg">  "Just to make sure, mind telling me where you're going?"<K>
+<voice name="耕司" SRC="media/voice/31/005702.ogg">  "Tokyo," Koji replies brusquely, his tone as hard as hers.<K> <voice name="耕司" SRC="media/voice/31/005802.ogg">  "Tsukuba might still be alive. I'm going to save her."<K>
+<voice name="凉子" SRC="media/voice/31/005906.ogg">  "You just don't listen, do you?"<K>
+<voice name="耕司" SRC="media/voice/31/006002.ogg">  "I could say the same about you."
+
+
+<BUSTUP NAME="耕司" face="険しいムス" MODE="off" zoom="" ALIGN="right">
+<BUSTUP NAME="凉子戦闘" face="困惑にや" MODE="on" zoom="" ALIGN="left" SRC="media/cg/凉子戦闘_困惑にや.png">
+<WIPE EFFECT="fade" TIME="5">
+  Koji is expecting Ryoko to watch him go with that cold, mocking smile of hers. Instead, however, she sighs heavily and rests her jaw in her hands.<K>
+<BUSTUP NAME="凉子戦闘" face="目逸らし通常" MODE="on" zoom="" ALIGN="left" SRC="media/cg/凉子戦闘_目逸らし通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="凉子" SRC="media/voice/31/006106.ogg">  "Can't you wait a little longer? Somewhere in here," she thrusts her chin at the mountain of papers in front of her,<K><voice name="凉子" SRC="media/voice/31/006206.ogg"> "is the answer to what this thing called 'Saya' is. I think you should wait until I figure that out and come up with a plan to deal with it."<K>
+<BUSTUP NAME="耕司" face="険しいムス" MODE="on" zoom="" ALIGN="right" SRC="media/cg/耕司_険しいムス.png">
+<BUSTUP NAME="凉子戦闘" face="険しい目2通常" MODE="off" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="耕司" SRC="media/voice/31/006302.ogg">  "You would think that, since you're already convinced that Tsukuba is dead."
+
+  In truth, Koji is extremely uneasy about going it alone.<K>
+  At the same time, however, he knows that he mustn't depend on Ryoko. She's made it clear that she doesn't care about saving lives. Teaming up with her will only make it more difficult to salvage something―anything―out of this nightmare.<se id="1" src="media/sound/ドア開け.ogg" mode="normal" loop="off">
+
+<BUSTUP NAME="耕司" face="通常" MODE="off" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="凉子" SRC="media/voice/31/006406.ogg">  "Tonoh," Ryoko calls just before Koji steps out the door.<K>
+<BUSTUP NAME="凉子戦闘" face="通常喋り" MODE="on" zoom="" ALIGN="left" SRC="media/cg/凉子戦闘_通常喋り.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="凉子" SRC="media/voice/31/006506.ogg">"You almost got killed once already. Don't let it happen again."<K>
+  She picks something up from the table and tosses it to Koji.<K>
+<se id="1" src="media/sound/拳銃受け取り.ogg" mode="normal" loop="off">
+  When Koji catches it, he feels its solid weight fill his hand.
+
+<clear>
+<BACKGROUND SRC="media/cg/bi02da1.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="耕司" SRC="media/voice/31/006602.ogg">  "This is..."<K>
+  Koji stares at the menacing shape of cold metal.<K> It's a revolver, the same one that was clenched in Ogai's skeletal fist.<K>
+<voice name="凉子" SRC="media/voice/31/006706.ogg">  "It has four more shots. There's no safety, so just pull the trigger to fire.<k><voice name="凉子" SRC="media/voice/31/006706_2.ogg"> How you use it is up to you."<K>
+<voice name="耕司" SRC="media/voice/31/006802.ogg">  "......"
+
+  If Koji were his usual cautious self, he would not hesitate to reject the dangerous offering.<K>
+  The only time you truly need a gun is when all hope is lost. He'd prefer not to fight a losing war.<K>
+  And yet, without even knowing it, Koji has already set foot into Ryoko's world. Choosing instinct over reason, he accepts the small but deadly weapon and stuffs it into his pocket.
+
+<clear>
+<BACKGROUND SRC="media/cg/bf04ca0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="9">
+  There is no question that Koji intends to save Yoh and bring Fuminori to answer for his crimes.<K>
+  In the back of his mind, however, he can hear the footsteps of ruin approaching.
+
+<bgm src="s04" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="media/sound/s07.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+<se id="1" src="media/sound/ドア閉め2.ogg" mode="normal" loop="off">
+<BACKGROUND SRC="media/cg/bf01ni0.png">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+  When he steps out of the cabin's front door, Koji shivers as the wind tears into his skin.<K> To his surprise, the outside air is even colder than the mud at the bottom of the well. Perhaps the cramped space mitigated the cold somewhat. If he had been exposed to this chill all night long, he would surely have frozen to death.<K>
+  Koji finds two cars parked in the yard. The smaller car next to his must be Ryoko's.
+
+
+<se id="1" src="media/sound/車乗る.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bo07ni0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  When he sits behind the wheel of his car, he gets some relief from the feeling that he has taken the first step, however small, back into his world.<K>
+  He sips the sports drink, wetting his parched throat, then washes down some jelly. His stomach rebels at the sudden influx of food after thirty-six hours on empty, but he manages to force down the urge to vomit.<K>
+  Koji needs the energy. No matter how hard it is, he must regain enough stamina to overcome the challenges ahead.
+
+  After forcing down as much food as he can handle, Koji leans back in his seat and takes a short break. When he begins to feel like himself again, he reaches into the back seat and pulls his spare cell phone out of his bag.<K>
+  He never expected that carrying two phones would be such a stroke of luck.
+
+  As he calls up Fuminori's number and prepares to hit send, Koji is overcome by a flood of emotion.<K>
+  Rage, despair, sorrow, pity―he is unable to decide what to feel toward his friend.<K>
+  However, there is no time to dwell on he past. Every second lost diminishes the chance of saving Omi and Yoh. Koji refuses to consider that it may already be too late.
+
+<se id="1" src="media/sound/携帯かける.ogg" mode="normal" loop="off">
+  He steels himself and presses the button, then holds the phone to his ear as it rings. The shrill sound seems to go on for longer than it ever has in his life.<K>
+  Right now, Fuminori's phone must be displaying the name of the caller. Koji wonders what his reaction will be when he sees it.
+
+<se id="1" src="media/sound/携帯出る.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bt01xx0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="郁紀" SRC="media/voice/31/006900.ogg">  "......"<K>
+  The call goes through.<K> In the silence on the other end of the phone, Koji senses surprise, apprehension, and dark fury.<K> Feeling slightly gratified, Koji delivers the first jab.<K>
+<voice name="耕司" SRC="media/voice/31/007002.ogg">  "What, weren't expecting a call from a dead man?"<K>
+<voice name="郁紀" SRC="media/voice/31/007100.ogg">  "I'm surprised. How did you manage it?"<K>
+  As Koji is about to answer, an idea suddenly comes to him.
+
+<voice name="耕司" SRC="media/voice/31/007202.ogg">  "There was a secret passage in the well," Koji says, a plan forming rapidly in his mind. "It led to a hidden underground lab."<K>
+  He pauses to let that sink in. Then, with satisfaction filling his voice, he says,<K><voice name="耕司" SRC="media/voice/31/007302.ogg"> "I met Ogai Masahiko."
+
+<voice name="郁紀" SRC="media/voice/31/007400.ogg">  "...!"<K>
+  Fuminori's gasp tells Koji that the advantage is his. Keeping his voice bold, he decides to further exaggerate the truth.<K>
+<voice name="耕司" SRC="media/voice/31/007502.ogg">  "I know it all―everything about Saya. You're finished, Fuminori.<k> <voice name="耕司" SRC="media/voice/31/007502_2.ogg">I've got all the proof I need to blow this thing wide open. You won't even see it coming."<K>
+<voice name="郁紀" SRC="media/voice/31/007600.ogg">  "You son of a bitch."<K>
+  It's obvious from Fuminori's tone that rage has overwhelmed his reason. Koji's bluff is working perfectly.
+
+  His victory is tainted, however, as Fuminori's response to the name 'Saya' brings a cry of anguish from the corner of his heart that still wants to believe his friend can be saved.<K>
+<voice name="凉子" SRC="media/voice/31/007706.ogg">  <I>If Sakisaka is involved with whatever 'Saya' is...</I><K>
+  Ryoko's words play back in his head, sounding even colder than before.<K>
+<voice name="凉子" SRC="media/voice/31/007806.ogg">  <I>...then he's already past the point of no return.</I><K>
+  He mustn't allow emotion to sway him.
+
+<voice name="耕司" SRC="media/voice/31/007902.ogg">  "Where are Omi and Yoh?"<K>
+  Koji suddenly switches topics, trying to keep Fuminori off balance. It all comes down to this.<K>
+<voice name="耕司" SRC="media/voice/31/008002.ogg">  "Depending on your answer, I might be willing to cut you a deal."<K>
+<voice name="郁紀" SRC="media/voice/31/008100.ogg">  "...?"<K>
+<voice name="耕司" SRC="media/voice/31/008202.ogg">  "If you swear not to cause any more harm, I'll forget about what you did to me, and about what I found at the cabin.<K><voice name="耕司" SRC="media/voice/31/008202a.ogg"> I don't want anything more to do with you and Saya anyway. All I want is for Omi and Yoh to be safe."
+
+<voice name="郁紀" SRC="media/voice/31/008300.ogg">  "Omi and Yoh..."<K>
+  Fuminori's voice trails off. He's obviously trying to decide how far Koji can be trusted, and whether there's room for negotiation. Fuminori has been called out, and now it's time for him to show his hand.<K>
+<voice name="郁紀" SRC="media/voice/31/008400.ogg">  "I honestly don't know anything about Omi. She never came by my house. Yoh, on the other hand..."<K>
+  Fuminori pauses, then gives a knowing chuckle that sends chills up Koji's spine.<K>
+<voice name="郁紀" SRC="media/voice/31/008500.ogg">  "Well... I wonder if she'll really want to leave."
+
+
+<voice name="耕司" SRC="media/voice/31/008602.ogg">  "She's with you, isn't she?"<K>
+  Koji is relieved to learn Yoh's location and that she is, at least, still alive.<K>
+  At the same time, however, he remembers that horrifying phone call. It is clear now that Fuminori played some part in Yoh's suffering.<K>
+  Had she already fallen into his trap back then?<K>
+  What has happened to her? How is she being treated?
+
+<voice name="郁紀" SRC="media/voice/31/008700.ogg">  "Her wish has finally come true," Fuminori says with venomous sarcasm. "She's my property now. I guess you and Omi got what you wanted after all."<K>
+  Koji feels despair settle over his soul.<K> How much lower will this man go? Must Fuminori seek out and destroy every memory of the friendship they once shared?<K>
+<voice name="耕司" SRC="media/voice/31/008802.ogg">  "Let Tsukuba go. When I'm sure she's safe, I'll destroy everything I have on you and Saya."<K>
+<voice name="郁紀" SRC="media/voice/31/008900.ogg">  "How can I trust you? First, I want you to..."<K>
+<voice name="耕司" SRC="media/voice/31/009002.ogg">  "I'm not giving you a choice here, Fuminori."<K>
+  Koji instinctively realizes that it's dangerous to push his bluff any further.
+
+
+<clear>
+<BACKGROUND SRC="media/cg/bo07ni0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="耕司" SRC="media/voice/31/009102.ogg">  "I'll call again later. You have until then to make up your mind."<K>
+<se id="1" src="media/sound/携帯ボタン.ogg" mode="normal" loop="off">
+  He hangs up without waiting for a response.<K>
+  Fuminori doesn't know that Koji is still at the cabin in Tochigi. Right now, he's probably worrying about whether Koji will show up in one hour or one minute. Koji hopes that he'll be able to take advantage of Fuminori's confusion.<K>
+  Three hours. That's how long it will take to race all the way back to Tokyo.
+
+  Koji is afraid that his body won't carry him through such a long drive.<K>
+  His mind is clear, but his limbs still feel half-asleep, like they're weighted down with lead.
+
+  Although he knows that he has to stay resolute, Koji still longs for the peace he had just a few days ago, when life-or-death struggles were the furthest thing from his mind.<K> Back then, he could never have imagined himself fighting to rescue a friend from the clutches of a madman. With each passing moment, he feels himself becoming less like the person he was.<K>
+  When all of this is over, will he be able to return to his old life?<K>
+  Or will this change continue until it has consumed him utterly?
+
+  Time is against him. Every second that passes is wasted.<K>
+  Even so, he decides to allow himself just five minutes of weakness.
+
+  For exactly five minutes, he leans against the steering wheel and cries.<K>
+  And when his tears have run dry and his heart is calm, <se id="1" src="media/sound/車山道発進.ogg" mode="normal" loop="off">Koji starts up his car and drives away.
+
+<A HREF="media/script/nps/sy160.nps" OPERATOR="">

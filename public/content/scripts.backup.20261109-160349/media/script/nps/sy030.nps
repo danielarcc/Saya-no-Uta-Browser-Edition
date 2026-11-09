@@ -1,0 +1,530 @@
+//大学：瑶
+<MARKER NAME="#3">
+<bgm src="s06" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="media/sound/s02.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<BACKGROUND SRC="media/cg/ba03no0.png">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="1" src="media/sound/教室.ogg" mode="normal" loop="off">
+<wait time="200">
+<box type="9">
+
+  Yoh is determined to talk to him today.<K>
+  Nothing will happen as long as she hesitates. It will only prolong her suffering.<K>
+  The time has come to show courage once again.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<BACKGROUND SRC="media/cg/07.png" EX="1">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Yoh's fourth period on Thursdays is biology. This is her one chance to see Fuminori.<K>
+  As a required course with many students, the lecture is held in a large hall that can seat well over two hundred. But since the room is usually only half full, it is rarely difficult for Yoh to find the seat she wants.
+
+  Yoh prefers to sit near the center, where it is easiest to hear the professor. Most of the students congregate in this area for the same reason.<K>
+  Fuminori usually sits beside her, although given the ambiguous state of their relationship, she knows better than to take this for granted. Still, she tries to save a seat whenever possible.
+
+  The classroom isn't crowded today, so Yoh is able to set her bag on the seat next to her without inconveniencing anyone.<K> 
+  But when the professor arrives at the usual time to start class, there is still no sign of Fuminori.
+
+  After waiting for about ten minutes, Yoh scans the room furtively.<K>
+  Fuminori is there, sitting alone in the far back corner.<K> Did he miss Yoh when he came in? No, he couldn't have. And besides, no serious student would willingly sit so far away from the front.<K>
+  Feeling miserable, Yoh slides her bag back over to herself.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<BACKGROUND SRC="media/cg/ba02no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Fuminori is out the door the moment class ends. <se id="1" src="media/sound/女駆け寄り.ogg" mode="normal" loop="off">Yoh barely manages to catch up to him before he disappears down the hallway.
+
+<voice name="瑶" SRC="media/voice/6/000105.ogg">  "Fuminori!"<K>
+  Fuminori jerks at the sound of his name. You would think she just screamed at him.
+
+<BUSTUP NAME="郁紀" face="激怒口閉じ" MODE="on" zoom="" ALIGN="left" SRC="media/cg/郁紀_激怒口閉じ.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="郁紀" SRC="media/voice/6/000200.ogg">  "What?" he turns to her and asks reluctantly.<K>
+  Now that they are face to face, Yoh is painfully aware of how much weight Fuminori has lost. His sunken eyes and protruding cheekbones are a far cry from the features familiar to her. She wonders whether he's under a lot of stress, or perhaps not getting enough nutrition. Maybe it's both.
+
+  He definitely looks more tense than he should―afraid, even, though of what she can't imagine. His eyes move restlessly from point to point, and he refuses to look Yoh in the eye.<K>
+  It hurts to see Fuminori this way. What could have changed him so?<K>
+  <I>Today,</I> she reminds herself, rekindling the flame of courage in her heart.<K>
+<voice name="瑶" SRC="media/voice/6/000305.ogg">  "Um, I want to talk to you about something. Do you have some time?"
+
+<bgm src="s02" mode="fadeout" time="20" loop="off">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<BACKGROUND SRC="media/cg/ba05no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="media/sound/風.ogg" mode="normal" loop="off">
+<wait time="200">
+<box type="9">
+  The courtyard is empty and silent. No one is willing to sit and chat in the cold November air.
+
+<BUSTUP NAME="郁紀" face="激怒口閉じ" MODE="on" zoom="" ALIGN="left" SRC="media/cg/郁紀_激怒口閉じ.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="郁紀" SRC="media/voice/6/000400.ogg">  "So what is it?"<K>
+  <I>Don't you remember!?</I><K>
+   Yoh almost blurts the question, but manages to keep her composure.
+
+<clear>
+<BACKGROUND SRC="media/cg/09.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="瑶" SRC="media/voice/6/000505.ogg">  "You've been acting strange lately. I'm worried about you."<K>
+<voice name="郁紀" SRC="media/voice/6/000600.ogg">  "Well, a lot's happened."<K>
+  He smiles like it's nothing, but even that seems forced.<K>
+  He's even standing precisely one pace farther away from her than he used to.
+
+<bgm src="media/sound/s04.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<voice name="瑶" SRC="media/voice/6/000705.ogg">  "Is that really all?"<K>
+<voice name="郁紀" SRC="media/voice/6/000800.ogg">  "What more do you want?"<K>
+  Yoh manages to keep from flinching at the harshness of his tone.<K>
+<voice name="瑶" SRC="media/voice/6/000905.ogg">  "It's like you're struggling with something."<K>
+<voice name="郁紀" SRC="media/voice/6/001000.ogg">  "......"
+
+  Rather than answer, Fuminori grinds his toe into the dead grass at his feet. Fearing that her determination might flag, Yoh lets the words come as they may.<K>
+<voice name="瑶" SRC="media/voice/6/001105.ogg">  "It's like there's a terrible weight on your shoulders, and it's slowly breaking you.<k><voice name="瑶" SRC="media/voice/6/001105_2.ogg"> That's how you look to me."<K>
+<voice name="郁紀" SRC="media/voice/6/001200.ogg">  "Oh really," Fuminori mutters through clenched teeth, no longer trying to deny it or change the topic. This is an even clearer signal of rejection than his prior evasiveness.<K>
+  But Yoh's determination is strong. Today, at least, she won't back down.<K>
+<voice name="瑶" SRC="media/voice/6/001305.ogg">  "It's times like these," she implores, trying to convey the sincerity of her feelings for him, "that you need your friends."
+
+
+<clear>
+<BACKGROUND SRC="media/cg/bp02me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="5">
+<voice name="瑶" SRC="media/voice/6/001405.ogg">"I Feel rEAlLy bad ABoUT YOur PareNTs.<k><voice name="瑶" SRC="media/voice/6/001405_2.ogg"> BUt yoU'RE Not aLONE. you HAve KoJi, aND OMi, anD...<k> <voice name="瑶" SRC="media/voice/6/001405_3.ogg">you HAVe ME."
+
+<clear>
+<BACKGROUND SRC="media/cg/09.png">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="9">
+  Yoh can no longer stop the words pouring from her lips. She fears that if she does not unleash her feelings now, they will be lost forever.
+
+<clear>
+<BACKGROUND SRC="media/cg/bp01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="5">
+<voice name="瑶" SRC="media/voice/6/001505.ogg">"I THiNk wE cAn HElP you, SO YOu DoN'T hAVe To DEal wITh IT alL bY YOuRSELf."
+
+<voice name="瑶" SRC="media/voice/6/001505a.ogg">"EVEN iF We caN't DO aNYthIng, juST TALking To Us mIGht makE you FEel bETTer."
+
+<voice name="瑶" SRC="media/voice/6/001505b.ogg">"I WAnt tO heLP YOu! wE aLl DO! SO plEAse, teLL M―"
+
+<bgm src="" mode="normal" time="0" loop="on">
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="media/cg/ba05no0.png">//
+<BUSTUP NAME="郁紀" face="激怒" MODE="on" zoom="" ALIGN="left" SRC="media/cg/郁紀_激怒.png">
+<WIPE EFFECT="fade" TIME="0">
+<box type="9">
+<voice name="郁紀" SRC="media/voice/6/001600.ogg">  "Stop it!" Fuminori shouts, silencing Yoh's entreaty.<K>
+  She promised herself that she wouldn't back down, but Fuminori's expression is terrible enough to shatter her resolve.<K>
+<bgm src="media/sound/s07.ogg" mode="normal" time="0" COUNT="1;-1" LOOP="on">
+  The look in his eyes is not anger, or any other warm-blooded emotion. It is hate―murderously cold hate.
+
+<BUSTUP NAME="郁紀" face="激怒口閉じ" MODE="on" zoom="" ALIGN="left" SRC="media/cg/郁紀_激怒口閉じ.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="郁紀" SRC="media/voice/6/001700.ogg">  "Come to think of it, I never gave you an answer, did I?"<K>
+  He remembers.<K>
+  He remembers, and still he has treated her so coldly.<K>
+  That is all the answer she needs. If his words stab any deeper, she might very well die.
+
+
+<voice name="郁紀" SRC="media/voice/6/001800.ogg">  "I never saw you in any special way before. When you asked me out, I wasn't sure how to respond.<k><voice name="郁紀" SRC="media/voice/6/001800_2.ogg"> I didn't know how I really felt about you then."<K>
+<voice name="瑶" SRC="media/voice/6/001905.ogg">  "Fuminori..."
+
+<voice name="郁紀" SRC="media/voice/6/002000.ogg">  "But now I can give you an answer. I've had plenty of time to think it over, you know.<k><voice name="郁紀" SRC="media/voice/6/002000_2.ogg"> I hate you, Tsukuba. I don't even want to look at you."<K>
+  <I>Don't cry,</I> Yoh tells herself, but too late to stop the tears pouring from her eyes.
+
+<voice name="郁紀" SRC="media/voice/6/002100.ogg">  "I suppose it's too much to hope I never see you again. We do go the same school.<k><voice name="郁紀" SRC="media/voice/6/002100_2.ogg"> So just make this the last time you speak to me, okay? Your voice makes me sick."<K>
+<voice name="瑶" SRC="media/voice/6/002205.ogg">  "How can you be so cruel?" Yoh whispers in shock and despair,<K><BUSTUP NAME="郁紀" face="冷笑" MODE="on" zoom="" ALIGN="left" SRC="media/cg/郁紀_冷笑.png"><WIPE EFFECT="fade" TIME="5"> to which Fuminori twists his lips into a malevolent smile.
+
+<voice name="郁紀" SRC="media/voice/6/002300.ogg">  "You should really try thinking for yourself once in a while. I bet it was Koji and Omi's idea, wasn't it?<k><voice name="郁紀" SRC="media/voice/6/002300_2.ogg"> Well, you can play at love all you want, but leave me out of it."<K>
+  That's all Yoh can take.<K>
+  Even after shedding tears in front of him, she absolutely refuses to let him hear her cry. Any disgrace would be preferable to breaking down here.<K>
+<se id="1" src="media/sound/女駆け去り.ogg" mode="normal" loop="off">
+  So she runs, fleeing breathlessly from the courtyard with Fuminori's cold smile at her back.
+
+<bgm src="s07" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="media/sound/s03.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<BACKGROUND SRC="media/cg/ba05no1.png">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+  Omi was the first to catch sight of Yoh and Fuminori leaving for the courtyard.<K> Reluctant to interrupt them, but still unwilling to leave them alone, she and Koji ended up watching the whole thing from the shadows.
+
+<BUSTUP NAME="青海" face="怒りムス" MODE="on" zoom="" ALIGN="right" SRC="media/cg/青海_怒りムス.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="青海" SRC="media/voice/6/002404.ogg">  "That asshole..."<K>
+  Throughout the exchange, Omi was clearly itching to jump out and punch Fuminori in the face. Knowing her temper, Koji kept firm hold of her arm until the end. If he hadn't, she might very well have done it.<K>
+  Fuminori leaves after Yoh, his every step seeming to take an act of willpower. Koji sighs heavily into the once more empty courtyard, but the bitter taste in his mouth will not go away.
+
+<BUSTUP NAME="耕司" face="困惑" MODE="on" zoom="" ALIGN="left" SRC="media/cg/耕司_困惑.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="耕司" SRC="media/voice/6/002502.ogg">  "What's wrong with him?"<K>
+  Even Koji cannot forgive Fuminori's treatment of Yoh. However, the first thing that he feels is confusion, not anger.<K>
+  Koji has known Fuminori since long before college. Fuminori was never this cruel before.<K>
+  There is no question now that the accident changed him.
+
+<BUSTUP NAME="青海" face="通常ムス" MODE="on" zoom="" ALIGN="right" SRC="media/cg/青海_通常ムス.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="青海" SRC="media/voice/6/002604.ogg">  "Are you just gonna let this go?"<K>
+<BUSTUP NAME="耕司" face="困惑ムス" MODE="on" zoom="" ALIGN="left" SRC="media/cg/耕司_困惑ムス.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="耕司" SRC="media/voice/6/002702.ogg">  "I don't want to, but what can we do?"<K>
+<BUSTUP NAME="青海" face="怒りムス" MODE="on" zoom="" ALIGN="right" SRC="media/cg/青海_怒りムス.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="青海" SRC="media/voice/6/002804.ogg">  "Something besides watch!" Omi shouts, her face red with fury.
+
+<voice name="青海" SRC="media/voice/6/002904.ogg">  "I won't be satisfied until I give him a piece of my mind."<K>
+<BUSTUP NAME="耕司" face="通常困惑" MODE="on" zoom="" ALIGN="left" SRC="media/cg/耕司_通常困惑.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="耕司" SRC="media/voice/6/003002.ogg">  "That won't make Tsukuba feel better."<K>
+<BUSTUP NAME="青海" face="怒り" MODE="on" zoom="" ALIGN="right" SRC="media/cg/青海_怒り.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="青海" SRC="media/voice/6/003104.ogg">  "But it'll make me feel better!"<K>
+  Yoh and Omi are best friends, just like Koji and Fuminori. In fact, it was the relationship between Koji and Omi that brought the other two together. Omi's anger is only natural.
+
+<BUSTUP NAME="青海" face="怒りムス" MODE="on" zoom="" ALIGN="right" SRC="media/cg/青海_怒りムス.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="青海" SRC="media/voice/6/003204.ogg">  "I'm going to talk to him alone. You don't have to come."<K>
+<BUSTUP NAME="耕司" face="険しい困惑" MODE="on" zoom="" ALIGN="left" SRC="media/cg/耕司_険しい困惑.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="耕司" SRC="media/voice/6/003302.ogg">  "You serious?"<K>
+<BUSTUP NAME="青海" face="通常ムス" MODE="on" zoom="" ALIGN="right" SRC="media/cg/青海_通常ムス.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="青海" SRC="media/voice/6/003404.ogg">  "Take care of Yoh for me, will you? She's probably really hurt.<k><voice name="青海" SRC="media/voice/6/003404_2.ogg"> She'll need someone to be nice to her after she's done crying."<K>
+<BUSTUP NAME="耕司" face="困惑ムス" MODE="on" zoom="" ALIGN="left" SRC="media/cg/耕司_困惑ムス.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="耕司" SRC="media/voice/6/003502.ogg">  "Wait, shouldn't we switch jobs?"
+
+<BUSTUP NAME="青海" face="通常" MODE="on" zoom="" ALIGN="right" SRC="media/cg/青海_通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="青海" SRC="media/voice/6/003604.ogg">  "You know how I am. If I try to comfort her, I'll end up making it 
+worse."<K>
+<BUSTUP NAME="耕司" face="困惑通常" MODE="on" zoom="" ALIGN="left" SRC="media/cg/耕司_困惑通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="耕司" SRC="media/voice/6/003702.ogg">  "Yeah, you've got a point."<K>
+<BUSTUP NAME="青海" face="通常ムス" MODE="on" zoom="" ALIGN="right" SRC="media/cg/青海_通常ムス.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="青海" SRC="media/voice/6/003804.ogg">  "Hey!"<K>
+<BUSTUP NAME="耕司" face="通常" MODE="on" zoom="" ALIGN="left" SRC="media/cg/耕司_通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="耕司" SRC="media/voice/6/003902.ogg">  "Anyway, just go easy. Okay?"
+
+<BUSTUP NAME="耕司" face="通常" MODE="off" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="5">
+  Ending the conversation before Omi's mood gets any worse, Koji heads off to find Yoh.
+
+//回想：郁紀
+<bgm src="s03" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="media/sound/s01.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<BACKGROUND SRC="media/cg/bj01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+  I feel awful, miserable―but also refreshed. I've finally crossed the line.<K>
+  I knew it would come crashing down like this sooner or later. Having become unable to feel anything but disgust for other people, there was no way I could hope to maintain the relationships I'd had before the accident.
+
+  Today's incident will definitely get back to Koji and Omi, and everyone will be convinced I've had a major change of character. Honestly, I don't care any more. At least I probably won't be committed for this. I just need to avoid acting any stranger than I already have.
+
+  If this puts a rift between me and the others, good. The thought of all the stress I'll avoid brings a smile to my lips. I'm fed up with them sticking their noses into my life. It's like they don't care that they make my gut turn just by being near me.
+
+  I've been terrified of them until now, but today <I>I</I> struck fear into one of <I>them</I>. In that sense, it's something of a relief... but I'm not entirely without remorse for what happened.<K>
+  The person I just demolished with the verbal equivalent of a nuclear bomb used to be my friend Yoh. Even if my senses don't believe it, my mind accepts the theory. I don't have any particular grudge against Yoh herself, and I didn't <I>want</I> to hurt her.
+
+  In retrospect, perhaps I should have just ignored her outright.<K>
+  Yoh was an attractive girl. I certainly didn't think badly of her. To be honest, though, I was annoyed when Koji and Omi tried to stick us together. It felt like they were using us as entertainment, and Yoh seemed totally oblivious to the fact that she was dancing to their tune. Her cluelessness was irritating.
+
+  Still, I knew that none of them meant any harm. Back then, I didn't have any reason to hurt others just to get my way. If having a casual relationship with Yoh would keep our circle of friends together, I was willing to make that compromise.
+
+  Now, however, there is no room in my heart for such forbearance.<K> If merely talking to someone is an ordeal, then how can I be expected to show them kindness?
+
+  These ruminations have left me exhausted. I want to return to Saya as soon as possible, but thinking about the packed trains and crowded downtown streets between here and home saps my spirit.<K>
+  Catching sight of a nearby bench, I sit down and close my eyes to the horrors of the world. I can't do anything about the stink or the noise, but at least I can calm my nerves enough to rest.
+
+<bgm src="s01" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<bgm src="media/sound/s04.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<wait time="200">
+<box type="9">
+  When I regained consciousness in the T University hospital ward, the world was as dark as it is now.<K> I had not yet recovered my sight, even though my eyes and optical nerves were undamaged.<K> It must have been an aftereffect of the accident.
+
+  Blindness was a shock, but now I know that my suffering then was nothing. After all, my senses of hearing, touch, taste, and smell were all fine at the time.<K>
+  The real horror began when my sight returned.
+
+<clear>
+<BACKGROUND SRC="media/cg/bb04me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  The one small mercy was that I was able to come to terms with the accident and my neurosurgery while still blind.<K>
+  I panicked when I first saw the nightmarish hospital and the bloodcurdling shapes of the doctors and nurses, but I soon guessed the cause.<K>
+  It chills me to think of what might have happened if I had recovered my sight along with my consciousness. Suddenly awakening in what can only be described as hell, I would no doubt have lost my mind instantly.
+
+  Soon my disorder spread to the senses of touch, taste, and smell. As it turns out, sight exerts tremendous influence over the other four.<K>
+  The taste of my food, the feel of my bedsheets, the fragrance of my get-well flowers―all became as unbearably foul as my eyes said they should be.
+
+<bgm src="s04" mode="fadeout" time="20" loop="off">
+  Eventually, when even the doctors' voices became unrecognizable as human, I decided to kill myself. I didn't believe for a second that I could live in this new world.<K>
+  At least, not until I met Saya.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  One night while thinking of a painless way to die, I found myself succumbing to sleep.<K>
+  Drifting between the nightmares in my dreams and the nightmare of reality, I didn't notice her enter my room.
+
+<bgm src="media/sound/s05.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+<clear>
+<BACKGROUND SRC="media/cg/08.png" EX="1">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  The next thing I knew, there was a face staring down at me from next to my bed.<K> The face was not covered in pus, or slime, or earthworm-like feelers. It had smooth white cheeks, round eyes, a lovely little nose―all things I had never expected to see again. The face was that of a girl, undeniably human and positively glowing with beauty.
+
+<voice name="郁紀" SRC="media/voice/7/000100.ogg">  "Ahh..." I sighed in admiration, savoring the first peace and joy since regaining my sight.<K>
+  She had not expected such a reaction, apparently.
+
+
+<voice name="沙耶" SRC="media/voice/7/000201.ogg">  "Aren't you afraid of me?" she asked. Looking at the clock, I saw that it was exactly three in the morning―no time for a young girl to be alone in the hospital. Perhaps she expected me to mistake her for a ghost.<K>
+  But I would not have cared if she had been a ghost. Either way, she was a godsend.
+
+
+<voice name="郁紀" SRC="media/voice/7/000300.ogg">  "Who are you? What are you doing here?"<K>
+<voice name="沙耶" SRC="media/voice/7/000401.ogg">  "I'm Saya. I'm looking for my dad."<K>
+  I assumed that she was the daughter of a late-shift doctor or another patient. It was unusual, but not unthinkable for such a girl to be wandering around the hospital.
+
+<voice name="沙耶" SRC="media/voice/7/000501.ogg">  "It's no fun if you're not scared."<K>
+<voice name="郁紀" SRC="media/voice/7/000600.ogg">  "Wait!" I cried, desperate to keep her from leaving. It was only after she turned around that I realized I hadn't thought of what to say next.
+
+<voice name="沙耶" SRC="media/voice/7/000701.ogg">  "Well?"<K>
+  Her beautiful eyes drew me in, healing my soul to its core. Through the white haze clouding my mind, I struggled to form a coherent sentence.<K>
+<voice name="郁紀" SRC="media/voice/7/000800.ogg">  "I shouldn't do this to a girl, but you're the only one I can ask."<K>
+  No longer concerned with propriety, I let the words come as they willed.
+
+
+<voice name="郁紀" SRC="media/voice/7/000900.ogg">  "Will you let me hold your hand?"<K>
+  Saya looked confused at first, but then she smiled like she'd just found a new toy. Her smile was brighter than my memories of the sun.<K>
+<voice name="沙耶" SRC="media/voice/7/001001.ogg">  "You're strange," she said, holding out her slender white hand. "No one's asked me anything like that before."<K>
+  Ever so carefully, as though catching snowflakes, I placed my palm against hers.
+
+  I could feel her human warmth and the softness of her delicate fingers. She was there, just beyond the palm of my hand.<K>
+  Thinking back on the joyful tears I shed then, I know that this is the moment I was saved from my fate.
+
+<voice name="郁紀" SRC="media/voice/7/001100.ogg">  "This is the first time in weeks that I've touched someone and felt them as human."<K>
+<voice name="沙耶" SRC="media/voice/7/001201.ogg">  "...?"<K>
+<voice name="郁紀" SRC="media/voice/7/001300.ogg">  "I can't touch anyone else. I was in an accident, and as a side effect of the surgery, I can't see people as human anymore."<K>
+<voice name="沙耶" SRC="media/voice/7/001401.ogg">  "Hmm... how mysterious."
+
+<voice name="沙耶" SRC="media/voice/7/001501.ogg">  "You're interesting," she said, winding her fingers gently around mine. "Can I come back tomorrow night?"<K>
+<voice name="郁紀" SRC="media/voice/7/001600.ogg">  "Yes, of course! But are you sure it's okay?"<K>
+<voice name="沙耶" SRC="media/voice/7/001701.ogg">  "Don't worry," she replied. "The night belongs to me."
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<BACKGROUND SRC="media/cg/bb04me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  And so our rendezvous began.<K>
+  Saya came to my room every night at three a.m., skillfully taking advantage of the duty nurse's shift-change.<K>
+  I was astonished to learn that she was living inside the hospital.
+
+<clear>
+<BACKGROUND SRC="media/cg/08.png" EX="1">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="沙耶" SRC="media/voice/7/001801.ogg">  "It's so big that I never run out of places to hide," she said, answering my surprise with a nonchalant smile.<K>
+  She had been living in the suburbs with her father, she told me, until one day he'd suddenly stopped coming home.
+
+  After she had tired of waiting, Saya had decided one night to sneak into the hospital where he'd worked. And there she'd lived for over two months, searching for his whereabouts all the while.<K>
+<voice name="郁紀" SRC="media/voice/7/001900.ogg">  "Don't you have to go to school?"<K>
+<voice name="沙耶" SRC="media/voice/7/002001.ogg">  "No, Dad taught me everything I need to know. I'm really smart."
+
+  She was a strange girl. On the one hand, she looked and acted like a child. On the other, she was remarkably self-reliant, and at times exhibited a sharp intelligence and deep knowledge that many may have found unsettling.<K>
+  I didn't care. Saya was the only other human in a world gone mad. Her existence meant far more to me than the standards of society.
+
+
+<clear>
+<BACKGROUND SRC="media/cg/bb04me0.png" shade="4">//
+<BUSTUP NAME="沙耶" face="楽し目笑い" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_楽し目笑い.png">
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="郁紀" SRC="media/voice/7/002100.ogg">  "Aren't you worried you might get caught?"<K>
+<BUSTUP NAME="沙耶" face="通常" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/7/002201.ogg">  "Nope! I don't have to worry about food here, and it's a lot more fun than staying in Dad's house by myself."
+
+<BUSTUP NAME="沙耶" face="にっこり笑顔" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_にっこり笑顔.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/7/002301.ogg">  "I looked through the patient lists and found the ones who have mental problems," Saya continued, grinning mischievously.<k><voice name="沙耶" SRC="media/voice/7/002301_2.ogg"> "Sometimes I sneak into their rooms late at night and scare them. Even if they raise a fuss, no one believes what mental patients say.<k><voice name="沙耶" SRC="media/voice/7/002301_3.ogg"> They just brush it off as a bad dream."
+
+  Her confession reminded me that the hospital was famous for its ghost stories.<K> Who could have imagined that there was actually a real girl impishly roaming these hallways?<K>
+<voice name="郁紀" SRC="media/voice/7/002400.ogg">  "So that's why you came to my room the first time?"<K>
+<BUSTUP NAME="沙耶" face="困り笑い1" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_困り笑い1.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/7/002501.ogg">  "Yeah, sorry. Are you mad?"<K>
+  While her pranks were hardly praiseworthy, I couldn't bring myself to scold her for the very thing that had brought us together.<K>
+<voice name="郁紀" SRC="media/voice/7/002600.ogg">  "You shouldn't do it anymore. Will you come talk to me instead?"<K>
+<BUSTUP NAME="沙耶" face="楽し笑い2" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_楽し笑い2.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/7/002701.ogg">  "Yeah! That's more fun for me, too!"
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<BACKGROUND SRC="media/cg/10.png" EX="1">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  With extreme care, I was able to conceal my sensory disorder.<K>
+  It was glaringly obvious that the doctors had no way to cure me, and the fact that I had undergone a still-experimental procedure made me even more cautious.
+
+  As a medical student, it was easy for me to imagine how the doctors would react if they discovered that I was exhibiting such unusual side effects. I was not about to become a guinea pig, a mere specimen to be examined with clinical detachment.
+
+  And so I hid my discomfort and loathing behind a mask of normalcy, convincing the doctors that any signs of stress were merely a result of hospitalization.<K>
+  Saya was my support. Looking forward to her nightly visits gave me the strength to endure my daily torture.<K>
+  Hope can make an enormous difference in a patient's progress. With the aid of my secret nurse, I recovered at a pace that left the doctors stunned.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<BACKGROUND SRC="media/cg/bb04me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  On the last night before my release, I summoned my courage and asked her,<k><voice name="郁紀" SRC="media/voice/7/002800.ogg"> "Are you going to stay here forever?"<K>
+<BUSTUP NAME="沙耶" face="目逸らし笑い1" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_目逸らし笑い1.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/7/002901.ogg">  "Yeah. I couldn't learn anything about my dad, but it's not like I have anywhere else to go. I guess I'll stay as long as I can hide."<K>
+  In other words, there was nothing keeping her there.
+
+<voice name="郁紀" SRC="media/voice/7/003000.ogg">  "Why not stay with me?" I asked timidly. The question took all the courage I had.<K>
+<BUSTUP NAME="沙耶" face="きょとん" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_きょとん.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/7/003101.ogg">  "Huh?"<K>
+<voice name="郁紀" SRC="media/voice/7/003200.ogg">  "My family's gone, so I have plenty of room! You won't need to hide, and it's not a bad place to live!"
+
+<BUSTUP NAME="沙耶" face="無表情思案" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_無表情思案.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/7/003301.ogg">  "You want me to live with you?"<K>
+  I was too afraid to ask her what she thought of that, so I hastily offered a deal.<K>
+<voice name="郁紀" SRC="media/voice/7/003400.ogg">  "In exchange, I'll help you look for your father! I'll find him no matter what!"
+
+<BUSTUP NAME="沙耶" face="目逸らし困り" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_目逸らし困り.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/7/003501.ogg">  "I think that's gonna be hard," Saya said, looking a little embarassed.<K> <voice name="沙耶" SRC="media/voice/7/003601.ogg">"Dad probably did something bad and had to leave the hospital.<k><voice name="沙耶" SRC="media/voice/7/003601_2.ogg"> We can't get the police involved. You'll have to be as discreet as possible."<K>
+<voice name="郁紀" SRC="media/voice/7/003700.ogg">  "I'll do whatever it takes! I..."<K>
+  Unable to control myself, I finally spoke the truth.<K>
+<voice name="郁紀" SRC="media/voice/7/003800.ogg">  "I can't be apart from you."
+
+<BUSTUP NAME="沙耶" face="横見思案" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_横見思案.png">
+<WIPE EFFECT="fade" TIME="5">
+  At first she looked bewildered, but after a few moments of silence, she said,<K><BUSTUP NAME="沙耶" face="驚き思案" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_驚き思案.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice NAME="沙耶" SRC="media/voice/7/003901.ogg"> "Give me a little time."<K>
+<BUSTUP NAME="沙耶" face="通常" MODE="off" zoom="" ALIGN="center">
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="media/sound/沙耶立ち去り.ogg" mode="normal" loop="off">
+  That night, she left my room earlier than usual.
+<se id="1" src="media/sound/ドア閉め.ogg" mode="normal" loop="off">
+
+<bgm src="s05" mode="fadeout" time="20" loop="off">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<BACKGROUND SRC="media/cg/bb02me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  On the day of my release, I managed to smile as I accepted the hideous, foul-smelling celebratory bouquet.<K>
+  The flesh-beasts calling themselves Koji, Omi, and Yoh came to pick me up. Though they had come to see me many times during my stay, it never got easier to see my friends changed so horribly.<K>
+  My sudden tears of despair drew suspicion, but I managed to explain them away as tears of joy.
+
+  While we walked to Koji's car, I looked desperately for Saya amid the grotesque scenery. Even as we drove away, I kept watching the hospital fade into the distance, praying for a last glimmer of hope.<K>
+  But Saya never appeared.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<bgm src="media/sound/s11.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+<BACKGROUND SRC="media/cg/bc01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  After Koji and the others dropped me off, I paused a while to regard my surroundings.<K> I had lived my entire life on this block, in this house. There was no other place that I could call home.<K>
+  But nothing was as I remembered.
+
+<clear>
+<BACKGROUND SRC="media/cg/bc07me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  As I walked up the path to the front door and took in the yard where I had spent my childhood, I could feel those memories being defiled by the twisted, festering shapes around me.
+
+<clear>
+<BACKGROUND SRC="media/cg/bc03me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Inside the house, I found nothing familiar, nothing to offer me comfort and warmth. What I had once called home was now a whole other world.<K>
+<voice name="郁紀" SRC="media/voice/7/004000.ogg">  "I have no home," I whispered with a smile of self-pity. There was one last stop to make. One last nail to hammer into my coffin.
+
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<BACKGROUND SRC="media/cg/31.png" EX="1">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  I stepped into the room that had cradled me from childhood. The walls were papered with human entrails, the bed a tangled mass of wormflesh.<K> But none of that mattered.<K>
+  There, curled up on the bed like an abandoned cat, was Saya.<K>
+  As I stood there in shock, she looked up at me and in a tiny, weak voice said,<K><voice name="沙耶" SRC="media/voice/7/004101.ogg"> "Can I really stay?"
+
+<se id="1" src="media/sound/抱き寄せ.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  I responded by sweeping her into my arms, embracing her tightly so that she would not escape.<K>
+  Saya did not resist.
+
+<A HREF="media/script/nps/sy040.nps" OPERATOR="">

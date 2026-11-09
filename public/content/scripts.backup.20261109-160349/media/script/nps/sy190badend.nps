@@ -1,0 +1,328 @@
+//郁紀に電話した場合
+<MARKER NAME="#19">
+<MARKER NAME="#badend">
+<bgm src="s10" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<se id="1" src="media/sound/沙耶攻撃.ogg" mode="normal" loop="off">
+<FLASH SRC="#ff0000" WAIT="1" COUNT="1" EFFECT="normal" TIME="0">
+<wait time="2700">
+<BACKGROUND SRC="media/cg/bg04me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="20">
+<bgm src="media/sound/s04.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<wait time="200">
+<box type="9">
+  My mind hazy from the pain, I watch as Saya feasts upon her slain
+prey.<K>
+  We've won. It was hard, and I wasn't able to do it alone, but together we have defeated our enemy.
+
+  The price was steep. At least two of my ribs are broken, sending a sharp pain shooting through my chest every time I breathe.<K>
+  And then there's Yoh. I didn't expect her to fall to Koji so easily. I suppose that, unlike Saya, she might have been unfamiliar with how to use her new body in combat.
+
+  My injury must have fueled Saya's anger. Her slaughter of Koji was merciless and complete. As soon as her prey stopped moving, she sank her teeth into his vital organs and ruthlessly extinguished the last embers of life.<K>
+  Though her brutal, grisly actions were unbecoming of her girlish appearance, Saya's face, covered in blood and gore, was that of a victorious queen of beasts lording over her defeated foe. There was something noble and sacred about her primal ferocity that made me reluctant to disturb her.
+
+  I don't know how long I've been sitting here watching Saya feast. I've nearly fainted from the pain several times. To be honest, I'm not used to violence.<K>
+  The wounds I suffered in the car accident were worse, of course, but these broken ribs are the most severe injury that's ever been deliberately inflicted upon me.
+
+  You'd think that Saya could show a little more concern for my condition. Koji is already as dead as can be, so there's no reason for her to be so greedy.<K>
+  I suddenly realize that Saya has stopped eating. Now she's lying on her back, rolling from side to side.<K>
+  Has she eaten too much? It's been several days since we've had fresh, unfrozen meat, so I understand where her enthusiasm is coming from. But still, I'm wounded here. She could give me a hand.
+
+<bgm src="s04" mode="fadeout" time="20" loop="off">
+  Because I'm preoccupied with my own selfish wants, I'm slow to realize that something is wrong.<K>
+  Saya isn't resting. She's trembling―in agony.<K>
+  My blood goes cold, and the pain from my broken ribs is suddenly forgotten.
+
+<voice name="郁紀" SRC="media/voice/41/000100.ogg">  "Saya!?"<K>
+<se id="1" src="media/sound/抱き寄せ.ogg" mode="normal" loop="off">
+  I jump up, run to her side, and cradle her fallen body in my arms.<K>
+  Her face is pale and drenched in sweat, and her half-closed eyelids and lips are shivering like she has a fever.
+
+  What's going on? Was she wounded in the fight? Could the meat she just ate have been poisoned somehow?<K>
+  I don't understand. All I know is that something terrible is happening.
+
+<clear>
+<BACKGROUND SRC="media/cg/57.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="郁紀" SRC="media/voice/41/000200.ogg">  "Saya! Saya!"<K>
+  The only thing I can do is call her name with all of my strength.<K>
+  Saya slowly opens her eyes and gazes vacantly into my face.
+
+<voice name="沙耶" SRC="media/voice/41/000301.ogg">  "Sorry... Fuminori. I'm fine... really...<k><voice name="沙耶" SRC="media/voice/41/000301_2.ogg"> It just... hurts a little."<K>
+<bgm src="media/sound/s11.ogg" mode="fadein" old="fadeout" time="30" COUNT="1;-1" LOOP="on">
+<voice name="郁紀" SRC="media/voice/41/000400.ogg">  "What's wrong!? What is it!? Come on, Saya!"<K>
+  There's no way she's fine. It's glaringly obvious that her condition is dire.<K>
+  Even so, I'm the only one who's panicking. Saya's expression is serene, as though she understands everything that is happening to her. She even smiles softly up at me.
+
+<voice name="沙耶" SRC="media/voice/41/000501.ogg">  "I can't believe it. I never thought... it would come... so soon."<K>
+  I might lose Saya. The thought is unbearable. Terror and despair are quickly overwhelming me, a feeling of utter helplessness that I cannot resist.
+
+
+<voice name="沙耶" SRC="media/voice/41/000601.ogg">  "Don't be afraid. Remember what I said? This is... the sign.<k> <voice name="沙耶" SRC="media/voice/41/000601_2.ogg">This is... our only hope..."<K>
+<voice name="郁紀" SRC="media/voice/41/000700.ogg">  "What are you talking about!? I don't understand! Stay with me, Saya!"
+
+  Saya answers my tearful entreaty with a smile like that of a mother comforting her child.<K>
+<voice name="沙耶" SRC="media/voice/41/000801.ogg">  "I did it... I decided to do my best.<k> <voice name="沙耶" SRC="media/voice/41/000801_2.ogg">After all... you said you loved me.<k> <voice name="沙耶" SRC="media/voice/41/000801_3.ogg">You said... that I was pretty."
+
+<voice name="郁紀" SRC="media/voice/41/000900.ogg">  "Stop this!"<K>
+  Whatever is happening, I can't just sit by and watch as it causes Saya such agony.<K>
+<voice name="郁紀" SRC="media/voice/41/001000.ogg">  "Please! Whatever you're trying to do, I don't want to see you suffer!"<K>
+<voice name="沙耶" SRC="media/voice/41/001101.ogg">  "Don't be like that..." Saya chides me. "Please understand."<K>
+  In a soft voice, she reveals her secret.<K>
+<voice name="沙耶" SRC="media/voice/41/001201.ogg">  "They're going to be born... our children."
+
+  For a moment, my mind goes completely blank.<K>
+<voice name="郁紀" SRC="media/voice/41/001300.ogg">  "What? But... when did you?"<K>
+<voice name="沙耶" SRC="media/voice/41/001401.ogg">  "I'm surprised too. Fuminori?"<K>
+  Saya's labored breathing speaks to the terrible pain her tiny body is suffering―even so, she wraps her arms tightly around my neck.<K>
+<voice name="沙耶" SRC="media/voice/41/001501.ogg">  "Take me outside... to an open place... under the sky."<K>
+  I nod. What else can I do? If I speak, I'm afraid that I'll be unable to hold back my tears. I mustn't cry―not when Saya is facing her torment so bravely.
+
+<se id="1" src="media/sound/男立ち去り1.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bg03me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  It feels like Saya is burning up in my arms, and I fear that the terrible convulsions that shoot through her at intervals will tear her frail body to pieces.
+
+<clear>
+<BACKGROUND SRC="media/cg/bg02me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Praying for her safety, I scoop Saya up and carry her swiftly out of the ruined building.<K>
+  Maybe the cold night air will soothe her fever―but that hope is futile, cruelly dashed as her breathing grows shallow and she moans through bluish lips.
+
+<voice name="郁紀" SRC="media/voice/41/001600.ogg">  "Saya... we're outside."<K>
+  In response to my call, she opens her eyes once more.<K>
+  Her gaze is cloudy and unfocused. She can no longer see.<K>
+  Nevertheless, Saya looks at me. I can tell that she is imagining my expression where my face should be.
+
+<voice name="沙耶" SRC="media/voice/41/001701.ogg">  "Just as I promised... this is... my final present."<K>
+<voice name="郁紀" SRC="media/voice/41/001800.ogg">  "I know."<K>
+<voice name="沙耶" SRC="media/voice/41/001901.ogg">  "I hope... you'll like it..."<K>
+<voice name="郁紀" SRC="media/voice/41/002000.ogg">  "Of course I will!"<K>
+  It takes every ounce of my willpower, but I manage to make my voice light and cheerful.<K> In Saya's mind's eye, I know that I am smiling. She won't have to see my face streaked with tears.
+
+<voice name="沙耶" SRC="media/voice/41/002101.ogg">  "Fuminori... to you, who loved me...<k><voice name="沙耶" SRC="media/voice/41/002101_2.ogg"> I give... this planet."<K>
+  Saya's whisper is weak and pained, but there is ecstasy in her voice―ecstasy, and joy.
+
+<se id="1" src="media/sound/沙耶変化.ogg" mode="normal" loop="off">
+  Her back suddenly shifts, then bulges outward.<K>
+<voice name="沙耶" SRC="media/voice/41/002201.ogg">  "This world... will be beautiful," she whispers in exultation.<k><voice name="沙耶" SRC="media/voice/41/002201_2.ogg"> "A world... just for us."
+
+<se id="1" src="media/sound/光の粒.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/47.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  And then, Saya blooms. How else can I describe it?<K>
+  Flower petals, long and wide, spread from her back like the wings of a newly-formed butterfly.<K> Their brilliant glow comes from the countless tiny scales that cover each petal like particles of light.
+
+<voice name="郁紀" SRC="media/voice/41/002300.ogg">  "Is this goodbye?" I ask her, careful to keep the sorrow out of my voice.<K>
+<voice name="沙耶" SRC="media/voice/41/002401.ogg">  "No... not goodbye. This is... the beginning."<K>
+  Saya's pain must already have left her, for her expression is infinitely peaceful and content.<K>
+<voice name="沙耶" SRC="media/voice/41/002501.ogg">  "The beginning... of our world."
+
+<clear>
+<BACKGROUND SRC="media/cg/48.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  The radiant motes rise on the wind, painting rivers of light in the frozen winter sky.<K>
+  It is beautiful―overwhelmingly, painfully beautiful.<K> Singing victoriously of their freedom, the shining seeds of life are released into this vast and fertile land.<K> Their song heralds the coming of the new world and the destruction of the old.<K> 
+  It is a boundless healing.<K>
+  It is an eternal blessing.<K>
+  We shall fill the world with our joy.
+
+<voice name="郁紀" SRC="media/voice/41/002600.ogg">  "Now we'll be together forever, won't we?"<K>
+  Embracing Saya's pitifully shrunken body, I gaze into the shining sky and let my tears flow freely.<K>
+  Thank you.<K>
+  Thank you for this final gift, Saya.
+
+//エンディング：凉子
+<bgm src="s11" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="2700">
+<bgm src="media/sound/s07.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+<BACKGROUND SRC="media/cg/bf03no0.png">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+  She was worried, at first, how long the preserved foods in the underground storeroom would last her, but now it seems that her fears were unfounded.
+
+  It's the liquor she should have worried about.<K>
+  By savoring each drop of Spirytus as though it were her last, she thought that she could make her flask hold out a little longer―but she must have been consuming more each day than she realized.<K>
+  Who can blame her? There is no way that she could have gotten through this without the intoxicating effects of distilled alcohol.
+
+  After Ryoko chased useless emotions like hope and despair from her mind, she found herself spending the most peaceful days of her life.<K>
+  As resignation set in, even hate and fear left her. Now she feels only awe for what Ogai Masahiko did and respect for the depth of his intellectual curiosity.<K>
+  After all, neither she nor this world has any reason left to deny his research.
+
+<clear>
+<BACKGROUND SRC="media/cg/bf04no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Alone in the mountain cabin, Ryoko killed time by bringing order to the documents that Ogai had left behind.<K>
+  She took the scattered, enciphered papers and rewrote them in a more readable fashion, eliminating redundancies and adding indexes and tables of contents.
+
+  Ryoko did not intend for anyone to read them, of course. She knew full well how meaningless her actions were.<K>
+  With her reason to live gone, however, having something to devote her mind to was at least some relief.
+
+  And now, as the last congratulatory drops of Spirytus vodka burn their way down Ryoko's throat, all of Ogai's research lies before her in a single volume. She has finally finished transcribing and annotating the last of his writings.<K>
+  Enjoying the satisfaction of a pointless job well done, she idly pages through the manuscript that she just completed.
+
+<se id="1" src="media/sound/本めくり.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/35.png">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="9">
+  "I shall conclude by summarizing my theory as it currently stands.<K>
+  The lifeform that I named Saya did not appear in our universe by chance, nor even as a result of my summoning, but because of the instincts that were programmed directly into her biology.<K>
+  She was created to fulfill the same ultimate purpose that all life shares: reproduction.<K>
+  Saya and her kind procreate by spreading their seeds to other dimensions."
+
+<se id="1" src="media/sound/本めくり.ogg" mode="normal" loop="off">
+  "What is the probability that they will discover a doorway to another world? Even if they succeed in doing so, the chance of that world being suitable for reproduction must be even more minute.<K>
+  In order to make the most of that scant probability, evolution has granted them a certain advantage―none other than the astonishing ability that I have witnessed in Saya.<K>
+  To wit, they select the most prosperous lifeform that they encounter, take control of it, and in doing so gain dominance over that planet's biosphere. In other words, they 'hijack' the entire species.<K>
+  They do this by analyzing their target's genome, then overwriting its genetic code to remake it in their own image. Saya's biology is more than capable of inducing such dramatic and widespread mutation."
+
+<se id="1" src="media/sound/本めくり.ogg" mode="normal" loop="off">
+  "There is a significant probability that the target species will have evolved into intelligent life. This element may be necessary to gaining control of a planet's environment.<K>
+  Therefore, Saya and her sisters also plunder their target's culture and psychology. Her extraordinary learning ability and intellectual curiosity are likely instinctive tools that enable her to inherit the target species's entire wealth of knowledge."
+
+  "In fact, it may be that Saya's kind has always had its sights set on intelligent life.<K>
+  Perhaps they wait patiently for some foolish, extradimensional species to gain knowledge of other worlds and, in attempting to satisfy its curiosity, make contact with the outer universe in which they dwell. Rather than send Saya and her kin on their dimensional journeys with only luck and their own strength to depend on, would not waiting for such contact greatly increase the chance of finding a world worthy of conquest?<K>
+  Just as I, having acquired the Silver Key, fancied myself an explorer of the unknown―how many intelligent lifeforms on other worlds have thoughtlessly congratulated themselves for 'discovering' Saya's sisters?"
+
+<clear>
+<BACKGROUND SRC="media/cg/bf01no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Taken by the sudden urge to go outside for a change, Ryoko gathers up the manuscript and heads to her car, which is parked in the front yard.<K>
+  She has completed her self-imposed final duty. There is no longer any reason for her to remain holed up in the mountain cabin.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="media/sound/車発進1.ogg" mode="normal" loop="off">
+<wait time="200">
+<clear>
+<BACKGROUND SRC="media/cg/bo02no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  She drives a little farther up the mountain, to an open place that offers a scenic view of the land below.<K>
+  In the early days of the change, Ryoko often came to this spot to watch helplessly over the mutating city.
+
+<se id="1" src="media/sound/本めくり.ogg" mode="normal" loop="off">
+<bgm src="s07" mode="fadeout" time="20" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/35.png">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="9">
+  "The one flaw in my theory comes from none other than Saya herself.<K>
+  After using me to learn everything she could about humanity, Saya should finally have been prepared to begin the last stage of her invasion. However, she never carried out her mission. Why?"
+
+<se id="1" src="media/sound/本めくり.ogg" mode="normal" loop="off">
+  "I hypothesize... that Saya was an irregular among her kind.<K>
+  It is said that the human race's intelligence has allowed us to conquer our natural instincts. Perhaps, in absorbing the human psyche, Saya accidentally inherited the disease that infects our entire species."
+
+  "What is human love, really? What behavior could be more of a hindrance to the efficient propagation of a species?<K>
+  I am reminded of how, at the end of her studies, Saya consumed vast quantities of romantic literature from all over the world.<K>
+  She tried to understand romance as an integral part of the human reproductive process. As a result, she might have unwittingly neutered her own unparalleled reproductive abilities.<K>
+  After all... she had not known love."
+
+<se id="1" src="media/sound/本めくり.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/31.png" EX="1">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="9">
+  "She had come to this world to rule it in our place, and had studied humanity to fulfill that purpose―but ultimately, she could not share love with a human.<K> Without love's blessing, Saya was unable to find the passion to fill this world with her kind.<K>
+<bgm src="media/sound/sayanouta.ogg" mode="fadein" loop="on">
+  In learning all that there was to know about humanity, she herself had become hopelessly human.<K> Weary of loneliness, she despaired of the world. How pure her maiden's soul must have been.<K>
+  If this hypothesis is correct, then it means that I have failed as her teacher. I cannot help but feel ashamed for having spoiled such an extraordinary organism."
+
+<clear>
+<BACKGROUND SRC="media/cg/bq04me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Saya...<K> Next to Ogai Masahiko, Ryoko now knows more about that entity than anyone else.<K>
+  No... when the young man named Sakisaka Fuminori is added to the running, perhaps she only comes in third.
+
+  In the end, she never encountered the creature face to face. She would like to have met it once, though.<K>
+  If Ogai's analysis of Saya's psychology is correct, then it must have been Sakisaka who restored her desire to conquer the world.
+
+  Perhaps, as Sakisaka's chief physician, Ryoko played some role in bringing that lonely young man and Saya together―in which case, she should at least have had the right to attend their wedding-to-end-all-weddings.<K>
+  She might even have charged them a matchmaker's fee.
+
+//<se id="1" src="本めくり" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bq01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  "I have a dream―that one day my daughter will know the blessings of love.<K> I pray that there will come a day when her heart burns with the flames of passion, and her world becomes bright and joyous once more."
+
+<clear>
+<BACKGROUND SRC="media/cg/bq02me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  "When that day comes, Saya, your terrible, irresistible purpose will surely consume us, that your progeny may flourish. The whole world will know your love, and be reborn.<K>
+  Ahh, what wonders the future holds."
+
+//<se id="1" src="本めくり" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/35.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  "I deeply regret that I must end my life before I can see that day come, but the footsteps of those who would destroy my dream grow closer by the hour.<K> If I seal my lips in death, then their grasping hands will not reach you."
+
+<se id="1" src="media/sound/本めくり.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bq03me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  "Please forgive me, my daughter, for leaving you alone in this barren world.<K> With the knowledge that you now possess, I know that you will find your own path. The radiance of your hard-won soul shall light the road ahead.<K> Have no fear. Have no doubt. March onward, until you reach your answer at last.<K>
+  And I, Saya, will dream forever of the world that you will create."
+
+<clear>
+<BACKGROUND SRC="media/cg/bq04me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Perhaps it is the isolated environment or the mountain air; maybe she's just more resistant to the change. Whatever the case, Ryoko has not yet become as inhuman as the creatures wriggling through the city below.<K>
+  She does not know exactly how many people on this planet could still be called human, but she's one of what must be only a handful of survivors who are left to watch over the end of mankind.
+
+  Of course, it's only a matter of time before she changes too.<K>
+  It has been three days since she chopped off her right hand―which had ceased to function as anything resembling a human hand―but the itching that has spread across her entire back is growing more intolerable by the hour.<K>
+  She could look in a mirror to see what she is becoming, but she doubts that it would make her happy.
+
+  Ryoko thinks that maybe it would be best to just go to sleep here, with the world spread out before her.<K>
+  When she awakens, perhaps she will be ready to descend the mountain and join in the city's revelries. Or maybe she won't even need such resolve anymore.
+
+  <I>Whatever the case,</I> Ryoko thinks dreamily as she licks the very last drop from her flask.<K>
+  <I>Even after I stop being human, I hope I'll still enjoy the taste of booze.</I>
+
+<CALC WORKNAME="ENDING" OPERATOR="1" MODE="global">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<SYSTEM MENU="#FFE">
+<SYSTEM CMD="ending" ROLL="staff">
+<END>
+

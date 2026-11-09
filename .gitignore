@@ -1,0 +1,44 @@
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+*.log
+.env
+.env.*
+!.env.example
+
+# Game content is supplied locally, not committed with the engine.
+
+# Local backups and archives
+*.bak
+*.backup
+*.zip
+src.backup*/
+tests.backup*/
+
+# Development
+tests/
+tests.backup/
+backups/
+src.backup*/
+*.bak
+*.backup
+*.backup.*
+*.log
+*.tmp
+*.tsbuildinfo
+node_modules/
+dist/
+README.md
+
+# Backups and tests
+src.backup*/
+*.bak
+*.backup
+*.backup.*
+backups/
+tests/
+SEO-SETUP.md
+node_modules/
+node_modules/
+.vite/

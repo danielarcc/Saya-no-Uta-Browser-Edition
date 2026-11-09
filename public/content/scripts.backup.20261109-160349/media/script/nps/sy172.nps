@@ -1,0 +1,166 @@
+//廃墟：郁紀
+<MARKER NAME="#合流">
+<bgm src="s01" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="media/sound/s04.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+<BACKGROUND SRC="media/cg/bj01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+  Today was the first time I've driven since my accident last summer. The proposition was always too dangerous to consider, given my inability to recognize roads and cars.<K> Things have changed, however, in the three months I've had to adapt to my condition.<K>
+  I know what cars and pedestrians look like now, and even though I can't exactly see colors, I've learned to decipher lights and turn signals.<K> I still can't read street signs, of course. Nevertheless, I managed to make it safely to our destination with Saya and Yoh in the back seat.<K>
+  It was Saya who came up with the idea for our new hideout―an abandoned building she'd discovered while living with Dr. Ogai.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<BACKGROUND SRC="media/cg/bg01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  In these hilly suburban residential areas, it's not hard to find thick patches of undeveloped forest just off the beaten path. Saya's old "playground" is located in one such secluded area, unaffected by the flow of everyday life.<K>
+  It used to be a privately operated sanatorium hidden among the silent trees. After the owners went bankrupt, it remained unsold and was eventually forgotten.<K>
+  After I left Saya and Yoh at the hideout, I returned to town to make some preparations. Now I'm finally back at our new refuge.
+
+<clear>
+<BACKGROUND SRC="media/cg/bg02me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  I liked this ruin from the moment I saw it. Mountains of construction materials and garbage litter the front yard, forming a serviceable barricade. This place looks even less likely to receive unwanted attention than our house.<K>
+  Since my brain sees humans as revolting monsters, places they've been tend to stink or seem covered in filthy slime. Ruins like these, long empty of life, are the places I find the most restful.
+
+//<bgm src="s07" mode="fadeout" time="20" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bg03me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="郁紀" SRC="media/voice/37/000100.ogg">  "I'm back," I call out to let them know I'm not a stranger. Then I go down to the basement where they're hiding.
+
+//<bgm src="s05" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+<clear>
+<BACKGROUND SRC="media/cg/bg04me0.png" shade="4">//
+<BUSTUP NAME="沙耶" face="通常笑顔2" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_通常笑顔2.png">
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="沙耶" SRC="media/voice/37/000201.ogg">  "Welcome back. Were you okay with the car?"<K>
+<voice name="郁紀" SRC="media/voice/37/000300.ogg">  "It was no problem at all. I've figured out how to tell which roads are one way. As long as I keep my speed down, there's nothing to worry about. So, how are things here?"<K>
+<BUSTUP NAME="沙耶" face="楽し目笑い" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_楽し目笑い.png">
+<WIPE EFFECT="fade" TIME="10">
+<voice name="沙耶" SRC="media/voice/37/000401.ogg">  "I took a look around. As I thought, there's no sign that anyone's been here since I found this place. It's safe."<K>
+<voice name="郁紀" SRC="media/voice/37/000500.ogg">  "I see. Let's hope it stays that way."<K>
+  I'm a little worried that this abandoned building could become a hangout for biker gangs or homeless people.<K>
+<BUSTUP NAME="沙耶" face="横見思案寂しげ" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_横見思案寂しげ.png">
+<WIPE EFFECT="fade" TIME="10">
+<voice name="沙耶" SRC="media/voice/37/000601.ogg">  "It's probably because of all the trash piled out front. Most people won't get anywhere near that, don't you think?"<K>
+<voice name="郁紀" SRC="media/voice/37/000700.ogg">  "I guess."
+
+  It doesn't bother me at all. I rather like it, in fact. But of course, normal people would feel differently.<K>
+<BUSTUP NAME="沙耶" face="通常" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_通常.png">
+<WIPE EFFECT="fade" TIME="10">
+<voice name="沙耶" SRC="media/voice/37/000801.ogg">  "So, how was your shopping? Did you find something good?"<K>
+<voice name="郁紀" SRC="media/voice/37/000900.ogg">  "I sure did."
+
+<se id="1" src="media/sound/包装とく.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/41.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  I proudly unwrap the weapon I just bought from a camping goods store―a one-meter-long wood axe, the biggest and sturdiest I could find.<K>
+<voice name="郁紀" SRC="media/voice/37/001000.ogg">  "I like how this was right next to a sign saying that long knives are illegal. Seems like you could do way more damage with one of these."<K>
+  I grip the axe with both hands, testing its dependable weight, then swing it like a baseball bat.<K><se id="1" src="media/sound/斧風切り1.ogg" mode="normal" loop="off"> The deadly steel blade sweeps through the air right where a person's neck would be. Yoh, who's sprawled out on the floor, flinches at the sound and curls herself into a ball.
+
+<clear>
+<BACKGROUND SRC="media/cg/bg04me0.png" shade="4">//
+<BUSTUP NAME="沙耶" face="寂しげ1" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_寂しげ1.png">
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="沙耶" SRC="media/voice/37/001101.ogg">  "How sharp is it? Want to test it on Yoh?"<K>
+<voice name="郁紀" SRC="media/voice/37/001200.ogg">  "Um... I don't think that's a good idea."<K>
+  I definitely wasn't expecting Saya to suggest anything so brutal.<K>
+<BUSTUP NAME="沙耶" face="楽し目笑い" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_楽し目笑い.png">
+<WIPE EFFECT="fade" TIME="10">
+<voice name="沙耶" SRC="media/voice/37/001301.ogg">  "You don't need to worry. Her new body can heal pretty easily from cuts and such."<K>
+<voice name="郁紀" SRC="media/voice/37/001400.ogg">  "But I'm sure it'll hurt."
+
+<BUSTUP NAME="沙耶" face="目逸らし笑い2" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_目逸らし笑い2.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/37/001501.ogg">  "Oh. Yeah, I guess you're right."<K> It must have slipped her mind completely. She smiles at the oblivious Yoh as if to hide her embarrassment, then says,<K> <BUSTUP NAME="沙耶" face="通常にっこり" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_通常にっこり.png"><WIPE EFFECT="fade" TIME="10"><voice name="沙耶" SRC="media/voice/37/001601.ogg">"But her screams are pretty adorable, don't you think?"<K>
+<voice name="郁紀" SRC="media/voice/37/001700.ogg">  "Well... I just wouldn't feel right using an axe on a human."
+
+
+<BUSTUP NAME="沙耶" face="きょとん" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_きょとん.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/37/001801.ogg">  "Really? Then what about Koji?"<K>
+<voice name="郁紀" SRC="media/voice/37/001900.ogg">  "That's easy."<K>
+  It should be obvious, but I guess that Saya still doesn't understand.<K>
+<voice name="郁紀" SRC="media/voice/37/002000.ogg">  "I don't see him as human. I'll have no trouble cutting him to pieces."
+
+<BUSTUP NAME="沙耶" face="無表情思案" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_無表情思案.png">
+<WIPE EFFECT="fade" TIME="10">
+<voice name="沙耶" SRC="media/voice/37/002101.ogg">  "That really makes a difference?"<K>
+<voice name="郁紀" SRC="media/voice/37/002200.ogg">  "Yeah. Humans have a conscience, you see.<k> <voice name="郁紀" SRC="media/voice/37/002200_2.ogg">No matter how much you hate someone, you can't help but think twice about killing them. And that's how I'll win."<K>
+<BUSTUP NAME="沙耶" face="寂しげB思案" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_寂しげb思案.png">
+<WIPE EFFECT="fade" TIME="10">
+<voice name="沙耶" SRC="media/voice/37/002301.ogg">  "...Really?"<K>
+  Saya seems awfully subdued. I guess she's concerned about what'll happen when I have it out with Koji.
+
+
+<voice name="郁紀" SRC="media/voice/37/002400.ogg">  "He's bigger and stronger, so I might not have much chance against him in a straight-up fight.<k> <voice name="郁紀" SRC="media/voice/37/002400_2.ogg">But what's just 'slaying a monster' to me is 'murder' to him. This is big. He'll definitely hesitate when it counts."<K>
+<BUSTUP NAME="沙耶" face="目逸らし困り" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_目逸らし困り.png">
+<WIPE EFFECT="fade" TIME="10">
+<voice name="沙耶" SRC="media/voice/37/002501.ogg">  "I'm a little worried," Saya says softly, staring at the floor with unusual gravity. "You can never be sure how someone will react. It's dangerous to rely on that."
+
+<BUSTUP NAME="沙耶" face="驚き思案" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_驚き思案.png">
+<WIPE EFFECT="fade" TIME="10">
+  She raises her head and looks straight at me.<K>
+<voice name="沙耶" SRC="media/voice/37/002601.ogg">  "Don't you think it'd be better if I hunt him?"<K>
+  I appreciate Saya's consideration. Even though it could be interpreted as a lack of faith in me, she's still putting my safety above hers.<K>
+  Nevertheless, I can't accept her heartfelt suggestion.<K>
+<voice name="郁紀" SRC="media/voice/37/002700.ogg">  "With your strength, you might be able to overpower a girl like Yoh, but I think it'd be hard for you to take down a guy."
+
+<BUSTUP NAME="沙耶" face="横見思案" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_横見思案.png">
+<WIPE EFFECT="fade" TIME="5">
+  The bitter memory of Saya's rape is still fresh in my mind. Saya falls silent for a moment, seeming to understand what I'm thinking, but then comes right back to stubbornly press her case.<K>
+<BUSTUP NAME="沙耶" face="通常きょとん" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_通常きょとん.png">
+<WIPE EFFECT="fade" TIME="10">
+<voice name="沙耶" SRC="media/voice/37/002801.ogg">  "My first attack went fine, though. Most humans go limp as soon as they see me.<k> <voice name="沙耶" SRC="media/voice/37/002801_2.ogg">It was the same in the hospital. You were the only one who could talk to me."
+
+<BUSTUP NAME="沙耶" face="通常" MODE="off" zoom="" ALIGN="center">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="郁紀" SRC="media/voice/37/002900.ogg">  "Hmm... I guess you have a point."<K>
+  I can't imagine it personally, but I suppose it's possible that Saya's appearance is shocking enough to make someone lose their nerve.<K>
+  Suzumi was able to gain the advantage because he had the same condition as me, which let him see Saya as a cute girl.
+
+  Fear doesn't necessarily make people weaker, however. Depending on the situation, it can even send someone into a berserk rage and make them harder to put down.<K>
+  In other words, such a tactic would be the same sort of gamble that Saya's worried about.<K>
+<voice name="郁紀" SRC="media/voice/37/003000.ogg">  "Alright, Saya, how about this?"<K>
+  When I tell Saya the new plan that just popped into my head, her gloomy frown turns into a bright smile.
+
+<BUSTUP NAME="沙耶" face="にっこり笑顔" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_にっこり笑顔.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/37/003101.ogg">  "That's perfect! You're so smart, Fuminori!"<K>
+<voice name="郁紀" SRC="media/voice/37/003200.ogg">  "Oh, stop."<K>
+  It's not exactly a great plan, but I guess the fact that it lessens the risk to me is enough to excite her. She's so easy to please―but that's part of what makes her so cute.
+
+<BUSTUP NAME="沙耶" face="通常" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice NAME="沙耶" SRC="media/voice/37/003301.ogg">  "So when's Koji coming?"<K>
+//<A HREF="#郁紀2" OPERATOR="badend=1">
+<A HREF="media/script/nps/sy172f.nps" OPERATOR="badend=1">
+<MARKER NAME="#凉子2">////
+<voice name="郁紀" SRC="media/voice/37/003400.ogg">  "I don't know. He'll call sooner or later, and then I'll lure him here and finish him."<K>
+  Koji will come. I know that he won't leave us alone.
+
+  We could just keep running, now that we've started, but I want to eliminate Koji as soon as possible.<K>
+  Therefore, when he contacts me, I intend to meet with him unless it's an obvious trap.
+
+//<A HREF="#合流2" OPERATOR="">
+<A HREF="media/script/nps/sy173.nps" OPERATOR="">

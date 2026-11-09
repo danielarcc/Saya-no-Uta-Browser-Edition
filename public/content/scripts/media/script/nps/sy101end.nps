@@ -1,0 +1,317 @@
+//取り戻したい
+<MARKER NAME="#離別エンド">
+<clear>
+<BACKGROUND SRC="media/cg/bc04me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="郁紀" SRC="media/voice/20/000100.ogg">  "Well, of course," I answer without thinking. "If it's possible to go back, then I want to... I think."<K>
+  I've never wondered if there could be any other answer. I stopped dwelling on this question a long time ago, and if I'd been asked before I met Saya, I wouldn't have hesitated.
+
+  But what about now? What does it mean to wish for the past, and what could it do to me and Saya? As soon as these questions occur to me, my true feelings become unclear.<K>
+  The hurried answer I just gave her was less certain than I thought.
+
+<clear>
+<BACKGROUND SRC="media/cg/23.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="沙耶" SRC="media/voice/20/000201.ogg">  "Oh... Yeah, of course you would."<K>
+  Saya smiles softly, her expression an unreadable mixture of what seem to be sorrow and relief. Seeing it fills me with sudden unease, as though I've just wounded her deeply with my careless words.<K>
+<voice name="郁紀" SRC="media/voice/20/000300.ogg">  "Hey, Saya, I..."<K>
+<voice name="沙耶" SRC="media/voice/20/000401.ogg">  "It's okay, Fuminori. Don't say anymore."
+
+<clear>
+<LAYER SRC="#000000" TRANSPARENT="50" NUM="1">
+<BACKGROUND SRC="media/cg/bc04me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Saya silences me with a kiss.<K>
+
+<clear>
+<LAYER SRC="#000000" TRANSPARENT="80" NUM="1">
+<BACKGROUND SRC="media/cg/bc04me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="郁紀" SRC="media/voice/20/000500.ogg">  "Saya..."<K>
+  I can't speak, for some reason, and my mind is hazy. My consciouness is slipping away as the euphoria from her kiss spreads to my entire body.
+
+<voice name="沙耶" SRC="media/voice/20/000601.ogg">  "Sleep well, Fuminori," I hear Saya whisper softly from far away.<K><voice name="沙耶" SRC="media/voice/20/000701.ogg"> "Don't worry. When you wake up, it'll all be over."
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  <I>Wait...</I><K> <I>I have to tell you something before I sleep... just one thing...</I><K>
+  My efforts are meaningless, however, as oblivion calls me into its embrace.
+
+<bgm src="s05" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="media/sound/朝.ogg" mode="normal" loop="off">
+<bgm src="media/sound/s02.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<BACKGROUND SRC="media/cg/bc04mo_b0.png">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+  When I awoke, the first thing that greeted me was a terrible stink.<K>
+  Mr. Suzumi's body was covered in flies, and I could smell the rotten stench that you would expect from a corpse.<K>
+  The night had ended, but Saya was nowhere to be seen in the morning light.
+
+  Aside from the blood-covered floor, the kitchen looked the same as it had before the accident. In the den, however, the colors that had been so soothing the day before now served as a stark reminder of what a distant world I'd been living in.
+
+<clear>
+<BACKGROUND SRC="media/cg/bc05mo0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Despite knowing that it would be futile, I wandered the house searching for Saya. For almost an hour, I tried in vain to deny reality.
+
+<clear>
+<BACKGROUND SRC="media/cg/bc03no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Then I called the police. When the operator answered, I couldn't stop myself from crying. It had been such a long time since I'd heard a human voice other than Saya's.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<BACKGROUND SRC="media/cg/bc01no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  As became clear later, Mr. Suzumi had murdered his family before I killed him. Unable to give the police a satisfactory explanation, I was arrested for all three murders. And when they found the remains of Takahata Omi in my house, a fourth was added to the charges.<K>
+  During my interrogation, I told them everything exactly as it had happened, in every detail. The detectives didn't believe me, of course, but the doctor who came later did. He had me moved from the jail to a much cleaner white room.
+
+<clear>
+<BACKGROUND SRC="media/cg/bb03no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  That's right. This room looks just as white to me as it does to everyone else.<K>
+  In the end, they declared me incapable of answering for my actions. Everything that had happened to me was real, but part of a reality incompatible with the rest of the world.<K>
+  So the doctors gave me a space all to myself, a place where I could live in my own world.
+
+  I am sad that I wasn't believed, but I know that it couldn't be helped. In this world, reality is what the majority says it is, and I had the misfortune to step outside of that box.<K>
+  The walls of my room are undeniably white. That, at least, I can be thankful for as I live out the rest of my life here.
+
+<clear>
+<BACKGROUND SRC="media/cg/bb03no1.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Everyone said that there was never any girl named Saya. Well, so be it. Saya probably was never part of their world.<K>
+  But why shouldn't I be able to hear Saya's voice here, in my room? This is my world, after all, a continuation of the very real time that we spent together.
+
+<bgm src="s02" mode="fadeout" time="20" loop="off">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<BACKGROUND SRC="media/cg/bb03da0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  How long did I wait with such thoughts floating through my mind?<K>
+<se id="1" src="media/sound/沙耶移動2.ogg" mode="normal" loop="off" vol="70">
+  One night, I awoke to the sound of something crawling down the hallway.<K>
+  The sound would not normally have woken me, but I must have had a premonition that night. Sleeping lighter than usual, I had waited for her arrival―and so I knew instantly that it was her.
+
+<bgm src="media/sound/s06.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+<voice name="郁紀" SRC="media/voice/20/000800.ogg">  "Saya?"<K>
+<voice NAME="沙耶" SRC="media/voice/20/000901.ogg" vol="10">
+  "......"
+
+  She did not answer, but I could feel her outside my door, struggling with some internal conflict.<K>
+<voice name="郁紀" SRC="media/voice/20/001000.ogg">  "Why won't you let me hear your voice?"<K>
+<voice NAME="沙耶" SRC="media/voice/20/001101.ogg" vol="10">
+  "......"
+
+  After a long silence, something small slid through the narrow bars of my peephole.
+
+<clear>
+<BACKGROUND SRC="media/cg/bt03xx0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  It was a cell phone, the screen already showing a notepad with freshly-entered text.
+
+<box type="5">
+"My voice will sound strange to you."
+
+<box type="9">
+  I couldn't suppress a chuckle at Saya's uncharacteristic display of shyness.
+
+<clear>
+<BACKGROUND SRC="media/cg/56.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="郁紀" SRC="media/voice/20/001200.ogg">  "I don't care about that at all," I said, sending the phone back through the bars. "I just want to hear you―see you."<K>
+  After a short pause, the phone returned to my side.
+
+<box type="5">
+"Please, let me stay the Saya you remember."
+
+<box type="9">
+<voice name="郁紀" SRC="media/voice/20/001300.ogg">  "...Okay."
+
+  I'd started to suspect that it might be so.<K>
+  In the hell my eyes had made of the world, Saya alone had looked normal. I'd thought that she was somehow unique.<K>
+  In truth, however, she had probably been a different kind of "unique" than I'd imagined. It wasn't that my senses hadn't distorted her appearance, but that she had been so unusual as to seem normal to my twisted mind.
+
+  Saya's true form was something other than what I had known. Now, however, I could see her as she really was.<K>
+  But Saya didn't want that, and it was not for me to question the workings of her heart. I just had to accept that girls need to keep some things private.<K>
+<voice name="郁紀" SRC="media/voice/20/001400.ogg">  "I tried to say something to you that day. Do you remember?"<K>
+  I slid the phone back to her.
+
+<box type="5">
+"I was hoping you'd forgotten."
+
+
+<box type="9">
+  I smiled wryly at the text on the screen, wondering if she really thought me so heartless.<K>
+<voice name="郁紀" SRC="media/voice/20/001500.ogg">  "How could I forget?"<K>
+<bgm src="s06" mode="fadeout" time="20" loop="off">
+  No one was listening, but still―it would have been embarassing to speak the rest aloud, so this time I typed it into the phone.
+
+<se id="1" src="media/sound/携帯入力.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bt03xx0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<se id="1" src="media/sound/携帯入力2.ogg" mode="normal" loop="off">
+  G, H, I<K>
+  <K>
+  j, k, l<K>
+  m, n, o<K>
+  t, u, v<K>
+  d, e<K>
+  <K>
+  w, x, y<K>
+  m, n, o<K>
+  t, u<K>
+ 
+  I slid the phone back through the slot.
+
+<bgm src="media/sound/s11.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+<clear>
+<BACKGROUND SRC="media/cg/bb03da1.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  I could sense her trembling outside my door.<K>
+  I couldn't hear her, or see her―but still, I knew.<K> Saya was crying.
+
+<clear>
+<BACKGROUND SRC="media/cg/56.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="郁紀" SRC="media/voice/20/001600.ogg">  "I was ready, you know."<K>
+  Perhaps my words offered no comfort, spoken so late.<K>
+  Even so... I was ready.<K>
+  I had wanted to return to my old life, true, but I would have abandoned that wish for Saya.<K> I know that I would have gone with her, hand-in-hand, as far as we could―even to the most forbidden of places.
+
+  Saya, too, must have known that I was prepared―and because she knew, she stopped me from saying those words. If I had spoken that oath, there would have been no going back.
+
+<box type="5">
+"I'm sorry. I was a coward."
+
+<box type="9">
+  Seeing the words on the screen, I shook my head.<K>
+<voice name="郁紀" SRC="media/voice/20/001700.ogg">  "It's not your fault. If I hadn't hesitated, you would have found the courage."
+
+<box type="5">
+"I was afraid of you. Of how you were changing because of me."
+
+<box type="9">
+<voice name="郁紀" SRC="media/voice/20/001800.ogg">  "It's no one's fault."<K>
+  Saya couldn't bring herself to take everything from me, and I couldn't bring myself to give up everything for her.<K>
+  We were too weak to find happiness.
+
+<voice name="郁紀" SRC="media/voice/20/001900.ogg">  "What will you do now, Saya?"
+
+<box type="5">
+"I'll keep searching for my dad. He'll know how to send me back to where I came from."
+
+<box type="9">
+<voice name="郁紀" SRC="media/voice/20/002000.ogg">  "I see. You do want to go home, don't you?"<K>
+  A short time passed with no words or messages exchanged. I wonder how many times in that brief silence "yes" and "no" changed places in her mind.
+
+<clear>
+<BACKGROUND SRC="media/cg/bt03xx0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="5">
+<center>"Yeah."</center>
+
+<box type="9">
+  When the phone finally returned, the characters on the screen seemed strangely uncertain.
+
+<voice name="郁紀" SRC="media/voice/20/002100.ogg">  "Well, I hope you find your father."
+
+<box type="5">
+"I'll do my best."
+
+<box type="9">
+  The time had come for our parting. She had chosen her path, and I had given my blessing. There was nothing more to be said.
+
+<clear>
+<BACKGROUND SRC="media/cg/bb03da1.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="郁紀" SRC="media/voice/20/002200.ogg">  "If you change your mind, I'll always be here. You can come see me whenever you want."
+
+<box type="5">
+<center>"I will. Thank you.<K>
+   Goodbye, Fuminori."</center>
+
+<box type="9">
+  I read her final message and returned the phone to the other side.<K>
+<voice name="郁紀" SRC="media/voice/20/002300.ogg">  "Goodbye, Saya."<K>
+<se id="1" src="media/sound/沙耶移動1.ogg" mode="normal" loop="off">
+  She gently slapped my door in response, and then I heard the sound of her sliding off down the hallway.
+
+  And I was left alone in the silence of the night.
+
+<bgm src="s11" mode="fadeout" time="20" loop="off">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="media/cg/bb03no0.png">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+  Ever since that day, I have been waiting.<K>
+  Perhaps Saya really did return to where she came from.<K>
+  Perhaps she is still wandering today, looking for her father.<K>
+  It must be hard. She must be lonely.<K> When she can no longer stand being alone, she will surely return to me.<K> I am the only one who will comfort her, and whisper sweet nothings in her ear.
+
+<clear>
+<BACKGROUND SRC="media/cg/24.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  And so I wait. Dreaming of her face and her voice, I wait.<K>
+  Forever, in my white world.
+
+
+<CALC WORKNAME="ENDING" OPERATOR="1" MODE="global">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<bgm src="media/sound/ガラスの靴.ogg" mode="normal" loop="off">
+<SYSTEM MENU="#FFE">
+<SYSTEM CMD="ending" ROLL="staff">
+<END>
+

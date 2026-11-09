@@ -1,0 +1,900 @@
+@font-face {
+  font-family: Reading;
+  src: url('../public/game/fonts/reading.ttf') format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Reading;
+  src: url('../public/game/fonts/reading-italic.ttf') format('truetype');
+  font-style: italic;
+  font-display: swap;
+}
+
+:root {
+  font-family: Arial,sans-serif;
+  color: #fff;
+  background: #000;
+  color-scheme: dark;
+  font-synthesis: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,body,#root {
+  margin: 0;
+  min-height: 100%;
+  width: 100%;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+button,input {
+  font: inherit;
+}
+
+button {
+  color: #eee;
+  background: #151515;
+  border: 1px solid #777;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 0;
+}
+
+button:hover {
+  background: #333;
+  color: #fff;
+  border-color: #eee;
+}
+
+button:focus-visible {
+  outline: 2px solid #a6e3c9;
+  outline-offset: 3px;
+}
+
+button:disabled {
+  opacity: .38;
+  cursor: default;
+}
+
+.app {
+  min-height: 100dvh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background: #000;
+}
+
+.viewport {
+  width: min(100vw,calc((100dvh - 32px)*4/3));
+  position: relative;
+  overflow: hidden;
+  background: #000;
+  flex: none;
+}
+
+.viewport:fullscreen {
+  width: min(100vw,133.333333vh);
+  height: min(100vh,75vw);
+  margin: auto;
+}
+
+.stage {
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform-origin: top left;
+  isolation: isolate;
+}
+
+.stage canvas {
+  display: block;
+  position: absolute;
+  inset: 0;
+}
+
+.image-choice,.text-choice {
+  position: absolute;
+  z-index: 3;
+}
+
+.image-choice {
+  padding: 0;
+  border: 0;
+  background: none !important;
+  line-height: 0;
+}
+
+.image-choice img {
+  display: block;
+  max-width: none;
+}
+
+.image-choice:focus-visible {
+  outline: 1px solid #c9ffff;
+}
+
+.text-choice {
+  width: 928px;
+  min-height: 70px;
+  border: 0;
+  background: transparent url('../public/game/interface/native/select01.png') center/100% 100% no-repeat;
+  padding: 12px 34px;
+  font: 30px Reading,serif;
+  text-shadow: 1px 2px 2px #000;
+  text-align: left;
+}
+
+.text-choice:hover,.text-choice:focus {
+  background-image: url('../public/game/interface/native/select02.png');
+}
+
+.dialogue {
+  position: absolute;
+  z-index: 2;
+  left: 64px;
+  top: 80px;
+  width: 1152px;
+  height: 800px;
+  overflow-y: auto;
+  scrollbar-width: none;
+  padding: 36px 46px;
+  background: transparent url('../public/game/interface/native/f05.png') center/100% 100% no-repeat;
+  pointer-events: none;
+  font-family: Reading,'Times New Roman',serif;
+}
+
+.dialogue::-webkit-scrollbar {
+  display: none;
+}
+
+.box-5 {
+  top: 390px;
+  height: 180px;
+  padding: 30px 46px;
+  background: none;
+  text-align: center;
+}
+
+.box-8 {
+  background-image: url('../public/game/interface/native/f05.png');
+}
+
+.spoken {
+  white-space: pre-wrap;
+  font-size: 30px;
+  line-height: 1.58;
+  font-weight: 400;
+  text-shadow: 2px 2px 2px #000;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.center {
+  text-align: center;
+}
+
+.speaker {
+  font-size: 22px;
+  margin: 0 0 16px;
+}
+
+.next {
+  display: block;
+  float: right;
+  margin-top: 12px;
+}
+
+.native-eye {
+  width: 38px;
+  height: 38px;
+  background: url('../public/game/interface/native/eye.png') left top/190px 38px no-repeat;
+  animation: eye 1s steps(5) infinite;
+}
+
+@keyframes eye {
+  to {
+    background-position: -190px 0;
+  }
+}
+
+.port-credit {
+  position: absolute;
+  bottom: 10px;
+  right: 20px;
+  pointer-events: auto;
+  font: 14px Arial,sans-serif;
+  color: #ddd;
+  text-shadow: 1px 1px 3px #000,0 0 5px #000;
+}
+
+.edition-note {
+  position: absolute;
+  left: 20px;
+  bottom: 12px;
+  font-size: 13px;
+  color: #f5f5f5;
+  text-shadow: 0 1px 4px #000,0 0 4px #000;
+}
+
+.toolbar {
+  height: 32px;
+  width: min(100vw,calc((100dvh - 32px)*4/3));
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  opacity: .55;
+  background: #000;
+}
+
+.toolbar:hover,.toolbar:focus-within {
+  opacity: 1;
+}
+
+.toolbar button {
+  font: 12px Arial,sans-serif;
+  background: none;
+  border: 0;
+  padding: 5px 12px;
+  color: #ccc;
+}
+
+.toolbar button:hover,.toolbar button.active {
+  color: #bcf4df;
+  text-shadow: 0 0 6px #7ccfb1;
+}
+
+.toolbar>span {
+  flex: 1;
+}
+
+.toolbar.on-title {
+  opacity: 0;
+}
+
+.toolbar.on-title:hover,.toolbar.on-title:focus-within {
+  opacity: 1;
+}
+
+.overlay {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 10;
+  background: rgba(0,0,0,.93);
+  display: flex;
+  flex-direction: column;
+  transform-origin: top left;
+}
+
+.overlay>header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 64px;
+  padding: 32px 18px 24px;
+  border-bottom: 1px solid #777;
+}
+
+.overlay h2 {
+  font: 42px Reading,serif;
+  margin: 0;
+  text-shadow: 0 0 5px #aaa;
+}
+
+.overlay>header button {
+  width: 55px;
+  height: 55px;
+  background: none;
+  border: 1px solid #888;
+  font-size: 25px;
+}
+
+.panel-content {
+  flex: 1;
+  padding: 28px 82px;
+  overflow: auto;
+  overscroll-behavior: contain;
+  font-size: 24px;
+  line-height: 1.4;
+}
+
+.muted {
+  color: #bcbcbc;
+}
+
+.panel-pause {
+  background: #000a;
+}
+
+.panel-pause>header {
+  display: none;
+}
+
+.panel-pause .panel-content {
+  padding: 130px 0 0;
+}
+
+.pause-menu {
+  width: 352px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin: 0 auto;
+}
+
+.native-button {
+  display: block;
+  padding: 0;
+  border: 0;
+  background: none !important;
+  width: 352px;
+  height: 42px;
+  line-height: 0;
+}
+
+.native-button img {
+  display: block;
+  width: 352px;
+  height: 42px;
+}
+
+.setting {
+  display: grid;
+  grid-template-columns: 340px 1fr 100px;
+  align-items: center;
+  gap: 25px;
+  padding: 24px 0;
+  border-bottom: 1px solid #444;
+}
+
+.setting input {
+  accent-color: #9dbbaf;
+  width: 100%;
+}
+
+.setting output {
+  font-size: 20px;
+  text-align: right;
+}
+
+.panel-config .muted {
+  font-size: 21px;
+}
+
+.panel-config button {
+  font-size: 22px;
+}
+
+.save-tools {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  margin-bottom: 22px;
+  font-size: 18px;
+}
+
+.save-tabs {
+  display: flex;
+  gap: 7px;
+}
+
+.save-tabs button {
+  font: 28px Reading,serif;
+  padding: 7px 22px;
+}
+
+.active {
+  border-color: #cdf4de;
+  color: #cdf4de;
+  background: #282e2b;
+}
+
+.file-button {
+  padding: 9px 14px;
+  border: 1px solid #777;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.file-button input {
+  display: none;
+}
+
+.save-grid {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 22px;
+}
+
+.save-slot {
+  border: 1px solid #777;
+  min-width: 0;
+  overflow: hidden;
+  background: #111;
+}
+
+.slot-main {
+  width: 100%;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  border: 0;
+  text-align: left;
+  background: none;
+}
+
+.slot-preview {
+  aspect-ratio: 4/3;
+  background: #090909;
+  width: 100%;
+  display: grid;
+  place-items: center;
+  max-height: 188px;
+}
+
+.slot-preview img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.slot-preview>span {
+  color: #666;
+  font: 36px Reading;
+}
+
+.slot-main strong {
+  font-size: 21px;
+  padding: 8px 14px 0;
+  font-weight: 400;
+}
+
+.slot-main small {
+  font: 14px Arial;
+  padding: 4px 14px;
+  color: #ccc;
+}
+
+.save-text {
+  font: 16px/1.3 Reading,serif;
+  padding: 5px 14px 8px;
+  min-height: 46px;
+}
+
+.slot-actions {
+  display: flex;
+  justify-content: space-between;
+  padding: 3px 10px;
+}
+
+.slot-actions button {
+  font-size: 13px;
+  background: none;
+  border: 0;
+  padding: 5px;
+}
+
+.save-pages {
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+  margin-top: 25px;
+}
+
+.save-pages button {
+  font: 24px Reading;
+  min-width: 65px;
+  padding: 5px 15px;
+}
+
+.warning {
+  font-size: 20px;
+  color: #e4cf98;
+}
+
+.backlog article {
+  padding: 22px 0;
+  border-bottom: 1px solid #555;
+}
+
+.backlog small {
+  font: 17px Arial;
+  color: #aaa;
+}
+
+.backlog p {
+  white-space: pre-wrap;
+  font: 29px/1.6 Reading,serif;
+  margin: 12px 0;
+}
+
+.backlog button {
+  font-size: 18px;
+  border: 0;
+  background: none;
+  color: #bde6d7;
+}
+
+.credits {
+  max-width: 900px;
+  text-align: center;
+  margin: auto;
+}
+
+.credits img {
+  display: block;
+  width: 100%;
+  height: auto;
+  background: #000;
+}
+
+.credits>p {
+  font-size: 20px;
+  color: #ccc;
+}
+
+.credits .additional-credit {
+  font: 28px Reading;
+  margin: 40px 0;
+}
+
+.panel-gallery {
+  background: #000 url('../public/game/interface/menu-cg_back.png') center/100% 100% no-repeat;
+}
+
+.panel-music {
+  background: #000 url('../public/game/interface/menu-sound_back.png') center/100% 100% no-repeat;
+}
+
+.panel-gallery>header,.panel-music>header {
+  border: 0;
+  padding-top: 30px;
+}
+
+.panel-gallery h2,.panel-music h2 {
+  visibility: hidden;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 25px;
+  margin-top: 70px;
+}
+
+.gallery-grid button {
+  padding: 4px;
+  border: 1px solid #aaa;
+  background: #000;
+}
+
+.gallery-grid img {
+  width: 100%;
+  display: block;
+}
+
+.gallery-full {
+  position: absolute;
+  inset: 0;
+  padding: 0;
+  border: 0;
+  z-index: 12;
+  background: #000;
+}
+
+.gallery-full img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.music-list {
+  width: 780px;
+  margin: 90px auto 0;
+  display: grid;
+  gap: 22px;
+}
+
+.music-list button {
+  display: flex;
+  justify-content: space-between;
+  font: 27px Reading;
+  background: #0008;
+  border: 1px solid #666;
+  padding: 18px 30px;
+}
+
+.music-list button.active {
+  border-color: #ddd;
+  color: #fff;
+  text-shadow: 0 0 8px #c22;
+}
+
+.end-card {
+  position: absolute;
+  z-index: 4;
+  left: 250px;
+  right: 250px;
+  top: 310px;
+  background: #000e;
+  border: 1px solid #aaa;
+  text-align: center;
+  padding: 45px;
+}
+
+.end-card h2 {
+  font: 40px Reading;
+}
+
+.end-card p {
+  font: 25px/1.5 Reading;
+}
+
+.end-card button {
+  font-size: 22px;
+  margin: 10px;
+}
+
+.error-card {
+  top: 180px;
+}
+
+.error-card p {
+  overflow-wrap: anywhere;
+}
+
+.toast {
+  position: fixed;
+  bottom: 40px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #111e;
+  border: 1px solid #aaa;
+  color: #eee;
+  max-width: 90vw;
+  padding: 12px 24px;
+  font-size: 14px;
+  z-index: 30;
+}
+
+.log,pre {
+  font: 19px/1.5 monospace;
+  overflow: auto;
+}
+
+.launch {
+  position: absolute;
+  inset: 0;
+  background: #071610;
+  padding: 140px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.launch h1 {
+  font: 85px Reading;
+  margin: 35px 0;
+}
+
+.launch p {
+  font-size: 23px;
+}
+
+.launch button {
+  font-size: 24px;
+  margin: 25px 0;
+}
+
+.eyebrow {
+  font-size: 16px;
+  color: #bbb;
+}
+
+.app-header {
+  font: 12px Arial;
+  padding: 10px;
+}
+
+.build {
+  margin-left: 30px;
+}
+
+.dot {
+  display: none;
+}
+
+@media (max-width:600px) {
+  .toolbar button {
+    font-size: 10px;
+    padding: 5px 7px;
+  }
+  .toolbar {
+    gap: 0;
+  }
+  .toast {
+    font-size: 12px;
+  }
+}
+
+.dialogue {
+  background: none;
+  isolation: isolate;
+}
+
+.dialogue::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: url('../public/game/interface/native/f05.png') center/100% 100% no-repeat;
+  opacity: var(--text-opacity,.55);
+  z-index: -1;
+  pointer-events: none;
+}
+
+.dialogue.box-5::before {
+  display: none;
+}
+
+.stage:has(.text-choice, .image-choice) .dialogue {
+  visibility: hidden;
+}
+
+.stage .text-choice {
+  left: 180px !important;
+  width: 900px;
+  height: 64px;
+  min-height: 64px;
+  padding: 0 18px;
+  border: 0;
+  font: 24px Reading, serif;
+  line-height: 64px;
+  text-align: left;
+  text-shadow: 1px 1px 2px #000;
+  background-size: 100% 100%;
+}
+
+.stage .text-choice[data-choice="0"] {
+  top: 397px !important;
+}
+
+.stage .text-choice[data-choice="1"] {
+  top: 487px !important;
+}
+
+.save-import-export {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.save-import-export>button {
+  padding: 9px 14px;
+  font: 18px Arial,sans-serif;
+}
+
+.bind-list {
+  max-width: 950px;
+  margin: 0 auto;
+}
+
+.bind-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+  border-bottom: 1px solid #555;
+  padding: 12px 4px;
+}
+
+.bind-row span {
+  font-size: 23px;
+}
+
+.bind-row button {
+  min-width: 260px;
+  font-size: 20px;
+}
+
+.bind-list>button {
+  margin: 24px 12px 0 0;
+}
+
+/* Letterboxed fullscreen: fixed native stage ratio, centered with no crop. */
+
+.viewport:fullscreen {
+  width: 100vw !important;
+  height: 100dvh !important;
+  max-width: none !important;
+  max-height: none !important;
+  aspect-ratio: auto !important;
+  background: #000;
+  overflow: hidden;
+  margin: 0;
+}
+
+.viewport:fullscreen .stage,.viewport:fullscreen .overlay {
+  transform-origin: top left;
+}
+
+.port-disclosure {
+  max-width: 1000px;
+  margin: 36px auto 20px;
+  text-align: left;
+  font: 20px/1.5 Arial,sans-serif;
+  color: #ddd;
+  overflow-wrap: anywhere;
+}
+
+.port-disclosure a {
+  color: #bce9e5;
+}
+
+.source-address {
+  font-family: monospace;
+  font-size: 17px;
+  overflow-wrap: anywhere;
+}
+
+/* Keep the translucent dialogue panel anchored to the scene while only the
+   text scrolls. Scrolling the panel itself moved its ::before background and
+   left later lines outside the dark area. No synthetic NPS pauses are added. */
+.dialogue {
+  overflow: hidden;
+}
+.dialogue-scroll {
+  height: 100%;
+  min-height: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+  scrollbar-width: none;
+  overscroll-behavior: contain;
+}
+.dialogue-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+/* Keep each dialogue page in a fixed viewport. Text changes pages in place,
+   rather than scrolling continuously as characters appear. */
+.dialogue-scroll {
+  position: relative;
+  overflow: hidden;
+}
+.dialogue-scroll .next {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  float: none;
+  margin: 0;
+}
+
+/* Links match the existing credits; only a slight hover change is added. */
+.port-credit a,
+.credits .additional-credit a {
+  color: inherit;
+  text-decoration: none;
+  transition: opacity 150ms ease;
+}
+.port-credit a:hover,
+.credits .additional-credit a:hover {
+  opacity: 0.72;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.port-credit a:focus-visible,
+.credits .additional-credit a:focus-visible {
+  outline: 1px solid currentColor;
+  outline-offset: 3px;
+}
+.credits .additional-credit p { margin: 0.35em 0; }

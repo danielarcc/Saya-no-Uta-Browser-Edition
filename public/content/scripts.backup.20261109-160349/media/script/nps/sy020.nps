@@ -1,0 +1,412 @@
+//病院：凉子
+<MARKER NAME="#2">
+<bgm src="s03" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="media/sound/s07.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+<BACKGROUND SRC="media/cg/bb01no0.png">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+  Dr. Tanbo Ryoko has never had a more troublesome patient.
+
+<se id="1" src="media/sound/椅子1.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/32.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice NAME="凉子" SRC="media/voice/4/000106.ogg">  "Any changes since your last visit?"<K>
+<voice NAME="郁紀" SRC="media/voice/4/000200.ogg">  "No, nothing to speak of."<K>
+  His voice is hard and flat, his words tossed carelessly into the air. It's like he's speaking to himself in an empty room.<K>
+  Ryoko is a surgeon, not a psychiatrist, but even she can sense the thickness of the wall he has erected between himself and the world.
+
+<voice NAME="凉子" SRC="media/voice/4/000306.ogg">  "Any nausea, dizziness, or hallucinations?"<K>
+<voice NAME="郁紀" SRC="media/voice/4/000400.ogg">  "No."<K>
+  While Sakisaka appears to be looking at Ryoko, his gaze is actually aimed a fraction down and to the side. He's only superficially engaged in the conversation, when in truth it does not interest him in the slightest―perfect rejection.<K>
+  Realizing that she can't interview him like this, Ryoko sighs and sets her chart aside.
+
+<voice NAME="凉子" SRC="media/voice/4/000506.ogg">  "Mr. Sakisaka. The procedure you received at this hospital was the latest in experimental neurosurgery. We explained this before, didn't
+we?"<K>
+  Treatment of subdural hematoma through the use of micromachines, a procedure available in Japan exclusively here, at T University, had been the only way to save Sakisaka Fuminori from a cerebral contusion that should have been fatal.
+
+<voice NAME="凉子" SRC="media/voice/4/000606.ogg">  "With any experimental treatment, there is always the risk of unexpected complications."<K>
+<voice NAME="郁紀" SRC="media/voice/4/000700.ogg">  "Of course."<K>
+  Sakisaka Fuminori's lips twist slightly in what might be a bitter―or mocking―smile, but it is gone before Ryoko can discern its meaning.
+
+<clear>
+<BACKGROUND SRC="media/cg/bb01no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice NAME="凉子" SRC="media/voice/4/000806.ogg">  "Normally, I would never say anything to frighten a patient...<K><voice name="凉子" SRC="media/voice/4/000806_2.ogg"> but there have been reports of serious neurological disorders post-surgery. We must continue to monitor your condition carefully."<K>
+  Hence these weekly check-ups. If only he would take them a little more seriously.
+
+
+<BUSTUP NAME="郁紀" face="口開け" MODE="on" zoom="" ALIGN="right" SRC="media/cg/郁紀_口開け.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice NAME="郁紀" SRC="media/voice/4/000900.ogg">  "How was last week's MRI?" Sakisaka asks abruptly, as if to catch Ryoko off guard.<K>
+  MRI―Magnetic Resonance Imaging―is a way for doctors to examine the brain in detail without opening the patient's skull. Surprised by Sakisaka's uncommon technical knowledge, Ryoko recalls his profile.
+
+<voice name="凉子" SRC="media/voice/4/001006.ogg">  "Oh, that's right. You're a medical student, aren't you?"<K>
+<voice name="郁紀" SRC="media/voice/4/001100.ogg">  "The kind of anomaly you're worried about should show up on the MRI, right? Did you find anything?"<K>
+<voice name="凉子" SRC="media/voice/4/001206.ogg">  "...No."<K>
+  There was nothing―not the slightest hint of abnormal activity. For a procedure with such a low rate of success, the results have been nothing short of miraculous.<K>
+  However, something still bothers Ryoko. She can't shake the feeling that he's hiding something beneath his guarded exterior―some terrible weight on his soul, perhaps.<K>
+  But if it's an inorganic problem, then there's nothing she can do as long as he refuses to explain it.
+
+<BUSTUP NAME="郁紀" face="通常" MODE="on" zoom="" ALIGN="right" SRC="media/cg/郁紀_通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="郁紀" SRC="media/voice/4/001300.ogg">  "I'm fine. I've been on my own for three months without any problems. What could go wrong now?"
+
+<clear>
+<BACKGROUND SRC="media/cg/32.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="凉子" SRC="media/voice/4/001406.ogg">  "Please, you know that continued observation is required after these difficult surgeries. You have to trust us a little more."<K>
+<voice name="郁紀" SRC="media/voice/4/001500.ogg">  "I suppose you're right. I do want to trust you, Doctor. Can I come to you with anything?"<K>
+<voice name="凉子" SRC="media/voice/4/001606.ogg">  "Yes, of course," Ryoko answers, smiling to cover up her irritation. Sakisaka asked exactly the same question during last week's visit.
+
+
+<voice name="郁紀" SRC="media/voice/4/001700.ogg">  "Well then, let's pick up where we left off. Have you learned anything about Dr. Ogai?"<K>
+<voice name="凉子" SRC="media/voice/4/001806.ogg">  "......"<K>
+  Unable to answer, Ryoko hardens the mask of her smile.<K>
+  As before, the patient is inquiring about someone whom he has no business knowing.
+
+<voice name="凉子" SRC="media/voice/4/001906.ogg">  "If you don't mind my asking, what does Dr. Ogai have to do with your treatment?"<K>
+<voice name="郁紀" SRC="media/voice/4/002000.ogg">  "You just told me to trust you, and now you're keeping secrets?"<K>
+  Ryoko is used to patients treating her with hostility. Some degree of paranoia is natural when dealing with a person whose mistakes could kill you.<K>
+  In Sakisaka, however, she doesn't see the anxiety that other patients exhibit. His demeanor is perfectly calm, almost like a detective questioning a suspect.
+
+<voice name="凉子" SRC="media/voice/4/002106.ogg">  "He left this hospital some time ago. I never had any contact with him myself."<K>
+<voice name="郁紀" SRC="media/voice/4/002200.ogg">  "Do you know why he left?"<K>
+<voice name="凉子" SRC="media/voice/4/002306.ogg">  "Yes, I believe it was personal," Ryoko answers smoothly, her earlier hesitation gone. Having decided at the outset to lie, she has no trouble doing so with a straight face.
+
+<voice name="凉子" SRC="media/voice/4/002406.ogg">  "But why do you keep asking about Dr. Ogai? Are you acquainted?"<K>
+<voice name="郁紀" SRC="media/voice/4/002500.ogg">  "Did you know that the doctor has gone missing?"<K>
+<voice name="凉子" SRC="media/voice/4/002606.ogg">  "No."<K>
+  Ryoko realizes that her answer may have been a little too quick. She should have acted more surprised.<K>
+<voice name="郁紀" SRC="media/voice/4/002700.ogg">  "I've recently become close with a relative of his. It was she who asked me to find him."<K>
+  A relative? Ryoko considers this with a frown.
+
+<voice name="凉子" SRC="media/voice/4/002806.ogg">  "I didn't think Dr. Ogai had any relatives."<K>
+<voice name="郁紀" SRC="media/voice/4/002900.ogg">  "Oh, who told you that?"<K>
+<voice name="凉子" SRC="media/voice/4/003006.ogg">  "I... heard it from a nurse," Ryoko replies, remembering that she just claimed to have had no contact with the man.<K>
+<voice name="郁紀" SRC="media/voice/4/003100.ogg">  "I see. The doctor was famous enough to have nurses gossiping about him?"<K>
+<voice name="凉子" SRC="media/voice/4/003206.ogg">  "I hear he was an unusual man."<K>
+<voice name="郁紀" SRC="media/voice/4/003300.ogg">  "But no one knows why he left the university?"<K>
+<voice name="凉子" SRC="media/voice/4/003406.ogg">  "......"
+
+  Ryoko falls silent, knowing that this isn't a topic she can brush away with a smile.<K>
+  Sakisaka seems to have finally grasped her mood, however, as his strangely stiff tone softens a little.<K>
+<voice name="郁紀" SRC="media/voice/4/003500.ogg">  "Please, I have to find Dr. Ogai.<k><voice name="郁紀" SRC="media/voice/4/003500_2.ogg"> There's a girl who needs him. Can't you help me?"
+
+<voice name="凉子" SRC="media/voice/4/003606.ogg">  "Isn't this something the police should handle?"<K>
+  Although she makes it sound like the most obvious thing in the world, the suggestion is actually a gamble. If Ogai Masahiko's disappearance becomes a police matter, then the university will be investigated. Everyone who was involved in the incident will be at risk of exposure.<K>
+  And of course, that includes Ryoko herself.
+
+<clear>
+<BACKGROUND SRC="media/cg/bb01no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  She knows, however, that Sakisaka is unlikely to go to the police. First of all, his excuse is obviously a lie. They already made sure that Ogai had no relatives who might come looking for him, which is why they could bury the truth of what happened.<K>
+  But then how did Sakisaka, a mere patient, learn about Ogai?
+
+<voice name="凉子" SRC="media/voice/4/003706.ogg">  "I'd be happy to help, but there's been no word from Dr. Ogai since he resigned last April.<k><voice name="凉子" SRC="media/voice/4/003706_2.ogg"> I can only assume that he's gone on an extended vacation."<K>
+<voice name="郁紀" SRC="media/voice/4/003800.ogg">  "...I see."<K>
+  Expecting resistance, Ryoko is surprised when Sakisaka backs down.
+
+  She's still worried about his condition. And the mysterious link between him and Ogai is only making her more uneasy.<K>
+  But as long as he doesn't open up to her, there's nothing she can do.<K> After a brief pause, Ryoko writes "progress good" on Sakisaka's chart for today.<K>
+<voice name="凉子" SRC="media/voice/4/003906.ogg">  "About next week's appointment. How does four o'clock again sou―"<K>
+<se id="1" src="media/sound/ドア閉め.ogg" mode="normal" loop="off">
+  Before she can finish, Sakisaka is gone.
+
+//帰宅：郁紀
+<bgm src="s07" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="media/sound/s04.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<BACKGROUND SRC="media/cg/bb02me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="2" src="media/sound/郁紀光景.ogg" mode="normal" loop="on">
+<wait time="200">
+<box type="9">
+  It looks like someone sprayed the walls with pig guts from ceiling to floor.<K>
+  What color should the walls of a hospital be? White, of course. And to the creatures of rotten flesh shambling around me, I'm sure this hallway looks just as white as it should.
+
+  I know, intellectually, that the walls are white. I know that the flesh beasts are really human.<K>
+  I'm the one with the problem, and it's because I've accepted this that I'm able to lead something approaching a normal life.<K>
+  Even if my university's medical department is nowhere near as good as T University's, I'm still a medical student specializing in neurology. I have a basic idea of what has happened to me, though it's hard to believe.
+
+  This isn't a pathological condition. It's probably some form of agnosia unlike anything that has ever been studied before.<K>
+  The flesh-beast called Tanbo Ryoko said that other patients had developed neurological disorders after receiving the same treatment I did. So I guess I'm just another failure. It makes me want to laugh in that know-it-all doctor's face.<K>
+  That said, I don't blame the doctors who operated on me. After all, I do owe them my life. I know as well as anyone how low the chance of success was, and that I had no other hope of survival.
+
+<clear>
+<BACKGROUND SRC="media/cg/bj01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  I was unlucky. That's all there is to it.<K> The point is that my condition isn't treatable.<K> Just like someone adapting to a hearing aid or wheelchair, I have no choice but to adapt to this nauseating scenery.
+
+  Of course it's hard. It wasn't easy to resign myself to this fate.<K>
+  But now there's more than just despair. Even for me, there is a glimmer of hope.<K>
+  Keeping my eyes on my feet, I hurry home.
+
+<bgm src="s07" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="media/cg/bc01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+  I live in a quiet suburban neighborhood, in a house that's much too large for me alone. My parents, even unluckier than I was, died in the accident three months ago. I couldn't even go to the funeral for being in intensive care.<K>
+  I had to sell my father's business, but at least that left me with the house and enough money to live on for a while.
+
+<se id="2" src="郁紀光景" mode="fadeout" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bc07me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Of course I'm sad, but the accident took more from me than my parents. In fact, being on my own has probably saved me.<K>
+  If they were still alive, my parents would never have allowed me to live with some strange girl.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<se id="1" src="media/sound/郁紀家ドア開け1.ogg" mode="normal" loop="off">
+<bgm src="media/sound/s05.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+<BACKGROUND SRC="media/cg/bc03me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="沙耶" SRC="media/voice/5/000101.ogg">  "Welcome home!"<K>
+  As I open the door, a bright voice greets me from the kitchen. The voice is beautiful and clear as a bell―human. Its sweet sound washes the day's cacophony from my memory.<K>
+<voice name="郁紀" SRC="media/voice/5/000200.ogg">  "I'm home, Saya."<K>
+<se id="1" src="media/sound/沙耶駆け寄り.ogg" mode="normal" loop="off">
+  Even the patter of feet coming down the hallway is music to my ears. Nowhere else in the city can I hear such footsteps. Only in this house, with Saya, am I so privileged.
+
+<BUSTUP NAME="沙耶" face="通常笑顔2" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_通常笑顔2.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/5/000301.ogg">  "You're late. I was a little worried."<K>
+<voice name="郁紀" SRC="media/voice/5/000400.ogg">  "Sorry. I had to stop by the hospital today."<K>
+<BUSTUP NAME="沙耶" face="楽し目笑い" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_楽し目笑い.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/5/000501.ogg">  "Oh, that was today?"<K>
+  In her smile―in the inquisitive tilt of her head―is everything that I have lost.
+
+  Since my accident, this girl is the only person I've met―perhaps the only person in the entire world―who does not trigger my cognitive disorder.<K>
+  True, her skin seems too white, and the color of her eyes and hair is probably different in reality. But even so, her form is undeniably 
+human.<K>
+  And it's not just her appearance and her voice, either. 
+
+<BUSTUP NAME="沙耶" face="にっこり" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_にっこり.png">
+<WIPE EFFECT="fade" TIME="5">
+  As I bend down to take off my shoes, Saya wraps her arms around my neck and pulls me gently into her tiny bosom.<K> Her skin feels truly human, not cold or slimy, and from her hair wafts a sweet, feminine fragrance.<K>
+  In all the world, only Saya is pleasing to my five senses.
+
+  And what's more, she smiles at me―embraces me.<K> She knows that she is my salvation, and for some reason is happy that I need her.<K>
+  If I had not met Saya―if I had been all alone in this twisted, filth-ridden world―I would no doubt have succumbed to madness. It is no exaggeration to say that Saya alone is keeping me alive.
+
+<voice name="郁紀" SRC="media/voice/5/000600.ogg">  "What did you do today?"<K>
+<BUSTUP NAME="沙耶" face="通常" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/5/000701.ogg">  "Worked on the living room. The painting's half done! And now I'm making your dinner like I learned from the TV."<K>
+<voice name="郁紀" SRC="media/voice/5/000800.ogg">  "Sounds good."<K>
+<BUSTUP NAME="沙耶" face="困り笑い2" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_困り笑い2.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/5/000901.ogg">  "It'll take a little longer. Can you wait?"<K>
+<voice name="郁紀" SRC="media/voice/5/001000.ogg">  "Sure. I'll do some more work in the living room."<K>
+<BUSTUP NAME="沙耶" face="通常" MODE="off" zoom="" ALIGN="center">
+<WIPE EFFECT="fade" TIME="5">
+  After I see the humming Saya off to the kitchen, I step into the living room.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<BACKGROUND SRC="media/cg/bc05me_b0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  I realized one day that if the natural colors of the world were sickening, all I had to do was paint over them with colors that seemed pleasant.<K> I went to the hardware store and bought every color of paint I could find, then Saya and I tried different combinations until we found one that worked.<K>
+  After painting the bedroom from ceiling to floor, I was finally able to get my first good night's sleep since the accident.
+
+  When we first started on the living room, Saya, unsure what to do with the curtains, just painted carefully around the windows. Without a moment's hesitation, I tore the curtains down and painted over the glass itself.<K>
+  There'll never be anything out there that I'd want to see, and as long as we keep the storm shutters closed, the neighbors probably won't think anything of it.
+
+<voice name="沙耶" SRC="media/voice/5/001101.ogg">  "Dinner's ready!"<K>
+<voice name="郁紀" SRC="media/voice/5/001200.ogg">  "Can you bring it in here?"
+
+<BUSTUP NAME="沙耶" face="目逸らし困り" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_目逸らし困り.png">
+<WIPE EFFECT="fade" TIME="5">
+  As she enters the living room with a tray of food, Saya sniffs the air.<K>
+<voice name="沙耶" SRC="media/voice/5/001301.ogg">  "The paint smell doesn't bother you?"<K>
+  Now that she mentions it, I suppose the smell of paint thinner must be building up in this closed room. It doesn't really bother me, though. There are far worse smells outside.
+
+<voice name="郁紀" SRC="media/voice/5/001400.ogg">  "Does it bother you?"<K>
+<BUSTUP NAME="沙耶" face="通常" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/5/001501.ogg">  "No, I'm fine if you are."<K>
+<BUSTUP NAME="沙耶" face="通常" MODE="off" zoom="" ALIGN="center">
+<WIPE EFFECT="fade" TIME="5">
+<se id="1" src="media/sound/食器.ogg" mode="normal" loop="off">
+  Saya sets the food on the table. Unfortunately, neither its color nor its smell is at all appetizing. Not that food elsewhere is any different.
+
+<voice NAME="郁紀" SRC="media/voice/5/001600.ogg">  "Thanks, Saya."<K>
+<se id="1" src="media/sound/郁紀食事1.ogg" mode="normal" loop="off">
+  As has become routine, I steel myself and methodically transport the food into my mouth.<K>
+  The taste is as gut-wrenching as I expected, but it's not Saya's fault. I'm sure she made it exactly like the cooking show said. It's just that my taste buds can't accept it.
+
+<BUSTUP NAME="沙耶" face="弱気目寂しげ" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_弱気目寂しげ.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/5/001701.ogg">  "It's not good?" she asks hesistantly.<K>
+<voice name="郁紀" SRC="media/voice/5/001800.ogg">  "Well... no..."<K>
+  Lying won't make Saya happy. She knows about my condition.
+
+<BUSTUP NAME="沙耶" face="困り笑い1" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_困り笑い1.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/5/001901.ogg">  "Don't worry about it. I'll make something different tomorrow."<K>
+<voice name="郁紀" SRC="media/voice/5/002000.ogg">  "Sorry. You always go to the trouble of cooking, but I..."<K>
+<BUSTUP NAME="沙耶" face="通常" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/5/002101.ogg">  "It's fine. If I keep trying, maybe I'll find something you'll like."<K>
+  In my current state, eating is nothing more than an unwelcome duty. As much as I hate it, I need food to survive.<K>
+  If I stay alive, then perhaps one day, as Saya says, I'll be able to taste something delicious again.<K>
+  I met Saya, didn't I?
+
+<voice name="郁紀" SRC="media/voice/5/002200.ogg">  "Aren't you going to eat?"<K>
+<BUSTUP NAME="沙耶" face="目逸らし笑い1" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_目逸らし笑い1.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/5/002301.ogg">  "No, I... already ate."<K>
+  In all the time we've been together, Saya has never once eaten with me. I don't know why she refuses to do so. It makes me a little sad.<K>
+  Still, I'm not about to push the issue, not when she's putting up with all the problems I have.
+
+<voice name="郁紀" SRC="media/voice/5/002400.ogg">  "By the way, I asked about your father again."<K>
+<BUSTUP NAME="沙耶" face="通常きょとん" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_通常きょとん.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/5/002501.ogg">  "You did?"<K>
+  Dr. Ogai Masahiko is Saya's father and her only living relative. Saya has asked me to unravel the mystery of his disappearance.<K>
+<voice name="郁紀" SRC="media/voice/5/002600.ogg">  "They still wouldn't tell me anything. I get the feeling they're hiding something."<K>
+<BUSTUP NAME="沙耶" face="寂しげ2" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_寂しげ2.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/5/002701.ogg">  "Oh..."<K>
+  I expected Saya to be a little more disappointed.
+
+
+<voice name="郁紀" SRC="media/voice/5/002800.ogg">  "You haven't given up, have you?"<K>
+<BUSTUP NAME="沙耶" face="横見思案寂しげ" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_横見思案寂しげ.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/5/002901.ogg">  "No," Saya responds with an unreadable expression, "it's not that."<K>
+  She gives a little shake of her head, then smiles at me once again.<K>
+<BUSTUP NAME="沙耶" face="楽し笑い2" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_楽し笑い2.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/5/003001.ogg">  "Thanks for all you're doing for me."<K>
+<voice name="郁紀" SRC="media/voice/5/003100.ogg">  "It's nothing compared to what you've done for me."
+
+  I thank her for the meal and set my chopsticks down next to the perfectly clean plate. As wretched as the taste was, thinking of the care that Saya put into it gave me the strength to finish every bite.<K>
+<BUSTUP NAME="沙耶" face="通常" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/5/003201.ogg">  "Is it bath time?"<K>
+<voice name="郁紀" SRC="media/voice/5/003300.ogg">  "Yeah. Will you wash my back again?"<K>
+<BUSTUP NAME="沙耶" face="にっこり" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_にっこり.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/5/003401.ogg">  "Sure!"<K>
+  Ever since Saya moved in, it's been like having my own wife.
+
+<bgm src="s05" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="media/sound/s06.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+<BACKGROUND SRC="media/cg/bc06me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+
+  Saya...<K>
+  Why are you so good to me?
+
+<clear>
+<BACKGROUND SRC="media/cg/h01.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+
+
+<voice name="沙耶" SRC="media/voice/5/003601.ogg">  "Yes, yessss! Good! Ahh... hot... deeper!"<K>
+
+
+  Saya, my darling Saya. Is this really what you want?<K>
+  Why do you go so far for me? What am I, that you can give yourself to me body and soul?<K>
+<voice name="沙耶" SRC="media/voice/5/003701.ogg">  "More, Fuminori! Harder! It's so deep... ahhhhhh!"<K>
+  Is this merely sympathy? Do you pity me, the exile from society? Is that enough for you to surrender yourself to such mad desire? Are you so wanton?
+
+<voice name="沙耶" SRC="media/voice/5/003801.ogg">  "Yessss... please... give me more... more!<K><voice name="沙耶" SRC="media/voice/5/003801_2.ogg"> I'm... going mad... uhhhh!"<K>
+
+
+<clear>
+<BACKGROUND SRC="media/cg/h06.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+
+
+
+<voice name="沙耶" SRC="media/voice/5/004001.ogg">  "Ahhhhh, yes! Fuminori! I'm going to pieces!"
+
+  Saya is here. She is with me, now.<K> Only in this moment is her existence certain. Only when I am joined with her can I believe.<K>
+<voice name="沙耶" SRC="media/voice/5/004101.ogg">  "Fuminoriiii... Inside... Please, come inside... I want you in me..."<K>
+
+
+<clear>
+<BACKGROUND SRC="media/cg/h02.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="沙耶" SRC="media/voice/5/004201.ogg">  "I'm coming!! Fuminori! Together... Togetheeeeer!"<K>
+  No matter what cruel fate might await me, Saya, there is nothing I fear more than losing you.<K>
+
+
+<voice name="沙耶" SRC="media/voice/5/004401.ogg">  "Ahhhh... So hot... Fuminori..."
+
+<clear>
+<BACKGROUND SRC="media/cg/bc06me0.png" shade="4">
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Saya collapses atop me, still smiling, and I wrap my arms around her. The feeling of her soft, sweat-soaked skin and the warmth emanating from her body reassure me that she is still here.<K>
+<voice name="沙耶" SRC="media/voice/5/005601.ogg">  "...Fuminori? Are you crying?" <K>
+  I realize that my cheeks are wet with tears.<K>
+<voice name="郁紀" SRC="media/voice/5/004600.ogg">  "Why, Saya? Why do you go so far for me?"<K>
+<voice name="沙耶" SRC="media/voice/5/004701.ogg">  "Fuminori..."
+
+<voice name="郁紀" SRC="media/voice/5/004800.ogg">  "I don't understand it... I don't, but I'm losing myself to you more every day. I can't live without you, Saya."<K>
+  I wrap my arms tighter around her, praying that our bodies will melt together and never again be apart.<K>
+<voice name="郁紀" SRC="media/voice/5/004900.ogg">  "Tell me, please. What must I do to keep you with me? How can I repay you?"
+
+<clear>
+<BACKGROUND SRC="media/cg/51.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="沙耶" SRC="media/voice/5/005001.ogg">  "Keep holding me," Saya whispers into my chest.<K><voice name="沙耶" SRC="media/voice/5/005101.ogg"> "I want you to make love to me. I want to stay like this forever.<K><voice name="沙耶" SRC="media/voice/5/005101_2.ogg"> I won't leave you, Fuminori."<K>
+<voice name="郁紀" SRC="media/voice/5/005200.ogg">  "Why? Why me?"
+
+<voice name="沙耶" SRC="media/voice/5/005301.ogg">  "Because you're all alone," she says softly, gazing up into my eyes.<K><voice name="沙耶" SRC="media/voice/5/005401.ogg"> "All alone... just like me."<K>
+  The sorrow in her voice resonates with my own. There is a deep loneliness in her eyes, a loneliness from which now springs boundless affection.
+
+<voice name="沙耶" SRC="media/voice/5/005501.ogg">  "You're all I have.<k><voice name="沙耶" SRC="media/voice/5/005501_2.ogg"> In the whole wide world, only you will embrace me... my precious Fuminori."
+
+  Now I know.<K>
+  No matter what horrors this world unleashes upon me, all I'll ever need is Saya.
+
+<A HREF="media/script/nps/sy030.nps" OPERATOR="">

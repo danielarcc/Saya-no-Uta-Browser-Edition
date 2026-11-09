@@ -1,0 +1,15 @@
+<MARKER NAME="#17">
+<LAYER SRC="#000000" TRANSPARENT="75" NUM="1">
+<WIPE EFFECT="fade" TIME="2">
+<CHOICE HREF="media/script/nps/sy171f.nps" TEXT="He calls Fuminori" OPERATOR=""></A>//
+<CHOICE HREF="media/script/nps/sy171r.nps" TEXT="He calls Ryoko" OPERATOR=""></A>//
+
+<LAYER SRC="" NUM="1">
+<WIPE EFFECT="fade" TIME="2">
+//<CHOICE HREF="#郁紀" TEXT="郁紀に電話する" OPERATOR=""></A>//
+//<CHOICE HREF="#凉子" TEXT="凉子に電話する" OPERATOR=""></A>//
+
+//※選択肢
+//・郁紀に電話する
+//・凉子に電話する
+

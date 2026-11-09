@@ -1,0 +1,93 @@
+//郁紀に電話した場合
+<MARKER NAME="#郁紀3">
+<bgm src="s04" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="media/sound/s03.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<BACKGROUND SRC="media/cg/be04tw0.png">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+  Koji has nothing to do but wait.<K>
+  He has spent almost half a day in the dark, empty study, breathing stale air choked with mold as he strains his ears for the slightest hint of movement below. Few people could endure such a vigil, but Koji has accomplished it without complaint.<K> If anything, the suffering is welcome, for it keeps his nerves honed to a razor's edge.
+
+
+  Without a doubt, his single-minded focus is the only thing allowing him to push the limits of his stamina. Koji understands this, and embraces the pain.<K> His closest friend has shattered his world like glass, and now Koji feels only hate toward the madness that has replaced it, and toward himself for allowing it to happen.<K>
+  Self-loathing is a more reliable source of willpower than any faith or resolve, no matter how noble.
+
+  When he arrived at the Ogai house, Koji snuck inside carefully, hoping to perhaps take his enemy by surprise.<K>
+  It was only after he got inside that he realized the house was still abandoned. Even so, Koji was sure that Fuminori would arrive earlier than promised in order to set up an ambush.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<BACKGROUND SRC="media/cg/be04da0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  However, the light streaming through the windows turned red, then faded to darkness with no sign of anyone coming. Koji's patience has grown weaker and weaker by the moment.
+
+  And now the appointed time has arrived.<K>
+<se id="1" src="media/sound/携帯マナーモード.ogg" mode="normal" loop="off">
+  Just as Koji's frustration is about to peak, his phone begins to vibrate and flash.<K>
+  It's from Fuminori. He's calling rather than show up himself.<K>
+<se id="1" src="media/sound/携帯ボタン.ogg" mode="normal" loop="off">
+  Rage threatens to overwhelm him for an instant, but Koji manages to keep his voice calm as he answers.
+
+<voice name="耕司" SRC="media/voice/38/000102.ogg">  "What's going on here, Fuminori?"<K>
+<voice name="郁紀" SRC="media/voice/38/000200.ogg">  "Well, I was worried that you might be wasting energy on something silly, like planning an ambush," Fuminori says, chuckling scornfully.<K><voice name="郁紀" SRC="media/voice/38/000300.ogg"> "It's kind of late, but I guess I should tell you the real meeting place before you lose your mind. Did I make it in time?"
+
+<voice name="耕司" SRC="media/voice/38/000402.ogg">  "Son of a bitch..."<K>
+<voice name="郁紀" SRC="media/voice/38/000500.ogg">  "Come on, don't get mad. I'm just being careful, right?"<K>
+  Fuminori laughs with unrestrained malevolence, as though to emphasize that he's seen through Koji's plans.
+
+<voice name="郁紀" SRC="media/voice/38/000600.ogg">  "Assuming you're at Dr. Ogai's house, there's a place nearby, within walking distance. Yoh and I are there.<K><voice name="郁紀" SRC="media/voice/38/000600_2.ogg"> I'll give you the address. You should be able to find it on your car's GPS."<K>
+<voice name="耕司" SRC="media/voice/38/000702.ogg">  "You have proof this isn't another trick?"<K>
+<voice name="郁紀" SRC="media/voice/38/000800.ogg">  "If you're that paranoid, you don't have to come. Just turn tail and run."<K>
+<se id="1" src="media/sound/携帯切れる.ogg" mode="normal" loop="off">
+  Fuminori hangs up immediately after speaking his challenge.
+
+<se id="1" src="media/sound/別荘ドア蹴破り2.ogg" mode="normal" loop="off">
+<BUSTUP NAME="耕司" face="険しい怯え" MODE="on" zoom="" ALIGN="left" SRC="media/cg/耕司_険しい怯え.png">
+<WIPE EFFECT="fade" TIME="5">
+  Koji leaps out of his chair and kicks it across the room, unable to find any other outlet for his rage.<K>
+  He has no choice but to do what Fuminori says.<K> His stamina is already exhausted. Only his obsession is keeping him going. If he allows himself even a moment's rest, he fears that he'll never again find the strength to face this madness.
+
+  Tonight is his only chance to kill Fuminori.<K>
+  Koji knows, of course, that his enemy is planning to ambush him. Fuminori isn't going to fight fair―but then, neither is Koji.
+
+<clear>
+<BACKGROUND SRC="media/cg/be01ni0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="9">
+  With the unsteady stride of a man half asleep, Koji leaves the Ogai house and heads for his car.
+
+<bgm src="s03" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="media/sound/s04.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<se id="1" src="media/sound/車走行.ogg" mode="normal" loop="off">
+<BACKGROUND SRC="media/cg/bo06ni0.png">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+  Only the base of these foothills has been developed for housing. The address Fuminori gave Koji is outside of that area, in the thick forest that still covers the mountain's face.<K>
+  His car's GPS shows a road that leads nowhere, but according to Fuminori, there should be an old, abandoned sanatorium there.
+
+<clear>
+<BACKGROUND SRC="media/cg/bo08ni0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  It's definitely a place that no one could find, not even by accident. Maybe this next stop really will be the last.<K>
+  Koji drives up the steep incline, soon leaving the residential neighborhood behind. Even though the hands of progress are right at its doorstep, the undeveloped forest is darker than he expected.
+
+  This looks like a great place to live in secret―or to kill someone and hide the body.<K>
+  Places like this, lost and forgotten, aren't found only in deep jungles and hidden valleys. Holes in the world are everywhere, even in the midst of civilization.
+
+
+//<A HREF="#合流3" OPERATOR="">
+<A HREF="media/script/nps/sy184.nps" OPERATOR="">

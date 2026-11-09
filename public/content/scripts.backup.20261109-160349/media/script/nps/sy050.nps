@@ -1,0 +1,446 @@
+//大学：耕司
+<MARKER NAME="#5">
+<bgm src="s08" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="media/sound/s02.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<BACKGROUND SRC="media/cg/ba01no0.png">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+
+<se id="1" src="media/sound/携帯メッセージ.ogg" mode="normal" loop="off">
+<wait time="500">
+//<<SE；携帯電話の呼び出し音。続いて『お掛けになった電話番号は、電波の届かない場所に……』の定型メッセージ>>
+  ...........<K>
+<clear>
+<BACKGROUND SRC="media/cg/13.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="耕司" SRC="media/voice/12/000102.ogg">  "Nothing."<K>
+<voice name="瑶" SRC="media/voice/12/000205.ogg">  "......"<K>
+  This is the third day in a row that they haven't been able to get in touch with Omi.<K>
+  There's no sign that she returned to her apartment, and even her family doesn't know anything. Her parents have already filed a missing persons report.
+
+<voice name="耕司" SRC="media/voice/12/000302.ogg">  "Well, you know her. She'll probably just pop up somewhere like nothing happened."<K>
+<voice name="瑶" SRC="media/voice/12/000405.ogg">  "I hope so," Yoh replies with a gloomy expression. She's worried about Omi, of course, but the incident with Fuminori three days ago must still be weighing on her as well.
+
+//CHECK
+
+  Yoh hasn't seen Fuminori since then, and Fuminori hasn't made any effort to approach her or Koji. Four people used to meet in this cafeteria between classes, but now there are only two.<K>
+<voice name="瑶" SRC="media/voice/12/000505.ogg">  "Hey, Koji, let's keep thinking. Isn't there somewhere Omi might have gone?"<K>
+<voice name="耕司" SRC="media/voice/12/000602.ogg">  "No," Koji answers evasively. "I already checked everywhere."<K>
+  It's a lie, of course. Koji knows where Omi planned to go that evening, but he doesn't want to bring Fuminori up in front of Yoh.
+
+<se id="1" src="media/sound/大学予鈴.ogg" mode="normal" loop="off">
+  Their awkward silence is mercifully broken by the bell signaling the start of the next period.<K>
+<voice name="耕司" SRC="media/voice/12/000702.ogg">  "Well, I've gotta go."<K>
+<voice name="瑶" SRC="media/voice/12/000805.ogg">  "...Yeah."
+
+<clear>
+<BACKGROUND SRC="media/cg/ba01no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Unless Koji is mistaken, Yoh is supposed to have class next period too, but she just sits there, staring off into space.<K>
+  Unable to come up with anything to say,<se id="1" src="media/sound/喫茶ベル.ogg" mode="normal" loop="off"> he leaves the cafeteria reluctantly.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<BACKGROUND SRC="media/cg/ba02no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Both Omi's disappearance and Yoh's depression worry Koji, and both problems lead back to the exact same place.<K>
+<voice name="耕司" SRC="media/voice/12/000902.ogg">  <I>What the hell is Fuminori doing?</I><K>
+  When Omi went missing, the first thing he did was question Fuminori. After all, the last time he'd seen her was just before she stormed off to give Fuminori a piece of her mind.
+
+  Fuminori responded with unequivocal denial, and acted like he hadn't the slightest idea why Omi would have gone to see him. Perhaps that was only natural, as he was unaware that Omi and Koji had witnessed him reduce Yoh to tears.<K>
+  Did Omi even make it to Fuminori's house? She had been riding a wave of emotion when she'd left, and might have calmed down and changed her mind halfway there.<K>
+  Or perhaps she ran into trouble on the way?
+
+  Koji concluded―or, more accurately, convinced himself―that one of these possibilities was the truth, subconsciously denying the one remaining possibility: that Fuminori was lying―that he had met Omi, and was involved with her disappearance.
+
+  When questioned by the police, Koji told the truth about Omi's destination only up to the train station, maintaining that he had no idea where she'd planned to go after that.<K>
+  He wanted to cooperate with the search, of course, but Omi couldn't have made it to Fuminori's house. Fuminori said so himself, didn't he? In that case, he'd told the police everything they needed to know.<K>
+  Not wanting to get the still-fragile Fuminori involved, he forced himself to accept this flimsy logic.<K>
+  But the conflict has built up inside of him without his notice, leaving unanswered suspicion to fester in his mind.
+
+  Koji is deep in thought, paying no attention to his surroundings, but perhaps that is what allows him to catch sight of his friend's back through the crowd of milling students.
+
+<clear>
+<BACKGROUND SRC="media/cg/26.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="耕司" SRC="media/voice/12/001002.ogg">  <I>Fuminori?</I><K>
+  At first, Koji assumes that he's headed to the lecture hall, but it soon appears that he is instead going home.<K>
+  Strange. Medical students have required courses in the afternoon.<K>
+  Though he is initially surprised, Koji's hesitation lasts for only a second.<K>
+  He follows his friend, taking care to stay far enough behind that he won't be noticed.
+
+<bgm src="s02" mode="fadeout" time="20" loop="off">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="media/sound/電車.ogg" mode="normal" loop="off">
+<bgm src="media/sound/s07.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+<BACKGROUND SRC="media/cg/14.png">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+  Fuminori wasn't going home, as became obvious when he boarded a train heading in the opposite direction.<K>
+  Koji's next guess was that he was going to see his doctor at the T University Hospital, but Fuminori rode straight through the closest station.<K>
+<voice name="耕司" SRC="media/voice/12/001102.ogg">  <I>Where is he going?</I>
+
+  At first, Koji felt ashamed for tailing his friend like this, but his conscience fell silent as Fuminori's actions grew more mysterious.<K>
+  The stranger it gets, the closer Koji feels to discovering the truth behind Fuminori's sudden transformation. Any knowledge would be welcome, no matter how slight.
+
+  Even Koji is beginning to think that there must be more behind Fuminori's change than the accident alone. He wants a more satisfying answer, one that will help him decide whether Fuminori can still be trusted.
+
+<clear>
+
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="media/sound/電車ドア.ogg" mode="normal" loop="off">
+<wait time="200">
+<box type="9">
+  Fuminori gets off at a small station in a nondescript suburb of Tokyo. Koji follows, trying not to lose sight of him amid the other disembarking passengers.
+
+<clear>
+<BACKGROUND SRC="media/cg/bk01no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  The area is quite desolate, with only a small bookstore, a convenience store, and a market in front of the train station. It is easy for Koji to keep Fuminori in view.
+
+<clear>
+<BACKGROUND SRC="media/cg/bl01no1.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  This neighboorhood was carved out of the Fuji foothills, and here and there remain steep inclines and wooded areas that escaped assimilation. Koji is amazed that such a quiet place exists less than an hour out of central Tokyo.<K>
+  Fuminori seems to know these streets. He moves quickly and purposefully through the suburban community, his eyes fixed straight ahead.
+
+
+<clear>
+<BACKGROUND SRC="media/cg/bl01no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Before long, Fuminori reaches a house. Without ringing the bell or even knocking, he opens the door and vanishes inside, leaving Koji to wonder how Fuminori can treat the house as his own.
+
+<clear>
+<BACKGROUND SRC="media/cg/be01no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  After waiting to see if Fuminori comes back out, Koji approaches the gate and checks the nameplate.<K>
+  Ogai, it reads.<K>
+  Koji has never heard of anyone by that name among Fuminori's acquaintances.
+
+  Next, his attention is drawn to the thick wad of leaflets sticking out of the mail slot. This, coupled with the general dilapidated feel of the place, suggests that it has been abandoned for some time.
+
+<clear>
+<BACKGROUND SRC="media/cg/bl01no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  A small playground about two blocks away provides an adequate vantage point from which to watch the front of the Ogai home. Fortunately, it does not appear to be the sort of house that has a rear
+exit.<K>
+  Koji settles down on a bench to begin his stakeout.<K>
+  <I>I should've brought more smokes.</I>
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<BACKGROUND SRC="media/cg/bl01re0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  One hour passes, and then another, but there remains no sign of movement around the Ogai residence. Soon twilight settles upon the neighborhood.<K>
+  After Koji's one pack of cigarettes runs out, the stakeout becomes a battle against mounting impatience. He kills time by redialing Omi on his cell and sending her short text messages, but his efforts are futile, as he knew they would be.
+
+<bgm src="s07" mode="fadeout" time="20" loop="off">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<BACKGROUND SRC="media/cg/bl01re0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  When the sky begins to turn deep blue and the streetlights come on, Fuminori finally emerges from the house and heads back toward the station with the same hurried stride.<K>
+  After some brief consideration, Koji decides that right now, investigating the house is more important than tailing Fuminori.
+
+<clear>
+<BACKGROUND SRC="media/cg/be01re0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  He rings the doorbell just to make sure. After receiving the expected silence in response, he checks to make sure no one is watching and turns the doorknob.<K>
+  The door is not locked.
+
+<se id="1" src="media/sound/ドア開け.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="600">
+<clear>
+<se id="1" src="media/sound/臭気.ogg" mode="normal" loop="off">
+<se id="2" src="media/sound/出現1b.ogg" mode="normal" loop="off">
+<BACKGROUND SRC="media/cg/be02da0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  The moment he enters the house, stale air thick with mold and dust fills Koji's nostrils. It is the unmistakable smell of a house that has long lain untouched.<K>
+  There is also a faint hint of something else in the air, something reminiscent of damp sewers and fetid cisterns.<K>
+  Flipping the light switch does nothing. The power must be cut off.
+
+<se id="1" src="media/sound/ライター.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/be02ca0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Koji uses his cigarette lighter to illuminate the immediate area. In the thick dust covering the floor, he sees several brand-new trails of footprints that could only have been made by shoes―Fuminori's. Koji decides to follow suit and dispense with courtesy. He enters with his shoes on.
+
+<se id="1" src="media/sound/耕司足音廊下.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="400">
+<se id="2" src="media/sound/暗闇a.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/be05ca0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  The lighter's flickering flame pushes back the deathly silence and gloom of the house.<K>
+  Koji is surprised to see evidence of life remaining―everything from furniture to tableware and appliances. Nothing seems to be missing.<K>
+  The thickness of the dust suggests that the house has been empty for several months, which means that the owner must have left with little more than the clothes on his back. Could he have gone on a long vacation?
+
+<se id="1" src="media/sound/臭気.ogg" mode="normal" loop="off">
+  The calendar in the den is still turned to April.<K>
+  Empty and silent, yet still exhibiting signs of the life that was once lived there, the house reminds Koji of a passenger ship entombed at the bottom of the sea. In the graveyard-like quiet, a sinister thought suddenly enters his mind.
+
+  No one is living here, but that does not have to mean that the owner left.<K> Maybe he was murdered, and his rotting corpse is right under Koji's 
+feet.<K>
+  He finds himself wanting a stronger light. A flashlight in his hand would make him feel much better.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="400">
+<se id="1" src="media/sound/耕司足音階段1.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/be03ca0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Koji follows Fuminori's footsteps to the second floor, where he begins to catch the scent of paper in the stale air. It is the smell of old books, instantly recognizable to anyone who has worked in an antique bookstore or library.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<bgm src="media/sound/s03.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<clear>
+<BACKGROUND SRC="media/cg/be04ca0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  The first room on the second floor turns out to be a study, its towering shelves packed with such a vast number of books that Koji fears for the stability of the floor. As a medical student himself, he is able to discern at a glance that this study belongs to a medical professional, and a high-level one at that.<K>
+  Judging by the content of the books, a smorgasbord of technical volumes far beyond a simple student's understanding, the owner's interests lie more with medical research than with clinical practice.
+
+  Fuminori must have spent most of his time here. The scattered dust suggests that he was searching for something, and the contents of the desk drawers are in obvious disarray.<K>
+  A small pile of books stacked on the side table catches his eye. Being next to the desk, they must have been the most frequently read. Their nature could shed some light on the character of the person who worked here.
+
+  Koji frowns as he examines the three books. These aren't scientific texts like the rest, but old, leather-bound Western tomes like the sort you would find in a rare book store.<K>
+  The titles are meaningless to him. <I>Traite des Chiffres</I> appears to concern semiotics, but <I>Ars Magna et Ultima</I> is some kind of treatise on... divination?<K>
+  And then there's the <I>Voynich Manuscript</I>, which looks like some sort of picture book.<se id="1" src="media/sound/本めくり.ogg" mode="normal" loop="off"> When he pages through it, he finds the text utterly incomprehensible. Maybe it's some kind of cipher.
+
+  Whatever they are, they clearly have nothing to do with medicine, refuting Koji's earlier guess that this "Ogai" was a doctor.<K>
+  Looking down, Koji suddenly notices the glint of something black and metallic underneath the chair.<K>
+  A pocket-sized flashlight, quite out of place among all these dusty books. Fuminori must have brought it in.
+
+<bgm src="s03" mode="fadeout" time="20" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/be04li0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  With relief, Koji exchanges his lighter for the flashlight. Its tiny body emits a powerful white beam that casts away the darkness.<K>
+  His courage restored, he decides to explore the rest of the house.
+
+<clear>
+<BACKGROUND SRC="media/cg/be03li0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="耕司" SRC="media/voice/12/001202.ogg">  "...Hm?"<K>
+  Koji notices something strange, something that was not visible in the lighter's weak flame.<K>
+<se id="2" src="media/sound/出現1b.ogg" mode="normal" loop="off">
+  The slime.
+
+  Dark, oily stains are everywhere. The stains are especially thick around the doorknobs and stair banisters, like someone grasped them with hands wrapped in greasy cloth.<K>
+  Looking closer, he sees places where slime was splashed low on the walls, almost as if a wet mop was run violently across the floor.
+
+<BUSTUP NAME="耕司" face="困惑" MODE="on" zoom="" ALIGN="left" SRC="media/cg/耕司_困惑.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="耕司" SRC="media/voice/12/001302.ogg">  "......"<K>
+  Could Ogai have made these marks? If so, how? Koji begins to feel sick as he imagines a man shambling through the house with slime dripping from his body.
+
+<bgm src="media/sound/郁紀光景.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<se id="1" src="media/sound/クローゼット開け.ogg" mode="normal" loop="off">
+  Finding the bedroom next to the study, Koji checks the closet on a hunch.<K>
+  He discovers two empty suitcases―not what one would leave behind when going on a long vacation.<K>
+  A sudden chill runs through him. Whoever was living here is still somewhere inside the house.
+
+<se id="1" src="media/sound/耕司足音廊下.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/be03li0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Suppressing the urge to flee, Koji goes back downstairs to check the first floor.<K>
+  If he finds a corpse, he'll have to call the police right away. He might get away with trespassing if he reports it first, but if they find the body later, it'll be awfully hard to explain his fingerprints all over the house.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="400">
+<clear>
+<BACKGROUND SRC="media/cg/be05li0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  The flashlight reveals the den to be covered in even more slime than the rest of the house. The sofa looks as though it was dredged from the bottom of a swamp.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="400">
+<clear>
+<BACKGROUND SRC="media/cg/be06li0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  In the kitchen, Koji takes one look at the sink and decides not to get any closer. He doesn't want any more fuel for his imagination.
+
+  He reaches the door to the bathroom.<K>
+  A common scene from TV dramas flashes through his head―a body with slit wrists floating in a bathtub full of water.<K>
+  And wasn't there a movie where a hitman disposes of his victim in a bathtub filled with lye?
+
+<bgm src="" mode="fadein" old="fadeout" time="10" loop="on">
+<se id="1" src="media/sound/浴室開け.ogg" mode="normal" loop="off">
+  Koji braces himself for the worst and opens the door slowly, then shines his light into the ceramic bathtub that appears from the darkness like a white ghost.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<bgm src="media/sound/s09.ogg" mode="normal" time="0" COUNT="1;-1" LOOP="on">
+<clear>
+<BACKGROUND SRC="media/cg/be07li0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Bones. A mountain of bones, black with dry flesh and blood.<K>
+  Koji puts one hand against the wall to steady himself as his legs threaten to buckle. Something is wrong, he realizes as he tries desperately to get his thoughts in order.<K>
+  The bones are too small, and there are <I>too</I> many of them.<K>
+  They aren't human.
+
+<clear>
+<BACKGROUND SRC="media/cg/15_1.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<se id="1" src="media/sound/耕司足音浴室.ogg" mode="normal" loop="off">
+  After taking several deep breaths to calm himself, Koji enters the bathroom and examines the tub.
+
+  The bones are piled atop each other like fallen leaves. They appear to be from small animals, perhaps cats or dogs.<K>
+  Even so, the quantity is mind-boggling. How many bodies would it take to produce this many bones?
+
+  The bones have all been separated from one another, so it doesn't look like bodies were just thrown into the tub and left to rot. Each bone is covered with deep grooves―marks left by teeth biting through flesh.
+
+  Koji's sanity won't let him consider the possibility that a human could have done this.<K>
+  The owner of this house must have kept some sort of carnivorous animal as a pet, giving it the bones of small animals to eat and disposing of the remains in the bathtub.<K> But why not dispose of the leftovers properly? They could have just been thrown out with the garbage. Or was there something keeping him from leaving the house?<K>
+  The relief Koji felt when he realized that the bones weren't human is once again under attack.
+
+  In the first place, what the hell was Fuminori doing here?
+
+<bgm src="" mode="fadeout" time="0" loop="off">
+//<se id="1" NAME="郁紀" SRC="12\001400" mode="normal" loop="off">
+<voice NAME="郁紀" SRC="media/voice/12/001400.ogg">
+<clear>
+<BACKGROUND SRC="media/cg/15_2.png">//
+<WIPE EFFECT="fade" TIME="5">
+<box type="9">
+  "What's wrong, Koji?"
+
+
+<clear>
+<BACKGROUND SRC="media/cg/be06li0.png">//
+<WIPE EFFECT="fade" TIME="5">
+<box type="9">
+<voice name="耕司" SRC="media/voice/12/001502.ogg">  "!?"
+
+  Koji whirls around, his light revealing Fuminori's expressionless face.<K>
+<voice name="郁紀" SRC="media/voice/12/001600.ogg">  "You're trespassing."<K>
+<voice name="耕司" SRC="media/voice/12/001702.ogg">  "S- So are you," Koji replies, barely managing to speak over the pounding of his heart.
+
+<bgm src="media/sound/s04.ogg" mode="fadein" old="fadeout" time="10" LOOP="on">
+  Fuminori pushes past Koji and looks into the bathtub. He doesn't even flinch at the sight of the bones.<K>
+<voice name="郁紀" SRC="media/voice/12/001800.ogg">  "A friend of mine lives here. I'm just running an errand."<K>
+<voice name="耕司" SRC="media/voice/12/001902.ogg">  "What? Who is this person? Where did you meet them?"<K>
+  Koji doesn't want to believe that the old, friendly Fuminori could have had contact with the denizens of this house.<K>
+<voice name="郁紀" SRC="media/voice/12/002000.ogg">  "I'll introduce you one of these days," he says, turning to leave without even a glance at Koji. "I owe her my life."<K>
+<voice name="耕司" SRC="media/voice/12/002102.ogg">  "Hey, Fuminori!"
+
+<clear>
+<BACKGROUND SRC="media/cg/be05li0.png">//
+<BUSTUP NAME="耕司" face="険しい困惑" MODE="on" zoom="" ALIGN="left" SRC="media/cg/耕司_険しい困惑.png">
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Koji runs after Fuminori. His heart is finally beating normally again.<K>
+<voice name="耕司" SRC="media/voice/12/002202.ogg">  "Wait, is this friend of yours the reason you've been acting so strange?"
+
+<clear>
+<BACKGROUND SRC="media/cg/be02da0.png">//
+<BUSTUP NAME="郁紀" face="激怒口閉じ" MODE="on" zoom="" ALIGN="left" SRC="media/cg/郁紀_激怒口閉じ.png">
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Standing in the entrance, Fuminori glares coldly at Koji over his shoulder. The utter lack of emotion in his eyes gives Koji pause.<K>
+<voice name="郁紀" SRC="media/voice/12/002300.ogg">  "You followed me, didn't you?"<K>
+<voice name="耕司" SRC="media/voice/12/002402.ogg">  "......"<K>
+<se id="1" src="media/sound/生唾.ogg" mode="normal" loop="off">
+  Koji swallows. What can he say?
+
+<voice name="郁紀" SRC="media/voice/12/002500.ogg">  "You're starting to bother me, Koji. Don't do it again."<K>
+<voice name="耕司" SRC="media/voice/12/002602.ogg">  "...Fine."<K>
+<se id="1" src="media/sound/男立ち去り2.ogg" mode="normal" loop="off">
+<BUSTUP NAME="郁紀" face="通常" MODE="off" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+  Fuminori walks away without another word, leaving Koji alone in the entrance.
+
+  Up until this very moment, concern for his friend was still at the forefront of his mind.<K>
+  Now, however, that concern is swiftly giving way to a growing sense of dread.<K>
+  Does the Fuminori he knew no longer exist? Was the person who just stared Koji down an impostor wearing Fuminori's skin?<K>
+  Koji has begun to believe that it might be so.
+
+
+<A HREF="media/script/nps/sy060.nps" OPERATOR="">

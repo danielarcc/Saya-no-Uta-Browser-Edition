@@ -1,0 +1,6 @@
+//＜＜以下、郁紀に電話したルートのみ＞＞
+<MARKER NAME="#郁紀4">
+  After grabbing his new flashlight from the glove compartment and checking that the revolver is still in his pocket, <se id="1" src="media/sound/車ドア開閉.ogg" mode="normal" loop="off">Koji opens the door and gets out of the car.
+
+//<A HREF="#合流4" OPERATOR="">
+<A HREF="media/script/nps/sy185.nps" OPERATOR="">

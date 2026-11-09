@@ -1,0 +1,543 @@
+//鈴見
+<MARKER NAME="#8">
+<bgm src="s05" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="media/sound/s02.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<BACKGROUND SRC="media/cg/bd06no0.png">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+  Two o'clock―for Suzumi Yosuke, this is the most fulfilling time of day.<K>
+  After seeing his wife and daughter off, taking care of the morning chores, and eating a leisurely lunch, it's finally time to sit down at his easel.<K>
+  He's not a particularly popular painter, and he would only hold an exhibition if he were hurting for money. However, the design work he does on the side ensures that there's always enough to support his lifestyle.<K>
+  Alongside the salary his wife earns working for a magazine, they're able to pay their mortgage, send their daughter to school, and still have plenty left over.
+
+<clear>
+<BACKGROUND SRC="media/cg/bd07no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Yosuke's life is perfect―leisurely and absent of want.<K>
+  He loves his house, considering it the symbol of his success. When he mows the lawn, polishes the windows and floors, and cleans the kitchen, toilet, and bath, he feels the same joy as he does when washing his own body.<K>
+  Just as he knows the length of his fingernails and the time since his last meal, he also knows everything about his home's condition: the status of every door, the freshness of every flower, the amount of ice in the ice tray―every last detail. This is his pride, and when he sits in his studio, smelling the turpentine and knowing that each element of his house is in perfect order, he feels the ultimate satisfaction.
+
+  While trying to find the right combination of paints on his palette, he suddenly feels thirsty, but soon remembers that there isn't much orange juice left in the refrigerator.<K>
+  In fact, it's also about time to stock up on bath additive and powdered soap. He could get everything at the supermarket when he goes to shop for dinner, but it will probably be quite heavy.
+
+<clear>
+<BACKGROUND SRC="media/cg/bd02no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  <I>Now then, where should I leave off to go shopping?</I><K>
+  As he ponders this dilemma, he heads downstairs to the kitchen.<K>
+<se id="1" src="media/sound/風2.ogg" mode="normal" loop="off">
+<bgm src="s02" mode="fadeout" time="20" loop="off">
+  Just then, a breath of air tickles the back of his neck, bringing him to a halt in the middle of the hallway.<K>
+  A breeze―impossible. Every window in the house is closed. Yosuke shut them himself during his morning cleaning.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<clear>
+<BACKGROUND SRC="media/cg/bd01no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Yosuke enters the living room, searching for the source of the breeze.<K>
+<se id="1" src="media/sound/暗闇c.ogg" mode="normal" loop="off">
+  Something stinks. It's the same pungent smell of fetid swampland that emanates from the Sakisaka house. The window facing the yard next door is open, its curtains billowing loosely in the gentle breeze.
+
+  There's a hole in the glass next to the lock. It looks strange, like it was melted by some chemical instead of broken. Someone must have reached through the hole to unlock the window.<K>
+<BUSTUP NAME="鈴見" face="通常" MODE="on" zoom="" ALIGN="right" SRC="media/cg/鈴見_通常.png">
+<WIPE EFFECT="fade" TIME="5">
+  Yosuke stands paralyzed, his heart pounding with anger―and fear.<K>
+  He listens carefully, but hears nothing. Perhaps the intruder has already finished his business and left... but a burglar wouldn't have left the room untouched, would he?<K>
+  Maybe he heard Yosuke coming and hid... somewhere nearby.
+
+<bgm src="media/sound/郁紀光景.ogg" mode="fadein" old="fadeout" time="10"  LOOP="on">
+<se id="1" src="media/sound/心音.ogg" mode="normal" loop="on">
+  Yosuke realizes that his still-wet palette knife is in his right hand. He must have forgotten to put it aside before going downstairs.<K>
+  He stares numbly at the knife for a moment, then decides that it's not enough protection.<K>
+<se id="2" src="media/sound/灰皿持つ.ogg" mode="normal" loop="off">
+<BUSTUP NAME="鈴見" face="通常" MODE="off" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+  Instead, he grabs the ashtray sitting on top of the table. Made of thick, solid glass, it is big and heavy enough to serve as a weapon.<K>
+  The home that he thought of as part of himself now seems utterly alien.
+
+  Keenly aware of the thumping of his heart, Yosuke looks around the living room and sees little that could be used as a hiding place. The intruder must have gone either to the guest room or through the dining room to the kitchen.<K>
+  The kitchen is close to the stairs. If there had been movement, Yosuke would have noticed it when he came down... which means that the guest room is the most likely place.<K>
+  He shuffles over to the guest room door and prepares to slide it open.<K>
+  But what is that stench? Could the breeze alone carry something so foul? It's as if the odor is coming from inside the room.<K>
+  He readies his ashtray and throws open the door.
+
+<se id="1" src="media/sound/引き戸.ogg" mode="normal" loop="off">
+<bgm src="" mode="normal" time="0" loop="on">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="0">
+<wait time="600">
+
+<clear>
+<BACKGROUND SRC="media/cg/bd04no0.png">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+  The straw-matted, Japanese-style room is empty. There is a closet, but no one could fit in there.<K>
+  So the intruder already left. Yosuke relaxes, the exhaustion of sudden relief coming over him.<K>
+<se id="1" src="media/sound/触手6.ogg" mode="normal" loop="off">
+  And that is when something seizes his ankle.
+
+<se id="1" src="media/sound/触手1.ogg" mode="normal" loop="off">
+<bgm src="media/sound/s09.ogg" mode="normal" time="0" loop="on">
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="media/cg/bd01no0.png">//
+<WIPE EFFECT="fade" TIME="0">
+<wait time="200">
+<box type="9">
+  The instant he freezes in shock, his leg is yanked out from under him, sending him crashing to the floor. Stars explode behind his eyes as his head smacks against the door rail.
+
+  The hand―if it can even be called that―wrapped around Yosuke's ankle extends all the way back to beneath the living room sofa.<K>
+  There are barely five centimeters between the sofa and the floor. Whatever is hiding there―<K>it can't possibly be human.<K>
+
+
+<voice name="洋佑" SRC="media/voice/16/000103.ogg">  "AHHHHHHH!"<K>
+<se id="1" src="media/sound/触手2.ogg" mode="normal" loop="off">
+  Before the screaming Yosuke can regain his footing, countless hand-like appendages seize his arms and legs, rendering him helpless.
+
+<box type="5">
+<voice name="沙耶" SRC="media/voice/16/000201.ogg">"CALm doWn. DOn't BE sCarEd."
+
+<box type="9">
+<se id="1" src="media/sound/くちゃくちゃ1.ogg" mode="normal" loop="off">  As the hideous voice burbles in his ear, something cold and soft crawls atop him.<K>
+<voice name="洋佑" SRC="media/voice/16/000303.ogg">  Yosuke can't even scream, his terror is so great.
+
+<box type="5">
+<voice name="沙耶" SRC="media/voice/16/000401.ogg">"iT wON't HUrT. Don'T bE sCarED. IT WOn't hURT."
+
+<se id="1" src="media/sound/沙耶攻撃2.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<LAYER SRC="#ff0000" TRANSPARENT="50" NUM="1">
+<BACKGROUND SRC="media/cg/bd01no0.png">//
+<WIPE EFFECT="fade" TIME="0">
+<box type="9">
+  Thin, tubelike appendages penetrate his ears and nose, wriggling deep into his skull.<K>
+  Right before the sensation drives him mad, Yosuke loses consciousness.
+
+//病院：耕司
+<bgm src="s09" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="media/sound/s07.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+<BACKGROUND SRC="media/cg/bb01no0.png">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<BUSTUP NAME="瑶" face="困り2" MODE="on" zoom="" ALIGN="left" SRC="media/cg/瑶_困り2.png">
+<BUSTUP NAME="耕司" face="通常ムス" MODE="on" zoom="" ALIGN="right" SRC="media/cg/耕司_通常ムス.png">
+<WIPE EFFECT="fade" TIME="5">
+<box type="9">
+<voice name="耕司" SRC="media/voice/17/000102.ogg">  "Thank you for taking the time to see us," Koji says, his humble bow concealing his surprise at the doctor's youth. Even without her light makeup, she wouldn't look a day over thirty. She must be quite talented to be a leading neurosurgeon at such a young age.
+
+<clear>
+<BACKGROUND SRC="media/cg/32.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="凉子" SRC="media/voice/17/000206.ogg">  "Don't mention it. I was hoping somebody like you would come along."<K>
+   Her friendly smile has none of the coldness one might expect from her sharp, refined beauty.<K>
+<voice name="凉子" SRC="media/voice/17/000306.ogg">  "It's a pleasure to meet you. I'm Dr. Tanbo, Sakisaka Fuminori's attending physician."<K>
+<voice name="耕司" SRC="media/voice/17/000402.ogg">  "I'm Fuminori's friend Tonoh Koji. This is Tsukuba Yoh."<K>
+  Yoh gives a quick bow, her expression apologetic.
+
+  When they arrived at the T University Medical Center and asked to see Fuminori's doctor, Koji and Yoh had been prepared for rejection. They hadn't expected the ease with which their request was granted.<K>
+<voice name="凉子" SRC="media/voice/17/000506.ogg">  "You say you want to know what's wrong with him. Well, so do I."<K>
+<voice name="耕司" SRC="media/voice/17/000602.ogg">  "I'm sorry?"<K>
+<voice name="凉子" SRC="media/voice/17/000706.ogg">  "He didn't come in for his checkup two days ago. I tried calling his home, but there was no answer."<K>
+  Two days ago... the same day Fuminori was searching that abandoned house. Koji frowns, wondering what was important enough for him to blow off his appointment.<K>
+<voice name="凉子" SRC="media/voice/17/000806.ogg">  "What is he like at school?"<K>
+<voice name="耕司" SRC="media/voice/17/000902.ogg">  "He's... totally messed up."
+
+<clear>
+<BACKGROUND SRC="media/cg/bb01no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Seeing Yoh's shoulders jerk out of the corner of his eye, Koji regrets not choosing his words more carefully.<K>
+<voice name="耕司" SRC="media/voice/17/001002.ogg">  "Since the accident, he's been like a completely different person.<k><voice name="耕司" SRC="media/voice/17/001002_2.ogg"> We have no idea what to do. So we thought that talking to you might help."
+
+<BUSTUP NAME="凉子" face="困惑通常" MODE="on" zoom="" ALIGN="left" SRC="media/cg/凉子_困惑通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="凉子" SRC="media/voice/17/001106.ogg">  "Are you medical students too?" she asks out of nowhere.<K>
+<voice name="耕司" SRC="media/voice/17/001202.ogg">  "Huh? Well, yes."<K>
+<voice name="凉子" SRC="media/voice/17/001306.ogg">  "Would you like to see his chart?"<K>
+<voice name="耕司" SRC="media/voice/17/001402.ogg">  "You'd really show it to us?" Koji replies, incredulous.<K>
+  Dr. Tanbo regards him silently for a moment, then sighs and says, <voice name="凉子" SRC="media/voice/17/001506.ogg">"Someone wanted to see it―and without the hospital's permission.<K> <voice name="凉子" SRC="media/voice/17/001606.ogg">His files were stolen from the archives two nights ago."<K>
+<voice name="耕司" SRC="media/voice/17/001702.ogg">  "What!?"
+
+<BUSTUP NAME="凉子" face="通常" MODE="on" zoom="" ALIGN="left" SRC="media/cg/凉子_通常.png">
+<WIPE EFFECT="fade" TIME="5">
+  She stares hard at the astonished students, then shakes her head with a tired smile.<K>
+<voice name="凉子" SRC="media/voice/17/001806.ogg">  "Well, it doesn't look like you two are involved. That's a relief."<K>
+<voice name="耕司" SRC="media/voice/17/001902.ogg">  "O- Of course we aren't!"<K>
+<BUSTUP NAME="凉子" face="困惑通常" MODE="on" zoom="" ALIGN="left" SRC="media/cg/凉子_困惑通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="凉子" SRC="media/voice/17/002006.ogg">  "However, the culprit must have had an interest in his condition―or wanted to erase his records.<k><voice name="凉子" SRC="media/voice/17/002006_2.ogg"> Either way, I can only assume that it was someone close to him."<K>
+<BUSTUP NAME="耕司" face="困惑ムス" MODE="on" zoom="" ALIGN="right" SRC="media/cg/耕司_困惑ムス.png">
+<BUSTUP NAME="凉子" face="困惑通常" MODE="off" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="耕司" SRC="media/voice/17/002102.ogg">  "I see..."<K>
+  An ominous thought flashes through Koji's mind―it couldn't have been Fuminori himself, could it?<K>
+  Koji looks at Dr. Tanbo and finds her staring right back at him, her expression grave. He realizes that she must be harboring the same suspicion.
+
+<clear>
+<BACKGROUND SRC="media/cg/32.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="凉子" SRC="media/voice/17/002206.ogg">  "What do you think? Do you have any idea who might have done it?"<K>
+  Perhaps Dr. Tanbo didn't have anyone in mind when she asked, but Koji's thoughts immediately fly to that eerie house to which Fuminori led him.<K>
+<voice name="耕司" SRC="media/voice/17/002302.ogg">  "I don't really know what their relationship is, but there's someone called Ogai, probably a doctor or a..."
+
+<clear>
+<BACKGROUND SRC="media/cg/bb01no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Koji stops speaking as he sees the dramatic change that has come across Dr. Tanbo's expression.<K>
+<BUSTUP NAME="耕司" face="険しい困惑" MODE="on" zoom="" ALIGN="right" SRC="media/cg/耕司_険しい困惑.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="耕司" SRC="media/voice/17/002402.ogg">  "...You know Dr. Ogai?"<K>
+<voice name="凉子" SRC="media/voice/17/002506.ogg">  "Do you know when and where Fuminori met that man?"<K>
+<voice name="耕司" SRC="media/voice/17/002602.ogg">  "No, that's what I'd like to know. Just who is this Ogai?"
+
+<BUSTUP NAME="凉子" face="困惑半開き" MODE="on" zoom="" ALIGN="left" SRC="media/cg/凉子_困惑半開き.png">
+<BUSTUP NAME="耕司" face="険しい困惑" MODE="off" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+  After remaining silent for some time, Dr. Tanbo looses a heavy sigh.<K>
+<BUSTUP NAME="凉子" face="困惑通常" MODE="on" zoom="" ALIGN="left" SRC="media/cg/凉子_困惑通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="凉子" SRC="media/voice/17/002706.ogg">  "Alright. It's not like you couldn't find out on your own. Ogai Masahiko was a doctor teaching at this hospital.<k><voice name="凉子" SRC="media/voice/17/002706_2.ogg"> He was dismissed over six months ago, however, following certain incidents."<K>
+<voice name="耕司" SRC="media/voice/17/002802.ogg">  "What incidents? What did he do?"<K>
+<voice name="凉子" SRC="media/voice/17/002906.ogg">  "I can't say any more. And anyway, it has nothing to do with your friend."<K>
+  Koji has no argument with which to answer Dr. Tanbo's flat rejection. However, he can't shake the feeling that this Ogai person is the key to unraveling the mystery surrounding Fuminori.
+
+<BUSTUP NAME="耕司" face="困惑ムス" MODE="on" zoom="" ALIGN="right" SRC="media/cg/耕司_困惑ムス.png">
+<BUSTUP NAME="凉子" face="困惑通常" MODE="off" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="耕司" SRC="media/voice/17/003002.ogg">  "Doctor," he says, making up his mind. "Fuminori might be... involved in a crime."<K>
+  At this sudden declaration, both Yoh and Dr. Tanbo raise their eyebrows.<K>
+<voice name="凉子" SRC="media/voice/17/003106.ogg">  "What do you mean?"<K>
+<voice name="耕司" SRC="media/voice/17/003202.ogg">  "A friend of ours went missing after going to see him. Fuminori denies any involvement, of course."
+
+<BUSTUP NAME="瑶" face="困り1" MODE="on" zoom="" ALIGN="left" SRC="media/cg/瑶_困り1.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="瑶" SRC="media/voice/17/003305.ogg">  "You mean... Omi?"<K>
+  Koji is unable to bear the shock in Yoh's voice.<K>
+<voice name="耕司" SRC="media/voice/17/003402.ogg">  "Sorry, Tsukuba... I couldn't tell you."<K>
+  Dr. Tanbo is frowning, her expression even more serious than before.<K>
+<voice name="耕司" SRC="media/voice/17/003502.ogg">  "Right now, this Ogai seems to be the center of Fuminori's attention.<k><voice name="耕司" SRC="media/voice/17/003502_2.ogg"> If we know who he is and what Fuminori's looking for, we might start to see the whole picture.<K><voice name="耕司" SRC="media/voice/17/003602.ogg"> Please tell us, doctor. Just what happened at this hospital?"
+
+<BUSTUP NAME="凉子" face="困惑通常" MODE="on" zoom="" ALIGN="left" SRC="media/cg/凉子_困惑通常.png">
+<BUSTUP NAME="耕司" face="険しい困惑" MODE="off" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="凉子" SRC="media/voice/17/003706.ogg">  "......"<K>
+  Dr. Tanbo hesitates for some time, refusing to make eye contact, but she finally shakes her head.<K>
+<voice name="凉子" SRC="media/voice/17/003806.ogg">  "I'm sorry. This is not a decision I can make on my own."<K>
+<voice name="耕司" SRC="media/voice/17/003902.ogg">  "Doctor..."<K>
+<voice name="凉子" SRC="media/voice/17/004006.ogg">  "Give me some time. I'll do my own investigating now that I know how far this has gone."<K> 
+<voice name="耕司" SRC="media/voice/17/004102.ogg">  "Please."<K>
+  Koji is out of options. All that's left is to trust this young doctor. It's frustrating, but a friend's rights only go so far.
+
+<voice name="凉子" SRC="media/voice/17/004206.ogg">  "Let's exchange cell phone numbers. I'll call you if I learn anything, and you call me the moment anything changes."<K>
+<voice name="耕司" SRC="media/voice/17/004302.ogg">  "Alright."
+
+//鈴見
+<bgm src="s07" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+  <I>What the... What happened to me?</I><K>
+  Yosuke's awareness returns slowly, as though rising from a bog.<K>
+  He's cold... no, hot.<K>
+<se id="1" src="media/sound/くちゃくちゃ2.ogg" mode="normal" loop="off">
+  Something itches, like tepid tongues and cold slugs crawling over his skin.<K>
+  <I>What the hell's going on?</I><K>
+  Timidly, he opens his eyes.
+
+<bgm src="media/sound/s01.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<clear>
+<BACKGROUND SRC="media/cg/bd05me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="洋佑" SRC="media/voice/18/000103.ogg">  "Wha..."<K>
+  It's everywhere.<K>
+  The thing that attacked him in the living room―it's everywhere!<K>
+  Terror shatters Yosuke's sanity.
+
+<voice name="洋佑" SRC="media/voice/18/000203.ogg">  "AHHHHHHHHHHH!"<K>
+  He throws off the thing lying atop him, but his wild flailing sends him crashing to the floor.<K>
+  But is it really the floor? The long, wriggling fibers of what should be the carpet are winding themselves around his fingers.<K>
+  The floor is made of worms.
+
+<voice NAME="洋佑" SRC="media/voice/18/000303.ogg">
+<se id="1" src="media/sound/蚯蚓.ogg" mode="normal" loop="off">
+  He tears his limbs free of the worms and tries to stand, but loses his balance and tumbles to the floor again. The worms immediately swarm over his body.<K>
+  <I>Where am I!? Where did that thing take me!?</I><K>
+<se id="1" src="media/sound/くちゃくちゃ2.ogg" mode="normal" loop="off">
+  Yosuke crawls across the worm-ridden floor toward the only exit from the pulsating room.
+
+<clear>
+<BACKGROUND SRC="media/cg/bd06me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  When he gets outside, however, all he can see is blood, bile, and rotten meat. There is no place to run.<K>
+<voice name="洋佑" SRC="media/voice/18/000403.ogg">  "What is this!?"<K>
+  Most terrifying of all, this hellish place has the same layout as Yosuke's house. In a half-mad daze, he wanders through the nightmarish mockery of his home.
+
+<clear>
+<BACKGROUND SRC="media/cg/bd07me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  In the small room where his studio should be, he finds an easel made of bones displaying a blood-soaked canvas. Like some cruel joke, everything is exactly where it would be in Yosuke's studio.<K>
+<voice name="洋佑" SRC="media/voice/18/000503.ogg">  "Dammit, let me out! Let me out of here!!"<K>
+<se id="1" src="media/sound/鈴見混乱.ogg" mode="normal" loop="off">
+  Howling, Yosuke lashes out against everything within reach.<K>
+  The easel of bone shatters, driving splinters into his fist.<K>
+  He feels the pain, but does not wake from the nightmare. If this isn't a dream, then what is it?<K>
+  When his strength gives out, Yosuke falls to his knees, sobbing. For the first time in his life, he prays.
+
+<se id="1" src="media/sound/ドアきしみ.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/17_2.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  The sound of the door opening and closing grates on his ears.<K>
+  <I>Downstairs... the front door? Is someone else here?</I><K>
+<voice name="妻" SRC="media/voice/18/000607.ogg">  "wE'RE hOmE!"<K>
+  Yosuke trembles at the bloodcurdling sound. It's that thing again; the monster has returned.<K>
+<voice name="博美" SRC="media/voice/18/000708.ogg">  "DadDY, wE'RE hoMe! WhERe's DiNnER?"<K>
+<voice name="妻" SRC="media/voice/18/000807.ogg">  "OH, hE'S nOt HeRE? dID hE go ShOPpInG?"<K>
+<voice name="博美" SRC="media/voice/18/000908.ogg">  "WHEn cAN we eAt?"
+
+<se id="1" src="media/sound/怪物足音階段.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/17.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Yosuke hears the sound of something slimy sloshing its way up the stairs. Even as he cowers in terror, he slides his trembling hand across the floor and grabs one of the bones from the broken easel.<K>
+  The tip of the bone is nice and sharp. If he holds it in both hands and puts his weight behind it, he might be able to use it to defend himself.
+
+<se id="1" src="media/sound/心音.ogg" mode="normal" loop="on">
+<voice name="妻" SRC="media/voice/18/001007.ogg">  "HonEY, aRe YOu hoMe?"<K>
+  The monster's growls are getting closer. Holding his breath, Yosuke presses his back against the wall next to the door.<K>
+  The pounding of his heart is like thunder in his ears, so loud that he fears the creature might hear it. He knows it will eat him if it finds him again, but it's all he can do to keep from crying.
+
+<clear>
+<BACKGROUND SRC="media/cg/bd07me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="9">
+  At last,<se id="1" src="media/sound/ドアきしみ.ogg" mode="normal" loop="off"> the door creaks open...
+
+<clear>
+<BACKGROUND SRC="media/cg/bp02me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="9">
+<voice name="妻" SRC="media/voice/18/001107.ogg">  "HONEy?"
+
+<clear>
+<BACKGROUND SRC="media/cg/bd06me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="洋佑" SRC="media/voice/18/001203.ogg">  Yosuke leaps on the creature as it enters, fear turning his roar into a high-pitched scream.<K>
+  The flesh-beast is covered in sludge and vile juices, but before horror can paralyze him, Yosuke brings his bone-stake stabbing down.
+
+<se id="1" src="media/sound/鈴見攻撃1.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="media/cg/bp01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="0">
+<box type="9">
+<voice name="妻" SRC="media/voice/18/001307.ogg">  The monster screams as the stake pierces its chest and punches through to the other side. It falls back, writhing in agony.<K>
+  The sight of its pain sets Yosuke's blood on fire.
+
+<clear>
+<BACKGROUND SRC="media/cg/bd06me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  <I>I can win. I can kill it! If I finish it off before it enters my head again, I'm safe!</I>
+
+<se id="1" src="media/sound/鈴見攻撃2.ogg" mode="normal" loop="off">
+<FLASH SRC="#ffffff" WAIT="1" COUNT="3" EFFECT="normal" TIME="0">
+<voice name="洋佑" SRC="media/voice/18/001403.ogg">  Yosuke grabs the bone and twists with all his might. The monster convulses and gurgles, its trembling tentacles reaching up as though begging for help.
+
+<voice name="洋佑" SRC="media/voice/18/001503.ogg">  "Die! Die! DIE!"<K>
+<se id="1" src="media/sound/鈴見攻撃3.ogg" mode="normal" loop="off">
+<FLASH SRC="#ffffff" WAIT="1" COUNT="3" EFFECT="normal" TIME="0">
+  Yosuke knocks it to the floor, then brings his heel crashing down on its flopping body again and again. With each stomp, its groans and spasms grow weaker.<K>
+  When the monster at last stops twitching, Yosuke, panting hard, tears the stake from its corpse and rises to his feet.<K>
+<voice name="博美" SRC="media/voice/18/001608.ogg">  "...DadDY?" something squeals.<K>
+  Yosuke turns around to see another, smaller monster peeking out at him from the stair landing.
+
+  <I>There's still one left.</I><K>
+  His desperate, rage-filled attack both exhilarated him and gave him a taste for violence. This one will be easier; it's smaller and weaker.<K>
+  Grinning maniacally, Yosuke raises his stake and moves toward the second creature.<K>
+<voice name="博美" SRC="media/voice/18/001808.ogg">  The monster flees screaming down the stairs.
+
+<clear>
+<BACKGROUND SRC="media/cg/bd02me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Not about to let his prey escape, Yosuke roars and gives chase. The thought that killing the monsters might end this nightmare feeds his savage bloodlust.<K>
+<voice name="博美" SRC="media/voice/18/001708.ogg">  "NO, DaDdy! nO!"
+
+<clear>
+<BACKGROUND SRC="media/cg/19.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  When the monster trips and falls in the dining room, Yosuke leaps on top of it and brings the stake crashing down.<se id="1" src="media/sound/鈴見攻撃4.ogg" mode="normal" loop="off"> His bloodlust unsated, he pulls it free, then drives it again into the monster's flesh―once, twice, three times, and more―until there is nothing left but shredded, pulverized meat.
+
+<se id="1" src="" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bd01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Eventually, the only sound in the house is Yosuke's heavy breathing.
+
+  He has slain two monsters, but the nightmare shows no sign of ending.<K>
+  Yosuke staggers to the front door and goes outside.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="media/sound/郁紀光景.ogg" mode="normal" loop="off">
+<BACKGROUND SRC="media/cg/bc01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="洋佑" SRC="media/voice/18/001803.ogg">  "Hahahahahahaha..."
+  The sky, the city―everything has gone mad.<K>
+  Twisted shapes, nauseating colors, stinking air.<K>
+  There is no escape. No end to the nightmare.<K>
+  The last remnant of Yosuke's sanity vanishes like dust in the wind.
+
+<voice name="沙耶" SRC="media/voice/18/001901.ogg">  "Hi, mister."<K>
+  Yosuke turns to the sound of a girl's voice.
+
+<clear>
+<BACKGROUND SRC="media/cg/18.png" EX="1">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  She is standing in front of the house next door, wearing a spotless one piece over her pure white skin. In the midst of this filth-ridden world, she alone glows with beauty.<K>
+<voice name="沙耶" SRC="media/voice/18/002001.ogg">  "How do I look to you, mister?"<K>
+<voice name="洋佑" SRC="media/voice/18/002103.ogg">  "You're... very cute."<K>
+  Yosuke loses control and attacks Saya. She tries to escape, but he catches her. What follows leaves her frightened and hurt.<K>
+
+
+
+
+
+
+
+
+
+
+
+<clear>
+<BACKGROUND SRC="media/cg/bc01me0.png" shade="4">
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+
+
+<FLASH SRC="#ffffff" WAIT="1" COUNT="1" EFFECT="normal" TIME="0">
+
+
+
+
+
+
+
+<clear>
+<BACKGROUND SRC="media/cg/bc03me0.png" shade="4">
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+
+
+
+<clear>
+<BACKGROUND SRC="media/cg/h08.png">
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+
+
+
+
+<FLASH SRC="#ffffff" WAIT="1" COUNT="3" EFFECT="normal" TIME="0">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<clear>
+<BACKGROUND SRC="media/cg/h07.png">
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+
+
+
+
+
+
+
+
+<clear>
+<BACKGROUND SRC="media/cg/h09_2.png">
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+
+
+
+
+
+<A HREF="media/script/nps/sy090.nps" OPERATOR="">

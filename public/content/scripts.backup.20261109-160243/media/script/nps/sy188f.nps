@@ -1,0 +1,142 @@
+<MARKER NAME="#郁紀8">
+
+  Twenty years of memories in the light of the sun―if they were indeed precious to him, then he should never have come to this place.<K>
+  The black flames of despair rise within him, consuming fear and revulsion and pity. Only rage and hate remain. Every cell in his body cries out for vengeance, for the blood of the man who poisoned him with truth and tore him from the womb of innocence.<K>
+  And then Koji, slave to hate, hears the sound of someone sneaking up behind him.
+
+<se id="1" src="media/sound/耕司攻撃3.ogg" mode="normal" loop="off">
+<FLASH SRC="#ffffff" WAIT="1" COUNT="1" EFFECT="normal" TIME="0">
+  Koji whirls, swinging his pipe with all the force he can muster.<K>
+  His enemy hastily leaps back to avoid the strike, surprised by his failure to catch Koji off guard. Twisted shadows dance in the beam of the light on the floor.
+
+<se id="1" src="media/sound/鉄パイプ構え.ogg" mode="normal" loop="off">
+  Readying his pipe for the next blow, Koji faces off against his second attacker.<K>
+<voice name="耕司" SRC="media/voice/40/002102.ogg">  "Sakisaka... Fuminori!"<K>
+  Before this moment, Koji could never have imagined that he would ever speak his friend's name with such hatred.
+
+<BUSTUP NAME="郁紀" face="斧笑い" MODE="on" zoom="" ALIGN="right" SRC="media/cg/郁紀_斧笑い.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="郁紀" SRC="media/voice/40/002200.ogg">  "Hey, that was a pretty heavy swing just now. You trying to kill me or something?"<K>
+  Even now, Fuminori is smiling, as though the huge axe in his hands is just a sick joke.<K>
+<voice name="郁紀" SRC="media/voice/40/002300.ogg">  "Damn, Koji. I thought you'd hesitate."
+
+<BUSTUP NAME="郁紀" face="通常" MODE="off" zoom="" ALIGN="right">
+<BUSTUP NAME="耕司" face="戦闘怒り2" MODE="on" zoom="" ALIGN="left" SRC="media/cg/耕司_戦闘怒り2.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="耕司" SRC="media/voice/40/002402.ogg">  "You thought I'd hesitate? Against <I>you</I>?"<K>
+  Koji sneers too, unable to contain his contempt for the notion.<K>
+<voice name="耕司" SRC="media/voice/40/002502.ogg">  "How did you kill Omi, you piece of shit? What did you do to Tsukuba? After all this, you expect me to think twice about killing you?"<K>
+<BUSTUP NAME="耕司" face="怯え2" MODE="off" zoom="" ALIGN="left">
+<BUSTUP NAME="郁紀" face="斧怒り" MODE="on" zoom="" ALIGN="right" SRC="media/cg/郁紀_斧怒り.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="郁紀" SRC="media/voice/40/002600.ogg">  "That's my line, Koji," Fuminori growls, looking sadly at the pile of dead flesh at Koji's feet.<K><voice name="郁紀" SRC="media/voice/40/002700.ogg"> "How could you do such a horrible thing to Yoh? I'll make sure you suffer before I kill you."
+
+<se id="1" src="media/sound/斧風切り1.ogg" mode="normal" loop="off">
+<bgm src="" mode="normal" time="0" loop="off">
+<bgm src="media/sound/s10.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+<clear>
+<BACKGROUND SRC="media/cg/49.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  The blade of Fuminori's axe carves a murderous arc through the darkness, glittering menacingly in the faint light coming from the floor.<K>
+<se id="1" src="media/sound/戦闘4.ogg" mode="normal" loop="off">
+<FLASH SRC="#ffffff" WAIT="1" COUNT="1" EFFECT="normal" TIME="0">
+  Koji raises his pipe to block the ferocious swing. The heavy impact numbs his arms, but his large frame takes the blow without giving any ground.
+
+<se id="1" src="media/sound/戦闘1.ogg" mode="normal" loop="off">
+<FLASH SRC="#ffffff" WAIT="1" COUNT="1" EFFECT="normal" TIME="0">
+  Fuminori presses the attack, delivering a second blow and a third. His axe, designed for chopping down trees, is deadlier and more durable than the piece of pipe Koji found discarded on the floor. Each strike Koji blocks sends chunks of rust flying from his makeshift weapon.<K>
+<se id="1" src="media/sound/戦闘1.ogg" mode="normal" loop="off">
+<FLASH SRC="#ffffff" WAIT="1" COUNT="1" EFFECT="normal" TIME="0">
+  He can't win as long as he's on the defensive. He needs to create an opportunity to attack.
+
+<voice name="耕司" SRC="media/voice/40/002802.ogg">  "Bastard!"<K>
+<se id="1" src="media/sound/戦闘2.ogg" mode="normal" loop="off">
+<FLASH SRC="#ffffff" WAIT="1" COUNT="1" EFFECT="normal" TIME="0">
+  Koji blocks a crushing downward swing, then pushes back hard before Fuminori can pull away, throwing him off balance.<K> Fuminori stumbles backward, then plants his feet to steady himself.<K>
+<se id="1" src="media/sound/耕司ローキック.ogg" mode="normal" loop="off">
+<FLASH SRC="#ffffff" WAIT="1" COUNT="1" EFFECT="normal" TIME="0">
+  Taking advantage of his opponent's temporary immobility, Koji delivers a punishing low kick to Fuminori's outer thigh.
+
+<clear>
+<BACKGROUND SRC="media/cg/bg04ni0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="郁紀" SRC="media/voice/40/002900.ogg">  "Guh!"<K>
+<se id="1" src="media/sound/斧風切り2.ogg" mode="normal" loop="off">
+  Fuminori grunts and retreats, swinging his axe wildly to prevent Koji from following up with another attack.<K>
+  Koji, however, does not press his advantage. He just stands where he is, calmly spearing Fuminori with his stare.<K>
+<BUSTUP NAME="耕司" face="戦闘険しく怯え" MODE="on" zoom="" ALIGN="left" SRC="media/cg/耕司_戦闘険しく怯え.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="耕司" SRC="media/voice/40/003002.ogg">  "You've never been in a fight, have you?"
+
+<clear>
+<BACKGROUND SRC="media/cg/49.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice NAME="郁紀" SRC="media/voice/40/003100.ogg">
+<se id="1" src="media/sound/戦闘3.ogg" mode="normal" loop="on">
+  Fuminori roars and comes in for another attack, but the damage to his right leg seems to be slowing his swing.<K>
+  Easily blocking the axe with his pipe, Koji waits for Fuminori to exhaust himself.
+
+<voice name="郁紀" SRC="media/voice/40/003200.ogg">  "Die! Die!!"<K>
+  Fuminori delivers blow after heavy blow, howling savagely all the while. What he does not realize, however, is that the situation now favors composure, not brute force.
+
+<se id="1" src="media/sound/斧風切り1.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bg04ni0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="9">
+  When Fuminori raises his axe high for yet another attack, Koji sees that his movements have grown dull enough. Seizing the opportunity, Koji charges into Fuminori's range and <se id="1" src="media/sound/戦闘5.ogg" mode="normal" loop="off">grabs the haft of the axe with his left hand.<K>
+<voice name="郁紀" SRC="media/voice/40/003300.ogg">  "!?"<K>
+  As Fuminori recoils in fear, Koji swings his pipe hard at his enemy's unprotected side.<K>
+<se id="1" src="media/sound/鉄パイプ骨折り.ogg" mode="normal" loop="off">
+<FLASH SRC="#ffffff" WAIT="1" COUNT="1" EFFECT="normal" TIME="0">
+  He feels the crunch of ribs breaking.<K>
+<voice name="郁紀" SRC="media/voice/40/003400.ogg">  "Gah!"
+
+<BUSTUP NAME="耕司" face="戦闘" MODE="on" zoom="" ALIGN="left" SRC="media/cg/耕司_戦闘.png">
+<WIPE EFFECT="fade" TIME="5">
+  The pain drives Fuminori to his knees. Staring down at Fuminori's defenseless head, Koji, surprised by his own lack of emotion, raises his pipe high to deliver the finishing blow.<K>
+<se id="1" src="media/sound/触手6.ogg" mode="normal" loop="off">
+  Which is when something wraps itself around his left ankle.
+
+<BUSTUP NAME="耕司" face="戦闘怯え怒り" MODE="on" zoom="" ALIGN="left" SRC="media/cg/耕司_戦闘怯え怒り.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="耕司" SRC="media/voice/40/003502.ogg">  "What!?"
+
+<se id="1" src="media/sound/触手1.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="media/cg/bg04ni0.png">//
+
+<WIPE EFFECT="fade" TIME="0">
+<box type="9">
+  The instant Koji panics at the unexpected sensation, something soft yet strong winds itself around his right leg and drags him to the floor before he can resist.<K>
+  He twists his body and tries to swing the pipe at the unseen enemy behind him, but his right hand, too, is seized by the same flexible force.<K>
+  He wasn't able to feel it through his pants, but now his blood turns to ice at the cold, slimy sensation of the thing wrapped around his uncovered wrist.<K>
+  <I>That monster's still alive!?</I>
+
+<voice name="郁紀" SRC="media/voice/40/003600.ogg">  "That's it... Saya," Fuminori says encouragingly. Even while kneeling on the floor, his face twisted in pain, he manages a terrible, victorious grin.
+
+  Saya.<K>
+  This monster is Saya.
+
+  Koji struggles desperately to free his limbs from the creature's slimy grip.<K>
+<se id="1" src="media/sound/くちゃくちゃ6.ogg" mode="normal" loop="on">
+  But more tentacles swarm over his body, stealing his freedom of movement.
+
+<voice name="耕司" SRC="media/voice/40/003702.ogg">  "AHHHHHHHH!"<K>
+  The horror has already driven Koji half mad. Just imagining the creature's appearance is enough to send him into a mindless panic.<K>
+  His scream is suddenly cut off as a slimy appendage seizes his throat. This most deadly tentacle isn't just cutting off his windpipe. It's trying to snap his neck... and it's getting tighter.
+
+
+//<A HREF="#badend" OPERATOR="badend=1">
+//<A HREF="#madend" OPERATOR="">
+//＜＜分岐・郁紀に電話した？　凉子に電話した？＞＞
+<A HREF="media/script/nps/sy190badend.nps" OPERATOR="badend=1">
+<A HREF="media/script/nps/sy200madend.nps" OPERATOR="">

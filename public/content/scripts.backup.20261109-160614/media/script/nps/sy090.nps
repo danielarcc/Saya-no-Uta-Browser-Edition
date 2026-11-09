@@ -1,0 +1,211 @@
+﻿//匂坂邸：郁紀
+<MARKER NAME="#9">
+<bgm src="s01" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="media/sound/s04.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<BACKGROUND SRC="media/cg/bj01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="20">
+<se id="2" src="media/sound/郁紀光景2.ogg" mode="normal" loop="on">
+<wait time="200">
+<box type="9">
+
+  As always, the sights of the city grate on my nerves. Today, however, I don't feel as much hatred as I usually do.<K>
+  I have grown more accustomed to my condition, but that is not the reason for today's high spirits. My search of the Ogai house has finally borne fruit.
+
+  When I pulled all the drawers out of the desk in the study, I found an envelope stuck between the desk and the wall. It must have fallen off the back of the writing tray.<K>
+  Inside were three outdoor photographs. I couldn't recognize the scenery due to my condition, but I'm pretty sure that they show three buildings.<K>
+  Scrawled on the back of each photo was an address: Nagano Prefecture, M Village; Tochigi Prefecture, S Town; Shizuoka Prefecture, H Town. None of the names is familiar, so they must be way out in the countryside.<K>
+  The photos are all dated more than ten years ago. I don't know why they were taken or what they mean, but maybe Saya will be able to make some sense of them.
+
+<clear>
+<BACKGROUND SRC="media/cg/bc01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  In any case, this is something that even Saya missed while she was living in that house. I wonder how she'll react when I show her what I've found.<K>
+  Saya... I want so badly to see her. The thought of her waiting for me speeds my footsteps.
+
+<se id="2" src="郁紀光景2" mode="fadeout" loop="off">
+<bgm src="s04" mode="fadeout" time="20" loop="off">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<BACKGROUND SRC="media/cg/bc07me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  When I step through the gate, I see that the front door is wide open again. This is the second time this has happened.<K>
+  Upon entering the house this time, however,<se id="1" NAME="沙耶" SRC="media/voice/18/004601.ogg" mode="normal" loop="off" vol="30"> the sound of Saya crying chills my blood.<K>
+<voice name="洋佑" SRC="media/voice/19/001803a.ogg">  And it's not just her. I also hear a low, wet grunting...<K>
+  There's no time to take off my shoes.<se id="1" src="media/sound/男駆け去り.ogg" mode="normal" loop="off"> I race down the hallway, propelled by a terrifying premonition.
+
+<bgm src="media/sound/s09_2.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<clear>
+<BACKGROUND SRC="media/cg/bc07me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  A monster is in my house, and it's raping Saya.<K>
+
+  Each time the beast moves, Saya's sobs become cries of agony. She looks at me with tear-filled eyes and calls my name in a weak, breathless 
+voice.<K>
+<voice name="沙耶" SRC="media/voice/19/000101.ogg">  "Fuminori... help..."<K>
+  Rage erupts inside me like black lava.
+
+<clear>
+<BACKGROUND SRC="media/cg/bp02me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  The monster stops gorging itself on Saya's body and turns its head to look at me. Surprised by my own composure, I slip past it and grab the meat cleaver sitting next to the sink.<K>
+  Without a moment's hesitation, I slash at the monster's face.
+
+
+<se id="1" src="media/sound/包丁攻撃1.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="media/cg/20.png">//
+<WIPE EFFECT="fade" TIME="0">
+<wait time="200">
+<box type="9">
+<voice name="洋佑" SRC="media/voice/19/001203a.ogg">  It screams and staggers away from Saya. My attack must have blinded it, because it flails its tentacles wildly as it tries to drive me away.<K>
+  My bloodlust still unsated, I calmly seize one of the appendages and plunge my weapon twice more into its quivering flesh.<K>
+<se id="1" src="media/sound/包丁攻撃2.ogg" mode="normal" loop="off">
+<FLASH SRC="#ffffff" WAIT="1" COUNT="3" EFFECT="normal" TIME="0">
+  The blade enters its body with fascinating ease. Each strike sprays my face with its blood.
+
+<se id="1" src="media/sound/包丁攻撃1.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="media/cg/21.png">//
+<WIPE EFFECT="fade" TIME="0">
+<wait time="200">
+<box type="9">
+  As I carve the monster to pieces and savor its hideous screams, my mind is finally consumed by rage.<K>
+  No mercy. I'll see this monster suffer for what it's done to Saya!
+
+<voice NAME="郁紀" SRC="media/voice/19/000200.ogg">
+<se id="1" src="media/sound/包丁攻撃3.ogg" mode="normal" loop="off">
+<FLASH SRC="#ffffff" WAIT="1" COUNT="3" EFFECT="normal" TIME="0">
+  I give myself to the fury, howling at the top of my lungs as I slash and slash and slash and slash. Even after the flesh-beast stops moving, I keep slashing until I realize that it can no longer feel pain.<K>
+  Cursing myself for killing it so quickly, I stab the cleaver into the floor, snapping it in half.
+<se id="1" src="media/sound/包丁攻撃2.ogg" mode="normal" loop="off">
+<FLASH SRC="#ffffff" WAIT="1" COUNT="3" EFFECT="normal" TIME="0">
+
+<bgm src="s09_2" mode="fadeout" time="20" loop="off">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<se id="1" src="media/sound/包丁引っかき.ogg" mode="normal" loop="off">
+<BACKGROUND SRC="media/cg/bc04me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  When my thoughts finally begin to regain some cohesion, I find myself still digging the broken knife into the floor. The monster is gone, but pieces of it are scattered everywhere.<K>
+  I stop cutting into the tile, and in the sudden silence I hear Saya's faint sobs coming from a corner of the kitchen.
+
+<bgm src="media/sound/s05_psycho.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+<clear>
+<BACKGROUND SRC="media/cg/22.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="郁紀" SRC="media/voice/19/000300.ogg">  "Saya!"<K>
+  I pull the cowering Saya into my arms. She stiffens in fear at first, but as soon as she realizes that it's me, she clings to my body and cries.<K>
+<voice name="沙耶" SRC="media/voice/19/000401.ogg">  "Fuminori... Fuminori! I was scared... so scared!"<K>
+  I don't know what to say. I can only keep holding her.
+
+  This should never have happened to Saya. Everything in this twisted world is to blame―yes, including myself. I couldn't protect her. If I'd been here, then maybe I could have prevented this.<K>
+<voice name="沙耶" SRC="media/voice/19/000501.ogg">  "I'm sorry... I'm sorry..." she says again and again in a voice choked with tears.<K>
+  Not wanting to hear that from her, I pull her head into my chest.<K>  
+<voice name="郁紀" SRC="media/voice/19/000600.ogg">  "Don't say that, Saya! It's not your fault!"<K>
+  I try to reassure her, but she shakes her head vigorously in denial.<K>
+<voice name="沙耶" SRC="media/voice/19/000701.ogg">  "No, it is. I did it."<K>
+  I don't understand. What is she saying?
+
+<voice name="郁紀" SRC="media/voice/19/000800.ogg">  "You did... what?"<K>
+<voice name="沙耶" SRC="media/voice/19/000901.ogg">  "I messed with his brain," she answers, glancing at the dismembered monster with her swollen eyes.<voice name="沙耶" SRC="media/voice/19/001001.ogg"> "I made the inside of his head the same as yours. I made him see the world like you do."<K>
+  It takes me some time to understand the meaning of Saya's words.<K>
+<voice name="郁紀" SRC="media/voice/19/001100.ogg">  "What? But... how?"
+
+<clear>
+<BACKGROUND SRC="media/cg/23.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Finally regaining her composure, Saya responds to my confusion in a low voice.<K>
+<voice name="沙耶" SRC="media/voice/19/001201.ogg">  "I can do stuff like that. I can change the bodies of other living things.<k> <voice name="沙耶" SRC="media/voice/19/001201_2.ogg">I've had this ability since I was born."<K>
+<voice name="郁紀" SRC="media/voice/19/001300.ogg">  "......"
+
+<voice name="沙耶" SRC="media/voice/19/001401.ogg">  "Every organism is different, so I have to study them in detail before I know how to change them.<k><voice name="沙耶" SRC="media/voice/19/001401_2.ogg"> By doing some research, I figured out what happened to your brain.<k><voice name="沙耶" SRC="media/voice/19/001401_3.ogg"> So I wanted to see if I could do the same thing to someone else."<K>
+<voice name="郁紀" SRC="media/voice/19/001500.ogg">  "But... why?"<K>
+<voice name="沙耶" SRC="media/voice/19/001601.ogg">  "I thought that if everyone were like you, they would all... be kind to
+me."<K>
+  My heart aches at the loneliness in her voice as she confesses her sorrowful wish.<K>
+<voice name="沙耶" SRC="media/voice/19/001701.ogg">  "But that man... he wasn't kind at all.<k><voice name="沙耶" SRC="media/voice/19/001701_2.ogg"> He said he wanted to hurt me, break me, and he..."
+
+<clear>
+<BACKGROUND SRC="media/cg/22.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  She starts crying into my chest again, unable to say any more. I gently rub her back while trying to get my jumbled thoughts together.<K>
+  What is Saya, that she can do such a thing? The answer is beyond me.<K>
+  However, there is one thing that I can answer, here and now.<K>
+  Saya is mistaken.
+
+<voice name="郁紀" SRC="media/voice/19/001800.ogg">  "You think that I'm kind to you because of the accident?"<K>
+<voice name="沙耶" SRC="media/voice/19/001901.ogg">  "Yeah," she nods sadly.<K>
+  I smile and shake my head.<K>
+<voice name="郁紀" SRC="media/voice/19/002000.ogg">  "You're wrong. That was only the beginning."<K>
+<voice name="沙耶" SRC="media/voice/19/002101.ogg">  "...?"<K>
+<voice name="郁紀" SRC="media/voice/19/002200.ogg">  "Our relationship is the sum of so much more.<k><voice name="郁紀" SRC="media/voice/19/002200_2.ogg"> The time you and I have spent together―those days, those experiences, are what made us what we are."
+
+<voice name="沙耶" SRC="media/voice/19/002301.ogg">  "Fuminori..."<K>
+<voice name="郁紀" SRC="media/voice/19/002400.ogg">  "You've been there for me, Saya―sharing my pain, giving me hope and joy.<k> <voice name="郁紀" SRC="media/voice/19/002400_2.ogg">That's how you became so important to me. See? It's harder than you think."<K>
+  Saya is still crying, but now her tears feel warm against my chest.
+
+<voice name="沙耶" SRC="media/voice/19/002501.ogg">  "Yeah, I understand. I finally understand."<K>
+  Her smile shines through her tears.<K>
+<voice name="沙耶" SRC="media/voice/19/002601.ogg">  "I only have you, Fuminori. There will never be anyone else."
+
+  Now more than ever before, I feel the depth of the bond between us. And I'm sure that Saya feels it too.<K>
+<se id="1" src="media/sound/抱き寄せ.ogg" mode="normal" loop="off">
+  I wrap my arms tightly around her and seal her lips with mine. Saya responds, winding her arms around my neck as our tongues desperately seek each other's warmth.
+
+  At this moment, Saya is my whole world, and I am hers.<K>
+  The Earth turns for us alone.
+
+  Of course. I still haven't told her something very important.<K>
+  I don't know why I've never said it before―perhaps because it was always so obvious. However, I should put it into words at least once―this oath of mine.<K>
+<voice name="郁紀" SRC="media/voice/19/002700.ogg">  "Saya, I..."
+
+
+<clear>
+<BACKGROUND SRC="media/cg/23.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="沙耶" SRC="media/voice/19/002801.ogg">  "Wait."<K>
+  She stops me with a finger against my lips.<K>
+<voice name="沙耶" SRC="media/voice/19/002901.ogg">  "Before that, Fuminori, tell me one thing. What do you want?"<K>
+<voice name="郁紀" SRC="media/voice/19/003000.ogg">  "What do I... want?"
+
+  Saya nods, staring into my eyes with unusual solemnity.<K>
+<voice name="沙耶" SRC="media/voice/19/003101.ogg">  "Like I said, I can affect the bodies of living things in a way that nothing else can.<k><voice name="沙耶" SRC="media/voice/19/003101_2.ogg"> And now that I've learned how to manipulate human brains..."<K> Saya pauses and takes a deep breath before continuing.<K><voice name="沙耶" SRC="media/voice/19/003201.ogg"> "I can turn you back to normal."
+
+<voice name="郁紀" SRC="media/voice/19/003300.ogg">  "...What?"<K>
+  Until now, that hasn't even been in the realm of possibility.<K>
+<voice name="沙耶" SRC="media/voice/19/003401.ogg">  "I just have to do the opposite of what I did to that man. It's... really simple."
+
+  I replay Saya's words in my head to be sure of their meaning.<K>
+<voice name="沙耶" SRC="media/voice/19/003501.ogg">  "So tell me, Fuminori.<K><voice name="沙耶" SRC="media/voice/19/003501_2.ogg"> Do you want to return to your old life? Do you want to take back what you lost in the accident?"
+
+  I...
+
+<A HREF="media/script/nps/sy100sl.nps" OPERATOR="">

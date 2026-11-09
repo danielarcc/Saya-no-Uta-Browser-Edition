@@ -1,0 +1,75 @@
+//郁紀に電話
+<MARKER NAME="#郁紀">
+<CALC WORKNAME="badend" OPERATOR="1">//
+<clear>
+<BACKGROUND SRC="media/cg/bc04no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  It's time to finish this.<K>
+<se id="1" src="media/sound/携帯1コール.ogg" mode="normal" loop="off">
+  Just as he promised earlier, Koji calls Fuminori again.
+
+  The call goes through immediately. Fuminori must have been waiting for it.<se id="1" src="" mode="normal" loop="off"><k>
+<voice name="郁紀" SRC="media/voice/35/000100.ogg">  "Hey Koji. Where are you?"<K>
+<voice name="耕司" SRC="media/voice/35/000202.ogg">  "What difference does it make?"<K>
+<se id="1" src="media/sound/郁紀宅電.ogg" mode="normal" loop="off">
+  As soon as Koji responds, a shrill ringing fills the house. Startled, Koji spins around and looks into the hallway.<K>
+  The house phone is flashing to signal an incoming call.
+
+<voice name="郁紀" SRC="media/voice/35/000300.ogg">  "Hmm, I see. I figured you'd be at my house."<K>
+  Koji fell for it. Fuminori is the one calling the house, and now he knows exactly where Koji is.<K> He must have predicted that this would be Koji's first stop, and that Koji would call him upon finding it empty.<K>
+<voice name="郁紀" SRC="media/voice/35/000400.ogg">  "So, I guess you've already seen everything."<K>
+<voice name="耕司" SRC="media/voice/35/000502.ogg">  "Yeah." Koji keeps his voice bold to conceal his horror. When did Fuminori become so cunning?<K> <voice name="耕司" SRC="media/voice/35/000602.ogg">"It looks like you've become quite the meat-eater since we last met. Just how many people have you killed?"
+
+<voice name="郁紀" SRC="media/voice/35/000700.ogg">  "Actually, I've only killed one so far," Fuminori replies unapologetically, his tone upbeat.<K><voice name="郁紀" SRC="media/voice/35/000800.ogg"> "I've taken apart three or four, though. I'm getting pretty good at removing the tendons and draining the blood and such."<K>
+  Koji no longer feels sadness or horror when faced with Fuminori's inhumanity. There is only the cold desire to kill the creature speaking such revolting words with his friend's voice.
+
+<voice name="耕司" SRC="media/voice/35/000902.ogg">  "You killed Omi, didn't you? You bastard. You were lying when you said you hadn't seen her."<K>
+<voice name="郁紀" SRC="media/voice/35/001000.ogg">  "Hmm, I wonder..." Fuminori mutters, seeming somehow embarassed.<K> <voice name="郁紀" SRC="media/voice/35/001100.ogg">"I guess the first one I ate might have been Omi. It was the same day she disappeared, come to think of it.<K><voice name="郁紀" SRC="media/voice/35/001100_2.ogg"> The body wasn't in any shape that I could identify."<K>
+  Koji had already abandoned hope, but it's still a shock to hear of his lover's brutal end.
+
+<voice name="耕司" SRC="media/voice/35/001202.ogg">  "Tsukuba too?"<K>
+<voice name="郁紀" SRC="media/voice/35/001300.ogg">  "No," Fuminori says with an exasperated chuckle. "She's here, like I promised. I'm no fool. I need her to trade with you, right? I won't waste her."<K>
+<voice name="耕司" SRC="media/voice/35/001402.ogg">  "Let me hear her voice."<K>
+<voice name="郁紀" SRC="media/voice/35/001500.ogg">  "I don't think that's possible. She's in no shape to talk."<K>
+  Fuminori's dismissive words further sharpen Koji's bloodlust.
+
+<voice name="耕司" SRC="media/voice/35/001602.ogg">  "You forget what I said? If you don't let her go unharmed..."<K>
+<voice name="郁紀" SRC="media/voice/35/001700.ogg">  "Come on, be happy that she's still alive. Or would you rather have Yoh as a corpse?"<K>
+<voice name="耕司" SRC="media/voice/35/001802.ogg">  "......"<K>
+<voice name="郁紀" SRC="media/voice/35/001900.ogg">  "Let's get this straight, Koji. You bring your evidence along with all the files you've gathered. When I'm satisfied that they're the real thing, I'll hand Yoh over."
+
+<voice name="耕司" SRC="media/voice/35/002002.ogg">  "Fine."<K>
+  It's obvious that this deal is a sham.<K> In all likelihood, Fuminori is planning to kill him and bury his secrets forever. Moreover, Koji doubts that Yoh is even alive. Her meat could very well be somewhere in the refrigerator right in front of him.<K>
+  However, Koji isn't particularly interested in Fuminori's true intentions; after all, he has no intention of making a trade either. His only goal is to get close enough to destroy Fuminori and whatever is pulling his strings.
+
+
+<voice name="耕司" SRC="media/voice/35/002102.ogg">  "Where?"<K>
+<voice name="郁紀" SRC="media/voice/35/002200.ogg">  "You remember Dr. Ogai's house? The one you followed me to. Let's meet there tonight at seven. Come alone."<K>
+<voice name="耕司" SRC="media/voice/35/002302.ogg">  "Hey!"<K>
+<se id="1" src="media/sound/携帯切れる.ogg" mode="normal" loop="off">
+  Fuminori hangs up without waiting for Koji's response.<K>
+  Perhaps Fuminori, too, has sensed his opponent's intent. If so, then he has realized that Koji is not just the hunted, but the hunter as well.
+
+  <I>So, we're like duelists maneuvering for advantage.</I><K>
+  Koji smiles grimly as he pockets his phone. It's astounding how much their relationship has changed.<K>
+  The question is whether or not to comply with the seven o'clock rendezvous agreement. If this were a serious negotiation, then it would be wise to avoid preempting Fuminori in any way that could provoke his anger. What Koji and Fuminori are really doing, however, is trying to lure each other into a deadly trap.
+
+<clear>
+<BACKGROUND SRC="media/cg/bc02no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Koji doesn't know what Fuminori plans to do between now and then, but he's not about to let his enemy keep the initiative.<K>
+  The fierce bloodlust that has taken root in his heart is more than enough to energize his exhausted body.
+
+<clear>
+<BACKGROUND SRC="media/cg/bc01no0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Koji leaves the death-filled house, his stride more determined than before.
+
+//<A HREF="#合流" OPERATOR="">
+<A HREF="media/script/nps/sy172.nps" OPERATOR="">

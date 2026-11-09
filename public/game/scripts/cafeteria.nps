@@ -1,0 +1,59 @@
+<SYSTEM CMD="savemode" MODE="on">
+<CLEAR>
+
+<wait time="1800">
+<bgm src="s02" mode="fadein" old="fadeout" time="10" loop="on">
+<BACKGROUND SRC="06">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+
+<voice NAME="青海" SRC="3\000104"> "Hey," says Takahata Omi, "why don't we go somewhere we can skate for this year's ski trip?"<K>
+  Tsukuba Yoh frowns at the suggestion.<K>
+<voice NAME="瑶" SRC="3\000205"> "Skate? But why go to a ski resort to skate?"<K>
+<voice NAME="耕司" SRC="3\000302">  "Haha. Give her a break, Tsukuba. It's all she talks about these days."<K>
+  Tonoh Koji supports Omi with a laugh. Her impromptu suggestions are nothing new, and it's Koji's role as her boyfriend to provide backup.<K>
+  They're a good match for each other, Yoh thinks. Sometimes it makes her jealous.
+
+<voice NAME="耕司" SRC="3\000402">  "I mean, she'd seriously never gone skating before I took her the other day."<K>
+<voice NAME="青海" SRC="3\000504">  "Hey! Is it really that strange?"<K>
+<voice NAME="耕司" SRC="3\000602">  "Not many people start skating in their twenties, you know."<K>
+<voice NAME="青海" SRC="3\000704">  "I was scared when I was little. Those shoes looked like big knives!"
+
+<clear>
+<BACKGROUND SRC="ba01no0">//
+<BUSTUP NAME="瑶" face="通常" MODE="on" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice NAME="瑶" SRC="3\000805">  "But you picked it up just like that? That's pretty amazing, Omi."<K>
+<voice NAME="耕司" SRC="3\000902">  "It's a lot like skiing. You keep your weight forward and use the angle of the shoes to steer."<K>
+<voice NAME="青海" SRC="3\001004"> "He made it sound so easy, I figured I should give it a try. And it was
+fun!"<K>
+<BUSTUP NAME="瑶" face="困り通常" MODE="on" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="5">
+  So it was a date. Yoh feels a stab of envy.<K>
+  Koji and Omi enjoy their time together, as normal lovers do. That's certainly not something that should make her jealous. It's just that her luck in love has been bad.
+
+<BUSTUP NAME="瑶" face="目閉じ笑い" MODE="on" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="5">
+<voice NAME="瑶" SRC="3\001105">  "Oh... well, I want to see Omi skate too."<K>
+  Yoh keeps her voice upbeat, trying to cover up her disquiet.
+
+<BUSTUP NAME="瑶" face="通常" MODE="on" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="5">
+  She knows that it's wrong to envy her friends. She too would be spending time with the man she admires, if not for the terrible tragedy that befell him. His is true misfortune. Her "bad luck" doesn't begin to compare.
+
+<BUSTUP NAME="青海" face="通常" MODE="on" zoom="" ALIGN="right">
+<WIPE EFFECT="fade" TIME="5">
+<voice NAME="青海" SRC="3\001204">  "So, how 'bout it? If we make the next ski trip a skating trip too, it'll be twice as fun!"<K>
+<BUSTUP NAME="瑶" face="困り笑い" MODE="on" zoom="" ALIGN="left">
+<WIPE EFFECT="fade" TIME="5">
+<voice NAME="瑶" SRC="3\001305">  "But you can skate at a skating rink, can't you? Why go all the way to a ski resort?"<K>
+<voice NAME="青海" SRC="3\001404">  "I don't want to skate indoors. I want to skate outside, on a lake or something."<K>
+<voice NAME="瑶" SRC="3\001505">  "That sounds fun, but won't it be crowded?"<K>
+<BGM MODE="fadeout" TIME="20">
+<CLEAR>
+<BUSTUP NAME="瑶" MODE="off">
+<BUSTUP NAME="青海" MODE="off">
+<A HREF="menu.nps">

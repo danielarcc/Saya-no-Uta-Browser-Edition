@@ -1,0 +1,639 @@
+//匂坂邸：郁紀
+<MARKER NAME="#14">
+<bgm src="s01" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="media/sound/s03.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<BACKGROUND SRC="media/cg/bf02me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+  I feel great, the same feeling that you get when the last piece of a difficult puzzle slides smoothly into place.<K>
+  I have killed a man, and no one will ever know.
+
+<clear>
+<BACKGROUND SRC="media/cg/bf01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  It is a long way back to civilization, but neither the cold nor the exhaustion can ruin my good mood as I walk alone down the snow-covered mountain road.<K>
+  I was tempted to use Koji's car, but that would have introduced a flaw into the plan. I don't want anyone to connect me to his disappearance.
+
+  The plan formed in my mind the moment that I realized how remote the location was.<K> Even if I couldn't find anything to lead me to Dr. Ogai, his absence would at least prove that the cabin had been utterly abandoned―in which case, it would be the perfect spot to take care of a problem. I knew coming all the way out to Tochigi wouldn't be a waste of time.
+
+<clear>
+<BACKGROUND SRC="media/cg/bs01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  I didn't even need to use the meat cleaver hidden under my jacket. A dry well―it's like fate itself provided me with the perfect setting.<K> That idiot didn't even realize the danger he was in, and his phone call distracted him enough for me to take him by surprise.<K>
+  Now one of the two people whose questions might have caused trouble for me and Saya has vanished from the face of the Earth. All that's left is to eliminate the other.<K>
+  Tsukuba Yoh―I mustn't underestimate her just because she's less aggressive than Koji. Even she should be able to see a connection between the disappearances of her two friends.
+
+  I suppose I should be thankful that it was Yoh to whom Koji was talking on the phone. If he'd reported our location to a third party, I'd have to track down and eliminate that person too.<K>
+  I'm a little worried about what they were discussing, but judging by how Koji was screaming into the phone, they probably weren't exchanging detailed information. Either way, I'd better get rid of Yoh as soon as possible.
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  After walking all night long, I finally reach the Nasu Flats station just as the trains start running.<K>
+<se id="1" src="media/sound/電車.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bn01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  It only takes an hour to get back to Tokyo on the limited express. It's not enough time to rest, but I'm too wound up for that to matter. Besides, I don't want to waste any time thinking up a way to kill Yoh.
+
+<se id="1" src="" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bj01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Using the cabin again would be too dangerous, and I'm not sure how I'd get her out there in the first place.<K>
+  I just exploded in her face the other day. I doubt that she'll be as quick to trust me as Koji was, which means that it will be difficult to get her alone.<K>
+  I could ask Saya for her opinion, but even I have some pride. I want to show her that I'm a man who can take care of business.
+
+<bgm src="s03" mode="fadeout" time="20" loop="off">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<BACKGROUND SRC="media/cg/bc01me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Unfortunately, I'm unable to come up with anything before I get home.<K> I suppose that I should just be proud of having dealt with Koji, the immediate threat.<K>
+  The search of Dr. Ogai's cabin was a bust, with no trace of his having been there, but I see no reason to be frustrated. Saya isn't all that concerned about the doctor's whereabouts, so looking for him is just something to satisfy my own curiosity.
+
+<se id="1" src="media/sound/郁紀家ドア開け1.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bc03me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="郁紀" SRC="media/voice/28/000100.ogg">  "I'm home."<K>
+<se id="1" src="media/sound/沙耶足音階段.ogg" mode="normal" loop="off">
+<bgm src="media/sound/s05.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+  It's morning, half a day later than I normally get home, and the sound of Saya running down the stairs tells me just how impatient she was for my return. It makes me feel warm inside.
+
+<BUSTUP NAME="沙耶" face="にっこり笑顔" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_にっこり笑顔.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/28/000201.ogg">  "Welcome home, Fuminori!"<K>
+  She throws her arms around my neck, her smile at least twenty percent brighter than usual.<K>
+<voice name="郁紀" SRC="media/voice/28/000300.ogg">  "Sorry I'm late. There was a change of plans."<K>
+<BUSTUP NAME="沙耶" face="目逸らし笑い1" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_目逸らし笑い1.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/28/000401.ogg">  "It's okay. I'm just about done with my preparations too."<K>
+<voice name="郁紀" SRC="media/voice/28/000500.ogg">  "Preparations?"
+
+<BUSTUP NAME="沙耶" face="寂しげ1" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_寂しげ1.png">
+<WIPE EFFECT="fade" TIME="5">
+  Saya responds to my confusion with a mischievous smile.<K>
+<voice name="沙耶" SRC="media/voice/28/000601.ogg">  "I'm getting a surprise ready for you."<K>
+<voice name="郁紀" SRC="media/voice/28/000700.ogg">  "What kind of surprise?"<K>
+<BUSTUP NAME="沙耶" face="にっこり" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_にっこり.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/28/000801.ogg">  "That's a secret. Anyway, aren't you tired? Do you want to eat or take a bath first?"
+
+  I don't realize how hungry I am until Saya mentions it.<K> I walked all night without a bite to eat, and now my stomach's emptiness becomes painfully clear. However, I can't sit down to a leisurely meal while covered in the dirt and sweat of the road.<K>
+<voice name="郁紀" SRC="media/voice/28/000900.ogg">  "I'd like to grab a quick snack and get in a long, hot bath first."<K>
+<BUSTUP NAME="沙耶" face="楽し目笑い" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_楽し目笑い.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/28/001001.ogg">  "I thought you'd say that, so I got the bath ready. You must be cold after being out all night."<K>
+<voice name="郁紀" SRC="media/voice/28/001100.ogg">  "Yeah, I sure am."<K>
+  I'm amazed by Saya's foresight. She's always ready to give me what I want before I want it.
+
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<se id="1" src="media/sound/風呂1.ogg" mode="normal" loop="off">
+<BACKGROUND SRC="media/cg/h13.png">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+
+<voice name="沙耶" SRC="media/voice/28/001201.ogg">  "Sounds like you had a hard time."<K>
+  While soaking in the bath together, I tell Saya about my adventure.<K>
+<voice name="郁紀" SRC="media/voice/28/001300.ogg">  "Killing him was easier than I thought. The hard part was getting home."
+
+  The heat of the bath is soothing, as is the sensation of Saya leaning back against my chest as she massages the fatigue out of my stiff leg muscles.<K>
+  Her cute little collarbone rises each time she squeezes my legs, and I can see the soft curves of her breasts floating in the water.
+
+  Ahh, I'm home. Contentment fills me. I don't even need to sleep to relieve my exhaustion.<K>
+  Just like the living room and the bedroom, the bathroom is painted in the colors that Saya and I find pleasing. We've left the entrance and hallway untouched just in case someone should see inside, so these three rooms are the only places I can relax in my own home.
+
+<voice name="郁紀" SRC="media/voice/28/001400.ogg">  "It was cold in the mountains, even for winter. I should've worn heavier clothing.<k><voice name="郁紀" SRC="media/voice/28/001400_2.ogg"> I was afraid I'd freeze to death when it got dark."<K>
+<voice name="沙耶" SRC="media/voice/28/001501.ogg">  "Why didn't you just take that Koji person's clothes?"<K>
+<voice name="郁紀" SRC="media/voice/28/001600.ogg">  "I pushed him into a well, remember? His clothes were with him at the bottom."<K>
+<voice name="沙耶" SRC="media/voice/28/001701.ogg">  "Oh yeah."<K>
+  Saya laughs and sticks her tongue out bashfully.
+
+<voice name="沙耶" SRC="media/voice/28/001801.ogg">  "So now there's just that Tsukuba girl to worry about?"<K>
+<voice name="郁紀" SRC="media/voice/28/001900.ogg">  "She's the only person I can think of who can connect me to Koji's disappearance. After I take care of her, we can finally relax."<K>
+<voice name="沙耶" SRC="media/voice/28/002001.ogg">  "Hmm..."<K>
+  Saya glances at me over her shoulder like she knows something that I don't.
+
+<voice name="沙耶" SRC="media/voice/28/002101.ogg">  "Have you already thought of a way to kill her?"<K>
+<voice name="郁紀" SRC="media/voice/28/002200.ogg">  "Well... I've been thinking about it, but I haven't come up with anything yet. I was hoping that you might have some ideas."<K>
+<voice name="沙耶" SRC="media/voice/28/002301.ogg">  "Leave it to me!" she says, grinning with unusual confidence.<K><voice name="沙耶" SRC="media/voice/28/002401.ogg"> "I've got ways you'd never dream of. It's as good as done!"<K>
+<voice name="郁紀" SRC="media/voice/28/002500.ogg">  "R- Really?"
+
+<voice name="沙耶" SRC="media/voice/28/002601.ogg"> "Okay, it should be ready by now." Saya's voice is full of anticipation.<K>
+<se id="1" src="media/sound/風呂2.ogg" mode="normal" loop="off">
+  She rises from the bath, her naked body glistening through the steam.<K>
+<voice name="沙耶" SRC="media/voice/28/002701.ogg">  "Come on. I have something to show you."
+
+<bgm src="s05" mode="fadeout" time="20" loop="off">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<BACKGROUND SRC="media/cg/bc02me0.png" shade="4">//
+<BUSTUP NAME="沙耶" face="楽し目笑い" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_楽し目笑い.png">
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="沙耶" SRC="media/voice/28/002801.ogg">  "Close your eyes, and don't open them until I say so. Okay?"<K>
+<voice name="郁紀" SRC="media/voice/28/002900.ogg">  "Okay..."
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  I have no idea what's going on, but I do as Saya says and close my eyes. She takes my hand and leads me up the stairs.<K>
+  As I wonder what she has in store for me,<se id="2" NAME="瑶" SRC="media/voice/28/002905a.ogg" mode="normal" loop="off" vol="50"> the sound of crying reaches my ears. I stiffen.
+
+<clear>
+<BACKGROUND SRC="media/cg/bc02me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="郁紀" SRC="media/voice/28/003000.ogg">  "I- Is someone here?"<K>
+<BUSTUP NAME="沙耶" face="弱気目きょとん" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_弱気目きょとん.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/28/003101.ogg">  "No peeking!" she admonishes me, then strokes my arm soothingly.<K>
+<BUSTUP NAME="沙耶" face="困り笑い1" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_困り笑い1.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/28/003201.ogg"> "Don't worry. There's no danger."<K>
+<voice name="郁紀" SRC="media/voice/28/003300.ogg">  "A- Alright..."
+
+
+<se id="1" src="media/sound/郁紀足音階段.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Little by little, the crying grows louder.<se id="2" NAME="瑶" SRC="media/voice/28/002905a.ogg" mode="normal" loop="off"> I can hear the misery and pain in every choked sob.<K> At first, I'm amazed that Saya would let someone in our house after what happened two days ago, but then I realize that something is strange.<K>
+  Isn't Saya the only one whose voice can carry such clear emotion to me?<K> Although my eyes are still closed when Saya leads me into the bedroom, my ears tell me that there is someone only a few feet away. And yet, I smell none of the human body odor that normally turns my stomach.<K>
+<voice name="沙耶" SRC="media/voice/28/003401.ogg">  "Okay, time to say hello! Open your eyes."<K>
+  I open my eyes... and am struck dumb by what I see.
+
+<bgm src="media/sound/s06.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+<clear>
+<BACKGROUND SRC="media/cg/h12.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Tsukuba Yoh is curled up on the floor, with not a scrap of clothing to cover her shivering body.<K>
+  When I first lay eyes upon her naked flesh, I am entranced by the sensuality of her generous proportions, far more mature than I would have expected from her usual pure and innocent appearance.<K>
+  Wait, forget about that. Why is she in my bedroom, naked?<K>
+  Moreover, why is she...
+
+<voice name="沙耶" SRC="media/voice/28/003501.ogg">  "Well? How does she look to you?"<K>
+<voice name="郁紀" SRC="media/voice/28/003600.ogg">  "She's beautiful, but why can I..."<K>
+  It doesn't make sense.<K>
+  This is the Tsukuba Yoh I remember, not the putrid creature whose attentions I found so unbearable after the accident. My senses recognize her as the human that she is.
+
+<voice name="沙耶" SRC="media/voice/28/003701.ogg">  "This girl loves you, you know."<K>
+  I do know. But I've never told Saya.<K>
+  How did she find out?<K>
+<voice name="沙耶" SRC="media/voice/28/003801.ogg">  "So I decided to change her body into one that you can love back."<K>
+  Saya pauses to gauge my reaction, then continues with a satisfied nod.<K>
+<voice name="沙耶" SRC="media/voice/28/003901.ogg">  "I made her like me."
+
+<voice name="郁紀" SRC="media/voice/28/004000.ogg">  "What? How?"<K>
+  I still don't understand why Saya chose Yoh, but this last statement is even more baffling.<K>
+  She... changed Yoh?<K>
+<voice name="沙耶" SRC="media/voice/28/004101.ogg">  "Don't you remember what I said the other day? I can mold the bodies of other living things."
+
+  Yes, I remember. She claimed to have done something to Suzumi's brain.<K> I didn't doubt her sincerity then, but I suppose that some part of me thought she was exaggerating. I hadn't seen her handiwork firsthand.<K>
+  But now...
+
+<voice name="沙耶" SRC="media/voice/28/004201.ogg">  "It was a big change this time, not like the little tweak I made to the man next door. But this is how my abilities are really meant to be used.<k> <voice name="沙耶" SRC="media/voice/28/004201_2.ogg">This was my first time doing it, though."<K>
+<voice name="郁紀" SRC="media/voice/28/004300.ogg">  "Is this... really Yoh?"<K>
+  Yoh finally notices my presence and turns her head to face me. I see a faint glimmer of recognition in her glassy, unfocused eyes. Her features are exactly as I remember them. Incredible.<K>
+  This is far beyond cosmetic surgery. Once a twisted creature unrecognizable as human, Yoh is now the very image of human femininity.<K>
+  There is no similarity between what she was and what she is, which can only mean that she has become something utterly inhuman.<K>
+  According to Saya... she has become what Saya is.
+
+<clear>
+<BACKGROUND SRC="media/cg/bc06me0.png" shade="4">//
+<BUSTUP NAME="沙耶" face="通常笑顔2" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_通常笑顔2.png">
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="沙耶" SRC="media/voice/28/004401.ogg">  "No one on this planet knows more about the biology of <I>Homo sapiens</I> than I do," Saya declares, her voice full of pride for her first creation. "I've studied a lot!"<K>
+<voice name="郁紀" SRC="media/voice/28/004500.ogg">  "Studied? How did you learn this? Who taught you? When?"<K>
+  She couldn't have learned it from Dr. Ogai. No teacher on Earth could impart such knowledge or skill.
+
+<BUSTUP NAME="沙耶" face="目逸らし笑い2" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_目逸らし笑い2.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/28/004601.ogg">  "Come on... Don't you remember what you've been filling me with every night?"<K>
+  Saya blushes.<K>
+<BUSTUP NAME="沙耶" face="困り笑い1" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_困り笑い1.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/28/004701.ogg">  "That's like a blueprint for the human body.<K><voice name="沙耶" SRC="media/voice/28/004701_2.ogg"> I can decipher it, and then I can bend it to my will."<K>
+<voice name="郁紀" SRC="media/voice/28/004800.ogg">  "......"<K>
+  What is she, really? I've accepted that she isn't human, but there's more to her than that. Saya is something that far transcends my species.
+
+<BUSTUP NAME="沙耶" face="弱気目寂しげ" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_弱気目寂しげ.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/28/004901.ogg">  "It was my first time, though, so I might've messed up a little."<K>
+<BUSTUP NAME="沙耶" face="通常" MODE="off" zoom="" ALIGN="center">
+<WIPE EFFECT="fade" TIME="5">
+  When Saya approaches, Yoh trembles and tries to crawl away, but is only able to flail her arms and legs wildly. It's like she doesn't know how to move her own body.<K>
+<voice name="瑶" SRC="media/voice/28/005005.ogg">  And the only sounds coming out of her mouth are frightened moans.
+
+<voice name="郁紀" SRC="media/voice/28/005100.ogg">  "She can't talk?"<K>
+<BUSTUP NAME="沙耶" face="目逸らし笑い1" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_目逸らし笑い1.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/28/005201.ogg">  "Yeah," Saya sighs in mild disappointment. "I guess the change broke her mind.<K><BUSTUP NAME="沙耶" face="横見思案寂しげ" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_横見思案寂しげ.png"><WIPE EFFECT="fade" TIME="5"><voice NAME="沙耶" SRC="media/voice/28/005301.ogg"> I mean, it did take a whole twenty hours. She must have suffered a lot. I feel kinda bad."<K>
+<voice name="郁紀" SRC="media/voice/28/005400.ogg">  "......"
+
+<clear>
+<BACKGROUND SRC="media/cg/h12.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Yoh looks up at me pleadingly, as though begging me to save her. She is no longer able to ask me for help, though, or even to call my name.<K>
+<voice name="沙耶" SRC="media/voice/28/005501.ogg">  "Well?" Saya asks, her eyes shining with anticipation. "Do you like her?"<K>
+  I am at a loss for how to respond.<K>
+<voice name="郁紀" SRC="media/voice/28/005600.ogg">  "What do you mean... like her?"<K>
+<voice name="沙耶" SRC="media/voice/28/005701.ogg">  "You said you wanted family and friends, didn't you? That's why I got you this present."
+
+  Her innocent explanation only confuses me further.<K>
+<voice name="郁紀" SRC="media/voice/28/005800.ogg">  "Present? Come on, she's not a dog."<K>
+<voice name="沙耶" SRC="media/voice/28/005901.ogg">  "There's not much difference. Her head is totally empty."<K>
+  I'm happy that Saya wants to please me, but she could use a little more common sense.<K>
+<voice name="郁紀" SRC="media/voice/28/006000.ogg">  "It's not that. Holding a person captive is probably a lot harder than you think."
+
+<voice name="沙耶" SRC="media/voice/28/006101.ogg">  "Don't worry about it. Look, I have her chained up."<K>
+  The only thing preventing Yoh from being totally naked is the leather collar around her neck. I have no idea where Saya got it from, but it's the kind of dog collar that would be sold in any pet store. The chrome chain is fastened to one of the bedposts.
+
+<clear>
+<BACKGROUND SRC="media/cg/bc06me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<se id="1" src="media/sound/鎖.ogg" mode="normal" loop="off">
+  Yoh tries to get away again, but Saya sends her sprawling with a tug of the chain.<k><voice name="瑶" SRC="media/voice/28/006205.ogg"> Yoh tumbles to the floor, squealing in pain. Her actions are those of an unintelligent animal, just as Saya said.<K>
+<BUSTUP NAME="沙耶" face="楽し目笑い" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_楽し目笑い.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/28/006301.ogg">  "She doesn't have the brains to escape or get help.<k><voice name="沙耶" SRC="media/voice/28/006301_2.ogg"> See? There's nothing for you to worry about."<K>
+  Saya has a point.
+
+  I was wracking my brain for a plan to kill Yoh, but now my problem has been solved in a way that I never could have imagined.<K>
+  If a normal person looks upon her now, they'll probably see no trace of the old Yoh. And if she has no memories and can't even speak... then it's perfect. Saya has killed Yoh without taking her life.<K>
+  Though there's still the problem of what she means by "giving" Yoh to me.
+
+<BUSTUP NAME="沙耶" face="寂しげB思案" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_寂しげb思案.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/28/006401.ogg">  "You're not happy?" Saya asks dejectedly, her confidence suddenly gone.<K>
+<BUSTUP NAME="沙耶" face="弱気目きょとん" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_弱気目きょとん.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice NAME="沙耶" SRC="media/voice/28/006501.ogg">  "Did I misunderstand again? Is this a problem for you?"<K>
+<voice name="郁紀" SRC="media/voice/28/006600.ogg">  "No, but..."<K>
+<BUSTUP NAME="沙耶" face="困り" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_困り.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/28/006701.ogg">  "I can take good care of her all by myself. I won't let her make things difficult for you. So can she stay? Please?"<K>
+  That's not it. The last thing I want is to reject this symbol of Saya's affection.<K>
+  But how can I explain to Saya why I'm trying not to look at the naked woman writhing on the floor?
+
+
+<clear>
+<BACKGROUND SRC="media/cg/h12.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="郁紀" SRC="media/voice/28/006800.ogg">  "It's not that."<K>
+  Yoh is the first human figure besides Saya that I've seen in the three months since the accident, and she's a woman―a woman positively glowing with voluptuous feminine beauty.<K> Of course I'm happy, but I also can't ignore the voice of reason that's telling me not to be.<K>
+<voice name="郁紀" SRC="media/voice/28/006900.ogg">  "I'm happy, really, but if I show how pleased I am, I'm worried that you'll..."<K>
+<voice name="沙耶" SRC="media/voice/28/007001.ogg">  "Huh?"
+
+  Saya looks puzzled, as though she has absolutely no idea what I'm getting at.<K>
+<voice name="郁紀" SRC="media/voice/28/007100.ogg">  "I mean, look. She's still a girl, right?<k><voice name="郁紀" SRC="media/voice/28/007100_2.ogg"> Don't you... balk at the thought of me living with another girl?"
+
+<clear>
+<BACKGROUND SRC="media/cg/bc06me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="9">
+  After considering this briefly, Saya finally seems to understand what I'm trying to say.<K>
+<BUSTUP NAME="沙耶" face="にっこり笑顔" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_にっこり笑顔.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/28/007201.ogg">  "Ahaha, of course not! You worry too much!"<K>
+<voice name="郁紀" SRC="media/voice/28/007300.ogg">  "......"<K>
+  Maybe I am worrying too much, although I'm pretty sure that I'm just showing the consideration that any man who's sworn his love to a woman would show.<K>
+  Or maybe Saya doesn't understand that a man faced with a woman's naked body can't help but react regardless of his feelings.
+
+<BUSTUP NAME="沙耶" face="困り笑い2" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_困り笑い2.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/28/007401.ogg">  "Aha, how funny! You really are kind."<K>
+<voice name="郁紀" SRC="media/voice/28/007500.ogg">  "...Yeah?"<K>
+<BUSTUP NAME="沙耶" face="弱気目寂しげ" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_弱気目寂しげ.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/28/007601.ogg">  "I only did this so that she could please you.<k><voice name="沙耶" SRC="media/voice/28/007601_2.ogg"> If you like her and enjoy spending time with her, then I'll be happy too.<k><voice name="沙耶" SRC="media/voice/28/007601_3.ogg"> You have nothing to be shy about."
+
+<voice name="郁紀" SRC="media/voice/28/007700.ogg">  "I hate to say this, but..."<K>
+  I struggle to find the right words to express my true feelings.<K>
+<voice name="郁紀" SRC="media/voice/28/007800.ogg">  "Men are, well... really depraved creatures, and...<K><voice name="郁紀" SRC="media/voice/28/007800_2.ogg"> I mean, Yoh's body has features that yours doesn't, right?<K><voice name="郁紀" SRC="media/voice/28/007800_3.ogg"> So... even though it's nothing like my love for you... I can't help but, um, get aroused."
+
+<BUSTUP NAME="沙耶" face="にっこり笑顔" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_にっこり笑顔.png">
+<WIPE EFFECT="fade" TIME="5">
+  With each word that I squeeze from my lips, Saya's grin grows wider and wider, until finally she starts shaking with laughter.<K>
+<BUSTUP NAME="沙耶" face="目逸らし笑い2" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_目逸らし笑い2.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/28/007901.ogg">  "I know, I know!" Saya exclaims jovially, patting my shoulder with one hand and wiping tears from her eyes with the other. "There's no reason to be ashamed of your natural male instincts!<K><BUSTUP NAME="沙耶" face="楽し目笑い" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_楽し目笑い.png"><WIPE EFFECT="fade" TIME="5"><voice NAME="沙耶" SRC="media/voice/28/008001.ogg"> If you're really that worried, let me join in when you play with her. We can enjoy ourselves in ways that we couldn't when it was just the two of us. Okay?"<K>
+<voice name="郁紀" SRC="media/voice/28/008100.ogg">  "Are you sure?" I ask again, as though trying to force her to say no.
+
+<clear>
+<BACKGROUND SRC="media/cg/50.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Saya answers me with a smile whose like I have never seen before.<K> It is calm―so terribly calm―and there is something bewitching about the soft set of her lips that sets it apart from her usual bright, childish expression.<K>
+<voice name="沙耶" SRC="media/voice/28/008201.ogg">  "You and I are lovers, and Tsukuba Yoh is our pet.<K><voice name="沙耶" SRC="media/voice/28/008201_2.ogg"> She will be reminded of that when we play with her―every day, from now on."<K>
+  I finally know why Saya chose Yoh, for the venom in her voice and smile does not escape me.<K>
+  Although she can no longer answer, if asked, Yoh would surely have chosen death over this fate. And that is the very reason Saya visited it upon her.
+
+  How wicked and terrible Saya is.<K>
+  Perhaps others would fear and loathe her. I, however, find her malevolence irresistibly charming.<K>
+  The horrifying cruelty of what she has done to Yoh is so very human.<K> Though her shape may be different, her soul is the same as ours.<K>
+  When I look upon Yoh's wretched form, I see the intensity and passion of Saya's love for me―for the flames that have consumed Yoh are fueled by that very love.
+
+<clear>
+<BACKGROUND SRC="media/cg/bc06me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  I find myself enthusiastically accepting Saya's present.<K>
+<voice name="郁紀" SRC="media/voice/28/008300.ogg">  "Do you like this pet too?"<K>
+<voice name="沙耶" SRC="media/voice/28/008401.ogg">  "Yeah. She's very pretty, and feels good to touch."<K>
+<voice name="郁紀" SRC="media/voice/28/008500.ogg">  "So you'll enjoy playing with her too, right? I don't have to hold back, do I?"<K>
+<voice name="沙耶" SRC="media/voice/28/008601.ogg">  "Of course I will!"
+
+<se id="1" src="media/sound/鎖.ogg" mode="normal" loop="off">
+  Grinning happily, Saya grabs the chain and pulls Yoh to her feet.<K>
+<voice name="瑶" SRC="media/voice/28/008705.ogg">  "Ah!"<K>
+<voice name="沙耶" SRC="media/voice/28/008801.ogg">  "Try touching her, Fuminori. She's really nice and soft."<K>
+<voice name="郁紀" SRC="media/voice/28/008900.ogg">  "Okay."<K>
+  As Yoh looks up at me with teary, pleading eyes, I approach and let my gaze roam freely over her lush body and ripe breasts.
+
+  I run my fingers through her hair, finding it as smooth as Saya's. Enjoying the feel, I continue to caress Yoh's head.<K>
+<voice name="瑶" SRC="media/voice/28/009005.ogg">  "......"<K>
+  Her fearful expression softens a little. Perhaps she remembers me in some part of her mind, and believes even now that I will be kind to her. How foolish.
+
+<clear>
+<BACKGROUND SRC="media/cg/h17_1.png">//
+<WIPE EFFECT="fade" TIME="10">
+
+<wait time="200">
+<box type="9">
+  I stop stroking her hair and calmly seize both of her breasts.<K>
+<voice name="瑶" SRC="media/voice/28/009105.ogg">  She flinches in pain at the sudden rough treatment, but I ignore her and continue to knead her breasts as my lust demands.<K>
+
+
+  I can't get this feeling from Saya's tight, slender body―and, besides, I would never think of treating her delicate frame so harshly. Yoh, however...<K>
+
+
+
+  Having my way with a woman is more fun than I thought.
+
+<clear>
+<BACKGROUND SRC="media/cg/h17_2.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="沙耶" SRC="media/voice/28/009301.ogg">  "Fuminori," Saya says from the sidelines, "it looks like you're all ready to go."<K>
+  She's right; my lust is already straining against my slacks, trying to burst free.<K>
+<voice name="沙耶" SRC="media/voice/28/009401.ogg">  "Which do you prefer? A soft, curvy body like hers, or one like mine?"<K>
+<voice name="郁紀" SRC="media/voice/28/009500.ogg">  "Hmm... As far as bodies go, probably this one."<K>
+<voice name="沙耶" SRC="media/voice/28/009601.ogg">  "That makes me a little jealous," Saya complains, pouting adorably.
+
+<voice name="郁紀" SRC="media/voice/28/009700.ogg">  "You're the one who said you didn't mind. Come on, join in."<K>
+<voice name="沙耶" SRC="media/voice/28/009801.ogg">  "Yeah, let me play with her!"<K>
+  Saya presses up against Yoh's back and grabs her breasts from behind.<K>
+  Following my lead, she wriggles her fingers against Yoh's breasts, taking full advantage of their softness.<K>
+<voice name="沙耶" SRC="media/voice/28/009901.ogg">  "Aha, this never gets old!"<K>
+<voice name="瑶" SRC="media/voice/28/010005.ogg">  "Kuh...uhhh..."<K>
+  The tears in Yoh's eyes and the sight of her breasts changing shape under Saya's hands cause a new sadistic desire to well up within me.
+
+<clear>
+<BACKGROUND SRC="media/cg/h14.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="郁紀" SRC="media/voice/28/010100.ogg">  "Alright, let's try this."<K>
+
+<voice name="郁紀" SRC="media/voice/28/010200.ogg">  "Bring them closer together."<K>
+<voice name="沙耶" SRC="media/voice/28/010301.ogg">  "Okay, like this?"<K>
+
+
+
+<clear>
+<BACKGROUND SRC="media/cg/h14_1.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+
+<voice name="沙耶" SRC="media/voice/28/010501.ogg">  "Does it feel good?"<K>
+<voice name="郁紀" SRC="media/voice/28/010600.ogg">  "Yeah, it sure does."<K>
+
+
+  With each stroke, she cries out in fear as the stiff head of my penis stabs her in the face like a dark red weapon.<K>
+<voice name="郁紀" SRC="media/voice/28/010700.ogg">  "Saya... harder."<K>
+<voice name="沙耶" SRC="media/voice/28/010801.ogg">  "Um, like this?"<K>
+<voice name="瑶" SRC="media/voice/28/010905.ogg">  "Aghh!"
+
+
+  Her convulsions combine with the sensation of Saya's hands coming through the softness of her breasts, and the feeling of being serviced by both of them at once brings my pleasure to the breaking point.<K>
+  My lust erupts right in Yoh's face.
+
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="media/cg/h14_2.png">//
+<WIPE EFFECT="fade" TIME="0">
+<wait time="200">
+<box type="9">
+<voice name="瑶" SRC="media/voice/28/011005.ogg">  "Eee!?"<K>
+  The sudden explosion covers her entire face with my hot seed.<K>
+  Yoh shakes her head violently, trying in vain to escape from the sticky goo dripping from her eyelids and nose.<K>
+<voice name="沙耶" SRC="media/voice/28/011101.ogg">  "Wow, that's a lot," Saya says, staring at Yoh's face with a mixture of awe and envy.
+
+<clear>
+<BACKGROUND SRC="media/cg/h15.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Then Saya grabs Yoh's head, pulls it to her, and starts lapping my seed off of Yoh's face like it's the most wonderful thing in the world.<K>
+<voice name="沙耶" SRC="media/voice/28/011201.ogg">  "All of this belongs to me."<K>
+
+
+//<VOICE NAME="瑶" SRC="28\011305">（咳き込む声、要収録）
+//{VC_PLAY(1,"voice/28/011305",0,100,false,"瑶");}
+
+<voice name="沙耶" SRC="media/voice/28/011401.ogg">  "Hey, stop that! You can't have any!"<K>
+
+  When she pulls away with a wet sound, a sensual strand of saliva and other fluids connects them briefly.
+
+<voice name="沙耶" SRC="media/voice/28/011501.ogg">  "You don't get to have any," Saya says with satisfaction as she swallows my sperm. "It's aaaall mine."<K>
+  Yoh looks on Saya's bewitching smile with fear-clouded eyes. She obviously has no idea what's going on.
+
+
+  Yoh's breasts aren't enough. Saya went to the trouble of giving me this present, so I'd better take full advantage of it.
+
+<clear>
+<BACKGROUND SRC="media/cg/bc06me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Abandoning Yoh's breasts, which are red and inflamed from the friction of Saya's fingers and my penis, I run my hand down her stomach and slide my fingers between her legs.<K>
+<voice name="瑶" SRC="media/voice/28/011605.ogg">  "Hya!"<K>
+  As I touch her most sensitive place, her entire body stiffens as though hit with an electric shock. My fingers feel the unmistakable honey seeping from her inner folds.<K>
+  Despite what has been done to her, this woman is wet.<K> This realization purges my mind of any remaining respect for Tsukuba Yoh, replacing it with the affection one feels for a pet.
+
+<voice name="郁紀" SRC="media/voice/28/011700.ogg">  "Hah!"<K>
+  Ignoring her cries of pain, I push Yoh to the floor and lift her left leg into the air.<K>
+<voice name="瑶" SRC="media/voice/28/011805.ogg">  "Auuuuuuuuu!"<K>
+  I raise her leg until it's almost perpendicular to the floor, giving me a good view of her vagina.<K>
+  Yoh probably can't feel shame anymore, but she does seem to understand how vulnerable she is in this position. She tries to get away from me, panting like a hunted animal.
+
+<clear>
+<BACKGROUND SRC="media/cg/h16.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+
+<voice name="瑶" SRC="media/voice/28/011905.ogg">  She screams when I make contact with her sensitive mucous membranes.<K>
+
+
+
+<voice name="瑶" SRC="media/voice/28/012005.ogg">  "Aghh!!"<K>
+  She must not have been sufficiently prepared, as her choked scream is like that of a dying animal. In fact, it reminds me of how Suzumi screamed when I stabbed him with my knife.<K>
+
+  Yoh struggles to escape from the object invading her.<K> But with me sitting on her right leg and her left leg in the air, she can't move her lower body at all. No matter how hard she flails her arms and twists her torso, she can't escape from me.
+
+<voice name="瑶" SRC="media/voice/28/012205.ogg">  "Hau! Kuhhhh!"<K>
+
+<voice name="沙耶" SRC="media/voice/28/012301.ogg">  "Looks painful," Saya says, peering curiously at Yoh's tear-streaked face.
+
+  The sensation of Yoh's inner walls is completely different from Saya's.<K>
+
+
+<voice name="沙耶" SRC="media/voice/28/012401.ogg">  "Is she pleasing you?"<K>
+<voice name="郁紀" SRC="media/voice/28/012500.ogg">  "You could say that."<K>
+
+  The hypnotic quivering of her thighs as she trembles beneath me―the sight of her breasts heaving like storm-tossed ships―these sights and sensations are enough to stimulate my basest lusts.<K>
+<voice name="沙耶" SRC="media/voice/28/012601.ogg">  "Hehe, I'll join in too."
+
+<clear>
+<BACKGROUND SRC="media/cg/h18.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+
+
+  Saya gasps in pleasure as the tremors caused by my ravaging of Yoh's insides are transmitted into her body.<K>
+<voice name="沙耶" SRC="media/voice/28/012801.ogg">  "How cute..." Saya murmurs dreamily, rubbing Yoh's breasts with her left hand. "She's so adorable..."
+
+
+  Yoh's moans start to become more rhythmical and passionate.<K>
+  She must be beginning to find my movements pleasurable, as her insides are now wet enough for me to slide through easily.
+
+<voice name="沙耶" SRC="media/voice/28/013001.ogg">  "Fuminori," Saya calls to me in a breathless voice as she pleasures herself on Yoh's body. "When you're about to come..."<K>
+  She doesn't need to finish to make her desire clear.<K>
+<voice name="郁紀" SRC="media/voice/28/013100.ogg">  "Yeah, I know. Don't worry."<K>
+
+
+  Racing to the finish, I pick up the pace of my thrusts. Once again, Yoh is forced to gasp for breath.<K>
+
+<voice name="郁紀" SRC="media/voice/28/013300.ogg">  "Saya, I'm..."<K>
+<voice name="沙耶" SRC="media/voice/28/013401.ogg">  "Okay! Come, Fuminori!"<K>
+  The blazing hot orgasmic fire races down my spine.
+
+  Having reached the moment of truth, I release my grip on Yoh and push her away, then seize Saya's buttocks with both hands.<K>
+<voice name="沙耶" SRC="media/voice/28/013501.ogg">  "Fuminori!"<K>
+
+
+
+
+
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<voice name="沙耶" SRC="media/voice/28/013701.ogg">  "Haaaa...hot..."<K>
+  Saya convulses and collapses into my chest, smiling contentedly as she surrenders herself to the fire filling her womb.<K>
+  Still breathing hard after my ravaging of her body, Yoh gazes at us with dazed, uncomprehending eyes.<K>
+  Sprawled atop each other, smelling of sweat and sex, we savor for a while the calm left in the aftermath of our orgy.
+
+<bgm src="s06" mode="fadeout" time="20" loop="off">
+<BACKGROUND SRC="media/cg/bc06me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Later, as I lie on my bed drained of energy, I consider what my life will be like from now on.<K>
+  Saya is resting in my arms. Yoh is curled up on the floor. Yesterday, I could not have imagined that the three of us would be a family.<K>
+  A new home, new food, a new family―all granted to me by Saya. She has selflessly led me from the brink of death to find new joy amid despair.
+
+  And I, too, have changed.<K>
+  I have killed two people with my own hands, and made a third my mindless slave. Yet despite all that I have done, I am still able to sleep peacefully. Without a doubt, I am no longer the Sakisaka Fuminori I once was.<K>
+<bgm src="media/sound/s03.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+  How far will Saya take me?<K> What will I become?<K>
+  I feel somewhat unsure, though not discouraged, about the unknown world into which we are heading; and so, while playing with Saya's hair, I ask,<K><voice name="郁紀" SRC="media/voice/28/013800.ogg"> "Saya... what are you?"<K>
+  I don't expect an answer. If Saya is asleep or doesn't want to respond, I won't mind.
+
+<clear>
+<BACKGROUND SRC="media/cg/51.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Saya lifts her head, however, and draws my gaze into the deep pools of her eyes.<K>
+<voice name="沙耶" SRC="media/voice/28/013901.ogg">  "It's... kind of hard to explain."<K>
+  She thinks for a while, searching for the right words, then says simply,<K>
+<voice name="沙耶" SRC="media/voice/28/014001.ogg">"You know the dandelion flower? The one that scatters its seeds on the wind?"<K>
+<voice name="郁紀" SRC="media/voice/28/014100.ogg">  "Yeah?"<K>
+<voice name="沙耶" SRC="media/voice/28/014201.ogg">  "The wind carries those fluffy seeds far, far from where they were born.<k><voice name="沙耶" SRC="media/voice/28/014201_2.ogg"> What if one of them ends up in a desert where not even a single blade of grass is growing?<K><voice name="沙耶" SRC="media/voice/28/014201a.ogg"> If you can imagine how that lone seed will feel...<K><voice name="沙耶" SRC="media/voice/28/014201a_2.ogg"> then you might be able to understand me."<K>
+<voice name="郁紀" SRC="media/voice/28/014300.ogg">  "......"
+
+  As I consider Saya's answer, she continues her story.<K>
+<voice name="沙耶" SRC="media/voice/28/014401.ogg">  "That seed is still a baby flower. If it does its best, it can turn even a desert into a garden.<K><voice name="沙耶" SRC="media/voice/28/014401a.ogg"> Maybe that little seed will decide to thrive.<k><voice name="沙耶" SRC="media/voice/28/014401a_2.ogg"> Maybe it will decide to grow and multiply, so that it can turn the whole desert into a field of dandelions.<k><voice name="沙耶" SRC="media/voice/28/014401a_3.ogg"> What do you think can give it the strength to do so?"<K>
+<voice name="郁紀" SRC="media/voice/28/014500.ogg">  "What?" I whisper, entranced.
+
+  Saya smiles softly and caresses my cheek.<K>
+<voice name="沙耶" SRC="media/voice/28/014601.ogg">  "All it needs... is to be loved by just one person in the whole desert.<K><voice name="沙耶" SRC="media/voice/28/014601a.ogg"> All it needs is to be told how pretty dandelions are."<K>
+<voice name="郁紀" SRC="media/voice/28/014700.ogg">  "......"<K>
+  The loving touch of her slender fingers fills me with peace and joy.
+
+<voice name="沙耶" SRC="media/voice/28/014801.ogg">  "I... love you."<K>
+  I pull her into my chest, nodding silently.<K>
+<voice name="沙耶" SRC="media/voice/28/014901.ogg">  "Stay with me forever. Never leave my side."<K>
+<voice name="郁紀" SRC="media/voice/28/015000.ogg">  "I promise."
+
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Basking in the soft warmth of our love for each other, we sink into the oblivion of sleep.
+
+<A HREF="media/script/nps/sy150.nps" OPERATOR="">

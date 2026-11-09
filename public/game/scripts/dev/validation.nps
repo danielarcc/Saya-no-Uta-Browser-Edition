@@ -1,0 +1,58 @@
+// Original, non-explicit validation scenario. Not a chapter of Saya no Uta.
+<INCLUDE SRC="include.h">
+<SYSTEM CMD="savemode" MODE="on">
+<CLEAR>
+<CALC WORKNAME="route" OPERATOR="0">
+<CALC WORKNAME="visits" OPERATOR="0">
+<BACKGROUND SRC="lab">
+<WIPE EFFECT="fade" TIME="20">
+<BGM SRC="ambient" MODE="fadein" TIME="10" LOOP="on" VOL="45">
+<BOX TYPE="9">
+Sala de calibração — engine NPS.
+Este roteiro independente exercita comandos reais. Ele não contém a história do jogo original.
+<K>
+<VOICE NAME="Sistema" SRC="voice-test">
+O áudio de voz usa um canal separado da música. Você pode ouvi-lo novamente no histórico.
+<K>
+<BUSTUP NAME="Indicador" FACE="normal" MODE="on" ALIGN="left">
+<WIPE EFFECT="fade" TIME="10">
+<SE ID="1" SRC="chime" LOOP="off" VOL="50">
+Um indicador entrou pela esquerda. Clique uma vez para completar o texto e outra para avançar.
+<I>O texto em itálico mantém sua formatação.</I>
+<K>
+<MARKER NAME="#choose">
+<CLEAR>
+Escolha um percurso. Cada opção altera uma variável e segue para um roteiro diferente.
+<CHOICE HREF="#blue" X="250" Y="220" TEXT="01   Percurso azul" PUSHSE="chime">
+<CHOICE HREF="#amber" X="250" Y="310" TEXT="02   Percurso âmbar" PUSHSE="chime">
+<CHOICE HREF="#tools" X="250" Y="400" TEXT="03   Exercitar camadas e deslocamento">
+<CHOICE HREF="#finish" X="250" Y="490" TEXT="04   Concluir o roteiro">
+<SELECT>
+<MARKER NAME="#blue">
+<CALC WORKNAME="route" OPERATOR="1">
+<A HREF="branch.nps#start">
+<MARKER NAME="#amber">
+<CALC WORKNAME="route" OPERATOR="2">
+<A HREF="branch.nps#start">
+<MARKER NAME="#tools">
+<CLEAR>
+<LAYER NUM="1" SRC="grid" X="0" Y="0" TRANSPARENT="50" ZOOM="100">
+<WIPE EFFECT="fade" TIME="15">
+<SCROLL NUM="1" X="160" Y="0" TIME="10" COUNT="4">
+A camada quadriculada está semitransparente e foi deslocada 160 pixels. O save preserva essa posição.
+<K>
+<LAYER NUM="1" MODE="off">
+<WIPE EFFECT="fade" TIME="10">
+<A HREF="#choose">
+<MARKER NAME="#finish">
+<CLEAR>
+<BUSTUP NAME="Indicador" MODE="off">
+<BACKGROUND SRC="#10271e">
+<WIPE EFFECT="fade" TIME="20">
+<CALC WORKNAME="validationComplete" OPERATOR="1" MODE="global">
+A validação terminou. A variável global validationComplete foi persistida.
+Você pode carregar um save para retomar um percurso ou abrir os créditos originais.
+<K>
+<BGM MODE="fadeout" TIME="20">
+<SYSTEM CMD="ending" ROLL="staff">
+<END>

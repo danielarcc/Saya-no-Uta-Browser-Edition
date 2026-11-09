@@ -1,0 +1,25 @@
+<MARKER NAME="#start">
+<CLEAR>
+<CALC WORKNAME="visits" OPERATOR="$visits+1">
+<A HREF="#blue" OPERATOR="route=1">
+<A HREF="#amber" OPERATOR="route=2">
+<END>
+<MARKER NAME="#blue">
+<BACKGROUND SRC="#173c5e">
+<BUSTUP NAME="Indicador" FACE="blue" MODE="on" ALIGN="right">
+<WIPE EFFECT="fade" TIME="20">
+O percurso azul foi escolhido. A variável route vale 1.
+O indicador está à direita; música, posição narrativa e variáveis fazem parte do save.
+<K>
+<A HREF="#return">
+<MARKER NAME="#amber">
+<BACKGROUND SRC="#5a3918">
+<BUSTUP NAME="Indicador" FACE="amber" MODE="on" ALIGN="center">
+<WIPE EFFECT="fade" TIME="20">
+O percurso âmbar foi escolhido. A variável route vale 2.
+Este é um ramo diferente do mesmo roteiro, alcançado por uma condição NPS.
+<K>
+<MARKER NAME="#return">
+<CHOICE HREF="validation.nps#choose" X="250" Y="300" TEXT="Voltar às escolhas">
+<CHOICE HREF="validation.nps#finish" X="250" Y="400" TEXT="Concluir">
+<SELECT>

@@ -1,0 +1,89 @@
+//もういらない
+<MARKER NAME="#三章へ">
+<clear>
+<BACKGROUND SRC="media/cg/bc04me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  On that terrible day when I first opened my eyes after the accident, what would my answer have been?<K>
+  When I think back on this many years from now, will I wish that my answer today had been different?<K>
+  It doesn't matter. Here, at this moment, there is no doubt in my mind.
+
+<voice name="郁紀" SRC="media/voice/21/000100.ogg">  "Who was that?" I ask Saya, looking at the unidentifiable pieces of the monster.<K> 
+<voice name="沙耶" SRC="media/voice/21/000201.ogg">  "...The man living next door. I don't know his name."<K>
+<voice name="郁紀" SRC="media/voice/21/000300.ogg">  "Oh, Mr. Suzumi."<K>
+  He was hardly a stranger. We've been neighbors for as long as I can remember. I'd go so far as to say we were on good terms before the accident.<K>
+  And now I've killed him with my own two hands.
+
+  I feel little.<K>
+  Mr. Suzumi, the kindly painter who lived next door, is but a distant memory.<K>
+  The pieces of meat around me belonged to a creature whose mere existence was nauseating. Only by killing the vermin could I find relief.<K>
+  He complained about my yard being filthy, the swine. It doesn't matter what Saya did. He wasn't worth keeping alive anyway.
+
+//<BUSTUP NAME="沙耶" face="通常" MODE="on" zoom="" ALIGN="center">
+//<WIPE EFFECT="fade" TIME="10">
+  These are my honest feelings.<K>
+  My hands are wet with another man's blood, and yet I am utterly calm.<K>
+  Now I know what I lost in the accident. Saya says that I can take it back, but I know that I cannot. It is gone forever, like the life of the man called Suzumi.
+
+<voice name="郁紀" SRC="media/voice/21/000400.ogg">  "Hey, Saya... No doctor could possibly fix my condition, you know."<K>
+<voice name="沙耶" SRC="media/voice/21/000501.ogg">  "...Fuminori?"<K>
+<voice name="郁紀" SRC="media/voice/21/000600.ogg">  "You can do what no human is capable of. You're not human, are you?"<K>
+<voice name="沙耶" SRC="media/voice/21/000701.ogg">  "......"<K>
+  Saya looks away, her expression unreadable.
+
+  Everything is monstrous and loathsome in my eyes―everything but Saya. I thought that she was somehow unique.<K>
+  I was wrong. I see her just as I do everything else―as something other than what she really is.<K>
+  But why should that surprise me? Saya is part of my world, just as I am part of hers. It doesn't change what we are to each other.
+
+  I stand and walk over to Suzumi's dismembered corpse.<K>
+<voice name="郁紀" SRC="media/voice/21/000800.ogg">  "I read this manga once, about a man who recovered from an accident only to find that he could no longer see the world as it was. Kind of like me."<K>
+  I finally realize that even though the stench of these monsters' flesh turns my stomach, their blood and guts smell pretty good. In fact, I know this fragrance quite well.
+
+
+<voice name="郁紀" SRC="media/voice/21/000900.ogg">  "He saw people as rocks and robots as beautiful women.<k><voice name="郁紀" SRC="media/voice/21/000900_2.ogg"> And so he fell in love with something that wasn't remotely human."<K>
+  I retrieve the cleaver, pick up a piece of Suzumi's body, <k><se id="1" src="media/sound/肉剥ぎ取り.ogg" mode="normal" loop="off">and start removing the skin and tendons.
+
+  Ahh, just as I thought.<K>
+  The stuff underneath is exactly the same as what Saya and I have been eating.<K>
+<voice name="郁紀" SRC="media/voice/21/001000.ogg">  "Hey, this looks pretty good. Let's eat it."<K>
+<voice name="沙耶" SRC="media/voice/21/001101.ogg">  "Fuminori..."<K>
+<voice name="郁紀" SRC="media/voice/21/001200.ogg">  "Oh, sorry. You're in no mood for that now, are you?<k><voice name="郁紀" SRC="media/voice/21/001200_2.ogg"> Now that it's dead, though, meat is meat. It'd be a waste to throw it away. We should get it in the fridge."<K>
+<voice name="沙耶" SRC="media/voice/21/001301.ogg">  "Is that... alright with you?"
+
+<voice name="郁紀" SRC="media/voice/21/001400.ogg">  "Sure," I answer easily. There is no longer any room for doubt in my mind.<K> <voice name="郁紀" SRC="media/voice/21/001500.ogg">"Also, his wife and daughter are probably next door. They might cause trouble when he doesn't come home. We'd better hunt them down before they go to the police."<K>
+<voice name="沙耶" SRC="media/voice/21/001601.ogg">  "Is that... really what you want?" Saya asks again, this time with a trace of fear in her voice.<K>
+  I guess I still haven't convinced her of my sincerity.
+
+<voice name="郁紀" SRC="media/voice/21/001700.ogg">  "So at the end of this manga, the man who fell for something inhuman gives up his own humanity for the sake of their love.<k><voice name="郁紀" SRC="media/voice/21/001700_2.ogg"> A happy ending, don't you think?"<K>
+<voice name="沙耶" SRC="media/voice/21/001801.ogg">  "Fuminori..."<K>
+<voice name="郁紀" SRC="media/voice/21/001900.ogg">  "You're all I need now, Saya. Nothing else matters as long as we're together."
+
+<se id="1" src="media/sound/包丁捨てる.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/22.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Tossing the knife and meat aside, I pull Saya into my arms once more.<K>
+<voice name="郁紀" SRC="media/voice/21/002000.ogg">  "I can say it now, can't I? Saya... I love you."<K>
+  As Saya wipes away the tears flowing from her eyes, I can no longer see any hint of fear in her face.<K>
+<voice name="沙耶" SRC="media/voice/21/002101.ogg">  "I don't want you to regret this. I don't, but..."<K>
+  I have sworn my oath, and Saya has accepted it. We have nothing to fear now. Saya will never need to cry again.<K>
+<voice name="沙耶" SRC="media/voice/21/002201.ogg">  "I can't help it. I'm so happy. I guess I'm pretty selfish, aren't I?"<K>
+<voice name="郁紀" SRC="media/voice/21/002300.ogg">  "I don't mind. I'll always indulge your selfishness."
+
+<clear>
+<BACKGROUND SRC="media/cg/bc04me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Filled with contentment, we exchange a smile and set to the task of cleaning the room.<K>
+  A single person produces a lot more meat than I expected. Speaking of which, I seem to remember doing something similar before.<K>
+<voice name="沙耶" SRC="media/voice/21/002401.ogg">  "About his wife and daughter... I think he killed them. I heard their screams."<K>
+<voice name="郁紀" SRC="media/voice/21/002500.ogg">  "Well, that makes things easier."<K>
+  After we finish here, we should go gather the meat from the Suzumi house. That should be enough to hold us for a while, and we can use their refrigerator to store what won't fit in ours.<K>
+  It's all coming together. Saya and I will be just fine.
+
+
+<A HREF="media/script/nps/sy110.nps" OPERATOR="">

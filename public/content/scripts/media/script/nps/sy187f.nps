@@ -1,0 +1,203 @@
+<MARKER NAME="#郁紀7">
+<se id="1" src="media/sound/瑶鳴き声1.ogg" mode="normal" loop="off">
+<bgm src="s08" mode="fadeout" time="20" loop="off">
+  <I>Squish.</I>
+
+<BUSTUP NAME="耕司" face="困惑" MODE="on" zoom="" ALIGN="left" SRC="media/cg/耕司_困惑.png">
+<WIPE EFFECT="fade" TIME="5">
+  Koji freezes and stares down the hall.<K>
+  It was a wet sound that he heard just now, like someone dragging their feet through a swamp―and it came from the room at the end of the hall.<K>
+  Something is there―something alive.
+
+
+<bgm src="media/sound/郁紀光景.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+  Koji creeps toward the sound, his light and gun at the ready.<K>
+<se id="1" src="media/sound/瑶鳴き声2.ogg" mode="normal" loop="off">
+  <I>Squish... squish.</I><K> Now it sounds like someone squeezing mud through their fingers, and as he gets closer, Koji begins to hear breathing.<K>
+  Could it be Fuminori? No, that's impossible. He should be waiting for a chance to ambush Koji, not making careless noise.
+
+  As he proceeds, the strange sound coming through the cracks in the concrete walls grows clearer.<K>
+<voice name="瑶" SRC="media/voice/40/000405.ogg">  "uH...uH...uH..."
+
+<clear>
+<BACKGROUND SRC="media/cg/bg04ni0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Before he knows it, he is standing on the threshold.<K> The room is filled with a thick, viscous darkness, just like every other room that he's passed.<K>
+  There is more than just darkness, however. Something is
+there.<K>
+  He can hear pained breathing, like that of a wounded animal, and what sounds like sobbing.
+
+  Sobbing?
+
+<BUSTUP NAME="耕司" face="怯え2" MODE="on" zoom="" ALIGN="left" SRC="media/cg/耕司_怯え2.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="耕司" SRC="media/voice/40/000502.ogg">  "Who's there?" Koji whispers into the darkness.<K>
+  Now that he's given away his position, he might as well turn on his light. For some reason, however, Koji feels that to do so would have disastrous consequences.
+
+  <I>The last time I heard her voice, on the phone, she was sobbing...</I><K>
+  The wheezing suddenly stops.<K>
+  And then...
+
+<voice name="瑶" SRC="media/voice/40/000605.ogg">  "Ko...Ji?"<K>
+  A whisper comes out of the darkness. Though not a human voice―not by any measure―it speaks some blasphemous semblance of human words.<K>
+<BUSTUP NAME="耕司" face="怯え1" MODE="on" zoom="" ALIGN="left" SRC="media/cg/耕司_怯え1.png">
+<WIPE EFFECT="fade" TIME="5">
+  A nightmarish flash of insight connects the dots in Koji's mind.<K>
+<voice name="耕司" SRC="media/voice/40/000702.ogg">  "Tsukuba?"<K>
+  It can't be.<K>
+  Yoh doesn't sound like this. She doesn't <I>smell</I> like this.
+
+<voice name="瑶" SRC="media/voice/40/000805.ogg">  "pLeAse... KoJi... KilL... mE..."<K>
+  But if it's not Yoh, then how does it know his name? Why is it begging him for help?
+
+<se id="1" src="media/sound/沙耶移動2.ogg" mode="normal" loop="off">
+  No. It can't be Yoh. She's human, not some creature that slithers and hides in the shadows.<K>
+<voice name="瑶" SRC="media/voice/40/000905.ogg">  "It HurTs... tHis BoDy... aLWayS HurTs...<k> <voice name="瑶" SRC="media/voice/40/000905_2.ogg">SaVe mE... KoJi..."
+
+  The thing wriggles closer. His reason cries out, imploring him to switch the light on before it's too late―or to turn and run, if he cannot.<K>
+  But Koji is unable to make either choice. He can only call out in vain to the amorphous shape in the darkness.
+
+<voice name="耕司" SRC="media/voice/40/001002.ogg">  "Is it you, Tsukuba? Is it really you!?"<K>
+<voice name="瑶" SRC="media/voice/40/001105.ogg">  "LeT Me dIe... No... MorE... PleAse... KilL meeEE!"<K>
+<se id="1" src="media/sound/くちゃくちゃ1.ogg" mode="normal" loop="off">
+  Something soft and slimy slides over Koji's toes.<K>
+  Instinct overrides his will, forcing him to turn on his light and shine it at his feet.
+
+<bgm src="" mode="normal" time="0" loop="off">
+<clear>
+<BACKGROUND SRC="#ffffff">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="9">
+  The white beam reveals everything―the merciless truth that finally shatters Koji's sanity.
+
+<bgm src="media/sound/s09_2.ogg" mode="normal" loop="on">
+<voice NAME="耕司" SRC="media/voice/40/001202.ogg">
+//「うわあああっ！！」<k>
+<clear>
+<BACKGROUND SRC="media/cg/43_1.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Terror wipes his mind of all but two words, gun and trigger. His finger responds with instant obedience.
+
+
+<se id="1" src="media/sound/銃1発.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/43_2.png">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="media/cg/bg04ni0.png">//
+<WIPE EFFECT="fade" TIME="0">
+<box type="9">
+  There is an explosion of light and sound, both more intense than he anticipated, and then the destructive forces are swallowed up by the darkness.<K>
+  His ears are still ringing from the bang, but he hears a weak voice coming from the shadows.<K>
+<voice name="瑶" SRC="media/voice/40/001305.ogg">  "iT... HuRts..."<K>
+<voice name="耕司" SRC="media/voice/40/001402.ogg">  Koji screams and pulls the trigger again and again, certain that salvation can come only from the barrel of his gun.
+
+<se id="1" src="media/sound/銃4発.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/43_1.png">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="media/cg/43_2.png">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="media/cg/43_3.png">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="media/cg/43_1.png">//
+<WIPE EFFECT="fade" TIME="0">
+<wait time="50">
+<BACKGROUND SRC="media/cg/43_2.png">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="media/cg/43_3.png">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="media/cg/43_1.png">//
+<WIPE EFFECT="fade" TIME="0">
+<wait time="50">
+<BACKGROUND SRC="media/cg/43_2.png">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="media/cg/43_3.png">//
+<WIPE EFFECT="fade" TIME="0">
+<BACKGROUND SRC="media/cg/43_1.png">//
+<WIPE EFFECT="fade" TIME="0">
+<wait time="50">
+<box type="9">
+  Light and darkness, explosion and silence―they dance before him three more times. Koji doesn't even need to aim. The horrible creature is right at his feet, far too close to miss.<K>
+  Ryoko warned him how many bullets were left in the gun, but that information has already been driven from his mind.<K>
+<se id="1" src="media/sound/弾切れ.ogg" mode="normal" loop="off">
+  Even after the cold, heavy gloom wraps itself around him once more, Koji keeps pulling the trigger like a man possessed, paying no heed to the clicking of the empty weapon.
+
+<se id="1" src="media/sound/倒れる.ogg" mode="normal" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bg04ni0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  His panic-stricken legs suddenly give out, sending him down hard on his backside.<K> Even then, he keeps firing the empty gun. He knows no other way to erase the memory of the thing that he glimpsed in the beam of his flashlight.
+
+  The light, which fell from his hand during the attack, is now pointing in a different direction. And though all four bullets must have hit their target, they were Koji's last card to play.<K>
+  Which leaves him alone in the darkness with no way to defend himself. And just as he realizes this...<K>
+<se id="1" src="media/sound/くちゃくちゃ4.ogg" mode="normal" loop="off">
+  A mass of rotting flesh rolls over him like a tidal wave.
+
+<clear>
+<BACKGROUND SRC="media/cg/44.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="瑶" SRC="media/voice/40/001505.ogg">  "ItHurtsIthuRTsithurtsIThurtsitHURTSIThURTSITHURTSSSSS!!"<K>
+  He can no longer even scream as the thing pushes him onto his back.<K> <voice name="耕司" SRC="media/voice/40/001602.ogg">With fear seizing his throat in an iron grip, Koji struggles desperately against the monster as it crawls up his body toward his face.<K>
+  Covering his face with his left hand, he scrabbles wildly along the floor with his right, searching for a way out that doesn't exist.<K>
+  His mind is that of a feral animal, empty of everything but primal terror.
+
+<clear>
+<BACKGROUND SRC="media/cg/bg04ni0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  And that is why, when his right hand closes around something hard at the last moment, he recognizes it instinctively as a weapon.<K>
+  Putting every ounce of strength into his arm, Koji swings the heavy object at the creature on top of him.
+
+<se id="1" src="media/sound/耕司攻撃1.ogg" mode="normal" loop="off">
+<FLASH SRC="#ffffff" WAIT="1" COUNT="1" EFFECT="normal" TIME="0">
+  He hears the thud of a blunt object striking something soft and wet, and then Koji's attacker rolls off him.<K>
+  As soon as he is able to move again, Koji leaps to his feet and grabs his new weapon with both hands, brandishing it like a charm to ward off evil. Only now does he realize that he's holding a rusty steel pipe.
+
+<voice name="瑶" SRC="media/voice/40/001705.ogg">  "eE...Ee...eE..."<K>
+  The monster is still sobbing.
+
+<clear>
+<BACKGROUND SRC="media/cg/05.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<voice name="耕司" SRC="media/voice/40/001802.ogg">  "AHHHHHHH!!"<K>
+<se id="1" src="media/sound/耕司攻撃1.ogg" mode="normal" loop="off">
+<FLASH SRC="#ffffff" WAIT="1" COUNT="1" EFFECT="normal" TIME="0">
+  With a cry that is part scream, part roar, Koji raises the steel pipe and brings it crashing down on the cowering creature.<K>
+  He hears a wet sound and feels the blood-chilling sensation of its thick, soft flesh absorbing the blow. These combine to evoke an instinctive loathing that wipes his mind of all but the urge to destroy.
+
+
+<voice name="耕司" SRC="media/voice/40/001902.ogg">  "Die! DIE!!"<K>
+<se id="1" src="media/sound/耕司攻撃2.ogg" mode="normal" loop="off">
+<FLASH SRC="#ffffff" WAIT="1" COUNT="1" EFFECT="normal" TIME="0">
+  Consumed by the same desperation with which he kept firing the empty gun, Koji rains blow after blow down on his enemy.<K>
+  After the tenth blow, it stops sobbing; after the twentieth blow, it stops moving; and after the thirtieth blow, it begins to feel and sound more and more like he's beating a puddle of viscous liquid.
+
+<bgm src="s09_2" mode="fadeout" time="20" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bg04ni0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+<se id="1" src="" mode="normal" loop="off">
+  Koji doesn't stop thrashing the creature until he recovers enough of his senses to realize that whatever it might have been before, it is now nothing but a corpse.<K>
+  The pipe in his hand, covered with unidentifiable fluids and filth, suddenly feels unbearably heavy.
+
+<bgm src="media/sound/s01.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+//<A HREF="#郁紀8" OPERATOR="badend=1">
+<A HREF="media/script/nps/sy188f.nps" OPERATOR="badend=1">
+<MARKER NAME="#凉子8">////
+<voice name="凉子" SRC="media/voice/40/002006.ogg">  <I>You still haven't seen the most damning part of all this.</I><K>
+  Ryoko's voice plays back in his head, and at last he knows how merciful her warning was. Now that his eyes are as open as hers, he is able to laugh in contempt of his own foolishness.
+
+<A HREF="media/script/nps/sy188f.nps" OPERATOR="">

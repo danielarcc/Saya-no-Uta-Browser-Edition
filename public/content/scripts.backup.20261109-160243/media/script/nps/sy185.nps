@@ -1,0 +1,16 @@
+<MARKER NAME="#合流4">
+<bgm src="" mode="fadeout" time="20" loop="off">
+<clear>
+<BACKGROUND SRC="media/cg/bg01ni0.png">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  Mountains of trash litter the front yard, forming a serviceable barricade.<K>
+  Koji sees everything from small refrigerators and mopeds to huge chunks of concrete and plaster that must have been abandoned by construction workers. The fact that they could get away with leaving all this stuff behind shows just how remote this place is.
+
+//<A HREF="#郁紀5" OPERATOR="badend=1">
+<A HREF="media/script/nps/sy185f.nps" OPERATOR="badend=1">
+<MARKER NAME="#凉子5">////
+  Glancing sidelong at the rear of his car, Koji sees no movement inside the barely-open trunk. Ryoko knows what she's doing. She'll probably wait until Fuminori's attention is focused on Koji before making her move.
+
+<A HREF="media/script/nps/sy185f.nps" OPERATOR="">

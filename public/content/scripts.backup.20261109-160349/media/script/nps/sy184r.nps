@@ -1,0 +1,6 @@
+//＜＜以下、凉子に電話したルートのみ＞＞
+<MARKER NAME="#凉子4">
+  After grabbing his new flashlight from the glove compartment and checking that the revolver is still in his pocket, <se id="1" src="media/sound/車ドア開け.ogg" mode="normal" loop="off">Koji opens the door, making sure to pop the trunk at exactly the same time. Ryoko shouldn't need any more explanation than that.<K>
+  Realizing that the interior roof light will stay on and broadcast that the trunk isn't closed, Koji quickly unscrews the bulb,<se id="1" src="media/sound/車ドア閉め.ogg" mode="normal" loop="off"> then gets out of the car and deliberately slams the driver's side door hard.
+
+<A HREF="media/script/nps/sy185.nps" OPERATOR="">

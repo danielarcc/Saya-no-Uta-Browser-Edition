@@ -1,0 +1,707 @@
+[
+  {
+    "source": "saya-work/media/cg/menu/title.png",
+    "output": "public/game/interface/title.png",
+    "sha256": "99df3b6359ce8a86da9203adf30273ccc50bb0abbeda9fcad133b42dc5d3e670"
+  },
+  {
+    "source": "saya-work/media/cg/staff1.png",
+    "output": "public/game/interface/staff1.png",
+    "sha256": "7a0b4ffc5752144ad9b876cddb394dedaf263b06f3b6aa0caf77adad2e32c819"
+  },
+  {
+    "source": "saya-work/media/cg/staff2.png",
+    "output": "public/game/interface/staff2.png",
+    "sha256": "e712667217542ae207b3260fdddddaeaf1f3344d847a82b2e7b1ab29953bee8e"
+  },
+  {
+    "source": "saya-work/media/cg/staff3.png",
+    "output": "public/game/interface/staff3.png",
+    "sha256": "40c91f6ea44681cce1504d4edd14492d67e153a7e1a25683e5ee6485aabaf74b"
+  },
+  {
+    "source": "saya-work/media/cg/staff4.png",
+    "output": "public/game/interface/staff4.png",
+    "sha256": "49602f71cafa9631cdbf56faf98a9049f4c8fb0922d68c825a6372d429b4a81d"
+  },
+  {
+    "source": "saya-work/media/data/start01.png",
+    "output": "public/game/interface/start01.png",
+    "sha256": "1e5af78ceb04102e8007493e97ed087d5bfe801be0ea0fc8c6a7d5fad472459d"
+  },
+  {
+    "source": "saya-work/media/data/start02.png",
+    "output": "public/game/interface/start02.png",
+    "sha256": "5546f932548a76bc864bb2ef05b4cd8b93fd6b4a6ef90f28f0509763ab2f9458"
+  },
+  {
+    "source": "saya-work/media/data/start03.png",
+    "output": "public/game/interface/start03.png",
+    "sha256": "90d66fde641b10cdcd9b9c482ea865597dec1088e7a40778e78869d99d4f8a4b"
+  },
+  {
+    "source": "saya-work/media/data/start04.png",
+    "output": "public/game/interface/start04.png",
+    "sha256": "186532b8b743f7f193605ec29e9b3ce3da41844fc045ac44e32d8168701b048b"
+  },
+  {
+    "source": "saya-work/media/data/start05.png",
+    "output": "public/game/interface/start05.png",
+    "sha256": "b4184f3a1b370f1e73fa880d368a2dfc4f0009772fd1cd2d234c376cf5b3c38a"
+  },
+  {
+    "source": "saya-work/media/data/startover.png",
+    "output": "public/game/interface/startover.png",
+    "sha256": "ab96ea46cd637c446dbc721dd0fe41d4597c5997c3859f4a4d0363fc8f930479"
+  },
+  {
+    "source": "saya-work/media/data/load01.png",
+    "output": "public/game/interface/load01.png",
+    "sha256": "c5299dc50fcf14579a62de0d11abcd0bdcb5ddcdee411aea45886f355c9e77c1"
+  },
+  {
+    "source": "saya-work/media/data/load02.png",
+    "output": "public/game/interface/load02.png",
+    "sha256": "ab2196150a4b451496d87bf2fcc044298027dcad6a6a0204dc280fa362044553"
+  },
+  {
+    "source": "saya-work/media/data/load03.png",
+    "output": "public/game/interface/load03.png",
+    "sha256": "2ad36a878c110b8695b2f0d3b349022a5799a8db4cecb7a4002b92221a194c67"
+  },
+  {
+    "source": "saya-work/media/data/load04.png",
+    "output": "public/game/interface/load04.png",
+    "sha256": "d3036a93f170182dc322192d20316a0bed5118a75c094f1a5261e2477b6edb05"
+  },
+  {
+    "source": "saya-work/media/data/load05.png",
+    "output": "public/game/interface/load05.png",
+    "sha256": "9f3d191b5a55cffc6e87491c6d907fd00f3d888003973c5b0fb2d06538d33c89"
+  },
+  {
+    "source": "saya-work/media/data/loadover.png",
+    "output": "public/game/interface/loadover.png",
+    "sha256": "e253b32753f2df3e475bfab36659c40f3996b917120a21a97c0e6b4fb3b24583"
+  },
+  {
+    "source": "saya-work/media/data/config01.png",
+    "output": "public/game/interface/config01.png",
+    "sha256": "d2a9700eebdb6ff3b8f8de58dfc57ea32d1443de426b26ab847cb7bb2c75a339"
+  },
+  {
+    "source": "saya-work/media/data/config02.png",
+    "output": "public/game/interface/config02.png",
+    "sha256": "5d07935b8d9f4c1081cd094305fa2070dc1536986cae917fe3e163050bc4382b"
+  },
+  {
+    "source": "saya-work/media/data/config03.png",
+    "output": "public/game/interface/config03.png",
+    "sha256": "c574cef343a0adb984df0751d6541af96c8533fb812369f48a1f8578430be5d5"
+  },
+  {
+    "source": "saya-work/media/data/config04.png",
+    "output": "public/game/interface/config04.png",
+    "sha256": "12ce4b784f3987d368869f25c23e4b40df11ee1dc02c58a7124fe79820a25c6a"
+  },
+  {
+    "source": "saya-work/media/data/config05.png",
+    "output": "public/game/interface/config05.png",
+    "sha256": "bc0c5a15951486e10fc453b3d5fc91b4354296e10e0e2d0f4a46ace758a5d9a1"
+  },
+  {
+    "source": "saya-work/media/data/configover.png",
+    "output": "public/game/interface/configover.png",
+    "sha256": "e789e4dd3e9d0beef961d71cebb87130b704b8863b4a8617499f74036f6bc913"
+  },
+  {
+    "source": "saya-work/media/data/staff01.png",
+    "output": "public/game/interface/staff01.png",
+    "sha256": "d2efd0713277863864df74da4ba5acb4f4e0c37669097eff4644ed0fda386685"
+  },
+  {
+    "source": "saya-work/media/data/staff02.png",
+    "output": "public/game/interface/staff02.png",
+    "sha256": "7ceb57807d9c7873f2f9ccc5e590264bcbfcf1049f27a62c47b3415bf2af1982"
+  },
+  {
+    "source": "saya-work/media/data/staff03.png",
+    "output": "public/game/interface/staff03.png",
+    "sha256": "245ed12ff32bf41a549044a0d35b4264fbf2130d37c49d0dd08df44aa581066e"
+  },
+  {
+    "source": "saya-work/media/data/staff04.png",
+    "output": "public/game/interface/staff04.png",
+    "sha256": "8ef323998d073f93fcceed53abc77e8b0aaab3588f62640f810d15dd7017ab4e"
+  },
+  {
+    "source": "saya-work/media/data/staff05.png",
+    "output": "public/game/interface/staff05.png",
+    "sha256": "abc65b1a3d5619bc679952add186d057cade181aaf1034efa2047ddbe559d3f4"
+  },
+  {
+    "source": "saya-work/media/data/staff.png",
+    "output": "public/game/interface/staff.png",
+    "sha256": "57d2873a0f96acd3cc8884de0f19401081db48faf520f78574c842ba71be391b"
+  },
+  {
+    "source": "saya-work/media/data/exit01.png",
+    "output": "public/game/interface/exit01.png",
+    "sha256": "2d4cea0f4dc614ecb46555e66137a686f7f90dc4f31c0bce65913b7a4ce03bfc"
+  },
+  {
+    "source": "saya-work/media/data/exit02.png",
+    "output": "public/game/interface/exit02.png",
+    "sha256": "88368066be52a05dfce316855460cd46e41ed90a896ccd39ec15bd7579fea9b7"
+  },
+  {
+    "source": "saya-work/media/data/exit03.png",
+    "output": "public/game/interface/exit03.png",
+    "sha256": "42e30f7b4c076db8d9a1a2d00f21086f8ee219abfe11bdf14196f1f9d1def717"
+  },
+  {
+    "source": "saya-work/media/data/exit04.png",
+    "output": "public/game/interface/exit04.png",
+    "sha256": "99f0f915a3854fafd85b140a64bcb65cd6064f186e7341300d258cbf1895e84d"
+  },
+  {
+    "source": "saya-work/media/data/exit05.png",
+    "output": "public/game/interface/exit05.png",
+    "sha256": "1a8d9b52e88bd8e7e4c1a21e544bc6274b0fa343617f6a9c42944c7a4a506a44"
+  },
+  {
+    "source": "saya-work/media/data/exitover.png",
+    "output": "public/game/interface/exitover.png",
+    "sha256": "bad6d6974879e7f1be2b0d5624b3e5440a462d4ba5cdc5425aafb1f7350d2fe8"
+  },
+  {
+    "source": "saya-work/media/data/f01.png",
+    "output": "public/game/interface/native/f01.png",
+    "sha256": "e405d14380fe8d6bdb43478848fb8f9424bb4ac1bb07ff11f3a3d139b2ff6499"
+  },
+  {
+    "source": "saya-work/media/data/f02.png",
+    "output": "public/game/interface/native/f02.png",
+    "sha256": "b7e8149a058d71407074cf0ffcbf37c774d358d1000aef6eb19bde062b80b6fb"
+  },
+  {
+    "source": "saya-work/media/data/f03.png",
+    "output": "public/game/interface/native/f03.png",
+    "sha256": "a9b7cde00bbb3533a4ad0d170a6169fcaac8552f4c7fad25963605e4067a75f9"
+  },
+  {
+    "source": "saya-work/media/data/f04.png",
+    "output": "public/game/interface/native/f04.png",
+    "sha256": "eab8c3a5e8e13a73b90f4f8f92a277d300ea225ba0a8406d038320fc88870123"
+  },
+  {
+    "source": "saya-work/media/data/f05.png",
+    "output": "public/game/interface/native/f05.png",
+    "sha256": "8db0bc08451831269c642acd5c37f63738fb325d856533fa9eb98c6a980ee607"
+  },
+  {
+    "source": "saya-work/media/data/f06.png",
+    "output": "public/game/interface/native/f06.png",
+    "sha256": "16e5e084a83740b5b854f13a29f5a1644a5ce24b41b4f19d9e61f431aa8a0ae1"
+  },
+  {
+    "source": "saya-work/media/data/select01.png",
+    "output": "public/game/interface/native/select01.png",
+    "sha256": "90cf91ab931e68a9cb05e6c62d28d60ea1c1ce3fcf264806c32af4be5a3a1931"
+  },
+  {
+    "source": "saya-work/media/data/select02.png",
+    "output": "public/game/interface/native/select02.png",
+    "sha256": "2575acb474be868e2ddb6c79f9a118b3928680c41a1ca32773d162033ecafe98"
+  },
+  {
+    "source": "saya-work/media/data/eye.png",
+    "output": "public/game/interface/native/eye.png",
+    "sha256": "a7d46f455200d9f315682c25f72e9f92f2acd324c5ba82130c205e5d5cd12772"
+  },
+  {
+    "source": "saya-work/media/data/cur00.png",
+    "output": "public/game/interface/native/cur00.png",
+    "sha256": "fe976df3d5fdedb25c483f88b99c2436f42d852e250c2284c15ecda415b827e6"
+  },
+  {
+    "source": "saya-work/media/data/cur01.png",
+    "output": "public/game/interface/native/cur01.png",
+    "sha256": "8865a6bceefb7b13fa58fc5cfad67a73ba932c28101297e2c9df9e374ac748bd"
+  },
+  {
+    "source": "saya-work/media/data/cur03_auto.png",
+    "output": "public/game/interface/native/cur03_auto.png",
+    "sha256": "f42f54f8206229d05451ca10cdeefb598a72746f72b7a9812fae3db6ed83c1da"
+  },
+  {
+    "source": "saya-work/media/data/effect.png",
+    "output": "public/game/interface/native/effect.png",
+    "sha256": "5a0a431e53a0ed5fcb6526ed22cfcd1fc048c0c257b7b152fa6ba116e7db576b"
+  },
+  {
+    "source": "saya-work/media/data/menueffectup.png",
+    "output": "public/game/interface/native/menueffectup.png",
+    "sha256": "9fc7e70249b69de560523628e3f1d2415c18f1bcb04e4d40c98e556bfc0206b2"
+  },
+  {
+    "source": "saya-work/media/data/menueffectdown.png",
+    "output": "public/game/interface/native/menueffectdown.png",
+    "sha256": "9ae0a6e57f876e825e3f92a5c8d0e3222a6c9575200c3280bab4f848a99d1610"
+  },
+  {
+    "source": "saya-work/media/data/menu/automessage-03.png",
+    "output": "public/game/interface/native/menu/automessage-03.png",
+    "sha256": "24e5f9e9d9124d696049f8c019ea2ef4ba20547b310f850f939e9767cae31305"
+  },
+  {
+    "source": "saya-work/media/data/menu/title-11.png",
+    "output": "public/game/interface/native/menu/title-11.png",
+    "sha256": "b507942c53fcda83a1e39e7dc305c76083b366b749b267ced251659d11c38a6e"
+  },
+  {
+    "source": "saya-work/media/data/menu/title-03.png",
+    "output": "public/game/interface/native/menu/title-03.png",
+    "sha256": "6ad8aa2fff33dca651413f3f87cbac802c192d896f492565ca8ebdd7cab84b51"
+  },
+  {
+    "source": "saya-work/media/data/menu/fullscreen-04.png",
+    "output": "public/game/interface/native/menu/fullscreen-04.png",
+    "sha256": "000383298582c2455a871f3978daa1a557ab6b53ec1d1512b6a846d3ef250f95"
+  },
+  {
+    "source": "saya-work/media/data/menu/config-02.png",
+    "output": "public/game/interface/native/menu/config-02.png",
+    "sha256": "007fa6665765413ef7778169055cc54c6e1edd99433a85a5c71dcaa061cd32e1"
+  },
+  {
+    "source": "saya-work/media/data/menu/title-02.png",
+    "output": "public/game/interface/native/menu/title-02.png",
+    "sha256": "4023075631049a7f6e1655699dd0f1e142fea49ee52f612987f652e0abd7cd73"
+  },
+  {
+    "source": "saya-work/media/data/menu/data-01.png",
+    "output": "public/game/interface/native/menu/data-01.png",
+    "sha256": "967640f51746feaa6c31b295c1aa19804b48b5ea871f2165a1bfa41c0ca62567"
+  },
+  {
+    "source": "saya-work/media/data/menu/skip-01.png",
+    "output": "public/game/interface/native/menu/skip-01.png",
+    "sha256": "7a7164866f3b2d0b1766a8cded698963118a3a7fd16f13a9aee0a0016b2990ba"
+  },
+  {
+    "source": "saya-work/media/data/menu/data-04.png",
+    "output": "public/game/interface/native/menu/data-04.png",
+    "sha256": "e5107f05cca160b07bfc36ba5b5efc26b02c42f65204b413bb5cbd51e0dd07cd"
+  },
+  {
+    "source": "saya-work/media/data/menu/automessage-04.png",
+    "output": "public/game/interface/native/menu/automessage-04.png",
+    "sha256": "1c2110ab9253b481b1c642864ade0c1ac9acd1689b3cca52a73cc723a8b97594"
+  },
+  {
+    "source": "saya-work/media/data/menu/cancel-03.png",
+    "output": "public/game/interface/native/menu/cancel-03.png",
+    "sha256": "1770c3e43a2559373333754b319810331302ae122d85769d6fc515d5d1a156f3"
+  },
+  {
+    "source": "saya-work/media/data/menu/messagenon-01.png",
+    "output": "public/game/interface/native/menu/messagenon-01.png",
+    "sha256": "63b3710a6bf4368f611c2ed53f8c93e1f03296e91b3ed17de110ac6943b0a2ef"
+  },
+  {
+    "source": "saya-work/media/data/menu/qload-02.png",
+    "output": "public/game/interface/native/menu/qload-02.png",
+    "sha256": "42d4b580510dfb515be8f78e8fd3b84654a6c3520ff89dc002ab12145507e22f"
+  },
+  {
+    "source": "saya-work/media/data/menu/sskip-04.png",
+    "output": "public/game/interface/native/menu/sskip-04.png",
+    "sha256": "677ee3a15b835b7f6d6d61db88a738fbd8b49940160d41a1a2a5fe66edabd8bb"
+  },
+  {
+    "source": "saya-work/media/data/menu/fullscreen-02.png",
+    "output": "public/game/interface/native/menu/fullscreen-02.png",
+    "sha256": "71fcb99210c8bc769b4720d352d4f64c5d8e6497fd292ae3d28eccbf5b227d9c"
+  },
+  {
+    "source": "saya-work/media/data/menu/qload-01.png",
+    "output": "public/game/interface/native/menu/qload-01.png",
+    "sha256": "b0d0d318760b77014ee77c964c712abcdb9ca1e9bf9ac8434f71485c4cb218a7"
+  },
+  {
+    "source": "saya-work/media/data/menu/cancel-02.png",
+    "output": "public/game/interface/native/menu/cancel-02.png",
+    "sha256": "47750f70e20b8795e20ca1879d3803e4e895ed928b95b7ca5f158ddc64deb68e"
+  },
+  {
+    "source": "saya-work/media/data/menu/config-04.png",
+    "output": "public/game/interface/native/menu/config-04.png",
+    "sha256": "9cef4edca9f775cb199b5c782ef1cf3e67248b9fb408b45208e7930831dc77b4"
+  },
+  {
+    "source": "saya-work/media/data/menu/log-03.png",
+    "output": "public/game/interface/native/menu/log-03.png",
+    "sha256": "2f16cc9dc5ec8059db0d755014633d434775bcf63c34364fd4b82ec1f213a979"
+  },
+  {
+    "source": "saya-work/media/data/menu/data-03.png",
+    "output": "public/game/interface/native/menu/data-03.png",
+    "sha256": "79eba6d1c954bb09efb5311cea62acab87e87d7e1261c383827cb23ca17af043"
+  },
+  {
+    "source": "saya-work/media/data/menu/messagenon-03.png",
+    "output": "public/game/interface/native/menu/messagenon-03.png",
+    "sha256": "9fdf9281b8f97d3745f6bbd4228c7552c8c69d1a0995595078b245151da52021"
+  },
+  {
+    "source": "saya-work/media/data/menu/fullscreen-01.png",
+    "output": "public/game/interface/native/menu/fullscreen-01.png",
+    "sha256": "0cd03b2ec4be1f15f86cdd97aac9462433962c2d4cd5b2a648037b0514172654"
+  },
+  {
+    "source": "saya-work/media/data/menu/log-04.png",
+    "output": "public/game/interface/native/menu/log-04.png",
+    "sha256": "9d30eb8670e9548fa2b0e48f4e2592143a021a574593a1cccfa7596bd9ee3a90"
+  },
+  {
+    "source": "saya-work/media/data/menu/qload-03.png",
+    "output": "public/game/interface/native/menu/qload-03.png",
+    "sha256": "ee2536357f37b8001149a45bce2da901e3998e7891012772f4ec71c47035f8c6"
+  },
+  {
+    "source": "saya-work/media/data/menu/qsave-04.png",
+    "output": "public/game/interface/native/menu/qsave-04.png",
+    "sha256": "7f85e8ca525cb46dd496ad11ff70826a1db44b1cf8b03434155cc1a29533198b"
+  },
+  {
+    "source": "saya-work/media/data/menu/data-02.png",
+    "output": "public/game/interface/native/menu/data-02.png",
+    "sha256": "fc1aa94f9970b15c35d0a0d8c666e3c54d13718ce1ed2567ce24616e527cc1ef"
+  },
+  {
+    "source": "saya-work/media/data/menu/fin-12.png",
+    "output": "public/game/interface/native/menu/fin-12.png",
+    "sha256": "e63ec311390542d25d199bc14266148504de7e50c7855fc3857ded73b6b40bbe"
+  },
+  {
+    "source": "saya-work/media/data/menu/qsave-02.png",
+    "output": "public/game/interface/native/menu/qsave-02.png",
+    "sha256": "28250ec141cb06d3efeae5e02ce9dbf91e3c339012be2795d3cf38770ad317a4"
+  },
+  {
+    "source": "saya-work/media/data/menu/fin-03.png",
+    "output": "public/game/interface/native/menu/fin-03.png",
+    "sha256": "694a889ea2542d8e1ef0e62218cd80502cfe85ce3cb296ae805a126ee8758d1b"
+  },
+  {
+    "source": "saya-work/media/data/menu/automessage-02.png",
+    "output": "public/game/interface/native/menu/automessage-02.png",
+    "sha256": "fc29f9e91d03cc9c70a5a0397815c18fd2e3286a72341a59159885cce3190df4"
+  },
+  {
+    "source": "saya-work/media/data/menu/fin-02.png",
+    "output": "public/game/interface/native/menu/fin-02.png",
+    "sha256": "2bb94f1b3e94f88879cbc967039482b48b9be803f2968f8af17c88beb30c456c"
+  },
+  {
+    "source": "saya-work/media/data/menu/messagenon-04.png",
+    "output": "public/game/interface/native/menu/messagenon-04.png",
+    "sha256": "d60fa478baa27656a3fb540100a6c53ccb62fa09f71d015f4017597eb1d7b637"
+  },
+  {
+    "source": "saya-work/media/data/menu/skip-04.png",
+    "output": "public/game/interface/native/menu/skip-04.png",
+    "sha256": "a407821c211911f2e3a45a79b2a840f1e0c061b3795d5c47eb04c3818dc5d934"
+  },
+  {
+    "source": "saya-work/media/data/menu/skip-03.png",
+    "output": "public/game/interface/native/menu/skip-03.png",
+    "sha256": "407715d672d8ec9f99acbaadbfaa85456ae55f9f1f711e572eb547e6e4acc4f7"
+  },
+  {
+    "source": "saya-work/media/data/menu/sskip-02.png",
+    "output": "public/game/interface/native/menu/sskip-02.png",
+    "sha256": "a359209741d3bb1aa4c634f3a693b07a6237566e60e324e69d0cd52eb79e1089"
+  },
+  {
+    "source": "saya-work/media/data/menu/messagenon-02.png",
+    "output": "public/game/interface/native/menu/messagenon-02.png",
+    "sha256": "c7cf4512ca6c9063ab58591d6c37e775234071e7b776ba0e543a6d907b55fa72"
+  },
+  {
+    "source": "saya-work/media/data/menu/config-01.png",
+    "output": "public/game/interface/native/menu/config-01.png",
+    "sha256": "2c3ca76b32b900fd478ea6a6e845bb99d6d670ebfb2905a9019eb4acd0bd1d43"
+  },
+  {
+    "source": "saya-work/media/data/menu/sskip-01.png",
+    "output": "public/game/interface/native/menu/sskip-01.png",
+    "sha256": "29a69253613ff12535b98c50a89f2817d539d6188d233bb1b070efc37d961a61"
+  },
+  {
+    "source": "saya-work/media/data/menu/fin-01.png",
+    "output": "public/game/interface/native/menu/fin-01.png",
+    "sha256": "2b8c6316c9cd012b2c3f4a1aa8afc095582c1e0be9e2ebc90b0affe60553a49a"
+  },
+  {
+    "source": "saya-work/media/data/menu/sskip-03.png",
+    "output": "public/game/interface/native/menu/sskip-03.png",
+    "sha256": "e2cfd326d109781530c31e0dea2a262fa3412c3ac21fa21e2ad7635e706e959c"
+  },
+  {
+    "source": "saya-work/media/data/menu/log-01.png",
+    "output": "public/game/interface/native/menu/log-01.png",
+    "sha256": "ba7f265410b739beba384a3f9dcdb26ef2634d48c4501241c116af1681bc6a22"
+  },
+  {
+    "source": "saya-work/media/data/menu/fullscreen-03.png",
+    "output": "public/game/interface/native/menu/fullscreen-03.png",
+    "sha256": "43fbc9957c9b6aa7086bfea79fed0d4fe588fd903df2cb4f0be7a0cbcf66a069"
+  },
+  {
+    "source": "saya-work/media/data/menu/qload-04.png",
+    "output": "public/game/interface/native/menu/qload-04.png",
+    "sha256": "cba8388fbca1e2159d84f9c760bcd667c4c6c70332546dc3487343c7987ed464"
+  },
+  {
+    "source": "saya-work/media/data/menu/config-03.png",
+    "output": "public/game/interface/native/menu/config-03.png",
+    "sha256": "2b148f26c188c3e6cb44a83a3fad2d7c561abe776b7c8032877b6f5f1a2eef3a"
+  },
+  {
+    "source": "saya-work/media/data/menu/title-01.png",
+    "output": "public/game/interface/native/menu/title-01.png",
+    "sha256": "771985bb1da619edd6f736ec5599ad784b9b74ea6b629028e519e932e9dcb44e"
+  },
+  {
+    "source": "saya-work/media/data/menu/cancel-01.png",
+    "output": "public/game/interface/native/menu/cancel-01.png",
+    "sha256": "1fb9e5acf1f7c1ca40d011e94dfe60f559bf3b26400bf9a897914a7ccf950949"
+  },
+  {
+    "source": "saya-work/media/data/menu/log-02.png",
+    "output": "public/game/interface/native/menu/log-02.png",
+    "sha256": "198497d0a71de2387a35c39a1d4bf7b163ffbd394ab7691605efc801a0b16e8a"
+  },
+  {
+    "source": "saya-work/media/data/menu/automessage-01.png",
+    "output": "public/game/interface/native/menu/automessage-01.png",
+    "sha256": "ebfa7967bcfc9f80aea9575c3763c2295ddb1b3fba54e1fea433183dfc727819"
+  },
+  {
+    "source": "saya-work/media/data/menu/skip-02.png",
+    "output": "public/game/interface/native/menu/skip-02.png",
+    "sha256": "8c7b854875655d046bd1dcc9c82593a8699779dd771145b3bb0b60634b40acea"
+  },
+  {
+    "source": "saya-work/media/data/menu/qsave-03.png",
+    "output": "public/game/interface/native/menu/qsave-03.png",
+    "sha256": "8c30b60663e8ff491a45ba221e343ec05b41e6e86beb28163bbf0229513617df"
+  },
+  {
+    "source": "saya-work/media/data/menu/cancel-04.png",
+    "output": "public/game/interface/native/menu/cancel-04.png",
+    "sha256": "918da1884458710a5e71865e978419f0c685bb4e69aa9799bf146f932f122887"
+  },
+  {
+    "source": "saya-work/media/data/menu/qsave-01.png",
+    "output": "public/game/interface/native/menu/qsave-01.png",
+    "sha256": "16e2dda56bcf688d662b88b06f0eb3731714db6f384e1757b2b4efb085da88b5"
+  },
+  {
+    "source": "saya-work/media/data/cgl01.png",
+    "output": "public/game/interface/cgl01.png",
+    "sha256": "0b4cf2b00409e798eb941c4aa17e93530baf2918ddcf2f00125f4c001ef1b90a"
+  },
+  {
+    "source": "saya-work/media/data/cgl02.png",
+    "output": "public/game/interface/cgl02.png",
+    "sha256": "814205dcfdb820b458ea19975cb361bb850e655cda1da733849761f303a1a505"
+  },
+  {
+    "source": "saya-work/media/data/cgl03.png",
+    "output": "public/game/interface/cgl03.png",
+    "sha256": "b6b52ad10e1a3c6cb5467532d6528ac162236cf5451bd76f6bd8b839b1378393"
+  },
+  {
+    "source": "saya-work/media/data/cgl04.png",
+    "output": "public/game/interface/cgl04.png",
+    "sha256": "48f9de141ae9573edf91f82d413a9a940be58ab19390b3360a602248aeb1d5c3"
+  },
+  {
+    "source": "saya-work/media/data/cgl05.png",
+    "output": "public/game/interface/cgl05.png",
+    "sha256": "334531b3723e4fdbf199473cd645646f95614422a56bf6da6f97b26ccc4cb1db"
+  },
+  {
+    "source": "saya-work/media/data/cglover.png",
+    "output": "public/game/interface/cglover.png",
+    "sha256": "d8e9153668b9ac5548d56e438ea61f09acc803bcd23be4d779b35dcbcbbade96"
+  },
+  {
+    "source": "saya-work/media/data/sl01.png",
+    "output": "public/game/interface/sl01.png",
+    "sha256": "2cac9ffa4fff8352f5a7a856a4d58e977625ce2b3e093b242cb0dad993cd2e6a"
+  },
+  {
+    "source": "saya-work/media/data/sl02.png",
+    "output": "public/game/interface/sl02.png",
+    "sha256": "9a89f7787f768b5b7beade47aff954f4b5dae9707f17e5c533409f8fc7c47923"
+  },
+  {
+    "source": "saya-work/media/data/sl03.png",
+    "output": "public/game/interface/sl03.png",
+    "sha256": "a00357514261792184085433cd51875a25c4fd0c984004111bed6f0c4587ac90"
+  },
+  {
+    "source": "saya-work/media/data/sl04.png",
+    "output": "public/game/interface/sl04.png",
+    "sha256": "eb6151793795a5e837e3953c61ae73e23953c5d39084e17f842f7419fb4cce9a"
+  },
+  {
+    "source": "saya-work/media/data/sl05.png",
+    "output": "public/game/interface/sl05.png",
+    "sha256": "f70eb164f43102d05ee0fefde814974c962e6d659997ee1f0a41e7b7a2a504d2"
+  },
+  {
+    "source": "saya-work/media/data/slover.png",
+    "output": "public/game/interface/slover.png",
+    "sha256": "bdb2df0fdd80905be4b69abcf11955ea3cc39e41ce1a34dfb055c0574ad71eb8"
+  },
+  {
+    "source": "saya-work/media/cg/menu/title_back01.png",
+    "output": "public/game/interface/menu-title_back01.png",
+    "sha256": "cd419d302d0856534ab1a5c096edc1e73b25f2e1b6e9f0d082c5f86b20d00a35"
+  },
+  {
+    "source": "saya-work/media/cg/menu/sound_back.png",
+    "output": "public/game/interface/menu-sound_back.png",
+    "sha256": "19464583057ab3a02c256746aafb44c6a7ed540f9d8ce8bce25108fc89ee7449"
+  },
+  {
+    "source": "saya-work/media/cg/menu/cg_back.png",
+    "output": "public/game/interface/menu-cg_back.png",
+    "sha256": "d8e268a16f6802d7d06935aaf0b35d554c81ab3727466103524dd58ce170ec77"
+  },
+  {
+    "source": "saya-work/media/cg/06.png",
+    "output": "public/game/scene/06.png",
+    "sha256": "844a46946670fe9b933025c75aea8759810b7ab8304ae64994c3487213bee6a4"
+  },
+  {
+    "source": "saya-work/media/cg/ba01no0.png",
+    "output": "public/game/scene/ba01no0.png",
+    "sha256": "d4335c77ef0d8dbbe6b3d2201f5ee188fc55781d851415258d7604eb544d7ce0"
+  },
+  {
+    "source": "saya-work/media/cg/瑶_通常.png",
+    "output": "public/game/scene/瑶_通常.png",
+    "sha256": "e3853e69e4bb0f3fdb619415762bc2013d5c3e70c889513a192d1dd45ed76a5b"
+  },
+  {
+    "source": "saya-work/media/cg/瑶_困り通常.png",
+    "output": "public/game/scene/瑶_困り通常.png",
+    "sha256": "2b4c5bbaf54a08a7f23b3e6053897712a9a3dd08b96f2fc8f5d5ded0895ec201"
+  },
+  {
+    "source": "saya-work/media/cg/瑶_目閉じ笑い.png",
+    "output": "public/game/scene/瑶_目閉じ笑い.png",
+    "sha256": "657e83bb8195257f0d32837807f4d5bea21b3887f26247215e2a5ef405bd069b"
+  },
+  {
+    "source": "saya-work/media/cg/瑶_困り笑い.png",
+    "output": "public/game/scene/瑶_困り笑い.png",
+    "sha256": "4ed74dd45928396e98f7e8236dda9b989da063e3e45dcd935e7ac4dfd0561403"
+  },
+  {
+    "source": "saya-work/media/cg/青海_通常.png",
+    "output": "public/game/scene/青海_通常.png",
+    "sha256": "024a10ce3c153c86b8fa78903bb677a998a594289a5325af6561a00c1fcd9918"
+  },
+  {
+    "source": "saya-work/media/voice/3/000104.ogg",
+    "output": "public/game/voice/3/000104.ogg",
+    "sha256": "b6276e3176a21f191fde54282dae348b35719ffe4042c4481e0236b80ea6f6a5"
+  },
+  {
+    "source": "saya-work/media/voice/3/000205.ogg",
+    "output": "public/game/voice/3/000205.ogg",
+    "sha256": "b4e6416485808c24014a7deb13851fd629a7bfbf95d34d5974eec705252e8f5e"
+  },
+  {
+    "source": "saya-work/media/voice/3/000302.ogg",
+    "output": "public/game/voice/3/000302.ogg",
+    "sha256": "fac8aff99dfa34631dc3fe0b8324e2add04258587101807ad4261d856c0aa7a0"
+  },
+  {
+    "source": "saya-work/media/voice/3/000402.ogg",
+    "output": "public/game/voice/3/000402.ogg",
+    "sha256": "137952991a816b286f95ccb377ceace9967d3112a6b23c317196262d7566e56a"
+  },
+  {
+    "source": "saya-work/media/voice/3/000504.ogg",
+    "output": "public/game/voice/3/000504.ogg",
+    "sha256": "24a664137c9dce1e10b60e846deb2371a2fe8045c4dfbfc2e783ba6e32dc377f"
+  },
+  {
+    "source": "saya-work/media/voice/3/000602.ogg",
+    "output": "public/game/voice/3/000602.ogg",
+    "sha256": "1e5c857278c35a1eadd9edd9a5a2c74f3ce823d7e9b6803502a73f8fbf360807"
+  },
+  {
+    "source": "saya-work/media/voice/3/000704.ogg",
+    "output": "public/game/voice/3/000704.ogg",
+    "sha256": "91aab8a81a50208ba8aa4c69db16f8594b093c41983b967b9882ef04cc515418"
+  },
+  {
+    "source": "saya-work/media/voice/3/000805.ogg",
+    "output": "public/game/voice/3/000805.ogg",
+    "sha256": "0a76817f0ec1907b1abd9693fa3033b025b66552ce68c9b50b10038bbfec86ba"
+  },
+  {
+    "source": "saya-work/media/voice/3/000902.ogg",
+    "output": "public/game/voice/3/000902.ogg",
+    "sha256": "aeed9de3660df186cc648b21eb0e923c478bf561b03bc7630ce417df8ba9be98"
+  },
+  {
+    "source": "saya-work/media/voice/3/001004.ogg",
+    "output": "public/game/voice/3/001004.ogg",
+    "sha256": "b25cd4febb55f1223b6b347cee9a9f298771b64f78ca1f78251466190d1a4720"
+  },
+  {
+    "source": "saya-work/media/voice/3/001105.ogg",
+    "output": "public/game/voice/3/001105.ogg",
+    "sha256": "d25b504e2f7336f88d5ed7130d84b7784e90bf58a8440be5a6a127a3c103c589"
+  },
+  {
+    "source": "saya-work/media/voice/3/001204.ogg",
+    "output": "public/game/voice/3/001204.ogg",
+    "sha256": "d47db35695b0ea5feeabee7a4cb9763891217844aef6bc0e2842532314605fcf"
+  },
+  {
+    "source": "saya-work/media/voice/3/001305.ogg",
+    "output": "public/game/voice/3/001305.ogg",
+    "sha256": "4ff2277e61a8ebd00f66d03c9e3e22dd168d2dd6d8169ab4bac53a97fae401e9"
+  },
+  {
+    "source": "saya-work/media/voice/3/001404.ogg",
+    "output": "public/game/voice/3/001404.ogg",
+    "sha256": "e8039340a2790e9575a20b7ece05747a8c3bc33d71399688038309dacb9c01ff"
+  },
+  {
+    "source": "saya-work/media/voice/3/001505.ogg",
+    "output": "public/game/voice/3/001505.ogg",
+    "sha256": "bd2192f5450d93da5ea142f85f3aa9c4f0ce9800437a21e823338abdf2855b38"
+  },
+  {
+    "source": "saya-work/media/sound/s01.ogg",
+    "output": "public/game/sound/s01.ogg",
+    "sha256": "10547a4f54d5b3ca2ebfa30888446b42772b9126b36de343509676e449a2355b"
+  },
+  {
+    "source": "saya-work/media/sound/s02.ogg",
+    "output": "public/game/sound/s02.ogg",
+    "sha256": "62e2729c6e660795673598819ecb6a0e09226ef44d43ece8420ad0c964bc1fd9"
+  }
+]

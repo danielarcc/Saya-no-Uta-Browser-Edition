@@ -1,0 +1,291 @@
+{
+  "files": 39,
+  "parseFailures": [],
+  "commands": [
+    {
+      "name": "K",
+      "count": 2566,
+      "attributes": [],
+      "recognized": true
+    },
+    {
+      "name": "VOICE",
+      "count": 1448,
+      "attributes": [
+        "NAME",
+        "SRC",
+        "VOL"
+      ],
+      "recognized": true
+    },
+    {
+      "name": "WIPE",
+      "count": 876,
+      "attributes": [
+        "EFFECT",
+        "TIME"
+      ],
+      "recognized": true
+    },
+    {
+      "name": "BACKGROUND",
+      "count": 571,
+      "attributes": [
+        "EX",
+        "SHADE",
+        "SRC"
+      ],
+      "recognized": true
+    },
+    {
+      "name": "WAIT",
+      "count": 514,
+      "attributes": [
+        "TIME"
+      ],
+      "recognized": true
+    },
+    {
+      "name": "CLEAR",
+      "count": 479,
+      "attributes": [],
+      "recognized": true
+    },
+    {
+      "name": "BOX",
+      "count": 464,
+      "attributes": [
+        "TYPE"
+      ],
+      "recognized": true
+    },
+    {
+      "name": "SE",
+      "count": 361,
+      "attributes": [
+        "ID",
+        "LOOP",
+        "MODE",
+        "NAME",
+        "SRC",
+        "TIME",
+        "VOL"
+      ],
+      "recognized": true
+    },
+    {
+      "name": "BUSTUP",
+      "count": 248,
+      "attributes": [
+        "ALIGN",
+        "FACE",
+        "MODE",
+        "NAME",
+        "ZOOM"
+      ],
+      "recognized": true
+    },
+    {
+      "name": "BGM",
+      "count": 212,
+      "attributes": [
+        "COUNT",
+        "LOOP",
+        "MODE",
+        "OLD",
+        "SRC",
+        "TIME"
+      ],
+      "recognized": true
+    },
+    {
+      "name": "MARKER",
+      "count": 123,
+      "attributes": [
+        "NAME"
+      ],
+      "recognized": true
+    },
+    {
+      "name": "A",
+      "count": 121,
+      "attributes": [
+        "HREF",
+        "OPERATOR"
+      ],
+      "recognized": true
+    },
+    {
+      "name": "CHOICE",
+      "count": 85,
+      "attributes": [
+        "DISABLE",
+        "FILE",
+        "HREF",
+        "ONSE",
+        "OPERATOR",
+        "PUSHSE",
+        "SHORTCUT",
+        "TEXT",
+        "TYPE",
+        "X",
+        "Y"
+      ],
+      "recognized": true
+    },
+    {
+      "name": "I",
+      "count": 56,
+      "attributes": [],
+      "recognized": true
+    },
+    {
+      "name": "/I",
+      "count": 55,
+      "attributes": [],
+      "recognized": true
+    },
+    {
+      "name": "SYSTEM",
+      "count": 50,
+      "attributes": [
+        "BACKFILE",
+        "BACKX",
+        "BACKY",
+        "CMD",
+        "INIT",
+        "LIST",
+        "MENU",
+        "MODE",
+        "NEXTFILE",
+        "NEXTX",
+        "NEXTY",
+        "ONSE",
+        "PUSHSE",
+        "ROLL",
+        "TYPE",
+        "URL"
+      ],
+      "recognized": true
+    },
+    {
+      "name": "FLASH",
+      "count": 21,
+      "attributes": [
+        "COUNT",
+        "EFFECT",
+        "SRC",
+        "TIME",
+        "WAIT"
+      ],
+      "recognized": true
+    },
+    {
+      "name": "LAYER",
+      "count": 12,
+      "attributes": [
+        "NUM",
+        "SRC",
+        "TRANSPARENT",
+        "X",
+        "Y",
+        "ZOOM"
+      ],
+      "recognized": true
+    },
+    {
+      "name": "SELECT",
+      "count": 11,
+      "attributes": [
+        "CURSORNAME"
+      ],
+      "recognized": true
+    },
+    {
+      "name": "CALC",
+      "count": 10,
+      "attributes": [
+        "MODE",
+        "OPERATOR",
+        "WORKNAME"
+      ],
+      "recognized": true
+    },
+    {
+      "name": "END",
+      "count": 4,
+      "attributes": [
+        "OPTION"
+      ],
+      "recognized": true
+    },
+    {
+      "name": "/A",
+      "count": 4,
+      "attributes": [],
+      "recognized": true
+    },
+    {
+      "name": "CENTER",
+      "count": 2,
+      "attributes": [],
+      "recognized": true
+    },
+    {
+      "name": "/CENTER",
+      "count": 2,
+      "attributes": [],
+      "recognized": true
+    },
+    {
+      "name": "INCLUDE",
+      "count": 1,
+      "attributes": [
+        "SRC"
+      ],
+      "recognized": true
+    },
+    {
+      "name": "LOAD",
+      "count": 1,
+      "attributes": [],
+      "recognized": true
+    },
+    {
+      "name": "/PRE",
+      "count": 1,
+      "attributes": [],
+      "recognized": true
+    },
+    {
+      "name": "/BODY",
+      "count": 1,
+      "attributes": [],
+      "recognized": true
+    },
+    {
+      "name": "/HTML",
+      "count": 1,
+      "attributes": [],
+      "recognized": true
+    },
+    {
+      "name": "II",
+      "count": 1,
+      "attributes": [],
+      "recognized": true
+    },
+    {
+      "name": "SCROLL",
+      "count": 1,
+      "attributes": [
+        "COUNT",
+        "NUM",
+        "TIME",
+        "X"
+      ],
+      "recognized": true
+    }
+  ],
+  "note": "Recognized is dispatcher coverage, not proof of native behavioral equivalence."
+}

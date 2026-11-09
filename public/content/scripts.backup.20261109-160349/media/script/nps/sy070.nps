@@ -1,0 +1,294 @@
+//匂坂邸前：鈴見
+<MARKER NAME="#7">
+<bgm src="s07" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="media/sound/s03.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<BACKGROUND SRC="media/cg/bc01ni0.png">//
+<BUSTUP NAME="鈴見" face="通常" MODE="on" zoom="" ALIGN="right" SRC="media/cg/鈴見_通常.png">
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+
+  Suzumi Yosuke sighs in annoyance as he watches the neighbor boy retreat into his house.
+
+  What's with his attitude? Even while talking, he kept his eyes averted, as if to avoid looking at something repulsive.<K>
+  Has he always been such an unpleasant young man? No, of course not. When his parents were still alive, he had been a normal youth―a little shy, but sensitive and caring.<K>
+  It must be the stress of his sad situation. If it continues to build, he might start to develop serious mental problems.<K>
+  <I>Or is it too late already,</I> Yosuke wonders as he gazes wearily at the Sakisaka yard.
+
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<BACKGROUND SRC="media/cg/25.png">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+<se id="1" src="media/sound/鈴見食事.ogg" mode="normal" loop="off">
+  Even during dinner, Yosuke can't shake the neighboring house from his mind.<K>
+<voice name="妻" SRC="media/voice/14/000107.ogg">  "What's wrong, honey? You look like something's bothering you."<K>
+<voice name="洋佑" SRC="media/voice/14/000203.ogg">  "Yeah... I saw the young man from next door today."<K>
+<voice name="博美" SRC="media/voice/14/000308.ogg">  "Fuminori?"<K>
+<voice name="洋佑" SRC="media/voice/14/000403.ogg">  "I just had to say something about his yard."<K>
+<voice name="妻" SRC="media/voice/14/000507.ogg">  "I know. I wish he'd at least do something about that smell."<K>
+  The stink coming from the Sakisaka house grows worse each day, and the Suzumi family is at its wits' end.
+
+<voice name="妻" SRC="media/voice/14/000607.ogg">  "Could there be a dead cat in his bushes? He must notice the smell coming from his own yard."<K>
+<voice name="洋佑" SRC="media/voice/14/000703.ogg">  "Maybe he's leaving his garbage out there."<K>
+<voice name="妻" SRC="media/voice/14/000807.ogg">  "He wouldn't..."<K>
+<voice name="洋佑" SRC="media/voice/14/000903.ogg">  "No, I wouldn't put it past him. Who knows what he's doing in there all day with the storm shutters closed. What kind of life is he leading?"
+
+<voice name="博美" SRC="media/voice/14/001008.ogg">  "Did he go crazy?"<K>
+<voice name="妻" SRC="media/voice/14/001107.ogg">  "Now, Hiromi, you mustn't say things like that."<K>
+<voice name="洋佑" SRC="media/voice/14/001203.ogg">  "Honestly, with the way things are going, I'm starting to wonder if he's gone paranoid or something."<K>
+<voice name="妻" SRC="media/voice/14/001307.ogg">  "Will he be alright?"<K>
+<voice name="洋佑" SRC="media/voice/14/001403.ogg">  "Unless he gets help soon, who knows?"
+
+//匂坂邸：郁紀
+<bgm src="s03" mode="fadeout" time="20" loop="off">
+<clear>
+<WIPE EFFECT="fade" TIME="20">
+<wait time="900">
+<bgm src="media/sound/s04.ogg" mode="fadein" old="fadeout" time="10" loop="on">
+<BACKGROUND SRC="media/cg/bc06me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="20">
+<wait time="200">
+<box type="9">
+  The seconds crawl by, each tick of the clock compounding my agony.<K>
+  When I returned from the Ogai residence, I was greeted by a silent, empty home. Saya had vanished without leaving any clue as to her whereabouts.
+
+  It isn't rare for her to go for walks at night. I've often gone with her. However, such outings always take place in the middle of the night, when no one is around, and never last for more than two hours.<K>
+  Right now, it's five in the morning. Soon the sky will begin to show the first light of dawn.<K>
+  Even if she left right before I returned, she's still been gone for almost half a day.
+
+  I can't sleep. I can only wait in anguish. I tried to distract myself by painting more rooms, but I couldn't concentrate on the work.<K>
+  If I had known this would happen, I would have left the Ogai house sooner. I wish I hadn't wasted time on Koji.
+
+  If Saya doesn't return...<K>
+  The thought makes me want to tear out my hair. After its long absence, the terror of true loneliness is too much to bear.
+
+//「ただいま！！」（要、音声収録）
+
+<clear>
+<BACKGROUND SRC="#000000">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<se id="1" src="media/sound/郁紀家ドア開け1.ogg" mode="normal" loop="off" vol="50">
+<BACKGROUND SRC="media/cg/bc06me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<box type="9">
+  At last, the cowbell chimes and Saya's long-awaited <voice name="沙耶" SRC="media/voice/15/000101.ogg">"I'm home!" rings out from the bottom of the stairs. As I jump out of my bed in relief, all of the stress that has built up through the night is released in a wave that threatens to sweep me off my feet.<K>
+<voice name="沙耶" SRC="media/voice/15/000201.ogg">  "Ahh, so tired," Saya sighs as she climbs the stairs. "I knew the trip would be hard."<K>
+<voice name="郁紀" SRC="media/voice/15/000300.ogg">  "Saya! Where have you..."<K>
+  My question trails off as I notice the thick bundles of paper that she's carrying under her arms.
+
+<voice name="郁紀" SRC="media/voice/15/000500.ogg">  "What are those?"<K>
+<BUSTUP NAME="沙耶" face="通常" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/15/000401.ogg">  "Your medical charts and surgery records. I went back to the hospital today."<K>
+<se id="1" src="media/sound/紙の束.ogg" mode="normal" loop="off">
+  Saya drops her bundles on the floor, sending paper flying everywhere, then pulls her favorite cushion over and collapses into it,<voice name="沙耶" SRC="media/voice/15/000601.ogg"> stretching luxuriously.
+
+<voice name="郁紀" SRC="media/voice/15/000700.ogg">  "You walked all the way back from the hospital in the middle of the night?"<K>
+<BUSTUP NAME="沙耶" face="困り笑い1" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_困り笑い1.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/15/000801.ogg">  "Sorry," she says, skillfully gathering the <se id="1" src="media/sound/仕分け.ogg" mode="normal" loop="off">scattered papers together. "I meant to come back sooner, but there were so many files to go through."
+
+<BUSTUP NAME="沙耶" face="にっこり笑顔" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_にっこり笑顔.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/15/000901.ogg">  "So I decided to just bring everything. It was <i>so</I> heavy."<K>
+  Maybe it's just the exhaustion, but I'm not understanding a word Saya's saying.
+
+<voice name="郁紀" SRC="media/voice/15/001000.ogg">  "What are you planning to do with all this?"<K>
+<BUSTUP NAME="沙耶" face="通常" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/15/001101.ogg">  "What do you mean? I'm going to study it, of course," she replies, holding one MRI photograph after another up to the light. "I'll have plenty of time to go over it here."<K>
+<BUSTUP NAME="沙耶" face="通常" MODE="off" zoom="" ALIGN="center">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/15/001201.ogg">  At first I think she's just playing around, but the occasional mutters of "Ah, better check this one," "Oh, I see," "Well, that was silly of them," and the like as she separates photos into a growing pile beside her make me think that this might not be a joke after all.
+
+<voice name="郁紀" SRC="media/voice/15/001300.ogg">  "Do you understand this stuff?"<K>
+<BUSTUP NAME="沙耶" face="無表情笑顔" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_無表情笑顔.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/15/001401.ogg">  "I learned a lot from Dad!" She flashes me a grin, then returns to the papers. "Hmm... so that's how it is.<k><voice name="沙耶" SRC="media/voice/15/001401_2.ogg"> No wonder it can't be fixed."<K>
+<voice name="郁紀" SRC="media/voice/15/001500.ogg">  "...It can't?"<K>
+<BUSTUP NAME="沙耶" face="通常" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<BUSTUP NAME="沙耶" face="楽し目笑い" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_楽し目笑い.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/15/001601.ogg">  "Not by a human doctor."<K>
+  I can't tell if she's being serious.
+
+<BUSTUP NAME="沙耶" face="目逸らし笑い2" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_目逸らし笑い2.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/15/001701.ogg">  "Even for me, it'll probably be tough," she says offhandedly, even as her hands continue to shuffle papers. "I'll have to experiment first."<K>
+<BUSTUP NAME="沙耶" face="通常" MODE="off" zoom="" ALIGN="center">
+<WIPE EFFECT="fade" TIME="5">
+  Watching more closely, I realize that her eyes are scanning each page rapidly―so rapidly, in fact, that I was unable to notice it at first.<K>
+  Could Saya <I>actually</I> be reading my charts?
+
+<bgm src="s04" mode="fadeout" time="20" loop="off">
+<voice name="郁紀" SRC="media/voice/15/001800.ogg">  "Hey, Saya?"<K>
+<BUSTUP NAME="沙耶" face="通常" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_通常.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/15/001901.ogg">  "Yeah?" she answers coolly, looking up from the charts.<K>
+<voice name="郁紀" SRC="media/voice/15/002000.ogg">  "I'm tired. Let's go to bed."<K>
+<BUSTUP NAME="沙耶" face="にっこり" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_にっこり.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/15/002101.ogg">  "Sure," Saya replies with a grin, "if that's what you want."
+
+  Saya draws Fuminori close. Their private moment passes, but his concern for her safety remains.<K>
+<bgm src="media/sound/s05.ogg" mode="fadein" old="fadeout" time="10" COUNT="1;-1" LOOP="on">
+
+
+
+
+
+
+
+
+<BUSTUP NAME="沙耶" face="通常きょとん" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_通常きょとん.png">
+<WIPE EFFECT="fade" TIME="5">
+
+
+<BUSTUP NAME="沙耶" face="にっこり" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_にっこり.png">
+<WIPE EFFECT="fade" TIME="5">
+
+
+
+
+
+
+<BUSTUP NAME="沙耶" face="寂しげ2" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_寂しげ2.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/15/002901.ogg">  "Fuminori..." she whispers, staring straight into my eyes. "You don't want me to have your children?"<K>
+<voice name="郁紀" SRC="media/voice/15/003000.ogg">  How can I respond to that?<K>
+<voice name="郁紀" SRC="media/voice/15/003100.ogg">  "It's not that. Your body is too small. Pregnancy is a serious burden, you know?"
+
+<BUSTUP NAME="沙耶" face="弱気目寂しげ" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_弱気目寂しげ.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/15/003201.ogg">  "That's not really something you have to worry about..."<K>
+  Saya seems unsure how to reply, but not because she doesn't understand what I said. Rather, the bemused look on her face makes it seem as though I'm the one not getting it.<K>
+<BUSTUP NAME="沙耶" face="にっこり笑顔" MODE="on" zoom="" ALIGN="center" SRC="media/cg/沙耶_にっこり笑顔.png">
+<WIPE EFFECT="fade" TIME="5">
+<voice name="沙耶" SRC="media/voice/15/003301.ogg">  "But I know you're just thinking of me," she says suddenly, her smile glowing with innocence. "So I'm happy!"
+
+<voice name="郁紀" SRC="media/voice/15/003400.ogg">  "......"<K>
+  The two spend a quiet moment together. Afterwards, Saya reassures Fuminori, and they talk about their future.<K>
+<BUSTUP NAME="沙耶" face="通常" MODE="off" zoom="" ALIGN="center">
+<WIPE EFFECT="fade" TIME="5">
+
+
+
+
+<clear>
+<BACKGROUND SRC="media/cg/h04_2.png">
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+
+
+
+
+
+
+
+
+
+
+
+<clear>
+<BACKGROUND SRC="media/cg/h04_3.png">
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<clear>
+<BACKGROUND SRC="media/cg/bc06me0.png" shade="4">
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+
+
+
+
+
+
+
+
+
+<clear>
+<BACKGROUND SRC="media/cg/51.png">
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+
+
+
+
+
+
+
+
+
+  Does Saya really imagine a future in which we raise a child together?<K>
+  I'm... not averse to the idea. I still think it might be too early, of course, but there isn't much point in worrying about my reputation now. Assuming that Saya and I will be left alone, I even welcome it.
+
+
+  Well, I suppose that what's "impure" or "taboo" differs from person to person, and I can't simply apply normal values to Saya.
+
+<voice name="沙耶" SRC="media/voice/15/005601.ogg">  "...You don't like it?"<K>
+<voice name="郁紀" SRC="media/voice/15/005700.ogg">  "......"<K>
+  She gazes up at me pleadingly. How can I resist?<K>
+<voice name="郁紀" SRC="media/voice/15/005800.ogg">  "I do... like it. As long as you're okay with it, so am I."<K>
+  Saya smiles with relief and burrows contentedly into my chest.<K>
+<voice name="沙耶" SRC="media/voice/15/005901.ogg">  "I love you, Fuminori," she purrs softly.
+
+  With her body draped over mine, I become even more aware of how light and delicate she is.<K> Can this tiny girl and I really live as husband and wife?<K>
+  I feel a pang of self-loathing at the question. How can I still be afraid after all that's happened? Saya's feelings are so earnest. How can I not accept them?<K>
+  I need to resolve once and for all to rid myself of the useless trappings of morality.<K>
+  Saya and I are all that matters. There's no point in worrying about what others think anymore―although I suppose I should still talk to Saya's guardian, of course. I need to find Dr. Ogai as soon as possible.
+
+<clear>
+<BACKGROUND SRC="media/cg/bc06me0.png" shade="4">//
+<WIPE EFFECT="fade" TIME="10">
+<wait time="200">
+<box type="9">
+  By the time I drift to sleep in exhaustion's comforting embrace, all doubts about Saya's actions have vanished from my mind.<K>
+  Whatever the case, all that matters is that she's returned to me.
+
+<A HREF="media/script/nps/sy080.nps" OPERATOR="">

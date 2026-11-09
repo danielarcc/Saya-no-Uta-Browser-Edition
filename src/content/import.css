@@ -1,0 +1,150 @@
+.content-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  background: #000d;
+  display: grid;
+  place-items: center;
+  padding: 20px;
+}
+
+.content-manager {
+  width: min(960px,100%);
+  max-height: calc(100dvh - 40px);
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #888;
+  background: #111;
+  color: #eee;
+  font: 16px/1.5 Arial,sans-serif;
+}
+
+.content-manager>header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 24px;
+  border-bottom: 1px solid #555;
+}
+
+.content-manager h1 {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.content-manager h2 {
+  font-size: 20px;
+  font-weight: 400;
+  margin: 25px 0 12px;
+}
+
+.content-body {
+  padding: 10px 24px 24px;
+  overflow: auto;
+}
+
+.content-manager button {
+  font-size: 14px;
+}
+
+.content-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 20px 0;
+}
+
+.content-file {
+  display: inline-block;
+  border: 1px solid #888;
+  padding: 10px 16px;
+  cursor: pointer;
+}
+
+.content-file input {
+  display: block;
+  font-size: 12px;
+  max-width: 260px;
+  margin-top: 6px;
+}
+
+.content-field {
+  display: grid;
+  grid-template-columns: 160px 1fr;
+  gap: 12px;
+  margin: 14px 0;
+  align-items: center;
+}
+
+.content-field select {
+  font: 14px Arial;
+  padding: 10px;
+  max-width: 100%;
+  min-width: 0;
+  background: #222;
+  color: #fff;
+  border: 1px solid #777;
+}
+
+.content-issues {
+  max-height: 230px;
+  overflow: auto;
+  font-size: 14px;
+  padding-left: 24px;
+  border-block: 1px solid #555;
+}
+
+.content-issues li {
+  padding: 7px 0;
+  overflow-wrap: anywhere;
+}
+
+.content-error {
+  color: #ffb4a9;
+}
+
+.content-installed {
+  display: flex;
+  gap: 18px;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #444;
+  padding: 15px 0;
+}
+
+.content-installed p {
+  font-size: 13px;
+  overflow-wrap: anywhere;
+  color: #bbb;
+  margin: 6px 0;
+}
+
+.content-footnote {
+  font-size: 12px;
+  color: #aaa;
+  margin-top: 24px;
+}
+
+@media (max-width:600px) {
+  .content-backdrop {
+    padding: 8px;
+  }
+  .content-manager {
+    max-height: calc(100dvh - 16px);
+  }
+  .content-body {
+    padding: 8px 14px 16px;
+  }
+  .content-field {
+    grid-template-columns: 1fr;
+  }
+  .content-installed {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}
+
+.content-toast {
+  z-index: 110;
+}
