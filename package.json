@@ -11,11 +11,7 @@
     "build": "tsc -b && vite build",
     "preview": "vite preview --host 127.0.0.1",
     "test": "node --import tsx --test tests/*.test.ts",
-    "audit:nps": "node --import tsx scripts/audit.ts",
-    "test:browser": "node scripts/browser-test.mjs",
-    "package": "bash scripts/package.sh",
     "dev:test": "vite --host 127.0.0.1 --open /?dev=1",
-    "audit:dev": "node --import tsx scripts/audit.ts public/game/development.json",
     "postbuild": "node scripts/seo.mjs"
   },
   "dependencies": {
